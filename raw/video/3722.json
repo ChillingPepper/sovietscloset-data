@@ -1,0 +1,55 @@
+{
+  "streamId": 3722,
+  "date": "2021-02-19 11:44",
+  "game": {
+    "name": "The Isle",
+    "slug": "The-Isle"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1417,
+        "date": "2020-10-19 20:24"
+      },
+      {
+        "streamId": 3712,
+        "date": "2021-02-16 20:08"
+      },
+      {
+        "streamId": 3743,
+        "date": "2021-02-17 19:45"
+      },
+      {
+        "streamId": 3722,
+        "date": "2021-02-19 11:44"
+      },
+      {
+        "streamId": 3734,
+        "date": "2021-02-19 20:10"
+      },
+      {
+        "streamId": 3723,
+        "date": "2021-02-21 17:40"
+      },
+      {
+        "streamId": 3724,
+        "date": "2021-02-22 11:25"
+      },
+      {
+        "streamId": 3725,
+        "date": "2021-02-22 20:34"
+      },
+      {
+        "streamId": 3726,
+        "date": "2021-02-23 20:37"
+      }
+    ]
+  },
+  "number": 4,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/514371148?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-02-19 11-44-16\"></iframe>",
+  "bunnyId": "dd5c3418-4baf-42f8-89ec-05031e4de301",
+  "useBunny": true
+}

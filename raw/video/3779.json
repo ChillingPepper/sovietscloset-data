@@ -1,0 +1,23 @@
+{
+  "streamId": 3779,
+  "date": "2021-03-29 11:12",
+  "game": {
+    "name": "Eco",
+    "slug": "Eco"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 3779,
+        "date": "2021-03-29 11:12"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/530321828?title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-03-29 11-12-59\"></iframe>",
+  "bunnyId": "bd4e9acb-ff97-4632-a482-501a900eec4f",
+  "useBunny": true
+}

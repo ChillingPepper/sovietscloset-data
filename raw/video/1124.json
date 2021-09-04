@@ -1,0 +1,75 @@
+{
+  "streamId": 1124,
+  "date": "2020-01-12 19:52",
+  "game": {
+    "name": "SWAT 4",
+    "slug": "SWAT-4"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1122,
+        "date": "2020-01-10 19:52"
+      },
+      {
+        "streamId": 1124,
+        "date": "2020-01-12 19:52"
+      },
+      {
+        "streamId": 1125,
+        "date": "2020-01-15 20:00"
+      },
+      {
+        "streamId": 1116,
+        "date": "2020-01-19 20:06"
+      },
+      {
+        "streamId": 1118,
+        "date": "2020-01-22 20:05"
+      },
+      {
+        "streamId": 1120,
+        "date": "2020-01-26 20:02"
+      },
+      {
+        "streamId": 1121,
+        "date": "2020-01-29 20:10"
+      },
+      {
+        "streamId": 1117,
+        "date": "2020-02-09 19:56"
+      },
+      {
+        "streamId": 1447,
+        "date": "2020-02-09 19:56"
+      },
+      {
+        "streamId": 1115,
+        "date": "2020-02-16 20:08"
+      },
+      {
+        "streamId": 1119,
+        "date": "2020-02-23 20:02"
+      },
+      {
+        "streamId": 1114,
+        "date": "2020-03-01 20:01"
+      },
+      {
+        "streamId": 1123,
+        "date": "2020-03-08 20:10"
+      },
+      {
+        "streamId": 1113,
+        "date": "2020-03-15 20:12"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/459944925?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-01-12 19-52-59\"></iframe>",
+  "bunnyId": "07abe418-25c3-4ec7-b665-b2023b8639e9",
+  "useBunny": true
+}

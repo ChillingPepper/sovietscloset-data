@@ -1,0 +1,83 @@
+{
+  "streamId": 1503,
+  "date": "2017-12-11 20:20",
+  "game": {
+    "name": "Overwatch",
+    "slug": "Overwatch"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1505,
+        "date": "2017-02-28 11:11"
+      },
+      {
+        "streamId": 1508,
+        "date": "2017-02-28 20:12"
+      },
+      {
+        "streamId": 1495,
+        "date": "2017-03-01 11:12"
+      },
+      {
+        "streamId": 1493,
+        "date": "2017-03-01 20:23"
+      },
+      {
+        "streamId": 1496,
+        "date": "2017-03-04 21:02"
+      },
+      {
+        "streamId": 1497,
+        "date": "2017-03-08 11:19"
+      },
+      {
+        "streamId": 1494,
+        "date": "2017-03-10 11:12"
+      },
+      {
+        "streamId": 1499,
+        "date": "2017-03-10 20:51"
+      },
+      {
+        "streamId": 1498,
+        "date": "2017-03-11 22:24"
+      },
+      {
+        "streamId": 1500,
+        "date": "2017-03-15 20:26"
+      },
+      {
+        "streamId": 1502,
+        "date": "2017-03-16 11:14"
+      },
+      {
+        "streamId": 1504,
+        "date": "2017-03-16 20:15"
+      },
+      {
+        "streamId": 1507,
+        "date": "2017-03-17 11:13"
+      },
+      {
+        "streamId": 1506,
+        "date": "2017-04-19 20:00"
+      },
+      {
+        "streamId": 1503,
+        "date": "2017-12-11 20:20"
+      },
+      {
+        "streamId": 1501,
+        "date": "2018-10-13 22:06"
+      }
+    ]
+  },
+  "number": 15,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/477431466?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2017-12-11 20-20-18\"></iframe>",
+  "bunnyId": "6e0e7c9a-54ac-42a4-9c19-7058332a81ac",
+  "useBunny": true
+}

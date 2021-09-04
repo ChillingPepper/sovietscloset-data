@@ -1,0 +1,47 @@
+{
+  "streamId": 1149,
+  "date": "2020-09-19 22:14",
+  "game": {
+    "name": "VR Ultimate Fishing Simulator",
+    "slug": "VR-Ultimate-Fishing-Simulator"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1152,
+        "date": "2020-08-06 11:14"
+      },
+      {
+        "streamId": 1150,
+        "date": "2020-08-07 11:12"
+      },
+      {
+        "streamId": 1078,
+        "date": "2020-09-17 11:18"
+      },
+      {
+        "streamId": 1084,
+        "date": "2020-09-18 11:40"
+      },
+      {
+        "streamId": 1151,
+        "date": "2020-09-19 13:09"
+      },
+      {
+        "streamId": 1149,
+        "date": "2020-09-19 22:14"
+      },
+      {
+        "streamId": 3741,
+        "date": "2020-11-09 11:42"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/460285376?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-09-19 22-14-05\"></iframe>",
+  "bunnyId": "f83f5efd-e1d3-44f6-84bc-602b2021472f",
+  "useBunny": true
+}

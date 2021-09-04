@@ -1,0 +1,95 @@
+{
+  "streamId": 1320,
+  "date": "2018-10-25 11:11",
+  "game": {
+    "name": "The Witcher 2: Assassins of Kings",
+    "slug": "The-Witcher-2-Assassins-of-Kings"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1318,
+        "date": "2018-10-22 11:21"
+      },
+      {
+        "streamId": 1321,
+        "date": "2018-10-23 11:22"
+      },
+      {
+        "streamId": 1319,
+        "date": "2018-10-24 11:12"
+      },
+      {
+        "streamId": 1320,
+        "date": "2018-10-25 11:11"
+      },
+      {
+        "streamId": 1279,
+        "date": "2018-10-26 11:22"
+      },
+      {
+        "streamId": 1282,
+        "date": "2020-02-07 11:05"
+      },
+      {
+        "streamId": 1280,
+        "date": "2020-02-10 11:16"
+      },
+      {
+        "streamId": 1284,
+        "date": "2020-02-10 20:10"
+      },
+      {
+        "streamId": 1285,
+        "date": "2020-02-11 11:08"
+      },
+      {
+        "streamId": 1287,
+        "date": "2020-02-11 20:03"
+      },
+      {
+        "streamId": 1286,
+        "date": "2020-02-12 11:11"
+      },
+      {
+        "streamId": 1288,
+        "date": "2020-02-13 11:07"
+      },
+      {
+        "streamId": 1289,
+        "date": "2020-02-14 11:01"
+      },
+      {
+        "streamId": 1291,
+        "date": "2020-02-17 11:00"
+      },
+      {
+        "streamId": 1290,
+        "date": "2020-02-18 11:26"
+      },
+      {
+        "streamId": 1281,
+        "date": "2020-02-19 11:20"
+      },
+      {
+        "streamId": 1283,
+        "date": "2020-02-19 20:14"
+      },
+      {
+        "streamId": 1317,
+        "date": "2020-10-09 11:09"
+      },
+      {
+        "streamId": 1316,
+        "date": "2020-10-12 11:22"
+      }
+    ]
+  },
+  "number": 4,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/468226175?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2018-10-25 11-11-24\"></iframe>",
+  "bunnyId": "d0de2c72-aef7-49c0-8b34-8049615f99c0",
+  "useBunny": true
+}

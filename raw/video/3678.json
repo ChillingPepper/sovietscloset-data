@@ -1,0 +1,63 @@
+{
+  "streamId": 3678,
+  "date": "2021-02-10 20:17",
+  "game": {
+    "name": "Prison Architect",
+    "slug": "Prison-Architect"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 2679,
+        "date": "2021-02-02 11:16"
+      },
+      {
+        "streamId": 2678,
+        "date": "2021-02-02 16:41"
+      },
+      {
+        "streamId": 2683,
+        "date": "2021-02-02 16:52"
+      },
+      {
+        "streamId": 2680,
+        "date": "2021-02-04 11:21"
+      },
+      {
+        "streamId": 3679,
+        "date": "2021-02-04 11:21"
+      },
+      {
+        "streamId": 2684,
+        "date": "2021-02-05 11:31"
+      },
+      {
+        "streamId": 3707,
+        "date": "2021-02-08 12:11"
+      },
+      {
+        "streamId": 3678,
+        "date": "2021-02-10 20:17"
+      },
+      {
+        "streamId": 3782,
+        "date": "2021-03-30 11:19"
+      },
+      {
+        "streamId": 3784,
+        "date": "2021-03-31 11:38"
+      },
+      {
+        "streamId": 4681,
+        "date": "2021-04-02 11:29"
+      }
+    ]
+  },
+  "number": 10,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/511078319?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-02-10 20-17-18\"></iframe>",
+  "bunnyId": "2bb0c57d-20fb-44ba-82d4-47cc55d8af23",
+  "useBunny": true
+}

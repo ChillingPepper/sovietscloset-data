@@ -1,0 +1,43 @@
+{
+  "streamId": 1509,
+  "date": "2020-11-11 11:10",
+  "game": {
+    "name": "Natural Selection 2",
+    "slug": "Natural-Selection-2"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1510,
+        "date": "2020-11-10 20:06"
+      },
+      {
+        "streamId": 1509,
+        "date": "2020-11-11 11:10"
+      },
+      {
+        "streamId": 1513,
+        "date": "2020-11-12 11:21"
+      },
+      {
+        "streamId": 1514,
+        "date": "2020-11-12 20:41"
+      },
+      {
+        "streamId": 1511,
+        "date": "2020-11-13 11:19"
+      },
+      {
+        "streamId": 1512,
+        "date": "2020-11-13 20:05"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/478122903?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-11-11 11-10-46\"></iframe>",
+  "bunnyId": "6a589abc-458c-4c96-88ad-e596380cbe64",
+  "useBunny": true
+}

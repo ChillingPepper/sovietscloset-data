@@ -1,0 +1,31 @@
+{
+  "streamId": 3749,
+  "date": "2021-03-02 20:20",
+  "game": {
+    "name": "Just Chatting",
+    "slug": "Just-Chatting"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1210,
+        "date": "2020-09-25 11:39"
+      },
+      {
+        "streamId": 3749,
+        "date": "2021-03-02 20:20"
+      },
+      {
+        "streamId": 6713,
+        "date": "2021-07-30 20:33"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/519158527?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-03-02 20-20-22\"></iframe>",
+  "bunnyId": "1acae02f-85d3-4778-94cc-b13d2102b061",
+  "useBunny": true
+}

@@ -1,0 +1,139 @@
+{
+  "streamId": 1101,
+  "date": "2018-04-24 20:21",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Antistasi Games",
+    "slug": "Antistasi-Games",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 1129,
+        "date": "2018-03-29 20:02"
+      },
+      {
+        "streamId": 1130,
+        "date": "2018-04-13 20:00"
+      },
+      {
+        "streamId": 1096,
+        "date": "2018-04-19 20:08"
+      },
+      {
+        "streamId": 1100,
+        "date": "2018-04-21 20:08"
+      },
+      {
+        "streamId": 1101,
+        "date": "2018-04-24 20:21"
+      },
+      {
+        "streamId": 1098,
+        "date": "2018-04-27 20:50"
+      },
+      {
+        "streamId": 1097,
+        "date": "2018-04-28 13:36"
+      },
+      {
+        "streamId": 1099,
+        "date": "2018-04-30 20:00"
+      },
+      {
+        "streamId": 1095,
+        "date": "2018-05-01 20:09"
+      },
+      {
+        "streamId": 1090,
+        "date": "2019-03-30 13:59"
+      },
+      {
+        "streamId": 1093,
+        "date": "2019-03-30 17:47"
+      },
+      {
+        "streamId": 1092,
+        "date": "2019-03-31 16:53"
+      },
+      {
+        "streamId": 1091,
+        "date": "2019-03-31 21:26"
+      },
+      {
+        "streamId": 1069,
+        "date": "2019-04-01 11:02"
+      },
+      {
+        "streamId": 1070,
+        "date": "2019-04-01 15:21"
+      },
+      {
+        "streamId": 1072,
+        "date": "2019-04-01 20:00"
+      },
+      {
+        "streamId": 1074,
+        "date": "2019-04-02 11:14"
+      },
+      {
+        "streamId": 1071,
+        "date": "2019-04-02 20:28"
+      },
+      {
+        "streamId": 1077,
+        "date": "2019-04-03 11:13"
+      },
+      {
+        "streamId": 1073,
+        "date": "2019-04-03 20:24"
+      },
+      {
+        "streamId": 1076,
+        "date": "2019-04-04 11:35"
+      },
+      {
+        "streamId": 1075,
+        "date": "2019-04-09 11:11"
+      },
+      {
+        "streamId": 1102,
+        "date": "2019-04-09 20:05"
+      },
+      {
+        "streamId": 1081,
+        "date": "2019-04-10 11:22"
+      },
+      {
+        "streamId": 1089,
+        "date": "2019-04-13 17:13"
+      },
+      {
+        "streamId": 1080,
+        "date": "2019-04-13 21:44"
+      },
+      {
+        "streamId": 1088,
+        "date": "2019-04-14 17:57"
+      },
+      {
+        "streamId": 1086,
+        "date": "2019-04-14 22:03"
+      },
+      {
+        "streamId": 1085,
+        "date": "2019-04-15 11:15"
+      },
+      {
+        "streamId": 1087,
+        "date": "2019-04-15 20:36"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/459751476?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2018-04-24 20-21-08\"></iframe>",
+  "bunnyId": "b0d44be9-521b-42bb-9d38-a6874c313e3f",
+  "useBunny": true
+}

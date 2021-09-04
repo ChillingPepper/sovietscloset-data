@@ -1,0 +1,51 @@
+{
+  "streamId": 5682,
+  "date": "2021-06-18 11:16",
+  "game": {
+    "name": "VR Half Life: Alyx",
+    "slug": "VR-Half-Life-Alyx"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 5683,
+        "date": "2021-06-17 11:39"
+      },
+      {
+        "streamId": 5682,
+        "date": "2021-06-18 11:16"
+      },
+      {
+        "streamId": 5684,
+        "date": "2021-06-18 12:17"
+      },
+      {
+        "streamId": 5686,
+        "date": "2021-06-18 20:27"
+      },
+      {
+        "streamId": 5687,
+        "date": "2021-06-19 13:52"
+      },
+      {
+        "streamId": 5685,
+        "date": "2021-06-19 20:52"
+      },
+      {
+        "streamId": 5689,
+        "date": "2021-06-20 13:45"
+      },
+      {
+        "streamId": 5688,
+        "date": "2021-07-02 20:05"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "6a9c2066-ffff-4cc6-a04c-95a3de55a7aa",
+  "useBunny": true
+}

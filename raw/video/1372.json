@@ -1,0 +1,51 @@
+{
+  "streamId": 1372,
+  "date": "2019-12-12 11:03",
+  "game": {
+    "name": "Boneworks",
+    "slug": "Boneworks"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 1375,
+        "date": "2019-12-10 19:58"
+      },
+      {
+        "streamId": 1371,
+        "date": "2019-12-11 11:04"
+      },
+      {
+        "streamId": 1374,
+        "date": "2019-12-11 11:14"
+      },
+      {
+        "streamId": 1376,
+        "date": "2019-12-11 20:18"
+      },
+      {
+        "streamId": 1372,
+        "date": "2019-12-12 11:03"
+      },
+      {
+        "streamId": 1373,
+        "date": "2019-12-13 11:11"
+      },
+      {
+        "streamId": 1377,
+        "date": "2019-12-14 16:31"
+      },
+      {
+        "streamId": 1378,
+        "date": "2019-12-15 17:52"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/468940493?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2019-12-12 11-03-14\"></iframe>",
+  "bunnyId": "60474711-4a4c-47ef-a7de-e30c4fbb31a3",
+  "useBunny": true
+}

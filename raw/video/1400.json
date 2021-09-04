@@ -1,0 +1,51 @@
+{
+  "streamId": 1400,
+  "date": "2018-08-08 20:16",
+  "game": {
+    "name": "VR Rec Room",
+    "slug": "VR-Rec-Room"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1397,
+        "date": "2018-07-04 21:14"
+      },
+      {
+        "streamId": 1399,
+        "date": "2018-08-01 20:13"
+      },
+      {
+        "streamId": 1400,
+        "date": "2018-08-08 20:16"
+      },
+      {
+        "streamId": 1398,
+        "date": "2018-08-15 20:11"
+      },
+      {
+        "streamId": 1396,
+        "date": "2018-09-05 21:36"
+      },
+      {
+        "streamId": 1395,
+        "date": "2020-05-09 20:13"
+      },
+      {
+        "streamId": 6740,
+        "date": "2020-05-30 19:37"
+      },
+      {
+        "streamId": 6739,
+        "date": "2020-05-30 20:54"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/469599252?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2018-08-08 20-16-19\"></iframe>",
+  "bunnyId": "8d935b25-2bfd-4150-85a0-535239a3ff90",
+  "useBunny": true
+}

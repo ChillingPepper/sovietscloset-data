@@ -1,0 +1,43 @@
+{
+  "streamId": 6772,
+  "date": "2020-07-03 11:07",
+  "game": {
+    "name": "VR Blade & Sorcery",
+    "slug": "VR-Blade-Sorcery"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1445,
+        "date": "2020-05-28 11:31"
+      },
+      {
+        "streamId": 1517,
+        "date": "2020-05-28 11:31"
+      },
+      {
+        "streamId": 6773,
+        "date": "2020-07-01 11:46"
+      },
+      {
+        "streamId": 6771,
+        "date": "2020-07-02 22:12"
+      },
+      {
+        "streamId": 6772,
+        "date": "2020-07-03 11:07"
+      },
+      {
+        "streamId": 1148,
+        "date": "2020-09-21 11:21"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "f7bba95b-5cdd-4214-91f5-5e17207b24b3",
+  "useBunny": true
+}

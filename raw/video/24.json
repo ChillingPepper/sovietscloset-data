@@ -1,0 +1,115 @@
+{
+  "streamId": 24,
+  "date": "2018-11-09 11:28",
+  "game": {
+    "name": "Stellaris",
+    "slug": "Stellaris"
+  },
+  "subcategory": {
+    "name": "The Provion Dominion",
+    "slug": "The-Provion-Dominion",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 24,
+        "date": "2018-11-09 11:28"
+      },
+      {
+        "streamId": 16,
+        "date": "2018-11-09 20:43"
+      },
+      {
+        "streamId": 8,
+        "date": "2018-11-10 22:45"
+      },
+      {
+        "streamId": 17,
+        "date": "2018-11-11 16:57"
+      },
+      {
+        "streamId": 23,
+        "date": "2018-11-13 11:05"
+      },
+      {
+        "streamId": 18,
+        "date": "2018-11-15 12:02"
+      },
+      {
+        "streamId": 3,
+        "date": "2018-11-15 22:17"
+      },
+      {
+        "streamId": 6,
+        "date": "2018-11-16 11:12"
+      },
+      {
+        "streamId": 15,
+        "date": "2018-11-16 20:27"
+      },
+      {
+        "streamId": 19,
+        "date": "2018-11-17 12:15"
+      },
+      {
+        "streamId": 4,
+        "date": "2018-11-18 16:57"
+      },
+      {
+        "streamId": 22,
+        "date": "2018-11-18 21:40"
+      },
+      {
+        "streamId": 2,
+        "date": "2018-11-19 11:22"
+      },
+      {
+        "streamId": 21,
+        "date": "2018-11-20 11:22"
+      },
+      {
+        "streamId": 20,
+        "date": "2018-11-21 11:07"
+      },
+      {
+        "streamId": 10,
+        "date": "2018-11-22 11:19"
+      },
+      {
+        "streamId": 5,
+        "date": "2018-11-23 11:29"
+      },
+      {
+        "streamId": 13,
+        "date": "2018-11-23 21:34"
+      },
+      {
+        "streamId": 9,
+        "date": "2018-11-26 11:26"
+      },
+      {
+        "streamId": 7,
+        "date": "2018-11-27 13:15"
+      },
+      {
+        "streamId": 14,
+        "date": "2018-11-28 11:25"
+      },
+      {
+        "streamId": 1406,
+        "date": "2018-11-29 11:20"
+      },
+      {
+        "streamId": 12,
+        "date": "2018-11-30 11:42"
+      },
+      {
+        "streamId": 11,
+        "date": "2018-11-30 20:23"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/455947243?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2018-11-09 11-28-00.mp4\"></iframe>",
+  "bunnyId": "e0cff5c9-3dcf-4b58-b757-95ee51466b0e",
+  "useBunny": true
+}

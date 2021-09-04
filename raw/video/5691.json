@@ -1,0 +1,31 @@
+{
+  "streamId": 5691,
+  "date": "2021-07-07 20:40",
+  "game": {
+    "name": "Valheim",
+    "slug": "Valheim"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 5692,
+        "date": "2021-07-06 11:24"
+      },
+      {
+        "streamId": 5690,
+        "date": "2021-07-07 11:13"
+      },
+      {
+        "streamId": 5691,
+        "date": "2021-07-07 20:40"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "b4d94247-8445-4cb5-aeb6-ace035cea878",
+  "useBunny": true
+}

@@ -1,0 +1,27 @@
+{
+  "streamId": 5681,
+  "date": "2021-07-09 20:10",
+  "game": {
+    "name": "Untitled Goose Game",
+    "slug": "Untitled-Goose-Game"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 5680,
+        "date": "2021-07-09 11:30"
+      },
+      {
+        "streamId": 5681,
+        "date": "2021-07-09 20:10"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "e6cd6a81-1796-4e6d-af21-c285007b221d",
+  "useBunny": true
+}

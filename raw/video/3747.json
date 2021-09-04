@@ -1,0 +1,43 @@
+{
+  "streamId": 3747,
+  "date": "2021-02-27 20:37",
+  "game": {
+    "name": "Invisible Inc",
+    "slug": "Invisible-Inc"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 3727,
+        "date": "2021-02-24 11:20"
+      },
+      {
+        "streamId": 3732,
+        "date": "2021-02-24 20:08"
+      },
+      {
+        "streamId": 3733,
+        "date": "2021-02-25 11:22"
+      },
+      {
+        "streamId": 3736,
+        "date": "2021-02-26 11:07"
+      },
+      {
+        "streamId": 3747,
+        "date": "2021-02-27 20:37"
+      },
+      {
+        "streamId": 3752,
+        "date": "2021-03-01 11:18"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/517783319?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-02-27 20-37-16\"></iframe>",
+  "bunnyId": "554be891-e699-4283-be56-18d415308f78",
+  "useBunny": true
+}

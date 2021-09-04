@@ -1,0 +1,47 @@
+{
+  "streamId": 1314,
+  "date": "2020-10-13 20:24",
+  "game": {
+    "name": "The Witcher 3: Wild Hunt",
+    "slug": "The-Witcher-3-Wild-Hunt"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1295,
+        "date": "2020-10-13 11:49"
+      },
+      {
+        "streamId": 1296,
+        "date": "2020-10-13 12:00"
+      },
+      {
+        "streamId": 1314,
+        "date": "2020-10-13 20:24"
+      },
+      {
+        "streamId": 1315,
+        "date": "2020-10-14 11:10"
+      },
+      {
+        "streamId": 1342,
+        "date": "2020-10-15 11:14"
+      },
+      {
+        "streamId": 1403,
+        "date": "2020-10-19 11:10"
+      },
+      {
+        "streamId": 1428,
+        "date": "2020-10-21 11:10"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/468119217?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-10-13 20-24-17\"></iframe>",
+  "bunnyId": "476df17d-1222-4a8c-8a05-3d925f92bcef",
+  "useBunny": true
+}

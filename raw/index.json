@@ -1,0 +1,7490 @@
+[
+  {
+    "id": 1003,
+    "name": "7 Days to Die",
+    "slug": "7-Days-to-Die",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1002,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1002,
+            "date": "2020-08-31 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1005,
+            "date": "2020-08-31 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1145,
+            "date": "2020-09-01 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1146,
+            "date": "2020-09-01 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1003,
+            "date": "2020-09-02 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1214,
+            "date": "2020-09-07 21:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1006,
+            "date": "2020-09-08 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1004,
+            "date": "2020-09-08 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1017,
+            "date": "2020-09-09 11:21",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "Among Us",
+    "slug": "Among-Us",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1025,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1215,
+            "date": "2020-09-26 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1243,
+            "date": "2020-09-28 19:52",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Arma 3",
+    "slug": "Arma-3",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1016,
+        "name": "Antistasi Games",
+        "slug": "Antistasi-Games",
+        "streams": [
+          {
+            "id": 1129,
+            "date": "2018-03-29 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1130,
+            "date": "2018-04-13 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1096,
+            "date": "2018-04-19 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1100,
+            "date": "2018-04-21 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1101,
+            "date": "2018-04-24 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1098,
+            "date": "2018-04-27 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1097,
+            "date": "2018-04-28 13:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1099,
+            "date": "2018-04-30 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1095,
+            "date": "2018-05-01 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1090,
+            "date": "2019-03-30 13:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1093,
+            "date": "2019-03-30 17:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1092,
+            "date": "2019-03-31 16:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1091,
+            "date": "2019-03-31 21:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1069,
+            "date": "2019-04-01 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1070,
+            "date": "2019-04-01 15:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1072,
+            "date": "2019-04-01 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1074,
+            "date": "2019-04-02 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1071,
+            "date": "2019-04-02 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1077,
+            "date": "2019-04-03 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1073,
+            "date": "2019-04-03 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1076,
+            "date": "2019-04-04 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1075,
+            "date": "2019-04-09 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1102,
+            "date": "2019-04-09 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1081,
+            "date": "2019-04-10 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1089,
+            "date": "2019-04-13 17:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1080,
+            "date": "2019-04-13 21:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1088,
+            "date": "2019-04-14 17:57",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1086,
+            "date": "2019-04-14 22:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1085,
+            "date": "2019-04-15 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1087,
+            "date": "2019-04-15 20:36",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1018,
+        "name": "Zeus Games",
+        "slug": "Zeus-Games",
+        "streams": [
+          {
+            "id": 1103,
+            "date": "2015-08-30 11:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1104,
+            "date": "2016-01-30 22:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1105,
+            "date": "2016-04-20 13:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6052,
+    "name": "Blackwake",
+    "slug": "Blackwake",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6063,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6748,
+            "date": "2021-06-08 20:04",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Boneworks",
+    "slug": "Boneworks",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1038,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1375,
+            "date": "2019-12-10 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1371,
+            "date": "2019-12-11 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1374,
+            "date": "2019-12-11 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1376,
+            "date": "2019-12-11 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1372,
+            "date": "2019-12-12 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1373,
+            "date": "2019-12-13 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1377,
+            "date": "2019-12-14 16:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1378,
+            "date": "2019-12-15 17:52",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1044,
+        "name": "Valve Index Testing",
+        "slug": "Valve-Index-Testing",
+        "streams": [
+          {
+            "id": 1439,
+            "date": "2020-10-22 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1440,
+            "date": "2020-10-22 12:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 3050,
+    "name": "CSGO",
+    "slug": "CSGO",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 3061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 3713,
+            "date": "2016-11-28 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3701,
+            "date": "2017-01-13 10:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3705,
+            "date": "2017-02-17 11:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3698,
+            "date": "2017-03-07 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3720,
+            "date": "2017-07-26 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3717,
+            "date": "2017-07-28 18:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3719,
+            "date": "2018-01-25 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3716,
+            "date": "2018-03-26 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3715,
+            "date": "2018-03-27 11:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3714,
+            "date": "2018-03-27 21:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3700,
+            "date": "2018-10-04 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3706,
+            "date": "2018-10-15 19:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3699,
+            "date": "2019-03-04 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3702,
+            "date": "2019-06-05 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3703,
+            "date": "2019-06-09 17:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3704,
+            "date": "2019-06-11 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3718,
+            "date": "2019-06-12 20:15",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "name": "DayZ",
+    "slug": "DayZ",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1041,
+        "name": "Standalone",
+        "slug": "Standalone",
+        "streams": [
+          {
+            "id": 1737,
+            "date": "2019-01-16 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1760,
+            "date": "2019-01-16 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1735,
+            "date": "2019-01-18 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1740,
+            "date": "2019-01-22 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1764,
+            "date": "2019-01-22 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1741,
+            "date": "2019-01-23 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1766,
+            "date": "2019-01-23 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1765,
+            "date": "2019-01-23 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1733,
+            "date": "2019-07-18 22:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1757,
+            "date": "2019-07-18 22:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1734,
+            "date": "2019-07-19 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1758,
+            "date": "2019-07-19 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1736,
+            "date": "2019-07-19 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1759,
+            "date": "2019-07-19 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1703,
+            "date": "2019-07-20 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1699,
+            "date": "2019-07-21 17:44",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1698,
+            "date": "2019-07-22 11:11",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1702,
+            "date": "2019-07-22 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1706,
+            "date": "2019-07-26 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1704,
+            "date": "2019-07-27 13:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1705,
+            "date": "2019-07-28 19:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1707,
+            "date": "2019-07-29 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1708,
+            "date": "2019-07-30 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1710,
+            "date": "2019-07-31 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1701,
+            "date": "2019-08-01 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1700,
+            "date": "2019-08-02 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1712,
+            "date": "2019-08-02 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1711,
+            "date": "2019-08-05 10:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1713,
+            "date": "2019-08-06 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1714,
+            "date": "2019-08-06 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1731,
+            "date": "2019-08-12 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1730,
+            "date": "2019-08-15 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1715,
+            "date": "2020-06-08 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1716,
+            "date": "2020-06-08 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6737,
+            "date": "2020-06-09 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1717,
+            "date": "2020-06-09 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1725,
+            "date": "2020-06-09 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1726,
+            "date": "2020-06-10 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6738,
+            "date": "2020-06-11 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1728,
+            "date": "2020-07-11 19:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1727,
+            "date": "2020-07-11 21:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1729,
+            "date": "2020-07-12 20:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1732,
+            "date": "2020-07-13 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6743,
+            "date": "2020-07-14 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6745,
+            "date": "2020-07-15 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6746,
+            "date": "2020-07-15 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6744,
+            "date": "2020-07-16 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6742,
+            "date": "2020-07-17 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1742,
+            "date": "2020-07-19 14:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1763,
+            "date": "2020-07-19 14:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1738,
+            "date": "2020-07-20 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1761,
+            "date": "2020-07-20 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1739,
+            "date": "2020-07-21 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1762,
+            "date": "2020-07-21 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1429,
+            "date": "2020-08-03 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1709,
+            "date": "2020-08-04 20:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1427,
+            "date": "2020-08-05 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1405,
+            "date": "2020-08-05 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6747,
+            "date": "2021-07-02 10:58",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "name": "Deep Rock Galactic",
+    "slug": "Deep-Rock-Galactic",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1050,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1516,
+            "date": "2020-10-24 20:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "name": "Divinity: Original Sin 2",
+    "slug": "Divinity-Original-Sin-2",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1037,
+        "name": "First Playthrough",
+        "slug": "First-Playthrough",
+        "streams": [
+          {
+            "id": 1362,
+            "date": "2018-01-31 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1358,
+            "date": "2018-02-04 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1359,
+            "date": "2018-02-04 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1360,
+            "date": "2018-02-06 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1361,
+            "date": "2018-02-11 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1363,
+            "date": "2018-02-14 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1364,
+            "date": "2018-02-15 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1366,
+            "date": "2018-02-21 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1365,
+            "date": "2018-02-25 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1367,
+            "date": "2018-02-28 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1368,
+            "date": "2018-03-04 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1369,
+            "date": "2018-03-07 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1370,
+            "date": "2018-03-08 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1380,
+            "date": "2018-03-14 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1383,
+            "date": "2018-04-01 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1381,
+            "date": "2018-04-04 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1382,
+            "date": "2018-04-09 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1379,
+            "date": "2018-04-11 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1384,
+            "date": "2018-04-15 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1385,
+            "date": "2018-04-18 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1388,
+            "date": "2018-04-22 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1386,
+            "date": "2018-04-25 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1387,
+            "date": "2018-04-29 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1389,
+            "date": "2018-05-02 20:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1042,
+        "name": "Second Playthrough",
+        "slug": "Second-Playthrough",
+        "streams": [
+          {
+            "id": 1412,
+            "date": "2018-09-02 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1407,
+            "date": "2018-09-04 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1408,
+            "date": "2018-09-04 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1409,
+            "date": "2018-09-04 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1411,
+            "date": "2018-09-09 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1413,
+            "date": "2018-09-11 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1410,
+            "date": "2018-09-16 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1414,
+            "date": "2018-09-23 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1415,
+            "date": "2018-09-25 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1416,
+            "date": "2018-09-30 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1422,
+            "date": "2018-10-02 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1421,
+            "date": "2018-10-07 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1420,
+            "date": "2018-10-09 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1419,
+            "date": "2018-10-12 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1418,
+            "date": "2018-10-19 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1423,
+            "date": "2018-10-21 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1424,
+            "date": "2018-10-23 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1425,
+            "date": "2018-10-28 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1426,
+            "date": "2018-10-30 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1434,
+            "date": "2018-11-11 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1432,
+            "date": "2018-11-13 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1433,
+            "date": "2018-11-20 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1479,
+            "date": "2018-11-25 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1431,
+            "date": "2018-11-27 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1430,
+            "date": "2018-12-02 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1435,
+            "date": "2018-12-04 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1438,
+            "date": "2018-12-18 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1437,
+            "date": "2018-12-23 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1436,
+            "date": "2018-12-30 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1485,
+            "date": "2019-01-06 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1484,
+            "date": "2019-01-08 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1451,
+            "date": "2019-01-13 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1481,
+            "date": "2019-01-15 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1452,
+            "date": "2019-01-20 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1450,
+            "date": "2019-01-22 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1454,
+            "date": "2019-01-27 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1453,
+            "date": "2019-01-29 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1455,
+            "date": "2019-02-05 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1456,
+            "date": "2019-02-10 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1475,
+            "date": "2019-02-12 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1476,
+            "date": "2019-02-17 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1478,
+            "date": "2019-02-19 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1474,
+            "date": "2019-02-24 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1477,
+            "date": "2019-02-27 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1482,
+            "date": "2019-03-03 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1480,
+            "date": "2019-03-05 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1483,
+            "date": "2019-03-12 19:48",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 3054,
+    "name": "Eco",
+    "slug": "Eco",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 3065,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 3779,
+            "date": "2021-03-29 11:12",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "name": "Factorio",
+    "slug": "Factorio",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1045,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1443,
+            "date": "2020-07-31 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6725,
+            "date": "2021-05-17 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6727,
+            "date": "2021-05-18 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6729,
+            "date": "2021-05-19 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6730,
+            "date": "2021-05-19 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6732,
+            "date": "2021-05-20 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6728,
+            "date": "2021-05-20 22:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6731,
+            "date": "2021-05-21 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6733,
+            "date": "2021-05-25 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6696,
+            "date": "2021-07-21 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6695,
+            "date": "2021-07-22 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6697,
+            "date": "2021-07-23 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6698,
+            "date": "2021-07-23 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6694,
+            "date": "2021-07-26 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6735,
+            "date": "2021-07-26 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6736,
+            "date": "2021-07-29 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6714,
+            "date": "2021-07-30 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6734,
+            "date": "2021-07-30 11:14",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "Halo: The Master Chief Collection",
+    "slug": "Halo-The-Master-Chief-Collection",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1024,
+        "name": "Halo 3",
+        "slug": "Halo-3",
+        "streams": [
+          {
+            "id": 1444,
+            "date": "2020-07-31 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1347,
+            "date": "2020-08-07 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1402,
+            "date": "2020-08-21 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1211,
+            "date": "2020-09-25 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1239,
+            "date": "2020-10-02 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1344,
+            "date": "2020-10-09 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1343,
+            "date": "2020-10-09 21:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1394,
+            "date": "2020-10-16 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1515,
+            "date": "2020-10-30 20:02",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1029,
+        "name": "Halo: ODST",
+        "slug": "Halo-ODST",
+        "streams": [
+          {
+            "id": 1277,
+            "date": "2020-09-27 19:54",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Holdfast: Nations at War",
+    "slug": "Holdfast-Nations-at-War",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1006,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1355,
+            "date": "2018-05-24 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1352,
+            "date": "2018-06-28 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1356,
+            "date": "2018-08-23 20:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1357,
+            "date": "2018-09-20 20:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1353,
+            "date": "2018-11-22 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1354,
+            "date": "2019-10-24 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1442,
+            "date": "2020-07-30 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1278,
+            "date": "2020-08-06 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1348,
+            "date": "2020-08-27 21:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1030,
+            "date": "2020-09-03 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1147,
+            "date": "2020-09-03 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1349,
+            "date": "2020-09-03 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1083,
+            "date": "2020-09-17 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1213,
+            "date": "2020-09-17 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1212,
+            "date": "2020-09-24 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1242,
+            "date": "2020-10-01 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1345,
+            "date": "2020-10-08 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1350,
+            "date": "2020-10-08 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1351,
+            "date": "2020-10-15 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1441,
+            "date": "2020-10-22 20:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1467,
+            "date": "2020-10-29 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1466,
+            "date": "2020-11-05 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1536,
+            "date": "2020-11-15 13:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1601,
+            "date": "2020-11-19 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1643,
+            "date": "2020-11-19 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1642,
+            "date": "2020-11-26 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1697,
+            "date": "2020-12-10 20:52",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1777,
+            "date": "2020-12-31 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1785,
+            "date": "2021-01-07 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1794,
+            "date": "2021-01-14 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1801,
+            "date": "2021-01-21 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3677,
+            "date": "2021-02-04 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3688,
+            "date": "2021-02-11 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3721,
+            "date": "2021-02-18 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3735,
+            "date": "2021-02-18 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3737,
+            "date": "2021-02-25 20:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3754,
+            "date": "2021-03-04 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3769,
+            "date": "2021-03-11 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3776,
+            "date": "2021-03-25 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6701,
+            "date": "2021-08-05 20:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 4050,
+    "name": "Hydroneer",
+    "slug": "Hydroneer",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 4061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 4678,
+            "date": "2021-04-05 11:20",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 3051,
+    "name": "Invisible Inc",
+    "slug": "Invisible-Inc",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 3062,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 3727,
+            "date": "2021-02-24 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3732,
+            "date": "2021-02-24 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3733,
+            "date": "2021-02-25 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3736,
+            "date": "2021-02-26 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3747,
+            "date": "2021-02-27 20:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3752,
+            "date": "2021-03-01 11:18",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "Just Chatting",
+    "slug": "Just-Chatting",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1023,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1210,
+            "date": "2020-09-25 11:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3749,
+            "date": "2021-03-02 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6713,
+            "date": "2021-07-30 20:33",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Kerbal Space Program",
+    "slug": "Kerbal-Space-Program",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1027,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1233,
+            "date": "2020-09-27 14:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1232,
+            "date": "2020-09-28 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1235,
+            "date": "2020-09-29 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1238,
+            "date": "2020-09-29 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1237,
+            "date": "2020-09-30 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1236,
+            "date": "2020-09-30 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1234,
+            "date": "2020-10-01 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1241,
+            "date": "2020-10-01 21:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1240,
+            "date": "2020-10-02 10:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1263,
+            "date": "2020-10-03 15:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1274,
+            "date": "2020-10-04 15:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1276,
+            "date": "2020-10-05 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1292,
+            "date": "2020-10-06 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1293,
+            "date": "2020-10-06 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1294,
+            "date": "2020-10-07 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1346,
+            "date": "2020-10-08 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3760,
+            "date": "2021-03-07 16:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3759,
+            "date": "2021-03-08 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3761,
+            "date": "2021-03-09 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3758,
+            "date": "2021-03-10 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3763,
+            "date": "2021-03-10 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6702,
+            "date": "2021-08-09 10:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6708,
+            "date": "2021-08-09 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6709,
+            "date": "2021-08-10 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6710,
+            "date": "2021-08-10 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6712,
+            "date": "2021-08-11 11:34",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "name": "Minecraft",
+    "slug": "Minecraft",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1060,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1664,
+            "date": "2019-02-16 19:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1662,
+            "date": "2019-02-23 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1663,
+            "date": "2019-02-23 21:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1661,
+            "date": "2019-02-24 22:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1667,
+            "date": "2019-02-25 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1666,
+            "date": "2019-02-25 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1668,
+            "date": "2019-02-26 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1673,
+            "date": "2019-03-01 10:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1669,
+            "date": "2019-03-01 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1665,
+            "date": "2019-03-02 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1674,
+            "date": "2019-07-08 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1672,
+            "date": "2020-04-08 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1671,
+            "date": "2020-04-09 10:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1670,
+            "date": "2020-04-09 22:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1659,
+            "date": "2020-12-01 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1660,
+            "date": "2020-12-01 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1657,
+            "date": "2020-12-02 10:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1653,
+            "date": "2020-12-02 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1655,
+            "date": "2020-12-02 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1656,
+            "date": "2020-12-03 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1654,
+            "date": "2020-12-04 11:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1658,
+            "date": "2020-12-04 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1689,
+            "date": "2020-12-07 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3739,
+            "date": "2020-12-07 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1688,
+            "date": "2020-12-08 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3738,
+            "date": "2020-12-08 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1691,
+            "date": "2020-12-08 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3740,
+            "date": "2020-12-08 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1690,
+            "date": "2020-12-09 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1696,
+            "date": "2020-12-11 11:18",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "name": "Mordhau",
+    "slug": "Mordhau",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1059,
+        "name": "misc",
+        "slug": "misc",
+        "streams": [
+          {
+            "id": 1628,
+            "date": "2020-11-27 20:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "Natural Selection 2",
+    "slug": "Natural-Selection-2",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1049,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1510,
+            "date": "2020-11-10 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1509,
+            "date": "2020-11-11 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1513,
+            "date": "2020-11-12 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1514,
+            "date": "2020-11-12 20:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1511,
+            "date": "2020-11-13 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1512,
+            "date": "2020-11-13 20:05",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "Overwatch",
+    "slug": "Overwatch",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1048,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1505,
+            "date": "2017-02-28 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1508,
+            "date": "2017-02-28 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1495,
+            "date": "2017-03-01 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1493,
+            "date": "2017-03-01 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1496,
+            "date": "2017-03-04 21:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1497,
+            "date": "2017-03-08 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1494,
+            "date": "2017-03-10 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1499,
+            "date": "2017-03-10 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1498,
+            "date": "2017-03-11 22:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1500,
+            "date": "2017-03-15 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1502,
+            "date": "2017-03-16 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1504,
+            "date": "2017-03-16 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1507,
+            "date": "2017-03-17 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1506,
+            "date": "2017-04-19 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1503,
+            "date": "2017-12-11 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1501,
+            "date": "2018-10-13 22:06",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Phasmophobia",
+    "slug": "Phasmophobia",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1028,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1275,
+            "date": "2020-10-04 20:25",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "name": "Player Unknown's Battlegrounds",
+    "slug": "Player-Unknown-s-Battlegrounds",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1046,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1448,
+            "date": "2020-10-27 11:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1537,
+            "date": "2020-11-15 14:33",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 2050,
+    "name": "Prison Architect",
+    "slug": "Prison-Architect",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 2061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 2679,
+            "date": "2021-02-02 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2678,
+            "date": "2021-02-02 16:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2683,
+            "date": "2021-02-02 16:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2680,
+            "date": "2021-02-04 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3679,
+            "date": "2021-02-04 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2684,
+            "date": "2021-02-05 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3707,
+            "date": "2021-02-08 12:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3678,
+            "date": "2021-02-10 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3782,
+            "date": "2021-03-30 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3784,
+            "date": "2021-03-31 11:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4681,
+            "date": "2021-04-02 11:29",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "name": "Raft",
+    "slug": "Raft",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1039,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1392,
+            "date": "2020-07-01 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1390,
+            "date": "2020-07-02 10:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1391,
+            "date": "2020-07-05 17:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1393,
+            "date": "2020-07-07 11:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Rimworld",
+    "slug": "Rimworld",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1004,
+        "name": "Tundrafall",
+        "slug": "Tundrafall",
+        "streams": [
+          {
+            "id": 1011,
+            "date": "2018-02-04 23:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1007,
+            "date": "2018-02-05 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1010,
+            "date": "2018-02-05 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1009,
+            "date": "2018-02-06 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1012,
+            "date": "2018-02-06 22:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1013,
+            "date": "2018-02-07 10:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1015,
+            "date": "2018-02-07 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1014,
+            "date": "2018-02-08 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1016,
+            "date": "2018-02-08 18:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1008,
+            "date": "2018-02-09 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1035,
+            "date": "2018-02-09 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1033,
+            "date": "2018-02-11 17:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1032,
+            "date": "2018-02-13 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1034,
+            "date": "2018-02-13 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1038,
+            "date": "2018-02-15 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1036,
+            "date": "2018-02-16 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1040,
+            "date": "2018-02-16 20:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1037,
+            "date": "2018-02-21 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1041,
+            "date": "2018-02-22 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1042,
+            "date": "2018-02-23 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1043,
+            "date": "2018-04-16 10:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1044,
+            "date": "2018-04-17 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1039,
+            "date": "2018-04-18 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1047,
+            "date": "2018-04-20 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1046,
+            "date": "2018-04-20 18:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1048,
+            "date": "2018-04-21 14:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1045,
+            "date": "2018-04-22 17:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1049,
+            "date": "2018-04-23 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1050,
+            "date": "2018-04-24 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1051,
+            "date": "2018-05-03 11:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1052,
+            "date": "2018-05-03 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1064,
+            "date": "2018-05-11 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1060,
+            "date": "2018-05-11 20:23",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1062,
+            "date": "2018-05-13 17:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1063,
+            "date": "2018-05-14 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1175,
+            "date": "2018-05-14 18:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1061,
+            "date": "2018-06-01 11:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1065,
+            "date": "2018-07-25 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1066,
+            "date": "2018-07-26 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1068,
+            "date": "2018-07-26 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1106,
+            "date": "2018-07-26 21:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1110,
+            "date": "2018-07-27 10:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1108,
+            "date": "2018-07-29 17:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1111,
+            "date": "2018-07-30 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1112,
+            "date": "2018-07-31 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1107,
+            "date": "2018-08-01 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1109,
+            "date": "2018-08-02 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1132,
+            "date": "2018-09-19 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1134,
+            "date": "2018-09-20 10:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1131,
+            "date": "2018-09-20 22:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1133,
+            "date": "2018-09-21 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1136,
+            "date": "2018-09-22 20:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1135,
+            "date": "2018-09-23 17:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1137,
+            "date": "2018-09-24 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1139,
+            "date": "2018-09-25 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1138,
+            "date": "2018-09-27 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1140,
+            "date": "2018-09-28 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1143,
+            "date": "2018-10-01 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1141,
+            "date": "2018-10-05 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1142,
+            "date": "2018-10-05 20:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1144,
+            "date": "2018-10-06 22:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1167,
+            "date": "2018-10-07 16:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1168,
+            "date": "2018-10-08 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1169,
+            "date": "2018-10-12 10:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1156,
+            "date": "2018-10-15 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1159,
+            "date": "2018-10-16 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1157,
+            "date": "2018-10-19 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1154,
+            "date": "2018-10-30 11:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1155,
+            "date": "2018-10-31 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1158,
+            "date": "2018-11-01 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1160,
+            "date": "2018-11-02 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1161,
+            "date": "2018-11-04 17:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1164,
+            "date": "2018-11-04 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1165,
+            "date": "2018-11-05 20:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1163,
+            "date": "2018-11-06 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1166,
+            "date": "2018-11-07 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1162,
+            "date": "2018-11-08 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1170,
+            "date": "2018-11-08 12:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1173,
+            "date": "2019-01-03 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1174,
+            "date": "2019-01-04 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1172,
+            "date": "2019-01-04 21:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1171,
+            "date": "2019-01-06 17:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1176,
+            "date": "2019-01-07 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1181,
+            "date": "2019-01-07 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1177,
+            "date": "2019-03-13 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1178,
+            "date": "2019-03-14 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1180,
+            "date": "2019-03-15 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1179,
+            "date": "2019-04-16 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1182,
+            "date": "2019-04-16 11:44",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1005,
+        "name": "Caloma's Creek",
+        "slug": "Caloma-s-Creek",
+        "streams": [
+          {
+            "id": 1019,
+            "date": "2019-08-20 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1018,
+            "date": "2019-08-21 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1021,
+            "date": "2019-08-21 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1020,
+            "date": "2019-08-22 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1024,
+            "date": "2019-08-23 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1022,
+            "date": "2019-08-23 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1023,
+            "date": "2019-08-25 21:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1025,
+            "date": "2019-08-26 10:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1191,
+            "date": "2019-08-26 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1188,
+            "date": "2019-08-27 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1192,
+            "date": "2019-08-27 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1190,
+            "date": "2019-08-28 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1189,
+            "date": "2019-08-28 21:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1195,
+            "date": "2019-08-29 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1193,
+            "date": "2019-08-30 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1194,
+            "date": "2019-08-30 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1184,
+            "date": "2019-09-05 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1186,
+            "date": "2019-09-06 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1185,
+            "date": "2019-09-16 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1187,
+            "date": "2019-09-17 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1183,
+            "date": "2019-09-18 11:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1199,
+            "date": "2019-09-18 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1198,
+            "date": "2019-09-19 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1203,
+            "date": "2019-09-20 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1202,
+            "date": "2019-09-20 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1201,
+            "date": "2019-09-22 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1204,
+            "date": "2019-09-22 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1205,
+            "date": "2019-09-23 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1209,
+            "date": "2019-09-25 10:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1207,
+            "date": "2019-09-25 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1208,
+            "date": "2019-09-26 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1200,
+            "date": "2019-09-27 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1196,
+            "date": "2019-10-02 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1197,
+            "date": "2019-10-31 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1223,
+            "date": "2019-11-05 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1227,
+            "date": "2019-11-05 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1231,
+            "date": "2019-11-06 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1229,
+            "date": "2019-11-07 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1228,
+            "date": "2019-11-08 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1230,
+            "date": "2019-11-09 15:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1224,
+            "date": "2019-11-10 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1226,
+            "date": "2019-11-11 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1222,
+            "date": "2019-11-12 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1225,
+            "date": "2019-11-12 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1245,
+            "date": "2019-11-13 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1244,
+            "date": "2019-11-13 12:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1247,
+            "date": "2019-11-13 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1248,
+            "date": "2019-11-14 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1246,
+            "date": "2019-11-15 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1249,
+            "date": "2019-12-16 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1250,
+            "date": "2019-12-17 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1251,
+            "date": "2019-12-18 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1253,
+            "date": "2019-12-19 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1252,
+            "date": "2019-12-27 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1255,
+            "date": "2019-12-28 12:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1254,
+            "date": "2019-12-30 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1256,
+            "date": "2020-01-02 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1257,
+            "date": "2020-01-27 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1258,
+            "date": "2020-01-28 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1259,
+            "date": "2020-01-29 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1260,
+            "date": "2020-01-30 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1261,
+            "date": "2020-02-03 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1262,
+            "date": "2020-04-14 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1271,
+            "date": "2020-04-15 20:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1272,
+            "date": "2020-04-16 11:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1269,
+            "date": "2020-06-03 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1273,
+            "date": "2020-06-05 10:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1264,
+            "date": "2020-06-12 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1266,
+            "date": "2020-07-06 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1265,
+            "date": "2020-07-08 20:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1268,
+            "date": "2020-07-10 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1270,
+            "date": "2020-07-10 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1026,
+            "date": "2020-09-10 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1028,
+            "date": "2020-09-11 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1029,
+            "date": "2020-09-11 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1058,
+            "date": "2020-09-14 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1067,
+            "date": "2020-09-15 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1206,
+            "date": "2020-09-25 09:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1719,
+            "date": "2020-12-14 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1723,
+            "date": "2020-12-14 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1718,
+            "date": "2020-12-15 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1722,
+            "date": "2020-12-15 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1720,
+            "date": "2020-12-16 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1748,
+            "date": "2020-12-16 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6776,
+            "date": "2020-12-17 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6775,
+            "date": "2020-12-18 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1743,
+            "date": "2020-12-21 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1744,
+            "date": "2020-12-21 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1745,
+            "date": "2020-12-22 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1750,
+            "date": "2020-12-22 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1749,
+            "date": "2020-12-23 10:51",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1778,
+            "date": "2020-12-23 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6777,
+            "date": "2020-12-23 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1769,
+            "date": "2020-12-24 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6779,
+            "date": "2020-12-24 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6774,
+            "date": "2020-12-25 12:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6780,
+            "date": "2021-04-21 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6778,
+            "date": "2021-04-21 20:20",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Rising Storm 2: Vietnam",
+    "slug": "Rising-Storm-2-Vietnam",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1007,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1518,
+            "date": "2020-05-27 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4689,
+            "date": "2020-05-29 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1031,
+            "date": "2020-09-11 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1153,
+            "date": "2020-09-14 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1079,
+            "date": "2020-09-16 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1094,
+            "date": "2020-09-18 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1492,
+            "date": "2020-11-06 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1602,
+            "date": "2020-11-20 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1694,
+            "date": "2020-11-20 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4688,
+            "date": "2020-11-20 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4684,
+            "date": "2020-11-25 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1693,
+            "date": "2020-12-11 19:56",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1724,
+            "date": "2020-12-16 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4686,
+            "date": "2020-12-18 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1775,
+            "date": "2021-01-01 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1790,
+            "date": "2021-01-05 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1789,
+            "date": "2021-01-06 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1779,
+            "date": "2021-01-08 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3730,
+            "date": "2021-01-29 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3711,
+            "date": "2021-02-05 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3691,
+            "date": "2021-02-09 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3696,
+            "date": "2021-02-09 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3695,
+            "date": "2021-02-12 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3757,
+            "date": "2021-03-09 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3764,
+            "date": "2021-03-15 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3768,
+            "date": "2021-03-15 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3767,
+            "date": "2021-03-16 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4685,
+            "date": "2021-03-17 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3783,
+            "date": "2021-03-30 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3785,
+            "date": "2021-03-30 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3787,
+            "date": "2021-03-31 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4687,
+            "date": "2021-04-06 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4683,
+            "date": "2021-04-07 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6686,
+            "date": "2021-07-16 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6692,
+            "date": "2021-07-19 11:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6749,
+            "date": "2021-08-24 11:21",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "name": "Rust",
+    "slug": "Rust",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 3687,
+            "date": "2019-05-14 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3686,
+            "date": "2019-05-15 10:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3684,
+            "date": "2019-05-15 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3682,
+            "date": "2019-05-21 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3683,
+            "date": "2019-05-24 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3685,
+            "date": "2019-05-24 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3681,
+            "date": "2019-05-29 12:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1780,
+            "date": "2021-01-11 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1783,
+            "date": "2021-01-11 19:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1784,
+            "date": "2021-01-12 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1788,
+            "date": "2021-01-12 19:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1787,
+            "date": "2021-01-13 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1791,
+            "date": "2021-01-13 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1793,
+            "date": "2021-01-14 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1792,
+            "date": "2021-01-15 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2675,
+            "date": "2021-01-15 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3756,
+            "date": "2021-01-17 15:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1803,
+            "date": "2021-01-18 12:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1804,
+            "date": "2021-01-19 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1805,
+            "date": "2021-01-19 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1802,
+            "date": "2021-01-20 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1799,
+            "date": "2021-01-21 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1796,
+            "date": "2021-01-22 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1798,
+            "date": "2021-01-25 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1800,
+            "date": "2021-01-26 11:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3697,
+            "date": "2021-02-01 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3676,
+            "date": "2021-02-08 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3675,
+            "date": "2021-02-09 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3690,
+            "date": "2021-02-10 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3680,
+            "date": "2021-02-11 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3689,
+            "date": "2021-02-12 11:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3693,
+            "date": "2021-02-15 10:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3694,
+            "date": "2021-02-15 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3708,
+            "date": "2021-02-16 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3744,
+            "date": "2021-02-17 10:29",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "Silent Hunter 3",
+    "slug": "Silent-Hunter-3",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1020,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1127,
+            "date": "2017-05-17 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1128,
+            "date": "2017-05-18 10:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1126,
+            "date": "2017-05-18 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4690,
+            "date": "2021-04-09 22:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6757,
+            "date": "2021-04-10 11:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6782,
+            "date": "2021-04-11 22:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6784,
+            "date": "2021-04-12 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6783,
+            "date": "2021-04-13 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6754,
+            "date": "2021-04-14 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6756,
+            "date": "2021-04-14 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6755,
+            "date": "2021-04-15 10:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6751,
+            "date": "2021-04-15 22:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6752,
+            "date": "2021-04-15 22:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6753,
+            "date": "2021-04-16 23:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6684,
+            "date": "2021-07-12 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6681,
+            "date": "2021-07-12 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6680,
+            "date": "2021-07-13 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6683,
+            "date": "2021-07-13 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6679,
+            "date": "2021-07-14 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6682,
+            "date": "2021-07-14 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6678,
+            "date": "2021-07-15 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6685,
+            "date": "2021-07-16 11:24",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "Space Engineers",
+    "slug": "Space-Engineers",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1026,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1629,
+            "date": "2018-07-03 22:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1635,
+            "date": "2018-07-04 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1636,
+            "date": "2019-03-18 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1640,
+            "date": "2019-03-19 17:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1639,
+            "date": "2019-03-20 18:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1638,
+            "date": "2019-03-21 10:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1637,
+            "date": "2019-03-21 17:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1646,
+            "date": "2019-03-22 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1647,
+            "date": "2019-03-22 20:09",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1645,
+            "date": "2019-03-23 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1649,
+            "date": "2019-03-24 18:07",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1644,
+            "date": "2019-03-25 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1650,
+            "date": "2019-03-25 20:12",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1648,
+            "date": "2019-03-26 11:17",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1652,
+            "date": "2019-03-26 20:11",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1651,
+            "date": "2019-03-27 11:01",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1676,
+            "date": "2019-03-28 11:13",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1675,
+            "date": "2019-03-28 21:57",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1677,
+            "date": "2019-03-29 11:05",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1678,
+            "date": "2019-03-29 20:50",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1633,
+            "date": "2019-04-12 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1630,
+            "date": "2019-10-03 19:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1631,
+            "date": "2019-10-04 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1632,
+            "date": "2019-10-09 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1634,
+            "date": "2019-10-10 11:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1404,
+            "date": "2020-08-09 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1679,
+            "date": "2020-08-09 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1221,
+            "date": "2020-08-10 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1680,
+            "date": "2020-08-10 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1220,
+            "date": "2020-08-10 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1683,
+            "date": "2020-08-10 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1681,
+            "date": "2020-08-12 11:24",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1682,
+            "date": "2020-08-12 20:05",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1687,
+            "date": "2020-08-16 13:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1684,
+            "date": "2020-08-17 20:12",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1217,
+            "date": "2020-08-19 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1685,
+            "date": "2020-08-19 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1218,
+            "date": "2020-08-20 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1686,
+            "date": "2020-08-20 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1219,
+            "date": "2020-08-21 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1216,
+            "date": "2020-08-25 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1752,
+            "date": "2020-12-26 11:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1751,
+            "date": "2020-12-28 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1767,
+            "date": "2020-12-28 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1768,
+            "date": "2020-12-29 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1770,
+            "date": "2020-12-30 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1773,
+            "date": "2020-12-30 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1771,
+            "date": "2020-12-31 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1772,
+            "date": "2021-01-01 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1776,
+            "date": "2021-01-04 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1786,
+            "date": "2021-01-07 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1782,
+            "date": "2021-01-08 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3770,
+            "date": "2021-03-22 11:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3772,
+            "date": "2021-03-22 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3771,
+            "date": "2021-03-23 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3774,
+            "date": "2021-03-23 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3781,
+            "date": "2021-03-24 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3777,
+            "date": "2021-03-25 11:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3775,
+            "date": "2021-03-26 11:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6699,
+            "date": "2021-08-03 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6711,
+            "date": "2021-08-03 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6706,
+            "date": "2021-08-04 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6707,
+            "date": "2021-08-04 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6705,
+            "date": "2021-08-05 11:22",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Stellaris",
+    "slug": "Stellaris",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 2,
+        "name": "The Provion Dominion",
+        "slug": "The-Provion-Dominion",
+        "streams": [
+          {
+            "id": 24,
+            "date": "2018-11-09 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 16,
+            "date": "2018-11-09 20:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8,
+            "date": "2018-11-10 22:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 17,
+            "date": "2018-11-11 16:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 23,
+            "date": "2018-11-13 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 18,
+            "date": "2018-11-15 12:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3,
+            "date": "2018-11-15 22:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6,
+            "date": "2018-11-16 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15,
+            "date": "2018-11-16 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 19,
+            "date": "2018-11-17 12:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4,
+            "date": "2018-11-18 16:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 22,
+            "date": "2018-11-18 21:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2,
+            "date": "2018-11-19 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 21,
+            "date": "2018-11-20 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 20,
+            "date": "2018-11-21 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10,
+            "date": "2018-11-22 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5,
+            "date": "2018-11-23 11:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 13,
+            "date": "2018-11-23 21:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9,
+            "date": "2018-11-26 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7,
+            "date": "2018-11-27 13:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14,
+            "date": "2018-11-28 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1406,
+            "date": "2018-11-29 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12,
+            "date": "2018-11-30 11:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11,
+            "date": "2018-11-30 20:23",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 3,
+        "name": "The Children of Verca",
+        "slug": "The-Children-of-Verca",
+        "streams": [
+          {
+            "id": 34,
+            "date": "2019-08-07 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 26,
+            "date": "2019-08-07 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 29,
+            "date": "2019-08-08 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 35,
+            "date": "2019-08-09 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 28,
+            "date": "2019-08-12 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 25,
+            "date": "2019-08-13 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 31,
+            "date": "2019-08-13 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 32,
+            "date": "2019-08-14 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 30,
+            "date": "2019-08-16 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 27,
+            "date": "2019-08-19 11:30",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "name": "Subnautica",
+    "slug": "Subnautica",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1047,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1459,
+            "date": "2020-10-28 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1460,
+            "date": "2020-10-28 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1458,
+            "date": "2020-10-29 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1461,
+            "date": "2020-10-30 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1464,
+            "date": "2020-10-31 16:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1462,
+            "date": "2020-10-31 22:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1465,
+            "date": "2020-11-01 15:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1463,
+            "date": "2020-11-02 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1470,
+            "date": "2020-11-02 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1487,
+            "date": "2020-11-02 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1486,
+            "date": "2020-11-03 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1468,
+            "date": "2020-11-03 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1469,
+            "date": "2020-11-03 21:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1471,
+            "date": "2020-11-04 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1473,
+            "date": "2020-11-06 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1489,
+            "date": "2020-11-07 12:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1488,
+            "date": "2020-11-07 21:45",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "SWAT 4",
+    "slug": "SWAT-4",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1019,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1122,
+            "date": "2020-01-10 19:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1124,
+            "date": "2020-01-12 19:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1125,
+            "date": "2020-01-15 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1116,
+            "date": "2020-01-19 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1118,
+            "date": "2020-01-22 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1120,
+            "date": "2020-01-26 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1121,
+            "date": "2020-01-29 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1117,
+            "date": "2020-02-09 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1447,
+            "date": "2020-02-09 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1115,
+            "date": "2020-02-16 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1119,
+            "date": "2020-02-23 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1114,
+            "date": "2020-03-01 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1123,
+            "date": "2020-03-08 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1113,
+            "date": "2020-03-15 20:12",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "Team Fortress 2",
+    "slug": "Team-Fortress-2",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1035,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1323,
+            "date": "2020-10-10 22:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1322,
+            "date": "2020-10-11 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1324,
+            "date": "2020-10-11 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1401,
+            "date": "2020-10-18 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1490,
+            "date": "2020-11-01 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1491,
+            "date": "2020-11-08 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1641,
+            "date": "2020-11-29 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1692,
+            "date": "2020-12-06 20:02",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1753,
+            "date": "2020-12-06 20:02",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1755,
+            "date": "2020-12-13 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1747,
+            "date": "2020-12-20 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1756,
+            "date": "2020-12-20 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1754,
+            "date": "2020-12-27 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1774,
+            "date": "2021-01-03 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1781,
+            "date": "2021-01-10 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1797,
+            "date": "2021-01-24 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3710,
+            "date": "2021-01-31 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3709,
+            "date": "2021-02-07 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3692,
+            "date": "2021-02-14 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3728,
+            "date": "2021-02-21 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3729,
+            "date": "2021-02-21 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3753,
+            "date": "2021-02-28 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3766,
+            "date": "2021-03-07 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4682,
+            "date": "2021-03-21 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3780,
+            "date": "2021-03-26 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3778,
+            "date": "2021-03-28 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4680,
+            "date": "2021-04-02 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 4679,
+            "date": "2021-04-04 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6688,
+            "date": "2021-06-20 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6689,
+            "date": "2021-06-27 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6690,
+            "date": "2021-07-04 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6691,
+            "date": "2021-07-18 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6693,
+            "date": "2021-07-25 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6700,
+            "date": "2021-08-01 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6703,
+            "date": "2021-08-08 20:01",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6053,
+    "name": "The Forest",
+    "slug": "The-Forest",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 6064,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6758,
+            "date": "2021-08-25 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6763,
+            "date": "2021-08-25 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6761,
+            "date": "2021-08-26 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6762,
+            "date": "2021-08-27 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6764,
+            "date": "2021-08-29 13:30",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6760,
+            "date": "2021-08-30 11:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6766,
+            "date": "2021-08-30 20:26",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6767,
+            "date": "2021-08-31 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6768,
+            "date": "2021-08-31 20:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6769,
+            "date": "2021-09-02 11:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6765,
+            "date": "2021-09-02 22:08",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "name": "The Isle",
+    "slug": "The-Isle",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1043,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1417,
+            "date": "2020-10-19 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3712,
+            "date": "2021-02-16 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3743,
+            "date": "2021-02-17 19:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3722,
+            "date": "2021-02-19 11:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3734,
+            "date": "2021-02-19 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3723,
+            "date": "2021-02-21 17:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3724,
+            "date": "2021-02-22 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3725,
+            "date": "2021-02-22 20:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3726,
+            "date": "2021-02-23 20:37",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "name": "The Witcher",
+    "slug": "The-Witcher",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1034,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1325,
+            "date": "2016-05-04 21:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1326,
+            "date": "2016-05-05 13:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1328,
+            "date": "2016-05-05 22:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1329,
+            "date": "2016-05-09 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1327,
+            "date": "2016-05-11 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1332,
+            "date": "2016-05-19 14:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1330,
+            "date": "2016-08-23 12:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1333,
+            "date": "2016-08-24 22:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1334,
+            "date": "2017-04-11 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1331,
+            "date": "2017-04-12 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1335,
+            "date": "2017-04-12 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1336,
+            "date": "2017-04-12 20:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1337,
+            "date": "2017-04-13 13:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1338,
+            "date": "2017-04-13 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1339,
+            "date": "2017-04-14 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1312,
+            "date": "2017-04-14 20:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1298,
+            "date": "2017-04-14 22:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1299,
+            "date": "2017-04-15 22:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1300,
+            "date": "2017-12-06 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1301,
+            "date": "2017-12-06 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1302,
+            "date": "2017-12-07 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1304,
+            "date": "2017-12-07 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1303,
+            "date": "2017-12-08 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1306,
+            "date": "2017-12-09 21:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1307,
+            "date": "2017-12-10 18:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1305,
+            "date": "2017-12-10 21:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1308,
+            "date": "2017-12-11 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1309,
+            "date": "2017-12-12 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1310,
+            "date": "2017-12-13 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1313,
+            "date": "2017-12-14 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1311,
+            "date": "2017-12-15 11:09",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "The Witcher 2: Assassins of Kings",
+    "slug": "The-Witcher-2-Assassins-of-Kings",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1030,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1318,
+            "date": "2018-10-22 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1321,
+            "date": "2018-10-23 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1319,
+            "date": "2018-10-24 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1320,
+            "date": "2018-10-25 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1279,
+            "date": "2018-10-26 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1282,
+            "date": "2020-02-07 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1280,
+            "date": "2020-02-10 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1284,
+            "date": "2020-02-10 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1285,
+            "date": "2020-02-11 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1287,
+            "date": "2020-02-11 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1286,
+            "date": "2020-02-12 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1288,
+            "date": "2020-02-13 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1289,
+            "date": "2020-02-14 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1291,
+            "date": "2020-02-17 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1290,
+            "date": "2020-02-18 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1281,
+            "date": "2020-02-19 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1283,
+            "date": "2020-02-19 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1317,
+            "date": "2020-10-09 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1316,
+            "date": "2020-10-12 11:22",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "name": "The Witcher 3: Wild Hunt",
+    "slug": "The-Witcher-3-Wild-Hunt",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1032,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1295,
+            "date": "2020-10-13 11:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1296,
+            "date": "2020-10-13 12:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1314,
+            "date": "2020-10-13 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1315,
+            "date": "2020-10-14 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1342,
+            "date": "2020-10-15 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1403,
+            "date": "2020-10-19 11:10",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1428,
+            "date": "2020-10-21 11:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6051,
+    "name": "Total War: Napoleon",
+    "slug": "Total-War-Napoleon",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6062,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6704,
+            "date": "2021-05-14 11:22",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "name": "Total War: Warhammer",
+    "slug": "Total-War-Warhammer",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1031,
+        "name": "Greenskins",
+        "slug": "Greenskins",
+        "streams": [
+          {
+            "id": 1531,
+            "date": "2018-01-22 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1532,
+            "date": "2018-01-22 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1533,
+            "date": "2018-01-23 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1534,
+            "date": "2018-01-24 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1535,
+            "date": "2018-06-04 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1520,
+            "date": "2018-06-04 20:27",
+            "new": false,
+            "useBunny": false
+          },
+          {
+            "id": 1524,
+            "date": "2018-06-05 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1522,
+            "date": "2018-06-06 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1523,
+            "date": "2018-06-06 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1521,
+            "date": "2018-06-08 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1525,
+            "date": "2018-06-09 22:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1526,
+            "date": "2018-06-11 11:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1527,
+            "date": "2018-06-12 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1528,
+            "date": "2018-06-13 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1530,
+            "date": "2018-06-13 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1529,
+            "date": "2018-06-14 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1549,
+            "date": "2018-06-19 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1546,
+            "date": "2018-06-20 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1548,
+            "date": "2018-06-20 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1545,
+            "date": "2018-06-21 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1547,
+            "date": "2018-06-22 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1550,
+            "date": "2018-06-23 18:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1551,
+            "date": "2018-06-23 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1553,
+            "date": "2018-06-24 21:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1554,
+            "date": "2018-06-25 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1552,
+            "date": "2018-06-27 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1555,
+            "date": "2018-06-29 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1556,
+            "date": "2019-02-15 11:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1544,
+            "date": "2019-02-15 20:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1540,
+            "date": "2019-02-16 14:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1543,
+            "date": "2019-02-18 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1542,
+            "date": "2019-02-18 20:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1541,
+            "date": "2019-02-19 11:07",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1054,
+        "name": "Vampires First Attempt",
+        "slug": "Vampires-First-Attempt",
+        "streams": [
+          {
+            "id": 1557,
+            "date": "2017-04-03 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1558,
+            "date": "2017-04-03 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1559,
+            "date": "2017-04-04 09:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1561,
+            "date": "2017-04-04 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1560,
+            "date": "2017-04-05 10:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1562,
+            "date": "2017-04-06 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1565,
+            "date": "2017-04-06 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1563,
+            "date": "2017-04-07 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1564,
+            "date": "2017-04-07 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1567,
+            "date": "2017-04-08 10:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1569,
+            "date": "2017-04-08 18:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1566,
+            "date": "2017-04-09 12:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1568,
+            "date": "2017-04-09 18:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1570,
+            "date": "2017-04-10 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1571,
+            "date": "2017-04-10 20:14",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 1056,
+        "name": "Vampires Second Attempt",
+        "slug": "Vampires-Second-Attempt",
+        "streams": [
+          {
+            "id": 1579,
+            "date": "2017-07-14 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1577,
+            "date": "2017-07-15 08:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1580,
+            "date": "2017-07-15 14:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1576,
+            "date": "2017-07-16 11:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1578,
+            "date": "2017-07-16 16:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1581,
+            "date": "2017-07-16 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1582,
+            "date": "2017-07-17 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1583,
+            "date": "2017-07-17 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1584,
+            "date": "2017-07-18 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1585,
+            "date": "2017-07-18 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1587,
+            "date": "2017-07-19 10:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1586,
+            "date": "2017-07-19 20:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1588,
+            "date": "2017-07-20 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1608,
+            "date": "2017-07-20 20:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1605,
+            "date": "2017-07-21 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1606,
+            "date": "2017-07-22 12:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1607,
+            "date": "2017-07-22 23:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1604,
+            "date": "2017-07-23 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1611,
+            "date": "2017-07-23 16:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1610,
+            "date": "2017-07-24 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1609,
+            "date": "2017-07-24 20:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1592,
+            "date": "2017-09-26 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1594,
+            "date": "2017-09-26 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1595,
+            "date": "2017-09-27 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1593,
+            "date": "2017-09-28 10:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1596,
+            "date": "2017-09-28 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1597,
+            "date": "2017-09-29 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1600,
+            "date": "2017-09-30 12:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1598,
+            "date": "2017-09-30 18:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1612,
+            "date": "2017-10-01 17:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1617,
+            "date": "2017-10-01 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1613,
+            "date": "2017-10-02 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1614,
+            "date": "2017-10-02 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1615,
+            "date": "2017-10-03 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1616,
+            "date": "2017-10-04 11:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1618,
+            "date": "2017-10-05 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1599,
+            "date": "2017-10-06 11:09",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 5052,
+    "name": "Untitled Goose Game",
+    "slug": "Untitled-Goose-Game",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 5062,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 5680,
+            "date": "2021-07-09 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5681,
+            "date": "2021-07-09 20:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 5053,
+    "name": "Valheim",
+    "slug": "Valheim",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 5063,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 5692,
+            "date": "2021-07-06 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5690,
+            "date": "2021-07-07 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5691,
+            "date": "2021-07-07 20:40",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "VR Blade & Sorcery",
+    "slug": "VR-Blade-Sorcery",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1021,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1445,
+            "date": "2020-05-28 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1517,
+            "date": "2020-05-28 11:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6773,
+            "date": "2020-07-01 11:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6771,
+            "date": "2020-07-02 22:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6772,
+            "date": "2020-07-03 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1148,
+            "date": "2020-09-21 11:21",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1043,
+    "name": "VR Chat",
+    "slug": "VR-Chat",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1052,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1539,
+            "date": "2018-07-11 21:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6759,
+            "date": "2020-06-20 20:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 5051,
+    "name": "VR Half Life: Alyx",
+    "slug": "VR-Half-Life-Alyx",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 5061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 5683,
+            "date": "2021-06-17 11:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5682,
+            "date": "2021-06-18 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5684,
+            "date": "2021-06-18 12:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5686,
+            "date": "2021-06-18 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5687,
+            "date": "2021-06-19 13:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5685,
+            "date": "2021-06-19 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5689,
+            "date": "2021-06-20 13:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 5688,
+            "date": "2021-07-02 20:05",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "name": "VR Onward",
+    "slug": "VR-Onward",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1057,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6720,
+            "date": "2020-02-22 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6716,
+            "date": "2020-02-29 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3745,
+            "date": "2020-03-07 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6722,
+            "date": "2020-03-07 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6719,
+            "date": "2020-03-14 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6724,
+            "date": "2020-03-14 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3746,
+            "date": "2020-04-18 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6723,
+            "date": "2020-04-18 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6717,
+            "date": "2020-04-25 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1603,
+            "date": "2020-05-16 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6721,
+            "date": "2020-05-16 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6715,
+            "date": "2020-06-13 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6718,
+            "date": "2020-06-20 20:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "name": "VR Pavlov",
+    "slug": "VR-Pavlov",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1053,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6770,
+            "date": "2020-06-27 19:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6741,
+            "date": "2020-07-04 19:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1538,
+            "date": "2020-11-15 15:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 2676,
+            "date": "2021-01-09 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1795,
+            "date": "2021-01-11 21:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1806,
+            "date": "2021-01-11 21:02",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "name": "VR Pokerstars",
+    "slug": "VR-Pokerstars",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1051,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1519,
+            "date": "2020-05-23 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6750,
+            "date": "2020-06-13 20:57",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "VR Rec Room",
+    "slug": "VR-Rec-Room",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1040,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1397,
+            "date": "2018-07-04 21:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1399,
+            "date": "2018-08-01 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1400,
+            "date": "2018-08-08 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1398,
+            "date": "2018-08-15 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1396,
+            "date": "2018-09-05 21:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1395,
+            "date": "2020-05-09 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6740,
+            "date": "2020-05-30 19:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6739,
+            "date": "2020-05-30 20:54",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 3052,
+    "name": "VR Superhot",
+    "slug": "VR-Superhot",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 3063,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 3742,
+            "date": "2020-10-26 11:20",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "VR Ultimate Fishing Simulator",
+    "slug": "VR-Ultimate-Fishing-Simulator",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1017,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1152,
+            "date": "2020-08-06 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1150,
+            "date": "2020-08-07 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1078,
+            "date": "2020-09-17 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1084,
+            "date": "2020-09-18 11:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1151,
+            "date": "2020-09-19 13:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1149,
+            "date": "2020-09-19 22:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3741,
+            "date": "2020-11-09 11:42",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "name": "Warhammer 40k: Eternal Crusade",
+    "slug": "Warhammer-40k-Eternal-Crusade",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1036,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1341,
+            "date": "2020-10-10 12:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1340,
+            "date": "2020-10-10 20:50",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6050,
+    "name": "Wildermyth",
+    "slug": "Wildermyth",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6061,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6687,
+            "date": "2021-07-15 19:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "name": "Worms W.M.D",
+    "slug": "Worms-W-M-D",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1058,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 1627,
+            "date": "2020-11-28 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1746,
+            "date": "2020-12-19 19:49",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "name": "X3-Albion Prelude",
+    "slug": "X3-Albion-Prelude",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 1055,
+        "name": "Litcube's Universe Mod",
+        "slug": "Litcube-s-Universe-Mod",
+        "streams": [
+          {
+            "id": 1574,
+            "date": "2020-11-16 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1572,
+            "date": "2020-11-16 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1575,
+            "date": "2020-11-17 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1573,
+            "date": "2020-11-17 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1591,
+            "date": "2020-11-18 11:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1590,
+            "date": "2020-11-19 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1589,
+            "date": "2020-11-20 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1622,
+            "date": "2020-11-21 12:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1623,
+            "date": "2020-11-22 12:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1620,
+            "date": "2020-11-23 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1621,
+            "date": "2020-11-23 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1619,
+            "date": "2020-11-24 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1626,
+            "date": "2020-11-25 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1624,
+            "date": "2020-11-26 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 1625,
+            "date": "2020-11-27 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3748,
+            "date": "2021-03-03 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3751,
+            "date": "2021-03-03 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3750,
+            "date": "2021-03-04 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 3755,
+            "date": "2021-03-05 11:11",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  }
+]

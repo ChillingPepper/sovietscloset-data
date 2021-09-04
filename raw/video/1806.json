@@ -1,0 +1,43 @@
+{
+  "streamId": 1806,
+  "date": "2021-01-11 21:02",
+  "game": {
+    "name": "VR Pavlov",
+    "slug": "VR-Pavlov"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6770,
+        "date": "2020-06-27 19:50"
+      },
+      {
+        "streamId": 6741,
+        "date": "2020-07-04 19:49"
+      },
+      {
+        "streamId": 1538,
+        "date": "2020-11-15 15:29"
+      },
+      {
+        "streamId": 2676,
+        "date": "2021-01-09 19:59"
+      },
+      {
+        "streamId": 1795,
+        "date": "2021-01-11 21:02"
+      },
+      {
+        "streamId": 1806,
+        "date": "2021-01-11 21:02"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/505090758?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2021-01-11 21-02-21\"></iframe>",
+  "bunnyId": "9d2ed241-66de-4dbe-81bf-610bdd8d773c",
+  "useBunny": true
+}

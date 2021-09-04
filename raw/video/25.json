@@ -1,0 +1,59 @@
+{
+  "streamId": 25,
+  "date": "2019-08-13 11:19",
+  "game": {
+    "name": "Stellaris",
+    "slug": "Stellaris"
+  },
+  "subcategory": {
+    "name": "The Children of Verca",
+    "slug": "The-Children-of-Verca",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 34,
+        "date": "2019-08-07 11:11"
+      },
+      {
+        "streamId": 26,
+        "date": "2019-08-07 20:19"
+      },
+      {
+        "streamId": 29,
+        "date": "2019-08-08 11:14"
+      },
+      {
+        "streamId": 35,
+        "date": "2019-08-09 11:18"
+      },
+      {
+        "streamId": 28,
+        "date": "2019-08-12 11:02"
+      },
+      {
+        "streamId": 25,
+        "date": "2019-08-13 11:19"
+      },
+      {
+        "streamId": 31,
+        "date": "2019-08-13 20:22"
+      },
+      {
+        "streamId": 32,
+        "date": "2019-08-14 11:14"
+      },
+      {
+        "streamId": 30,
+        "date": "2019-08-16 11:11"
+      },
+      {
+        "streamId": 27,
+        "date": "2019-08-19 11:30"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/455947483?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2019-08-13 11-19-57.mp4\"></iframe>",
+  "bunnyId": "88313c93-505c-4c38-ab39-e6de87be6603",
+  "useBunny": true
+}

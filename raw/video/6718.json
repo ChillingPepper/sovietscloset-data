@@ -1,0 +1,71 @@
+{
+  "streamId": 6718,
+  "date": "2020-06-20 20:00",
+  "game": {
+    "name": "VR Onward",
+    "slug": "VR-Onward"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6720,
+        "date": "2020-02-22 20:09"
+      },
+      {
+        "streamId": 6716,
+        "date": "2020-02-29 19:57"
+      },
+      {
+        "streamId": 3745,
+        "date": "2020-03-07 20:05"
+      },
+      {
+        "streamId": 6722,
+        "date": "2020-03-07 20:05"
+      },
+      {
+        "streamId": 6719,
+        "date": "2020-03-14 20:04"
+      },
+      {
+        "streamId": 6724,
+        "date": "2020-03-14 20:08"
+      },
+      {
+        "streamId": 3746,
+        "date": "2020-04-18 19:54"
+      },
+      {
+        "streamId": 6723,
+        "date": "2020-04-18 19:54"
+      },
+      {
+        "streamId": 6717,
+        "date": "2020-04-25 19:53"
+      },
+      {
+        "streamId": 1603,
+        "date": "2020-05-16 19:55"
+      },
+      {
+        "streamId": 6721,
+        "date": "2020-05-16 19:55"
+      },
+      {
+        "streamId": 6715,
+        "date": "2020-06-13 19:59"
+      },
+      {
+        "streamId": 6718,
+        "date": "2020-06-20 20:00"
+      }
+    ]
+  },
+  "number": 13,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "1e58bb4d-b505-4689-80f0-d836da220dea",
+  "useBunny": true
+}

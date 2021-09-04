@@ -1,0 +1,27 @@
+{
+  "streamId": 1341,
+  "date": "2020-10-10 12:32",
+  "game": {
+    "name": "Warhammer 40k: Eternal Crusade",
+    "slug": "Warhammer-40k-Eternal-Crusade"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1341,
+        "date": "2020-10-10 12:32"
+      },
+      {
+        "streamId": 1340,
+        "date": "2020-10-10 20:50"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/468482771?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-10-10 12-32-47\"></iframe>",
+  "bunnyId": "fbb4fdea-1f35-4314-b663-f9005f9a8275",
+  "useBunny": true
+}

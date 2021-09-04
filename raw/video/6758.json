@@ -1,0 +1,63 @@
+{
+  "streamId": 6758,
+  "date": "2021-08-25 11:21",
+  "game": {
+    "name": "The Forest",
+    "slug": "The-Forest"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6758,
+        "date": "2021-08-25 11:21"
+      },
+      {
+        "streamId": 6763,
+        "date": "2021-08-25 20:11"
+      },
+      {
+        "streamId": 6761,
+        "date": "2021-08-26 11:16"
+      },
+      {
+        "streamId": 6762,
+        "date": "2021-08-27 11:03"
+      },
+      {
+        "streamId": 6764,
+        "date": "2021-08-29 13:30"
+      },
+      {
+        "streamId": 6760,
+        "date": "2021-08-30 11:15"
+      },
+      {
+        "streamId": 6766,
+        "date": "2021-08-30 20:26"
+      },
+      {
+        "streamId": 6767,
+        "date": "2021-08-31 11:05"
+      },
+      {
+        "streamId": 6768,
+        "date": "2021-08-31 20:13"
+      },
+      {
+        "streamId": 6769,
+        "date": "2021-09-02 11:09"
+      },
+      {
+        "streamId": 6765,
+        "date": "2021-09-02 22:08"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "5286b23f-726c-4022-adbd-4def3351d7e5",
+  "useBunny": true
+}

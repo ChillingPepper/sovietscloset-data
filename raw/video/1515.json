@@ -1,0 +1,55 @@
+{
+  "streamId": 1515,
+  "date": "2020-10-30 20:02",
+  "game": {
+    "name": "Halo: The Master Chief Collection",
+    "slug": "Halo-The-Master-Chief-Collection"
+  },
+  "subcategory": {
+    "name": "Halo 3",
+    "slug": "Halo-3",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 1444,
+        "date": "2020-07-31 20:02"
+      },
+      {
+        "streamId": 1347,
+        "date": "2020-08-07 19:56"
+      },
+      {
+        "streamId": 1402,
+        "date": "2020-08-21 19:59"
+      },
+      {
+        "streamId": 1211,
+        "date": "2020-09-25 19:59"
+      },
+      {
+        "streamId": 1239,
+        "date": "2020-10-02 19:59"
+      },
+      {
+        "streamId": 1344,
+        "date": "2020-10-09 19:57"
+      },
+      {
+        "streamId": 1343,
+        "date": "2020-10-09 21:25"
+      },
+      {
+        "streamId": 1394,
+        "date": "2020-10-16 20:05"
+      },
+      {
+        "streamId": 1515,
+        "date": "2020-10-30 20:02"
+      }
+    ]
+  },
+  "number": 10,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/479256825?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-10-30 20-02-27\"></iframe>",
+  "bunnyId": "93c90e55-57cb-4926-9771-e534ed77b917",
+  "useBunny": true
+}

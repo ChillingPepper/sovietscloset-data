@@ -1,0 +1,79 @@
+{
+  "streamId": 1560,
+  "date": "2017-04-05 10:24",
+  "game": {
+    "name": "Total War: Warhammer",
+    "slug": "Total-War-Warhammer"
+  },
+  "subcategory": {
+    "name": "Vampires First Attempt",
+    "slug": "Vampires-First-Attempt",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 1557,
+        "date": "2017-04-03 11:21"
+      },
+      {
+        "streamId": 1558,
+        "date": "2017-04-03 20:19"
+      },
+      {
+        "streamId": 1559,
+        "date": "2017-04-04 09:56"
+      },
+      {
+        "streamId": 1561,
+        "date": "2017-04-04 20:24"
+      },
+      {
+        "streamId": 1560,
+        "date": "2017-04-05 10:24"
+      },
+      {
+        "streamId": 1562,
+        "date": "2017-04-06 11:10"
+      },
+      {
+        "streamId": 1565,
+        "date": "2017-04-06 20:16"
+      },
+      {
+        "streamId": 1563,
+        "date": "2017-04-07 11:13"
+      },
+      {
+        "streamId": 1564,
+        "date": "2017-04-07 20:30"
+      },
+      {
+        "streamId": 1567,
+        "date": "2017-04-08 10:54"
+      },
+      {
+        "streamId": 1569,
+        "date": "2017-04-08 18:37"
+      },
+      {
+        "streamId": 1566,
+        "date": "2017-04-09 12:19"
+      },
+      {
+        "streamId": 1568,
+        "date": "2017-04-09 18:56"
+      },
+      {
+        "streamId": 1570,
+        "date": "2017-04-10 11:16"
+      },
+      {
+        "streamId": 1571,
+        "date": "2017-04-10 20:14"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/480158551?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2017-04-05 10-24-26\"></iframe>",
+  "bunnyId": "452484ce-6df0-4108-9f6e-d40e2d799b49",
+  "useBunny": true
+}

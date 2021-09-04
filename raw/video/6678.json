@@ -1,0 +1,107 @@
+{
+  "streamId": 6678,
+  "date": "2021-07-15 11:09",
+  "game": {
+    "name": "Silent Hunter 3",
+    "slug": "Silent-Hunter-3"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1127,
+        "date": "2017-05-17 20:17"
+      },
+      {
+        "streamId": 1128,
+        "date": "2017-05-18 10:46"
+      },
+      {
+        "streamId": 1126,
+        "date": "2017-05-18 20:19"
+      },
+      {
+        "streamId": 4690,
+        "date": "2021-04-09 22:17"
+      },
+      {
+        "streamId": 6757,
+        "date": "2021-04-10 11:52"
+      },
+      {
+        "streamId": 6782,
+        "date": "2021-04-11 22:01"
+      },
+      {
+        "streamId": 6784,
+        "date": "2021-04-12 20:13"
+      },
+      {
+        "streamId": 6783,
+        "date": "2021-04-13 11:19"
+      },
+      {
+        "streamId": 6754,
+        "date": "2021-04-14 11:14"
+      },
+      {
+        "streamId": 6756,
+        "date": "2021-04-14 20:21"
+      },
+      {
+        "streamId": 6755,
+        "date": "2021-04-15 10:42"
+      },
+      {
+        "streamId": 6751,
+        "date": "2021-04-15 22:00"
+      },
+      {
+        "streamId": 6752,
+        "date": "2021-04-15 22:23"
+      },
+      {
+        "streamId": 6753,
+        "date": "2021-04-16 23:42"
+      },
+      {
+        "streamId": 6684,
+        "date": "2021-07-12 11:23"
+      },
+      {
+        "streamId": 6681,
+        "date": "2021-07-12 20:13"
+      },
+      {
+        "streamId": 6680,
+        "date": "2021-07-13 11:11"
+      },
+      {
+        "streamId": 6683,
+        "date": "2021-07-13 20:11"
+      },
+      {
+        "streamId": 6679,
+        "date": "2021-07-14 11:08"
+      },
+      {
+        "streamId": 6682,
+        "date": "2021-07-14 20:18"
+      },
+      {
+        "streamId": 6678,
+        "date": "2021-07-15 11:09"
+      },
+      {
+        "streamId": 6685,
+        "date": "2021-07-16 11:24"
+      }
+    ]
+  },
+  "number": 26,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "feee00d7-d57f-47db-bb27-651a6b099272",
+  "useBunny": true
+}

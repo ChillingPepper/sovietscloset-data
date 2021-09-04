@@ -1,0 +1,87 @@
+{
+  "streamId": 3719,
+  "date": "2018-01-25 11:24",
+  "game": {
+    "name": "CSGO",
+    "slug": "CSGO"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 3713,
+        "date": "2016-11-28 20:13"
+      },
+      {
+        "streamId": 3701,
+        "date": "2017-01-13 10:57"
+      },
+      {
+        "streamId": 3705,
+        "date": "2017-02-17 11:42"
+      },
+      {
+        "streamId": 3698,
+        "date": "2017-03-07 11:30"
+      },
+      {
+        "streamId": 3720,
+        "date": "2017-07-26 11:16"
+      },
+      {
+        "streamId": 3717,
+        "date": "2017-07-28 18:30"
+      },
+      {
+        "streamId": 3719,
+        "date": "2018-01-25 11:24"
+      },
+      {
+        "streamId": 3716,
+        "date": "2018-03-26 11:28"
+      },
+      {
+        "streamId": 3715,
+        "date": "2018-03-27 11:37"
+      },
+      {
+        "streamId": 3714,
+        "date": "2018-03-27 21:13"
+      },
+      {
+        "streamId": 3700,
+        "date": "2018-10-04 11:04"
+      },
+      {
+        "streamId": 3706,
+        "date": "2018-10-15 19:50"
+      },
+      {
+        "streamId": 3699,
+        "date": "2019-03-04 20:48"
+      },
+      {
+        "streamId": 3702,
+        "date": "2019-06-05 20:10"
+      },
+      {
+        "streamId": 3703,
+        "date": "2019-06-09 17:55"
+      },
+      {
+        "streamId": 3704,
+        "date": "2019-06-11 11:01"
+      },
+      {
+        "streamId": 3718,
+        "date": "2019-06-12 20:15"
+      }
+    ]
+  },
+  "number": 7,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/513694831?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"2018-01-25 11-24-20\"></iframe>",
+  "bunnyId": "5a5d9de3-7ecd-4afb-9299-1d3fd1b45b35",
+  "useBunny": true
+}

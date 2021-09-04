@@ -1,0 +1,95 @@
+{
+  "streamId": 1591,
+  "date": "2020-11-18 11:55",
+  "game": {
+    "name": "X3-Albion Prelude",
+    "slug": "X3-Albion-Prelude"
+  },
+  "subcategory": {
+    "name": "Litcube's Universe Mod",
+    "slug": "Litcube-s-Universe-Mod",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1574,
+        "date": "2020-11-16 11:35"
+      },
+      {
+        "streamId": 1572,
+        "date": "2020-11-16 20:33"
+      },
+      {
+        "streamId": 1575,
+        "date": "2020-11-17 11:11"
+      },
+      {
+        "streamId": 1573,
+        "date": "2020-11-17 20:01"
+      },
+      {
+        "streamId": 1591,
+        "date": "2020-11-18 11:55"
+      },
+      {
+        "streamId": 1590,
+        "date": "2020-11-19 11:07"
+      },
+      {
+        "streamId": 1589,
+        "date": "2020-11-20 11:16"
+      },
+      {
+        "streamId": 1622,
+        "date": "2020-11-21 12:39"
+      },
+      {
+        "streamId": 1623,
+        "date": "2020-11-22 12:05"
+      },
+      {
+        "streamId": 1620,
+        "date": "2020-11-23 11:24"
+      },
+      {
+        "streamId": 1621,
+        "date": "2020-11-23 20:22"
+      },
+      {
+        "streamId": 1619,
+        "date": "2020-11-24 11:20"
+      },
+      {
+        "streamId": 1626,
+        "date": "2020-11-25 20:14"
+      },
+      {
+        "streamId": 1624,
+        "date": "2020-11-26 11:15"
+      },
+      {
+        "streamId": 1625,
+        "date": "2020-11-27 11:11"
+      },
+      {
+        "streamId": 3748,
+        "date": "2021-03-03 11:10"
+      },
+      {
+        "streamId": 3751,
+        "date": "2021-03-03 20:24"
+      },
+      {
+        "streamId": 3750,
+        "date": "2021-03-04 11:20"
+      },
+      {
+        "streamId": 3755,
+        "date": "2021-03-05 11:11"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/481824230?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-11-18 11-55-48\"></iframe>",
+  "bunnyId": "00392eec-ce68-4851-baed-177dfaf5ac8d",
+  "useBunny": true
+}
