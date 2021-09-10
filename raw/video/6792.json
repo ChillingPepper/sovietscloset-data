@@ -1,0 +1,23 @@
+{
+  "streamId": 6792,
+  "date": "2020-07-04 20:42",
+  "game": {
+    "name": "VR Climbey",
+    "slug": "VR-Climbey"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6792,
+        "date": "2020-07-04 20:42"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "c2355709-ab22-48d7-95eb-c940ad0f23a4",
+  "useBunny": true
+}

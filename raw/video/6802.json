@@ -1,0 +1,23 @@
+{
+  "streamId": 6802,
+  "date": "2021-09-03 20:29",
+  "game": {
+    "name": "Left 4 Dead 2",
+    "slug": "Left-4-Dead-2"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6802,
+        "date": "2021-09-03 20:29"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "e2dcc4e7-1d4b-4d74-9370-23d1ed65b346",
+  "useBunny": true
+}

@@ -1,0 +1,23 @@
+{
+  "streamId": 6801,
+  "date": "2021-09-08 11:06",
+  "game": {
+    "name": "Stellaris",
+    "slug": "Stellaris"
+  },
+  "subcategory": {
+    "name": "The Gardener's Tended",
+    "slug": "The-Gardener-s-Tended",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 6801,
+        "date": "2021-09-08 11:06"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "5aca54de-698f-4817-96cc-b5ec0a16a437",
+  "useBunny": true
+}
