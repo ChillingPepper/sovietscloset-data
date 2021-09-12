@@ -1,6 +1,6 @@
 {
-  "streamId": 6801,
-  "date": "2021-09-08 11:06",
+  "streamId": 6805,
+  "date": "2021-09-09 11:06",
   "game": {
     "name": "Stellaris",
     "slug": "Stellaris"
@@ -36,8 +36,8 @@
       }
     ]
   },
-  "number": 1,
+  "number": 2,
   "vimeoEmbedHtml": null,
-  "bunnyId": "5aca54de-698f-4817-96cc-b5ec0a16a437",
+  "bunnyId": "82033f66-1aad-4df3-bbdd-a288b4afa207",
   "useBunny": true
 }
