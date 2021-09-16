@@ -12,9 +12,49 @@
         "recentlyUpdated": false,
         "videos": [
           {
+            "id": 6825,
+            "date": "2017-10-09 11:20",
+            "number": 1,
+            "useBunny": true,
+            "bunnyId": "95fbdfbc-1b8a-4f0a-9c45-642ac6b13a8c",
+            "new": false
+          },
+          {
+            "id": 6827,
+            "date": "2017-10-09 20:25",
+            "number": 2,
+            "useBunny": true,
+            "bunnyId": "ac44cd0b-74f0-4409-b597-a211e4bf612a",
+            "new": false
+          },
+          {
+            "id": 6826,
+            "date": "2017-10-11 11:17",
+            "number": 3,
+            "useBunny": true,
+            "bunnyId": "26689065-cfe1-43a1-8083-053c450847a5",
+            "new": false
+          },
+          {
+            "id": 6828,
+            "date": "2017-10-11 20:20",
+            "number": 4,
+            "useBunny": true,
+            "bunnyId": "653519d1-2a41-419a-9ce6-ca92be898280",
+            "new": false
+          },
+          {
+            "id": 6830,
+            "date": "2019-10-15 22:03",
+            "number": 7,
+            "useBunny": true,
+            "bunnyId": "8cf9c2e7-8bdb-42aa-9b01-0cea85d81ef0",
+            "new": false
+          },
+          {
             "id": 1002,
             "date": "2020-08-31 11:09",
-            "number": 1,
+            "number": 8,
             "useBunny": true,
             "bunnyId": "ba8d6cf1-fe75-48a4-ad95-88467c718fe9",
             "new": false
@@ -22,7 +62,7 @@
           {
             "id": 1005,
             "date": "2020-08-31 20:11",
-            "number": 2,
+            "number": 9,
             "useBunny": true,
             "bunnyId": "fbb0cb73-ce7f-40ea-a449-bebc0d095fd1",
             "new": false
@@ -30,7 +70,7 @@
           {
             "id": 1145,
             "date": "2020-09-01 11:07",
-            "number": 3,
+            "number": 10,
             "useBunny": true,
             "bunnyId": "9f2cf970-4f74-4626-a71f-b37576ce6391",
             "new": false
@@ -38,7 +78,7 @@
           {
             "id": 1146,
             "date": "2020-09-01 20:04",
-            "number": 4,
+            "number": 11,
             "useBunny": true,
             "bunnyId": "18690a33-2cf1-41da-8ed7-31bc801636d9",
             "new": false
@@ -46,7 +86,7 @@
           {
             "id": 1003,
             "date": "2020-09-02 11:24",
-            "number": 5,
+            "number": 12,
             "useBunny": true,
             "bunnyId": "0e20e1eb-582b-40a8-ae4c-ecc27add5926",
             "new": false
@@ -54,7 +94,7 @@
           {
             "id": 1214,
             "date": "2020-09-07 21:00",
-            "number": 6,
+            "number": 13,
             "useBunny": true,
             "bunnyId": "af74d8f1-76f7-4d00-a4f3-6fe6d04c0626",
             "new": false
@@ -62,7 +102,7 @@
           {
             "id": 1006,
             "date": "2020-09-08 11:11",
-            "number": 7,
+            "number": 14,
             "useBunny": true,
             "bunnyId": "d6ad4742-5f35-41d3-8d86-aff0e8de1ede",
             "new": false
@@ -70,7 +110,7 @@
           {
             "id": 1004,
             "date": "2020-09-08 20:09",
-            "number": 8,
+            "number": 15,
             "useBunny": true,
             "bunnyId": "67af5142-18e6-41f5-9b58-5ff82a8ca5ba",
             "new": false
@@ -78,7 +118,7 @@
           {
             "id": 1017,
             "date": "2020-09-09 11:21",
-            "number": 9,
+            "number": 16,
             "useBunny": true,
             "bunnyId": "7334d006-c557-44a8-807b-b66a6074305d",
             "new": false
@@ -539,13 +579,13 @@
     "name": "Conan Exiles",
     "slug": "Conan-Exiles",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "categories": [
       {
         "name": "Misc",
         "slug": "Misc",
         "enabled": true,
-        "recentlyUpdated": true,
+        "recentlyUpdated": false,
         "videos": [
           {
             "id": 6798,
@@ -553,7 +593,7 @@
             "number": 1,
             "useBunny": true,
             "bunnyId": "fd36f3db-8931-4822-ba35-899fce904471",
-            "new": true
+            "new": false
           },
           {
             "id": 6799,
@@ -561,7 +601,7 @@
             "number": 2,
             "useBunny": true,
             "bunnyId": "675d9565-6b91-4c94-bc0d-faed19a438c9",
-            "new": true
+            "new": false
           },
           {
             "id": 6797,
@@ -569,7 +609,7 @@
             "number": 3,
             "useBunny": true,
             "bunnyId": "916e7f72-51e1-4557-b1c9-e7868c0a70e5",
-            "new": true
+            "new": false
           }
         ]
       }
@@ -2364,9 +2404,17 @@
             "new": false
           },
           {
+            "id": 6813,
+            "date": "2020-12-17 20:49",
+            "number": 28,
+            "useBunny": true,
+            "bunnyId": "ed521f15-3f1b-4567-a86e-af0d17101f93",
+            "new": false
+          },
+          {
             "id": 1777,
             "date": "2020-12-31 20:54",
-            "number": 28,
+            "number": 29,
             "useBunny": true,
             "bunnyId": "ca1d57ad-a563-455a-849f-adcfdef1d410",
             "new": false
@@ -2374,7 +2422,7 @@
           {
             "id": 1785,
             "date": "2021-01-07 20:54",
-            "number": 29,
+            "number": 30,
             "useBunny": true,
             "bunnyId": "f8817aa1-33f2-4fd8-b715-642e961d993f",
             "new": false
@@ -2382,7 +2430,7 @@
           {
             "id": 1794,
             "date": "2021-01-14 20:48",
-            "number": 30,
+            "number": 31,
             "useBunny": true,
             "bunnyId": "e6151879-daed-46d1-b4cf-b0544054608d",
             "new": false
@@ -2390,7 +2438,7 @@
           {
             "id": 1801,
             "date": "2021-01-21 20:51",
-            "number": 31,
+            "number": 32,
             "useBunny": true,
             "bunnyId": "1e91598c-24db-4150-9858-a9653267f740",
             "new": false
@@ -2398,7 +2446,7 @@
           {
             "id": 3677,
             "date": "2021-02-04 20:53",
-            "number": 32,
+            "number": 33,
             "useBunny": true,
             "bunnyId": "c196ccf6-4bf4-4b8e-9b99-58326faaa778",
             "new": false
@@ -2406,7 +2454,7 @@
           {
             "id": 3688,
             "date": "2021-02-11 20:50",
-            "number": 33,
+            "number": 34,
             "useBunny": true,
             "bunnyId": "e5fd2ff7-58fc-41e5-a23b-33f89623ebd1",
             "new": false
@@ -2414,7 +2462,7 @@
           {
             "id": 3721,
             "date": "2021-02-18 20:48",
-            "number": 35,
+            "number": 36,
             "useBunny": true,
             "bunnyId": "305dc071-da17-4844-ac80-cb805f6e14d3",
             "new": false
@@ -2422,7 +2470,7 @@
           {
             "id": 3735,
             "date": "2021-02-18 20:48",
-            "number": 35,
+            "number": 36,
             "useBunny": true,
             "bunnyId": "bab9981a-2c25-45b7-a8c3-99935e1aab2e",
             "new": false
@@ -2430,7 +2478,7 @@
           {
             "id": 3737,
             "date": "2021-02-25 20:58",
-            "number": 36,
+            "number": 37,
             "useBunny": true,
             "bunnyId": "59e8d310-d84d-43ef-8242-a429ea54c513",
             "new": false
@@ -2438,7 +2486,7 @@
           {
             "id": 3754,
             "date": "2021-03-04 20:54",
-            "number": 37,
+            "number": 38,
             "useBunny": true,
             "bunnyId": "1b4e56bc-3a22-4b39-921d-cd8c8ce971a9",
             "new": false
@@ -2446,7 +2494,7 @@
           {
             "id": 3769,
             "date": "2021-03-11 20:46",
-            "number": 38,
+            "number": 39,
             "useBunny": true,
             "bunnyId": "e1b9d447-b9b4-4dd3-9869-a183c2e9525f",
             "new": false
@@ -2454,7 +2502,7 @@
           {
             "id": 3776,
             "date": "2021-03-25 20:53",
-            "number": 39,
+            "number": 40,
             "useBunny": true,
             "bunnyId": "515f439a-b7ce-46f9-95b0-332d5e5de717",
             "new": false
@@ -2462,9 +2510,17 @@
           {
             "id": 6701,
             "date": "2021-08-05 20:59",
-            "number": 40,
+            "number": 41,
             "useBunny": true,
             "bunnyId": "d6c79b6d-eea7-47c3-bdb3-610d8f68a8b6",
+            "new": false
+          },
+          {
+            "id": 6819,
+            "date": "2021-09-09 20:53",
+            "number": 42,
+            "useBunny": true,
+            "bunnyId": "393c548f-c6c6-4022-bbe0-1f084898cf3a",
             "new": false
           }
         ]
@@ -2593,6 +2649,14 @@
             "number": 3,
             "useBunny": true,
             "bunnyId": "64bf26d3-31aa-4dc6-a14b-bd13b1b0e747",
+            "new": false
+          },
+          {
+            "id": 6821,
+            "date": "2021-09-03 11:13",
+            "number": 4,
+            "useBunny": true,
+            "bunnyId": "82443777-90b3-4e20-9e74-5454ff2a46fc",
             "new": false
           }
         ]
@@ -3060,9 +3124,17 @@
             "new": false
           },
           {
+            "id": 6812,
+            "date": "2020-12-07 11:23",
+            "number": 23,
+            "useBunny": true,
+            "bunnyId": "330282d5-8d29-4db9-b920-48b6658ec1a3",
+            "new": false
+          },
+          {
             "id": 1689,
             "date": "2020-12-07 20:33",
-            "number": 24,
+            "number": 25,
             "useBunny": true,
             "bunnyId": "3b1d16ec-8f47-4384-8af2-31026cb548c5",
             "new": false
@@ -3070,7 +3142,7 @@
           {
             "id": 3739,
             "date": "2020-12-07 20:33",
-            "number": 24,
+            "number": 25,
             "useBunny": true,
             "bunnyId": "d4b3ce33-b57a-47e3-bed4-53b34c827311",
             "new": false
@@ -3078,7 +3150,7 @@
           {
             "id": 1688,
             "date": "2020-12-08 11:18",
-            "number": 26,
+            "number": 27,
             "useBunny": true,
             "bunnyId": "003f67b6-378f-4243-8fbe-41f6194dba07",
             "new": false
@@ -3086,7 +3158,7 @@
           {
             "id": 3738,
             "date": "2020-12-08 11:18",
-            "number": 26,
+            "number": 27,
             "useBunny": true,
             "bunnyId": "815f6a16-40bc-4d80-b27c-748b562a310c",
             "new": false
@@ -3094,7 +3166,7 @@
           {
             "id": 1691,
             "date": "2020-12-08 20:16",
-            "number": 28,
+            "number": 29,
             "useBunny": true,
             "bunnyId": "6bc26d0d-ad77-4995-a188-b97a4c225fd2",
             "new": false
@@ -3102,7 +3174,7 @@
           {
             "id": 3740,
             "date": "2020-12-08 20:16",
-            "number": 28,
+            "number": 29,
             "useBunny": true,
             "bunnyId": "e58bdc26-03cf-40c7-8ecc-6602dd913f09",
             "new": false
@@ -3110,7 +3182,7 @@
           {
             "id": 1690,
             "date": "2020-12-09 11:12",
-            "number": 29,
+            "number": 30,
             "useBunny": true,
             "bunnyId": "f7cec3a9-e890-49a4-aac7-0dd0a5ab4f60",
             "new": false
@@ -3118,7 +3190,7 @@
           {
             "id": 1696,
             "date": "2020-12-11 11:18",
-            "number": 30,
+            "number": 31,
             "useBunny": true,
             "bunnyId": "50da7d2c-0334-45db-95cc-84a1869d5c61",
             "new": false
@@ -6761,7 +6833,7 @@
             "number": 1,
             "useBunny": true,
             "bunnyId": "5aca54de-698f-4817-96cc-b5ec0a16a437",
-            "new": true
+            "new": false
           },
           {
             "id": 6805,
@@ -6769,7 +6841,7 @@
             "number": 2,
             "useBunny": true,
             "bunnyId": "82033f66-1aad-4df3-bbdd-a288b4afa207",
-            "new": true
+            "new": false
           },
           {
             "id": 6804,
@@ -6801,6 +6873,62 @@
             "number": 6,
             "useBunny": true,
             "bunnyId": "7f3b6541-636c-4e6e-9d0e-a7e9820fd32d",
+            "new": true
+          },
+          {
+            "id": 6815,
+            "date": "2021-09-12 13:25",
+            "number": 7,
+            "useBunny": true,
+            "bunnyId": "5d24b474-35e0-4371-a944-a65542203937",
+            "new": true
+          },
+          {
+            "id": 6816,
+            "date": "2021-09-13 11:08",
+            "number": 8,
+            "useBunny": true,
+            "bunnyId": "c0ccee73-2355-47d8-b2e5-dd2255ce3d73",
+            "new": true
+          },
+          {
+            "id": 6817,
+            "date": "2021-09-13 20:16",
+            "number": 9,
+            "useBunny": true,
+            "bunnyId": "e53179f7-2a90-4f5b-8731-09659f54c942",
+            "new": true
+          },
+          {
+            "id": 6818,
+            "date": "2021-09-14 10:39",
+            "number": 10,
+            "useBunny": true,
+            "bunnyId": "ba080f1b-9d1f-4b9f-86dc-8e1166d0bc08",
+            "new": true
+          },
+          {
+            "id": 6820,
+            "date": "2021-09-14 19:59",
+            "number": 11,
+            "useBunny": true,
+            "bunnyId": "a52fa512-a5bd-463c-8813-c10b688879b3",
+            "new": true
+          },
+          {
+            "id": 6823,
+            "date": "2021-09-15 20:12",
+            "number": 12,
+            "useBunny": true,
+            "bunnyId": "8be3bd95-c762-4dd2-80b4-c6848247eb23",
+            "new": true
+          },
+          {
+            "id": 6824,
+            "date": "2021-09-16 11:11",
+            "number": 13,
+            "useBunny": true,
+            "bunnyId": "3ad04b46-7e1e-4ca4-9219-e4025286c2e3",
             "new": true
           }
         ]
@@ -7425,6 +7553,14 @@
             "number": 42,
             "useBunny": true,
             "bunnyId": "bcaffb4b-b874-45e0-99eb-aebc052defe8",
+            "new": false
+          },
+          {
+            "id": 6814,
+            "date": "2021-09-12 19:56",
+            "number": 43,
+            "useBunny": true,
+            "bunnyId": "0322e7b9-7baf-4a34-8042-cf6a831ca1ce",
             "new": true
           }
         ]
@@ -9577,6 +9713,14 @@
             "number": 1,
             "useBunny": true,
             "bunnyId": "4ef8a0a0-8b3f-4100-a1b7-76a0403b9645",
+            "new": false
+          },
+          {
+            "id": 6822,
+            "date": "2021-09-02 19:58",
+            "number": 2,
+            "useBunny": true,
+            "bunnyId": "2a1918ee-185b-4c52-ad3b-69df1c9e29d5",
             "new": false
           }
         ]

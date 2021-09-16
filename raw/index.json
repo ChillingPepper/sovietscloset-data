@@ -12,6 +12,36 @@
         "slug": "Misc",
         "streams": [
           {
+            "id": 6825,
+            "date": "2017-10-09 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6827,
+            "date": "2017-10-09 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6826,
+            "date": "2017-10-11 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6828,
+            "date": "2017-10-11 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6830,
+            "date": "2019-10-15 22:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1002,
             "date": "2020-08-31 11:09",
             "new": false,
@@ -442,7 +472,7 @@
     "name": "Conan Exiles",
     "slug": "Conan-Exiles",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6066,
@@ -452,24 +482,24 @@
           {
             "id": 6798,
             "date": "2021-09-06 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6799,
             "date": "2021-09-06 20:23",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6797,
             "date": "2021-09-07 11:19",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -1866,6 +1896,12 @@
             "useBunny": false
           },
           {
+            "id": 6813,
+            "date": "2020-12-17 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1777,
             "date": "2020-12-31 20:54",
             "new": false,
@@ -1940,6 +1976,12 @@
           {
             "id": 6701,
             "date": "2021-08-05 20:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6819,
+            "date": "2021-09-09 20:53",
             "new": false,
             "useBunny": true
           }
@@ -2054,6 +2096,12 @@
           {
             "id": 6713,
             "date": "2021-07-30 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6821,
+            "date": "2021-09-03 11:13",
             "new": false,
             "useBunny": true
           }
@@ -2420,6 +2468,12 @@
           {
             "id": 1658,
             "date": "2020-12-04 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6812,
+            "date": "2020-12-07 11:23",
             "new": false,
             "useBunny": true
           },
@@ -5285,13 +5339,13 @@
           {
             "id": 6801,
             "date": "2021-09-08 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6805,
             "date": "2021-09-09 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -5315,6 +5369,48 @@
           {
             "id": 6810,
             "date": "2021-09-11 21:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6815,
+            "date": "2021-09-12 13:25",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6816,
+            "date": "2021-09-13 11:08",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6817,
+            "date": "2021-09-13 20:16",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6818,
+            "date": "2021-09-14 10:39",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6820,
+            "date": "2021-09-14 19:59",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6823,
+            "date": "2021-09-15 20:12",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6824,
+            "date": "2021-09-16 11:11",
             "new": true,
             "useBunny": true
           }
@@ -5801,6 +5897,12 @@
           {
             "id": 6794,
             "date": "2021-09-05 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6814,
+            "date": "2021-09-12 19:56",
             "new": true,
             "useBunny": true
           }
@@ -7547,6 +7649,12 @@
           {
             "id": 6687,
             "date": "2021-07-15 19:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6822,
+            "date": "2021-09-02 19:58",
             "new": false,
             "useBunny": true
           }

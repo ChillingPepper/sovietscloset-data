@@ -1,0 +1,27 @@
+{
+  "streamId": 6822,
+  "date": "2021-09-02 19:58",
+  "game": {
+    "name": "Wildermyth",
+    "slug": "Wildermyth"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6687,
+        "date": "2021-07-15 19:00"
+      },
+      {
+        "streamId": 6822,
+        "date": "2021-09-02 19:58"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "2a1918ee-185b-4c52-ad3b-69df1c9e29d5",
+  "useBunny": true
+}

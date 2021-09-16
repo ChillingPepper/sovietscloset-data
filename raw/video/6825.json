@@ -1,0 +1,75 @@
+{
+  "streamId": 6825,
+  "date": "2017-10-09 11:20",
+  "game": {
+    "name": "7 Days to Die",
+    "slug": "7-Days-to-Die"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6825,
+        "date": "2017-10-09 11:20"
+      },
+      {
+        "streamId": 6827,
+        "date": "2017-10-09 20:25"
+      },
+      {
+        "streamId": 6826,
+        "date": "2017-10-11 11:17"
+      },
+      {
+        "streamId": 6828,
+        "date": "2017-10-11 20:20"
+      },
+      {
+        "streamId": 6830,
+        "date": "2019-10-15 22:03"
+      },
+      {
+        "streamId": 1002,
+        "date": "2020-08-31 11:09"
+      },
+      {
+        "streamId": 1005,
+        "date": "2020-08-31 20:11"
+      },
+      {
+        "streamId": 1145,
+        "date": "2020-09-01 11:07"
+      },
+      {
+        "streamId": 1146,
+        "date": "2020-09-01 20:04"
+      },
+      {
+        "streamId": 1003,
+        "date": "2020-09-02 11:24"
+      },
+      {
+        "streamId": 1214,
+        "date": "2020-09-07 21:00"
+      },
+      {
+        "streamId": 1006,
+        "date": "2020-09-08 11:11"
+      },
+      {
+        "streamId": 1004,
+        "date": "2020-09-08 20:09"
+      },
+      {
+        "streamId": 1017,
+        "date": "2020-09-09 11:21"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "95fbdfbc-1b8a-4f0a-9c45-642ac6b13a8c",
+  "useBunny": true
+}
