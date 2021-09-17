@@ -1,6 +1,6 @@
 {
-  "streamId": 1004,
-  "date": "2020-09-08 20:09",
+  "streamId": 6831,
+  "date": "2017-10-16 20:26",
   "game": {
     "name": "7 Days to Die",
     "slug": "7-Days-to-Die"
@@ -116,8 +116,8 @@
       }
     ]
   },
-  "number": 25,
-  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/456031088?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2020-09-08 20-09-00\"></iframe>",
-  "bunnyId": "67af5142-18e6-41f5-9b58-5ff82a8ca5ba",
+  "number": 6,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "e8989c3c-7273-44d5-a4f0-7df9c74bd974",
   "useBunny": true
 }
