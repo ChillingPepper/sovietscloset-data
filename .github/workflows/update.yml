@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/10 * * * *"
+concurrency: one-at-a-time
 jobs:
   update:
     runs-on: ubuntu-latest
