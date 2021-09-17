@@ -61,16 +61,18 @@ def js_to_json(code, vars={}):
     )
 
 
-def download(url, progress=None):
+MEDIADELIVERY_REFERER = {'Referer': 'https://iframe.mediadelivery.net/'}
+
+def download(url, headers={}, progress=None):
     if not progress:
         print(f"[download.......] {url}")
     else:
         index = progress[0]
         max_ = progress[1]
-        index_justified = str(index).rjust(len(str(max_)))
+        index_justified = str(index).rjust(len(str(max_)), "0")
         print(f"[download.......] {index_justified}/{max_} {url}")
     # TODO handle errors
-    return requests.get(url).text
+    return requests.get(url, headers=headers).text
 
 
 def parse_nuxt_jsonp(nuxt_jsonp):
@@ -89,23 +91,47 @@ def parse_nuxt_jsonp(nuxt_jsonp):
     return json.loads(js_to_json(js, args))["data"][0]
 
 
-def get_static_assets_base():
-    html = download("https://sovietscloset.com")
-    static_assets_base = re.findall(r"staticAssetsBase:\"(.*?)\"", html)[0]
-    return f"https://sovietscloset.com{static_assets_base}"
+def get_global_vars():
+    video_html = download("https://sovietscloset.com/video/1234")
+    video_match = next(re.finditer(r'https:\/\/iframe\.mediadelivery\.net\/embed\/(?P<video_library_id>[0-9]+)\/(?P<video_id>[0-9a-f-]+)', video_html))
+
+    static_assets_base = re.findall(r'staticAssetsBase:\"(.*?)\"', video_html)[0]
+    static_assets_base = f'https://sovietscloset.com{static_assets_base}'
+
+    video_library_id = video_match.group("video_library_id")
+    video_id = video_match.group("video_id")
+    embed_url = video_match[0]
+
+    embed_html = download(embed_url, headers=MEDIADELIVERY_REFERER)
+    embed_match = next(re.finditer(r'https:\/\/(?P<pull_zone>.*)\.b-cdn\.net\/%s\/' % video_id, embed_html))
+    pull_zone = embed_match.group('pull_zone')
+
+    # Path("debug.video.html").write_text(video_html)
+    # Path("debug.embed.html").write_text(embed_html)
+
+    return {
+        "staticAssetsBase": static_assets_base,
+        "pullZone": pull_zone,
+        "videoLibraryId": video_library_id
+    }
 
 
 def update_raw_data():
     print(f"[update_raw_data] start")
 
-    base_url = get_static_assets_base()
-    static_cache_id = base_url.split("/")[-1]
-    print(f"[update_raw_data] {static_cache_id=}")
+    global_vars = get_global_vars()
+    json.dump(global_vars, open("raw/global.json", "w"), indent=2)
 
-    if static_cache_id == Path("raw/static_cache_id").read_text():
-        print(f"[update_raw_data] static_cache_id unchanged, aborting")
+    base_url = global_vars["staticAssetsBase"]
+    video_library_id = global_vars["videoLibraryId"]
+
+    static_assets_timestamp = base_url.split("/")[-1]
+    print(f"[update_raw_data] {static_assets_timestamp=}")
+
+    if static_assets_timestamp == Path("raw/static_assets_timestamp").read_text():
+        print(f"[update_raw_data] static_assets_timestamp unchanged, aborting")
         return
-    print(f"[update_raw_data] static_cache_id changed, updating")
+    print(f"[update_raw_data] static_assets_timestamp changed, updating")
 
     print(f"[update_raw_data] updating index data")
     sovietscloset = parse_nuxt_jsonp(download(f"{base_url}/payload.js"))["games"]
@@ -115,22 +141,28 @@ def update_raw_data():
     video_ids = [stream["id"] for game in sovietscloset for subcategory in game["subcategories"] for stream in subcategory["streams"]]
     for i, video_id in enumerate(video_ids, start=1):
         stream_details_url = f"{base_url}/video/{video_id}/payload.js"
-        stream_details_jsonp = download(stream_details_url, (i, len(video_ids)))
+        stream_details_jsonp = download(stream_details_url, progress=(i, len(video_ids)))
+        # Path("debug.video.payload.js").write_text(stream_details_jsonp)
         stream_details = parse_nuxt_jsonp(stream_details_jsonp)["stream"]
         json.dump(stream_details, open(f"raw/video/{video_id}.json", "w"), indent=2)
 
-    print(f"[update_raw_data] caching static_cache_id")
-    Path("raw/static_cache_id").write_text(static_cache_id)
+    print(f"[update_raw_data] caching static_assets_timestamp")
+    Path("raw/static_assets_timestamp").write_text(static_assets_timestamp)
 
     print(f"[update_raw_data] update done")
 
 
 def combine_data():
     print(f"[combine_data...] start")
+    sovietscloset = dict()
+
+    global_vars = json.load(open("raw/global.json"))
+    sovietscloset["bunnyCdn"] = dict()
+    for key in ["pullZone", "videoLibraryId"]:
+        sovietscloset["bunnyCdn"][key] = global_vars[key]
 
     raw_index = json.load(open("raw/index.json"))
-
-    sovietscloset = list()
+    sovietscloset["games"] = list()
     for index_game in raw_index:
         game = dict()
         for key in ["name", "slug", "enabled", "recentlyUpdated"]:
@@ -148,12 +180,18 @@ def combine_data():
                 combined_video = {**index_video, **raw_video}
 
                 video = dict()
-                for key in ["id", "date", "number", "useBunny", "bunnyId", "new"]:
+
+                video["title"] = game["name"]
+                if category["name"] != "Misc":
+                    video["title"] += f" - {category['name']}"
+                video["title"] += f" #{combined_video['number']}"
+
+                for key in ["id", "date", "number", "bunnyId", "new"]:
                     video[key] = combined_video[key]
 
                 category["videos"].append(video)
             game["categories"].append(category)
-        sovietscloset.append(game)
+        sovietscloset["games"].append(game)
 
     json.dump(sovietscloset, open("sovietscloset.json", "w"), indent=2)
     print(f"[combine_data...] written to sovietscloset.json")
