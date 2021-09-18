@@ -9,7 +9,7 @@
       "slug": "7-Days-to-Die",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -337,7 +337,7 @@
       "slug": "Among-Us",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -369,7 +369,7 @@
       "slug": "Arma-3",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Antistasi Games",
           "slug": "Antistasi-Games",
@@ -657,7 +657,7 @@
       "slug": "Blackwake",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -681,7 +681,7 @@
       "slug": "Boneworks",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -785,7 +785,7 @@
       "slug": "Conan-Exiles",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -825,7 +825,7 @@
       "slug": "CSGO",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -977,7 +977,7 @@
       "slug": "DayZ",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Standalone",
           "slug": "Standalone",
@@ -1465,7 +1465,7 @@
       "slug": "Deep-Rock-Galactic",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -1489,7 +1489,7 @@
       "slug": "Divinity-Original-Sin-2",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "First Playthrough",
           "slug": "First-Playthrough",
@@ -2177,7 +2177,7 @@
       "slug": "Eco",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2201,7 +2201,7 @@
       "slug": "Factorio",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2377,7 +2377,7 @@
       "slug": "Halo-The-Master-Chief-Collection",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Halo 3",
           "slug": "Halo-3",
@@ -2481,7 +2481,7 @@
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2833,7 +2833,7 @@
       "slug": "Hydroneer",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2857,7 +2857,7 @@
       "slug": "Invisible-Inc",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2921,7 +2921,7 @@
       "slug": "Just-Chatting",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -2969,7 +2969,7 @@
       "slug": "Kerbal-Space-Program",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3217,7 +3217,7 @@
       "slug": "Left-4-Dead-2",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3241,7 +3241,7 @@
       "slug": "Minecraft",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3505,7 +3505,7 @@
       "slug": "Mordhau",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "misc",
           "slug": "misc",
@@ -3529,7 +3529,7 @@
       "slug": "Natural-Selection-2",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3593,7 +3593,7 @@
       "slug": "Overwatch",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3737,7 +3737,7 @@
       "slug": "Phasmophobia",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3761,7 +3761,7 @@
       "slug": "Player-Unknown-s-Battlegrounds",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3793,7 +3793,7 @@
       "slug": "Prison-Architect",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3897,7 +3897,7 @@
       "slug": "Raft",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -3945,7 +3945,7 @@
       "slug": "Rimworld",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Tundrafall",
           "slug": "Tundrafall",
@@ -5473,7 +5473,7 @@
       "slug": "Rising-Storm-2-Vietnam",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -5777,7 +5777,7 @@
       "slug": "Rust",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -6081,7 +6081,7 @@
       "slug": "Silent-Hunter-3",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -6305,7 +6305,7 @@
       "slug": "Space-Engineers",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -6833,7 +6833,7 @@
       "slug": "Stellaris",
       "enabled": true,
       "recentlyUpdated": true,
-      "categories": [
+      "playlists": [
         {
           "name": "The Provion Dominion",
           "slug": "The-Provion-Dominion",
@@ -7241,7 +7241,7 @@
       "slug": "Subnautica",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -7393,7 +7393,7 @@
       "slug": "SWAT-4",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -7521,7 +7521,7 @@
       "slug": "Team-Fortress-2",
       "enabled": true,
       "recentlyUpdated": true,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -7873,7 +7873,7 @@
       "slug": "The-Forest",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -7977,7 +7977,7 @@
       "slug": "The-Isle",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -8065,7 +8065,7 @@
       "slug": "The-Witcher",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -8329,7 +8329,7 @@
       "slug": "The-Witcher-2-Assassins-of-Kings",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -8497,7 +8497,7 @@
       "slug": "The-Witcher-3-Wild-Hunt",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -8569,7 +8569,7 @@
       "slug": "Total-War-Napoleon",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -8593,7 +8593,7 @@
       "slug": "Total-War-Warhammer",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Greenskins",
           "slug": "Greenskins",
@@ -9305,7 +9305,7 @@
       "slug": "Untitled-Goose-Game",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9337,7 +9337,7 @@
       "slug": "Valheim",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9377,7 +9377,7 @@
       "slug": "VR-Blade-Sorcery",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9441,7 +9441,7 @@
       "slug": "VR-Chat",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9473,7 +9473,7 @@
       "slug": "VR-Climbey",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9497,7 +9497,7 @@
       "slug": "VR-Half-Life-Alyx",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9577,7 +9577,7 @@
       "slug": "VR-Onward",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9697,7 +9697,7 @@
       "slug": "VR-Pavlov",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9761,7 +9761,7 @@
       "slug": "VR-Pokerstars",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9793,7 +9793,7 @@
       "slug": "VR-Rec-Room",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9873,7 +9873,7 @@
       "slug": "VR-Superhot",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9897,7 +9897,7 @@
       "slug": "VR-Ultimate-Fishing-Simulator",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -9969,7 +9969,7 @@
       "slug": "Warhammer-40k-Eternal-Crusade",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -10001,7 +10001,7 @@
       "slug": "Wildermyth",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -10033,7 +10033,7 @@
       "slug": "Worms-W-M-D",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
@@ -10065,7 +10065,7 @@
       "slug": "X3-Albion-Prelude",
       "enabled": true,
       "recentlyUpdated": false,
-      "categories": [
+      "playlists": [
         {
           "name": "Litcube's Universe Mod",
           "slug": "Litcube-s-Universe-Mod",

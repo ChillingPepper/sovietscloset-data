@@ -168,29 +168,29 @@ def combine_data():
         for key in ["name", "slug", "enabled", "recentlyUpdated"]:
             game[key] = index_game[key]
 
-        game["categories"] = list()
-        for index_category in index_game["subcategories"]:
-            category = dict()
+        game["playlists"] = list()
+        for index_subcategory in index_game["subcategories"]:
+            playlist = dict()
             for key in ["name", "slug", "enabled", "recentlyUpdated"]:
-                category[key] = index_category[key]
+                playlist[key] = index_subcategory[key]
 
-            category["videos"] = list()
-            for index_video in index_category["streams"]:
+            playlist["videos"] = list()
+            for index_video in index_subcategory["streams"]:
                 raw_video = json.load(open(f"raw/video/{index_video['id']}.json"))
                 combined_video = {**index_video, **raw_video}
 
                 video = dict()
 
                 video["title"] = game["name"]
-                if category["name"] != "Misc":
-                    video["title"] += f" - {category['name']}"
+                if playlist["name"] != "Misc":
+                    video["title"] += f" - {playlist['name']}"
                 video["title"] += f" #{combined_video['number']}"
 
                 for key in ["id", "date", "number", "bunnyId", "new"]:
                     video[key] = combined_video[key]
 
-                category["videos"].append(video)
-            game["categories"].append(category)
+                playlist["videos"].append(video)
+            game["playlists"].append(playlist)
         sovietscloset["games"].append(game)
 
     json.dump(sovietscloset, open("sovietscloset.json", "w"), indent=2)
