@@ -7166,7 +7166,7 @@
               "date": "2021-09-11 11:20",
               "number": 5,
               "bunnyId": "be79ca95-93a7-499d-806f-d28b24aa83a0",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #6",
@@ -7174,7 +7174,7 @@
               "date": "2021-09-11 21:06",
               "number": 6,
               "bunnyId": "7f3b6541-636c-4e6e-9d0e-a7e9820fd32d",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #7",
@@ -7182,7 +7182,7 @@
               "date": "2021-09-12 13:25",
               "number": 7,
               "bunnyId": "5d24b474-35e0-4371-a944-a65542203937",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #8",
@@ -7230,6 +7230,14 @@
               "date": "2021-09-16 11:11",
               "number": 13,
               "bunnyId": "3ad04b46-7e1e-4ca4-9219-e4025286c2e3",
+              "new": true
+            },
+            {
+              "title": "Stellaris - The Gardener's Tended #14",
+              "id": 6867,
+              "date": "2021-09-17 11:18",
+              "number": 14,
+              "bunnyId": "f76b1531-a1b4-4da1-b2df-ef0cbc11e120",
               "new": true
             }
           ]
