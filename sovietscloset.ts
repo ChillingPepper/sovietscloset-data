@@ -22,6 +22,7 @@ export interface SovietsClosetPlaylist extends SovietsClosetCategory {
 }
 
 export interface SovietsClosetVideo {
+    title: string;
     id: number;
     date: string;
     number: number;
