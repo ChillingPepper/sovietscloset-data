@@ -2200,13 +2200,13 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Factorio #1",
@@ -2367,6 +2367,14 @@
               "number": 20,
               "bunnyId": "e79588ce-6368-445a-9327-4035336f1351",
               "new": false
+            },
+            {
+              "title": "Factorio #21",
+              "id": 6868,
+              "date": "2021-09-20 11:03",
+              "number": 21,
+              "bunnyId": "32f71310-c0f1-403a-85ad-4902c08733a7",
+              "new": true
             }
           ]
         }
@@ -7190,7 +7198,7 @@
               "date": "2021-09-13 11:08",
               "number": 8,
               "bunnyId": "c0ccee73-2355-47d8-b2e5-dd2255ce3d73",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #9",
@@ -7198,7 +7206,7 @@
               "date": "2021-09-13 20:16",
               "number": 9,
               "bunnyId": "e53179f7-2a90-4f5b-8731-09659f54c942",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #10",
@@ -7206,7 +7214,7 @@
               "date": "2021-09-14 10:39",
               "number": 10,
               "bunnyId": "ba080f1b-9d1f-4b9f-86dc-8e1166d0bc08",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #11",
@@ -7214,7 +7222,7 @@
               "date": "2021-09-14 19:59",
               "number": 11,
               "bunnyId": "a52fa512-a5bd-463c-8813-c10b688879b3",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #12",
@@ -7870,6 +7878,14 @@
               "date": "2021-09-12 19:56",
               "number": 43,
               "bunnyId": "0322e7b9-7baf-4a34-8042-cf6a831ca1ce",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #44",
+              "id": 6869,
+              "date": "2021-09-19 20:01",
+              "number": 44,
+              "bunnyId": "887e3ce2-078d-4279-944d-df8dffdfe9a9",
               "new": true
             }
           ]
