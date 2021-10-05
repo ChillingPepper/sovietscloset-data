@@ -2200,13 +2200,13 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Factorio #1",
@@ -2374,7 +2374,23 @@
               "date": "2021-09-20 11:03",
               "number": 21,
               "bunnyId": "32f71310-c0f1-403a-85ad-4902c08733a7",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Factorio #22",
+              "id": 6870,
+              "date": "2021-09-21 20:33",
+              "number": 22,
+              "bunnyId": "b6aad5f2-b136-4e82-8ee7-2ff8e56c2fe9",
+              "new": false
+            },
+            {
+              "title": "Factorio #23",
+              "id": 6871,
+              "date": "2021-09-23 11:08",
+              "number": 23,
+              "bunnyId": "ec38db6e-2054-4546-bc29-8890d0ea45fb",
+              "new": false
             }
           ]
         }
@@ -6840,7 +6856,7 @@
       "name": "Stellaris",
       "slug": "Stellaris",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "name": "The Provion Dominion",
@@ -7134,7 +7150,7 @@
           "name": "The Gardener's Tended",
           "slug": "The-Gardener-s-Tended",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Stellaris - The Gardener's Tended #1",
@@ -7230,7 +7246,7 @@
               "date": "2021-09-15 20:12",
               "number": 12,
               "bunnyId": "8be3bd95-c762-4dd2-80b4-c6848247eb23",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #13",
@@ -7238,7 +7254,7 @@
               "date": "2021-09-16 11:11",
               "number": 13,
               "bunnyId": "3ad04b46-7e1e-4ca4-9219-e4025286c2e3",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #14",
@@ -7246,7 +7262,7 @@
               "date": "2021-09-17 11:18",
               "number": 14,
               "bunnyId": "f76b1531-a1b4-4da1-b2df-ef0cbc11e120",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -7536,13 +7552,13 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -7886,7 +7902,7 @@
               "date": "2021-09-19 20:01",
               "number": 44,
               "bunnyId": "887e3ce2-078d-4279-944d-df8dffdfe9a9",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9409,50 +9425,154 @@
           "recentlyUpdated": false,
           "videos": [
             {
-              "title": "VR Blade & Sorcery #2",
-              "id": 1445,
-              "date": "2020-05-28 11:31",
-              "number": 2,
-              "bunnyId": "c34dc737-6109-448a-a0fe-a2f33d4a47b0",
+              "title": "VR Blade & Sorcery #1",
+              "id": 6882,
+              "date": "2018-12-18 11:20",
+              "number": 1,
+              "bunnyId": "5604f949-0d98-425a-8ede-af83d4451d23",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #2",
-              "id": 1517,
-              "date": "2020-05-28 11:31",
+              "id": 6877,
+              "date": "2018-12-18 22:05",
               "number": 2,
-              "bunnyId": "dfbf0b94-fa8d-4bac-8fa5-248ca87b5b5a",
+              "bunnyId": "6337d826-3519-455a-9082-bb2c8397e073",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #3",
-              "id": 6773,
-              "date": "2020-07-01 11:46",
+              "id": 6880,
+              "date": "2018-12-19 11:23",
               "number": 3,
-              "bunnyId": "f99d768d-497a-48e8-8f7e-d53a9dc2a8bf",
+              "bunnyId": "6e798bf1-b9b2-4097-ad8a-934c9082ff99",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #4",
-              "id": 6771,
-              "date": "2020-07-02 22:12",
+              "id": 6872,
+              "date": "2018-12-19 22:01",
               "number": 4,
-              "bunnyId": "ea56acc3-4580-4f30-b5f8-1c426fce1921",
+              "bunnyId": "a3d02c62-20f6-41e4-a104-9f1cf0ec1433",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #5",
-              "id": 6772,
-              "date": "2020-07-03 11:07",
+              "id": 6873,
+              "date": "2018-12-20 22:17",
               "number": 5,
-              "bunnyId": "f7bba95b-5cdd-4214-91f5-5e17207b24b3",
+              "bunnyId": "716a5c69-61db-4208-aa69-62a56a507ca6",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #6",
+              "id": 6874,
+              "date": "2019-01-01 22:00",
+              "number": 6,
+              "bunnyId": "655659c1-bed1-413c-8f77-c07f74e3c9cc",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #7",
+              "id": 6875,
+              "date": "2019-01-02 20:04",
+              "number": 7,
+              "bunnyId": "2d2e2dd6-bfd3-4bb3-984b-d88e5b5e92c9",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #8",
+              "id": 6876,
+              "date": "2019-01-02 20:30",
+              "number": 8,
+              "bunnyId": "205aa555-b150-4b1f-af2b-aaa385f1c1a5",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #9",
+              "id": 6878,
+              "date": "2019-01-02 20:43",
+              "number": 9,
+              "bunnyId": "5baf1045-588c-416c-baae-3aeaf5bedef4",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #10",
+              "id": 6881,
+              "date": "2019-01-30 11:40",
+              "number": 10,
+              "bunnyId": "7937b0a1-0f90-4983-a93f-94e7e606f920",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #11",
+              "id": 6879,
+              "date": "2019-02-01 12:22",
+              "number": 11,
+              "bunnyId": "4a7e3c75-007e-4996-91d0-1edfedcb0525",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #12",
+              "id": 6883,
+              "date": "2019-02-01 20:13",
+              "number": 12,
+              "bunnyId": "3f6839dc-09cf-4744-a3bc-97fa75ad858b",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #13",
+              "id": 6884,
+              "date": "2019-02-02 19:51",
+              "number": 13,
+              "bunnyId": "49fd2b56-b4e8-411c-9483-c0c0c6704d0b",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #15",
+              "id": 1445,
+              "date": "2020-05-28 11:31",
+              "number": 15,
+              "bunnyId": "c34dc737-6109-448a-a0fe-a2f33d4a47b0",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #15",
+              "id": 1517,
+              "date": "2020-05-28 11:31",
+              "number": 15,
+              "bunnyId": "dfbf0b94-fa8d-4bac-8fa5-248ca87b5b5a",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #16",
+              "id": 6773,
+              "date": "2020-07-01 11:46",
+              "number": 16,
+              "bunnyId": "f99d768d-497a-48e8-8f7e-d53a9dc2a8bf",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #17",
+              "id": 6771,
+              "date": "2020-07-02 22:12",
+              "number": 17,
+              "bunnyId": "ea56acc3-4580-4f30-b5f8-1c426fce1921",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #18",
+              "id": 6772,
+              "date": "2020-07-03 11:07",
+              "number": 18,
+              "bunnyId": "f7bba95b-5cdd-4214-91f5-5e17207b24b3",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #19",
               "id": 1148,
               "date": "2020-09-21 11:21",
-              "number": 6,
+              "number": 19,
               "bunnyId": "46d27512-4d32-44b9-9790-886bcd964317",
               "new": false
             }
