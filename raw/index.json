@@ -1737,6 +1737,12 @@
             "useBunny": true
           },
           {
+            "id": 6911,
+            "date": "2016-03-21 13:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6807,
             "date": "2016-03-22 18:27",
             "new": false,
@@ -1962,11 +1968,65 @@
     ]
   },
   {
+    "id": 6058,
+    "name": "Hardspace: Shipbreaker",
+    "slug": "Hardspace-Shipbreaker",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 6070,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6886,
+            "date": "2021-09-28 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6890,
+            "date": "2021-09-28 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6888,
+            "date": "2021-09-29 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6889,
+            "date": "2021-09-29 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6885,
+            "date": "2021-09-30 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6887,
+            "date": "2021-10-01 20:17",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 1007,
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -2124,6 +2184,12 @@
             "useBunny": true
           },
           {
+            "id": 6896,
+            "date": "2020-11-19 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1642,
             "date": "2020-11-26 20:46",
             "new": false,
@@ -2220,14 +2286,38 @@
             "useBunny": true
           },
           {
+            "id": 6909,
+            "date": "2021-08-26 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6819,
             "date": "2021-09-09 20:53",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6908,
+            "date": "2021-09-16 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6907,
+            "date": "2021-09-30 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6906,
+            "date": "2021-10-07 20:49",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3148,7 +3238,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1004,
@@ -4291,10 +4381,49 @@
             "date": "2021-04-21 20:34",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6891,
+            "date": "2021-04-22 11:05",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 6071,
+        "name": "The Pale Ones",
+        "slug": "The-Pale-Ones",
+        "streams": [
+          {
+            "id": 6895,
+            "date": "2021-10-05 20:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6894,
+            "date": "2021-10-06 11:17",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6897,
+            "date": "2021-10-06 20:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6910,
+            "date": "2021-10-08 11:03",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5893,7 +6022,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -6157,10 +6286,16 @@
             "date": "2021-09-19 20:01",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6899,
+            "date": "2021-10-03 19:58",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7343,6 +7478,60 @@
           {
             "id": 5691,
             "date": "2021-07-07 20:40",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6059,
+    "name": "Valkyria Chronicles",
+    "slug": "Valkyria-Chronicles",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6072,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6903,
+            "date": "2017-05-01 20:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6901,
+            "date": "2017-05-02 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6902,
+            "date": "2017-05-02 20:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6904,
+            "date": "2017-05-03 10:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6900,
+            "date": "2017-05-03 20:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6905,
+            "date": "2017-05-04 11:09",
             "new": false,
             "useBunny": true
           }

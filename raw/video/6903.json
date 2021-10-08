@@ -1,0 +1,43 @@
+{
+  "streamId": 6903,
+  "date": "2017-05-01 20:41",
+  "game": {
+    "name": "Valkyria Chronicles",
+    "slug": "Valkyria-Chronicles"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6903,
+        "date": "2017-05-01 20:41"
+      },
+      {
+        "streamId": 6901,
+        "date": "2017-05-02 11:20"
+      },
+      {
+        "streamId": 6902,
+        "date": "2017-05-02 20:43"
+      },
+      {
+        "streamId": 6904,
+        "date": "2017-05-03 10:50"
+      },
+      {
+        "streamId": 6900,
+        "date": "2017-05-03 20:40"
+      },
+      {
+        "streamId": 6905,
+        "date": "2017-05-04 11:09"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "f630abb9-6883-4f00-8b8e-8c96fa84ab90",
+  "useBunny": true
+}
