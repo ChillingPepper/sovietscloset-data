@@ -1,6 +1,6 @@
 {
-  "streamId": 1105,
-  "date": "2016-04-20 13:00",
+  "streamId": 6916,
+  "date": "2017-03-05 20:35",
   "game": {
     "name": "Arma 3",
     "slug": "Arma-3"
@@ -68,8 +68,8 @@
       }
     ]
   },
-  "number": 3,
-  "vimeoEmbedHtml": "<iframe src=\"https://player.vimeo.com/video/459800096?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=187937\" width=\"400\" height=\"300\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"2016-04-20 13-00-00\"></iframe>",
-  "bunnyId": "c0e5e76f-3a93-40b4-bf01-12343c2eec5d",
+  "number": 14,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "85754d09-d701-4187-ac3f-720b0522be18",
   "useBunny": true
 }
