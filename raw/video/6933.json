@@ -1,0 +1,35 @@
+{
+  "streamId": 6933,
+  "date": "2018-01-16 20:07",
+  "game": {
+    "name": "Besiege",
+    "slug": "Besiege"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6936,
+        "date": "2018-01-13 21:16"
+      },
+      {
+        "streamId": 6934,
+        "date": "2018-01-15 11:15"
+      },
+      {
+        "streamId": 6935,
+        "date": "2018-01-15 20:32"
+      },
+      {
+        "streamId": 6933,
+        "date": "2018-01-16 20:07"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "fab4c495-e3c3-4e8a-9241-4e96bc47e5f8",
+  "useBunny": true
+}

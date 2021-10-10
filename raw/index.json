@@ -507,6 +507,18 @@
             "useBunny": true
           },
           {
+            "id": 6929,
+            "date": "2016-08-08 11:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6931,
+            "date": "2016-08-09 12:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6922,
             "date": "2016-08-16 13:36",
             "new": false,
@@ -525,14 +537,32 @@
             "useBunny": true
           },
           {
+            "id": 6928,
+            "date": "2016-09-07 22:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6925,
             "date": "2016-09-08 12:37",
             "new": false,
             "useBunny": true
           },
           {
+            "id": 6927,
+            "date": "2016-09-12 21:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6924,
             "date": "2016-09-13 13:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6926,
+            "date": "2016-09-14 13:22",
             "new": false,
             "useBunny": true
           },
@@ -555,6 +585,12 @@
             "useBunny": true
           },
           {
+            "id": 6930,
+            "date": "2017-03-07 10:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6918,
             "date": "2017-08-09 20:03",
             "new": false,
@@ -569,6 +605,48 @@
           {
             "id": 6919,
             "date": "2017-12-19 19:19",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 6060,
+    "name": "Besiege",
+    "slug": "Besiege",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6073,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 6936,
+            "date": "2018-01-13 21:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6934,
+            "date": "2018-01-15 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6935,
+            "date": "2018-01-15 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6933,
+            "date": "2018-01-16 20:07",
             "new": false,
             "useBunny": true
           }

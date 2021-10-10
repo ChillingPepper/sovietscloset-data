@@ -1,6 +1,6 @@
 {
-  "streamId": 6915,
-  "date": "2017-03-03 21:03",
+  "streamId": 6927,
+  "date": "2016-09-12 21:55",
   "game": {
     "name": "Arma 3",
     "slug": "Arma-3"
@@ -92,8 +92,8 @@
       }
     ]
   },
-  "number": 16,
+  "number": 11,
   "vimeoEmbedHtml": null,
-  "bunnyId": "d6861946-8b9a-44cd-b7ed-dc56dc9ac095",
+  "bunnyId": "9746c14a-bb02-4e17-b582-f73e54495c6a",
   "useBunny": true
 }
