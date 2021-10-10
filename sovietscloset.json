@@ -874,10 +874,98 @@
           "videos": [
             {
               "title": "Blackwake #1",
+              "id": 6939,
+              "date": "2017-04-01 11:54",
+              "number": 1,
+              "bunnyId": "d4e5c17f-3272-4421-a2a2-f8e3440987ce",
+              "new": false
+            },
+            {
+              "title": "Blackwake #2",
+              "id": 6943,
+              "date": "2017-10-30 20:41",
+              "number": 2,
+              "bunnyId": "c22c1273-73ec-477a-8c12-c6d284bd6aec",
+              "new": false
+            },
+            {
+              "title": "Blackwake #3",
+              "id": 6941,
+              "date": "2017-10-31 11:19",
+              "number": 3,
+              "bunnyId": "7399113d-a0a0-45f8-86f5-638a73b079bc",
+              "new": false
+            },
+            {
+              "title": "Blackwake #4",
+              "id": 6942,
+              "date": "2017-11-02 20:12",
+              "number": 4,
+              "bunnyId": "f6801753-78d2-47b2-871e-2c45e024e796",
+              "new": false
+            },
+            {
+              "title": "Blackwake #5",
+              "id": 6940,
+              "date": "2017-11-07 20:25",
+              "number": 5,
+              "bunnyId": "34819e2e-75f8-4144-bd21-95353f3f4f65",
+              "new": false
+            },
+            {
+              "title": "Blackwake #6",
+              "id": 6944,
+              "date": "2017-11-14 19:59",
+              "number": 6,
+              "bunnyId": "918d562e-ee2a-4fd9-849c-cb6e9fca717f",
+              "new": false
+            },
+            {
+              "title": "Blackwake #7",
+              "id": 6947,
+              "date": "2020-06-02 20:10",
+              "number": 7,
+              "bunnyId": "0dad9efa-3a88-49d6-8dad-4a3dc22a552b",
+              "new": false
+            },
+            {
+              "title": "Blackwake #8",
+              "id": 6946,
+              "date": "2020-06-23 19:06",
+              "number": 8,
+              "bunnyId": "4b689b25-3c12-4a4a-8520-2a1fcfbe3fb8",
+              "new": false
+            },
+            {
+              "title": "Blackwake #9",
+              "id": 6945,
+              "date": "2020-06-30 20:08",
+              "number": 9,
+              "bunnyId": "5afea026-9e7c-4825-a4b5-017d812dd870",
+              "new": false
+            },
+            {
+              "title": "Blackwake #10",
+              "id": 6948,
+              "date": "2020-07-03 20:00",
+              "number": 10,
+              "bunnyId": "c52b8834-28f6-459d-aa59-578b344a30fa",
+              "new": false
+            },
+            {
+              "title": "Blackwake #12",
               "id": 6748,
               "date": "2021-06-08 20:04",
-              "number": 1,
+              "number": 12,
               "bunnyId": "026b61cc-dbc3-4d71-b74e-2f85d3445c8e",
+              "new": false
+            },
+            {
+              "title": "Blackwake #12",
+              "id": 6949,
+              "date": "2021-06-08 20:04",
+              "number": 12,
+              "bunnyId": "bb0fcbdb-8ea2-4523-b70a-9703ae7cd8df",
               "new": false
             }
           ]
