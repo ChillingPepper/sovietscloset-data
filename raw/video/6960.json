@@ -1,0 +1,43 @@
+{
+  "streamId": 6960,
+  "date": "2021-10-11 11:05",
+  "game": {
+    "name": "Rimworld",
+    "slug": "Rimworld"
+  },
+  "subcategory": {
+    "name": "The Pale Ones",
+    "slug": "The-Pale-Ones",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 6895,
+        "date": "2021-10-05 20:14"
+      },
+      {
+        "streamId": 6894,
+        "date": "2021-10-06 11:17"
+      },
+      {
+        "streamId": 6897,
+        "date": "2021-10-06 20:06"
+      },
+      {
+        "streamId": 6910,
+        "date": "2021-10-08 11:03"
+      },
+      {
+        "streamId": 6960,
+        "date": "2021-10-11 11:05"
+      },
+      {
+        "streamId": 6961,
+        "date": "2021-10-11 11:16"
+      }
+    ]
+  },
+  "number": 8,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "64dda1fe-b357-4e87-831e-e80aeeb69d55",
+  "useBunny": true
+}
