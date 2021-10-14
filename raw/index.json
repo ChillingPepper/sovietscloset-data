@@ -2107,6 +2107,18 @@
             "date": "2021-09-23 11:08",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6981,
+            "date": "2021-09-23 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6980,
+            "date": "2021-09-24 11:14",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -2260,7 +2272,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -2552,12 +2564,12 @@
           {
             "id": 6906,
             "date": "2021-10-07 20:49",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4640,19 +4652,19 @@
           {
             "id": 6895,
             "date": "2021-10-05 20:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6894,
             "date": "2021-10-06 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6897,
             "date": "2021-10-06 20:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -4670,6 +4682,12 @@
           {
             "id": 6961,
             "date": "2021-10-11 11:16",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6977,
+            "date": "2021-10-12 11:02",
             "new": true,
             "useBunny": true
           }
@@ -4904,6 +4922,18 @@
           {
             "id": 6749,
             "date": "2021-08-24 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6979,
+            "date": "2021-09-25 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6978,
+            "date": "2021-09-27 11:13",
             "new": false,
             "useBunny": true
           }
