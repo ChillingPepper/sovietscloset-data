@@ -2697,11 +2697,27 @@
               "new": false
             },
             {
-              "title": "Factorio #25",
+              "title": "Factorio #26",
               "id": 6871,
               "date": "2021-09-23 11:08",
-              "number": 25,
+              "number": 26,
               "bunnyId": "ec38db6e-2054-4546-bc29-8890d0ea45fb",
+              "new": false
+            },
+            {
+              "title": "Factorio #26",
+              "id": 6981,
+              "date": "2021-09-23 11:08",
+              "number": 26,
+              "bunnyId": "f7719498-94fc-4d59-aecc-469c9b630153",
+              "new": false
+            },
+            {
+              "title": "Factorio #27",
+              "id": 6980,
+              "date": "2021-09-24 11:14",
+              "number": 27,
+              "bunnyId": "b415d9f4-d0e1-4841-bc43-21fe2241d22f",
               "new": false
             }
           ]
@@ -2880,13 +2896,13 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -3270,7 +3286,7 @@
               "date": "2021-10-07 20:49",
               "number": 48,
               "bunnyId": "9cc527c2-8f52-4544-8244-c5219c556073",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -5934,7 +5950,7 @@
               "date": "2021-10-05 20:14",
               "number": 3,
               "bunnyId": "81ead614-751b-458a-9b6d-4d8d61feb6a3",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #4",
@@ -5942,7 +5958,7 @@
               "date": "2021-10-06 11:17",
               "number": 4,
               "bunnyId": "b6612f6e-7dbf-4501-8fb6-b1af8bc59add",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #5",
@@ -5950,7 +5966,7 @@
               "date": "2021-10-06 20:06",
               "number": 5,
               "bunnyId": "332a8297-a247-4909-aad7-5c8b7d116c2a",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #7",
@@ -5974,6 +5990,14 @@
               "date": "2021-10-11 11:16",
               "number": 9,
               "bunnyId": "aa241958-c44a-4dfb-af46-f700ffc87f43",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #10",
+              "id": 6977,
+              "date": "2021-10-12 11:02",
+              "number": 10,
+              "bunnyId": "8c6f9ba7-22ee-48c5-b561-22ab84d4d63c",
               "new": true
             }
           ]
@@ -6278,6 +6302,22 @@
               "date": "2021-08-24 11:21",
               "number": 37,
               "bunnyId": "fe53d764-77b5-4c81-9fb0-25b0f8892742",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #38",
+              "id": 6979,
+              "date": "2021-09-25 20:00",
+              "number": 38,
+              "bunnyId": "226d96e6-86a5-41c4-a33b-5bd2b53db293",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #39",
+              "id": 6978,
+              "date": "2021-09-27 11:13",
+              "number": 39,
+              "bunnyId": "976e98b4-be3c-4687-aa58-91df2062fd47",
               "new": false
             }
           ]
