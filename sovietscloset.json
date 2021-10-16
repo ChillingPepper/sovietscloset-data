@@ -5974,7 +5974,7 @@
               "date": "2021-10-08 11:03",
               "number": 7,
               "bunnyId": "7b555d9d-0720-40cb-a79d-7707e2a817ff",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #8",
@@ -5998,6 +5998,30 @@
               "date": "2021-10-12 11:02",
               "number": 10,
               "bunnyId": "8c6f9ba7-22ee-48c5-b561-22ab84d4d63c",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #11",
+              "id": 6983,
+              "date": "2021-10-13 20:12",
+              "number": 11,
+              "bunnyId": "5912504f-43b6-46b8-99e0-8c3c1080a9cc",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #12",
+              "id": 6982,
+              "date": "2021-10-14 11:07",
+              "number": 12,
+              "bunnyId": "3a0114b3-d429-486e-9ea7-eb7902d1a53f",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #13",
+              "id": 6984,
+              "date": "2021-10-15 11:10",
+              "number": 13,
+              "bunnyId": "45b1ff86-d320-460a-be05-ecbb8fb97c4b",
               "new": true
             }
           ]
