@@ -5982,7 +5982,7 @@
               "date": "2021-10-11 11:05",
               "number": 8,
               "bunnyId": "64dda1fe-b357-4e87-831e-e80aeeb69d55",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #9",
@@ -5990,7 +5990,7 @@
               "date": "2021-10-11 11:16",
               "number": 9,
               "bunnyId": "aa241958-c44a-4dfb-af46-f700ffc87f43",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #10",
@@ -5998,7 +5998,7 @@
               "date": "2021-10-12 11:02",
               "number": 10,
               "bunnyId": "8c6f9ba7-22ee-48c5-b561-22ab84d4d63c",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #11",
@@ -6656,13 +6656,13 @@
       "name": "Silent Hunter 3",
       "slug": "Silent-Hunter-3",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Silent Hunter 3 #1",
@@ -6871,6 +6871,30 @@
               "number": 27,
               "bunnyId": "dc8bd427-5ca4-4f80-8e1d-d5761bc49b5b",
               "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #28",
+              "id": 6988,
+              "date": "2021-10-16 16:37",
+              "number": 28,
+              "bunnyId": "1da31e24-4f4f-4e65-936c-5b13560b10aa",
+              "new": true
+            },
+            {
+              "title": "Silent Hunter 3 #29",
+              "id": 6989,
+              "date": "2021-10-17 14:19",
+              "number": 29,
+              "bunnyId": "fbb30b3c-bd7e-45ab-8125-eb21d8810da3",
+              "new": true
+            },
+            {
+              "title": "Silent Hunter 3 #30",
+              "id": 6987,
+              "date": "2021-10-18 11:01",
+              "number": 30,
+              "bunnyId": "18ef9876-95e2-41dd-a7ef-4ba727e3d466",
+              "new": true
             }
           ]
         }
@@ -8458,18 +8482,34 @@
             },
             {
               "title": "Team Fortress 2 #45",
-              "id": 6899,
-              "date": "2021-10-03 19:58",
+              "id": 6985,
+              "date": "2021-09-26 19:54",
               "number": 45,
-              "bunnyId": "f64076d4-fefc-4b20-8743-6281c7939f5b",
+              "bunnyId": "9822c5ed-6c4d-441a-a675-82ec49d187a8",
               "new": false
             },
             {
               "title": "Team Fortress 2 #46",
+              "id": 6899,
+              "date": "2021-10-03 19:58",
+              "number": 46,
+              "bunnyId": "f64076d4-fefc-4b20-8743-6281c7939f5b",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #47",
               "id": 6962,
               "date": "2021-10-10 20:00",
-              "number": 46,
+              "number": 47,
               "bunnyId": "91412429-3578-456d-9518-eae1b96aed74",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #48",
+              "id": 6986,
+              "date": "2021-10-17 19:57",
+              "number": 48,
+              "bunnyId": "cd0788a9-2db9-4cfc-94b5-a490e2c1b726",
               "new": true
             }
           ]
