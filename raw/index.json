@@ -4676,19 +4676,19 @@
           {
             "id": 6960,
             "date": "2021-10-11 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6961,
             "date": "2021-10-11 11:16",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6977,
             "date": "2021-10-12 11:02",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -5200,7 +5200,7 @@
     "name": "Silent Hunter 3",
     "slug": "Silent-Hunter-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1020,
@@ -5362,10 +5362,28 @@
             "date": "2021-07-16 11:24",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6988,
+            "date": "2021-10-16 16:37",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6989,
+            "date": "2021-10-17 14:19",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 6987,
+            "date": "2021-10-18 11:01",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6588,6 +6606,12 @@
             "useBunny": true
           },
           {
+            "id": 6985,
+            "date": "2021-09-26 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6899,
             "date": "2021-10-03 19:58",
             "new": false,
@@ -6596,6 +6620,12 @@
           {
             "id": 6962,
             "date": "2021-10-10 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6986,
+            "date": "2021-10-17 19:57",
             "new": true,
             "useBunny": true
           }
