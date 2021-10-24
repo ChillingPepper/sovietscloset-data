@@ -55,13 +55,16 @@ def js_to_json(code, vars={}):
             \b(?:0[xX][0-9a-fA-F]+|0+[0-7]+)(?:{skip}:)?|
             [0-9]+(?={skip}:)|
             !+
-        """.format(comment=COMMENT_RE, skip=SKIP_RE),
+        """.format(
+            comment=COMMENT_RE, skip=SKIP_RE
+        ),
         fix_kv,
         code,
     )
 
 
-MEDIADELIVERY_REFERER = {'Referer': 'https://iframe.mediadelivery.net/'}
+MEDIADELIVERY_REFERER = {"Referer": "https://iframe.mediadelivery.net/"}
+
 
 def download(url, headers={}, progress=None):
     if not progress:
@@ -93,18 +96,25 @@ def parse_nuxt_jsonp(nuxt_jsonp):
 
 def get_global_vars():
     video_html = download("https://sovietscloset.com/video/1234")
-    video_match = next(re.finditer(r'https:\/\/iframe\.mediadelivery\.net\/embed\/(?P<video_library_id>[0-9]+)\/(?P<video_id>[0-9a-f-]+)', video_html))
+    video_match = next(
+        re.finditer(
+            r"https:\/\/iframe\.mediadelivery\.net\/embed\/(?P<video_library_id>[0-9]+)\/(?P<video_id>[0-9a-f-]+)",
+            video_html,
+        )
+    )
 
-    static_assets_base = re.findall(r'staticAssetsBase:\"(.*?)\"', video_html)[0]
-    static_assets_base = f'https://sovietscloset.com{static_assets_base}'
+    static_assets_base = re.findall(r"staticAssetsBase:\"(.*?)\"", video_html)[0]
+    static_assets_base = f"https://sovietscloset.com{static_assets_base}"
 
     video_library_id = video_match.group("video_library_id")
     video_id = video_match.group("video_id")
     embed_url = video_match[0]
 
     embed_html = download(embed_url, headers=MEDIADELIVERY_REFERER)
-    embed_match = next(re.finditer(r'https:\/\/(?P<pull_zone>.*)\.b-cdn\.net\/%s\/' % video_id, embed_html))
-    pull_zone = embed_match.group('pull_zone')
+    embed_match = next(
+        re.finditer(r"https:\/\/(?P<pull_zone>.*)\.b-cdn\.net\/%s\/" % video_id, embed_html)
+    )
+    pull_zone = embed_match.group("pull_zone")
 
     # Path("debug.video.html").write_text(video_html)
     # Path("debug.embed.html").write_text(embed_html)
@@ -112,7 +122,7 @@ def get_global_vars():
     return {
         "staticAssetsBase": static_assets_base,
         "pullZone": pull_zone,
-        "videoLibraryId": video_library_id
+        "videoLibraryId": video_library_id,
     }
 
 
@@ -138,7 +148,12 @@ def update_raw_data():
     json.dump(sovietscloset, open("raw/index.json", "w"), indent=2)
 
     print(f"[update_raw_data] updating video data")
-    video_ids = [stream["id"] for game in sovietscloset for subcategory in game["subcategories"] for stream in subcategory["streams"]]
+    video_ids = [
+        stream["id"]
+        for game in sovietscloset
+        for subcategory in game["subcategories"]
+        for stream in subcategory["streams"]
+    ]
     for i, video_id in enumerate(video_ids, start=1):
         stream_details_url = f"{base_url}/video/{video_id}/payload.js"
         stream_details_jsonp = download(stream_details_url, progress=(i, len(video_ids)))
