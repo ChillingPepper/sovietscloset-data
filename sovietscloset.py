@@ -11,6 +11,9 @@ class SovietsCloset:
 
     @dataclass
     class Video:
+        game: "SovietsCloset.Game"
+        playlist: "SovietsCloset.Playlist"
+
         title: str
         id: int
         date: str
@@ -27,11 +30,27 @@ class SovietsCloset:
 
     @dataclass
     class Playlist(Category):
+        game: "SovietsCloset.Game"
+
         videos: List["SovietsCloset.Video"]
+
+        def __iter__(self):
+            for video in self.videos:
+                yield video
+
+        def __getitem__(self, i):
+            return self.videos[i]
 
     @dataclass
     class Game(Category):
         playlists: List["SovietsCloset.Playlist"]
+
+        def __iter__(self):
+            for playlist in self.playlists:
+                yield playlist
+
+        def __getitem__(self, i):
+            return self.playlists[i]
 
     bunnyCdn: BunnyCdn
     games: List[Game]
@@ -49,11 +68,25 @@ class SovietsCloset:
         for game in self._json["games"]:
             playlists = list()
             for playlist in game["playlists"]:
-                videos = list()
-                for video in playlist["videos"]:
-
-                    videos.append(SovietsCloset.Video(**video))
-                playlist["videos"] = videos
+                playlist["game"] = None
+                for i, video in enumerate(playlist["videos"]):
+                    video["game"] = None
+                    video["playlist"] = None
+                    playlist["videos"][i] = SovietsCloset.Video(**video)
                 playlists.append(SovietsCloset.Playlist(**playlist))
             game["playlists"] = playlists
             self.games.append(SovietsCloset.Game(**game))
+
+        for game in self:
+            for playlist in game:
+                playlist.game = game
+                for video in playlist:
+                    video.game = game
+                    video.playlist = playlist
+
+    def __iter__(self):
+        for game in self.games:
+            yield game
+
+    def __getitem__(self, i):
+        return self.games[i]
