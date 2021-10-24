@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 from dataclasses import dataclass
 from typing import List, Optional
@@ -52,6 +53,7 @@ class SovietsCloset:
         def __getitem__(self, i):
             return self.playlists[i]
 
+    timestamp: datetime
     bunnyCdn: BunnyCdn
     games: List[Game]
 
@@ -62,6 +64,7 @@ class SovietsCloset:
         self._filename = filename
         self._json = json.load(open(filename))
 
+        self.timestamp = datetime.utcfromtimestamp(self._json["timestamp"])
         self.bunny_cdn = SovietsCloset.BunnyCdn(**self._json["bunnyCdn"])
 
         self.games = list()

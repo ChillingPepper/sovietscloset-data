@@ -10,16 +10,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: python update.py
-      - run: |
+      - name: Push changes
+        run: |
+          set -x
+
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
           if [[ $(git status --porcelain) ]]; then
-            echo "commit and push changes"
-            git config user.name github-actions[bot]
-            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
             git add raw
             git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ") raw"
-            git add sovietscloset.json
-            git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ") combined"
+            git add sovietscloset.json OOPSIES.md
+            git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin master
-          else
-            echo "no changes"
           fi
