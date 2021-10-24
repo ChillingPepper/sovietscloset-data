@@ -16,6 +16,8 @@ class SovietsCloset:
         playlist: "SovietsCloset.Playlist"
 
         title: str
+        url: str
+
         id: int
         date: str
         number: int
@@ -24,6 +26,9 @@ class SovietsCloset:
 
     @dataclass
     class Category:
+        title: str
+        url: str
+
         name: str
         slug: str
         enabled: bool
@@ -36,8 +41,7 @@ class SovietsCloset:
         videos: List["SovietsCloset.Video"]
 
         def __iter__(self):
-            for video in self.videos:
-                yield video
+            yield from self.videos
 
         def __getitem__(self, i):
             return self.videos[i]
@@ -47,11 +51,15 @@ class SovietsCloset:
         playlists: List["SovietsCloset.Playlist"]
 
         def __iter__(self):
-            for playlist in self.playlists:
-                yield playlist
+            yield from self.playlists
 
         def __getitem__(self, i):
             return self.playlists[i]
+
+        @property
+        def videos(self):
+            for playlist in self.playlists:
+                yield from playlist
 
     timestamp: datetime
     bunnyCdn: BunnyCdn
@@ -80,7 +88,7 @@ class SovietsCloset:
             game["playlists"] = playlists
             self.games.append(SovietsCloset.Game(**game))
 
-        for game in self:
+        for game in self.games:
             for playlist in game:
                 playlist.game = game
                 for video in playlist:
@@ -88,8 +96,17 @@ class SovietsCloset:
                     video.playlist = playlist
 
     def __iter__(self):
-        for game in self.games:
-            yield game
+        yield from self.games
 
     def __getitem__(self, i):
         return self.games[i]
+
+    @property
+    def playlists(self):
+        for game in self.games:
+            yield from game.playlists
+
+    @property
+    def videos(self):
+        for playlist in self.playlists:
+            yield from playlist

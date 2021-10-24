@@ -184,12 +184,19 @@ def combine_data():
     sovietscloset["games"] = list()
     for index_game in raw_index:
         game = dict()
+        game["title"] = index_game["name"]
+        game["url"] = f"https://sovietscloset.com/{index_game['slug']}"
         for key in ["name", "slug", "enabled", "recentlyUpdated"]:
             game[key] = index_game[key]
 
         game["playlists"] = list()
         for index_subcategory in index_game["subcategories"]:
             playlist = dict()
+            playlist["title"] = game["title"]
+            playlist["url"] = game["url"]
+            if index_subcategory["name"] != "Misc":
+                playlist["title"] += f" - {index_subcategory['name']}"
+                playlist["url"] += f"/{index_subcategory['slug']}"
             for key in ["name", "slug", "enabled", "recentlyUpdated"]:
                 playlist[key] = index_subcategory[key]
 
@@ -199,12 +206,8 @@ def combine_data():
                 combined_video = {**index_video, **raw_video}
 
                 video = dict()
-
-                video["title"] = game["name"]
-                if playlist["name"] != "Misc":
-                    video["title"] += f" - {playlist['name']}"
-                video["title"] += f" #{combined_video['number']}"
-
+                video["title"] = f"{playlist['title']} #{combined_video['number']}"
+                video["url"] = f"https://sovietscloset.com/video/{combined_video['id']}"
                 for key in ["id", "date", "number", "bunnyId", "new"]:
                     video[key] = combined_video[key]
 
@@ -302,18 +305,12 @@ def update_oopsies():
     if len(missing_completely):
         last_title = None
         for playlist, start, stop in missing_completely:
-            title = playlist.game.name
-            url = f"https://sovietscloset.com/{playlist.game.slug}"
-            if playlist.name != "Misc":
-                title += f" - {playlist.name}"
-                url += f"/{playlist.slug}"
-
-            if title != last_title:
-                oopsies_md += f"- [{title}]({url})\n"
-                last_title = title
+            if playlist.title != last_title:
+                oopsies_md += f"- [{playlist.title}]({playlist.url})\n"
+                last_title = playlist.title
 
             for i in range(start, stop + 1):
-                oopsies_md += f"  - {title} #{i}\n"
+                oopsies_md += f"  - {playlist.title} #{i}\n"
     else:
         oopsies_md += "All playlists are continuous. :tada:\n"
     oopsies_md += "\n"
