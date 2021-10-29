@@ -20,7 +20,7 @@ jobs:
           if [[ $(git status --porcelain) ]]; then
             git add raw
             git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ") raw"
-            git add sovietscloset.json OOPSIES.md
+            git add sovietscloset.json CHANGELOG.md OOPSIES.md
             git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
             git push origin master
           fi

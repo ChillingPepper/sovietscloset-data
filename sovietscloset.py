@@ -24,6 +24,15 @@ class SovietsCloset:
         bunnyId: Optional[str]
         new: bool
 
+        def __eq__(self, other: "SovietsCloset.Video") -> bool:
+            return (
+                self.id == other.id
+                and self.date == other.date
+                and self.number == other.number
+                and self.bunnyId == other.bunnyId
+                and self.new == other.new
+            )
+
     @dataclass
     class Category:
         title: str
@@ -34,11 +43,22 @@ class SovietsCloset:
         enabled: bool
         recentlyUpdated: bool
 
+    def __eq__(self, other: "SovietsCloset.Category") -> bool:
+        return (
+            self.name == other.name
+            and self.slug == other.slug
+            and self.enabled == other.enabled
+            and self.recentlyUpdated == other.recentlyUpdated
+        )
+
     @dataclass
     class Playlist(Category):
         game: "SovietsCloset.Game"
 
         videos: List["SovietsCloset.Video"]
+
+        def __eq__(self, other: "SovietsCloset.Playlist") -> bool:
+            return SovietsCloset.Category.__eq__(self, other)
 
         def __iter__(self):
             yield from self.videos
@@ -49,6 +69,9 @@ class SovietsCloset:
     @dataclass
     class Game(Category):
         playlists: List["SovietsCloset.Playlist"]
+
+        def __eq__(self, other: "SovietsCloset.Game") -> bool:
+            return SovietsCloset.Category.__eq__(self, other)
 
         def __iter__(self):
             yield from self.playlists
