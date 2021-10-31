@@ -1,11 +1,15 @@
 import json
 import re
+import time
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
 from typing import Dict, List, Optional
 
+import eventlet
 import requests
+from eventlet.green.urllib.request import urlopen
+from eventlet.greenthread import sleep
 
 from sovietscloset import SovietsCloset
 
@@ -158,18 +162,34 @@ def update_raw_data():
     json.dump(sovietscloset, open("raw/index.json", "w"), indent=2)
 
     log("update_raw_data", "updating video data")
+
+    def update_raw_video(video_id):
+        stream_details_url = f"{base_url}/video/{video_id}/payload.js"
+        # log("update_raw_video", f"downloading {stream_details_url}")
+        stream_details_jsonp = urlopen(stream_details_url).read().decode("utf-8")
+        sleep()
+        stream_details = parse_nuxt_jsonp(stream_details_jsonp)["stream"]
+        sleep()
+        json.dump(stream_details, open(f"raw/video/{video_id}.json", "w"), indent=2)
+
+    pool = eventlet.GreenPool(32)
     video_ids = [
         stream["id"]
         for game in sovietscloset
         for subcategory in game["subcategories"]
         for stream in subcategory["streams"]
     ]
-    for i, video_id in enumerate(video_ids, start=1):
-        stream_details_url = f"{base_url}/video/{video_id}/payload.js"
-        stream_details_jsonp = download(stream_details_url, progress=(i, len(video_ids)))
-        # Path("debug.video.payload.js").write_text(stream_details_jsonp)
-        stream_details = parse_nuxt_jsonp(stream_details_jsonp)["stream"]
-        json.dump(stream_details, open(f"raw/video/{video_id}.json", "w"), indent=2)
+
+    start_time = time.time()
+    progress_index = 0
+    progress_max = str(len(video_ids))
+    for _ in pool.imap(update_raw_video, video_ids):
+        progress_index += 1
+        progress_index_rjust = str(progress_index).rjust(len(progress_max), "0")
+        progress = f"{progress_index_rjust}/{progress_max}"
+        log("update_raw_data", f"updated video {progress}")
+
+    log("update_raw_data", f"updating video details took {time.time() - start_time:.2f} seconds")
 
     log("update_raw_data", "caching static_assets_timestamp")
     Path("raw/static_assets_timestamp").write_text(str(static_assets_timestamp))
