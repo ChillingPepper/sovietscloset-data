@@ -1,5 +1,6 @@
 import json
 import re
+from datetime import datetime
 from enum import Enum
 from pathlib import Path
 from typing import Dict, List, Optional
@@ -70,14 +71,19 @@ def js_to_json(code, vars={}):
 MEDIADELIVERY_REFERER = {"Referer": "https://iframe.mediadelivery.net/"}
 
 
+def log(source, message):
+    timestamp = datetime.utcnow().isoformat(timespec="seconds")
+    print(f"[{timestamp}Z] [{source}] {message}")
+
+
 def download(url, headers={}, progress=None):
     if not progress:
-        print(f"[download.......] {url}")
+        log("download", url)
     else:
         index = progress[0]
         max_ = progress[1]
         index_justified = str(index).rjust(len(str(max_)), "0")
-        print(f"[download.......] {index_justified}/{max_} {url}")
+        log("download", f"{index_justified}/{max_} {url}")
     # TODO handle errors
     return requests.get(url, headers=headers).text
 
@@ -132,7 +138,7 @@ def get_global_vars():
 
 
 def update_raw_data():
-    print(f"[update_raw_data] start")
+    log("update_raw_data", "start")
 
     global_vars = get_global_vars()
     json.dump(global_vars, open("raw/global.json", "w"), indent=2)
@@ -140,18 +146,18 @@ def update_raw_data():
     base_url = global_vars["staticAssetsBase"]
     static_assets_timestamp = global_vars["staticAssetsTimestamp"]
 
-    print(f"[update_raw_data] {static_assets_timestamp=}")
+    log("update_raw_data", f"{static_assets_timestamp=}")
 
     if static_assets_timestamp == int(Path("raw/static_assets_timestamp").read_text()):
-        print(f"[update_raw_data] static_assets_timestamp unchanged, aborting")
+        log("update_raw_data", "static_assets_timestamp unchanged, aborting")
         return
-    print(f"[update_raw_data] static_assets_timestamp changed, updating")
+    log("update_raw_data", "static_assets_timestamp changed, updating")
 
-    print(f"[update_raw_data] updating index data")
+    log("update_raw_data", "updating index data")
     sovietscloset = parse_nuxt_jsonp(download(f"{base_url}/payload.js"))["games"]
     json.dump(sovietscloset, open("raw/index.json", "w"), indent=2)
 
-    print(f"[update_raw_data] updating video data")
+    log("update_raw_data", "updating video data")
     video_ids = [
         stream["id"]
         for game in sovietscloset
@@ -165,14 +171,14 @@ def update_raw_data():
         stream_details = parse_nuxt_jsonp(stream_details_jsonp)["stream"]
         json.dump(stream_details, open(f"raw/video/{video_id}.json", "w"), indent=2)
 
-    print(f"[update_raw_data] caching static_assets_timestamp")
+    log("update_raw_data", "caching static_assets_timestamp")
     Path("raw/static_assets_timestamp").write_text(str(static_assets_timestamp))
 
-    print(f"[update_raw_data] update done")
+    log("update_raw_data", "update done")
 
 
 def combine_data():
-    print(f"[combine_data...] start")
+    log("combine_data", "start")
     sovietscloset = dict()
 
     global_vars = json.load(open("raw/global.json"))
@@ -217,11 +223,11 @@ def combine_data():
         sovietscloset["games"].append(game)
 
     json.dump(sovietscloset, open("sovietscloset.json", "w"), indent=2)
-    print(f"[combine_data...] written to sovietscloset.json")
+    log("combine_data", "written to sovietscloset.json")
 
 
 def update_oopsies():
-    print("[update_oopsies.] start")
+    log("update_oopsies", "start")
     missing_bunnycdn: List[SovietsCloset.Video] = list()
     missing_completely: List[(SovietsCloset.Playlist, int, int)] = list()
 
@@ -254,12 +260,10 @@ def update_oopsies():
 
                     # sorting by date
                     if video.date < last_video.date:
-                        print(video.title)
                         sorting_date.append(video)
 
                     # sorting by number
                     if video.number < last_video.number:
-                        print(video.title)
                         sorting_number.append(video)
 
             # dupes
@@ -359,7 +363,7 @@ def update_oopsies():
             oopsies_md += f"All videos have a unique {name}. :tada:\n"
 
     Path("OOPSIES.md").write_text(oopsies_md)
-    print("[update_oopsies.] written to OOPSIES.md")
+    log("update_oopsies", "written to OOPSIES.md")
 
 
 class ChangeType(Enum):
@@ -379,7 +383,7 @@ class ChangeType(Enum):
 
 
 def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: SovietsCloset):
-    print("[update_changelog] start")
+    log("update_changelog", "start")
 
     changelog_timestamp = new_sovietscloset.timestamp.isoformat(timespec="seconds")
 
@@ -531,10 +535,10 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
     changelog_playlists.sort(key=lambda p: p[2].videos[0].date)
     changelog_videos.sort(key=lambda v: v[2].date)
 
-    print(f"[update_changelog] {changelog_timestamp}")
-    print(f"[update_changelog] found {len(changelog_games)=}")
-    print(f"[update_changelog] found {len(changelog_playlists)=}")
-    print(f"[update_changelog] found {len(changelog_videos)=}")
+    log(f"update_changelog", f"changelog timestamp {changelog_timestamp}")
+    log(f"update_changelog", f"found {len(changelog_games)=}")
+    log(f"update_changelog", f"found {len(changelog_playlists)=}")
+    log(f"update_changelog", f"found {len(changelog_videos)=}")
 
     # write to file
     changelog_not_empty = bool(changelog_games or changelog_playlists or changelog_videos)
@@ -648,9 +652,9 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
         changelog_path = Path("CHANGELOG.md")
         changelog_md = changelog_path.read_text().replace("# Changelog\n\n", changelog_md)
         changelog_path.write_text(changelog_md)
-        print("[update_changelog] written CHANGELOG.md")
+        log(f"update_changelog", "written CHANGELOG.md")
 
-    print("[update_changelog] done")
+    log(f"update_changelog", "done")
 
 
 if __name__ == "__main__":
