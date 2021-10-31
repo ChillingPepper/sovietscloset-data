@@ -1,4 +1,5 @@
 export interface SovietsCloset {
+    timestamp: number;
     bunnyCdn: {
         pullZone: string;
         videoLibraryId: string;
@@ -7,6 +8,8 @@ export interface SovietsCloset {
 }
 
 export interface SovietsClosetCategory {
+    title: string;
+    url: string;
     name: string;
     slug: string;
     enabled: boolean;
@@ -23,6 +26,7 @@ export interface SovietsClosetPlaylist extends SovietsClosetCategory {
 
 export interface SovietsClosetVideo {
     title: string;
+    url: string;
     id: number;
     date: string;
     number: number;
