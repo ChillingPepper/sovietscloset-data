@@ -12,7 +12,7 @@ jobs:
       - name: Install dependencies
         run: pip install poetry && poetry install
       - name: Update data
-        run: poetry run python update.py
+        run: poetry run python main.py
       - name: Push changes
         run: |
           set -x
