@@ -43,14 +43,6 @@ class SovietsCloset:
         enabled: bool
         recentlyUpdated: bool
 
-    def __eq__(self, other: "SovietsCloset.Category") -> bool:
-        return (
-            self.name == other.name
-            and self.slug == other.slug
-            and self.enabled == other.enabled
-            and self.recentlyUpdated == other.recentlyUpdated
-        )
-
     @dataclass
     class Playlist(Category):
         game: "SovietsCloset.Game"
