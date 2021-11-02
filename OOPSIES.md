@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-10-19T22:14:46Z.
+Last updated at 2021-11-02T08:53:13Z.
 
 ## Missing
 
@@ -52,8 +52,11 @@ Missing videos are only detected if they are followed by a video that is already
 - [Factorio](https://sovietscloset.com/Factorio)
   - Factorio #1
   - Factorio #3
-  - Factorio #21
-  - Factorio #25
+  - Factorio #22
+  - Factorio #24
+  - Factorio #26
+  - Factorio #27
+  - Factorio #29
 - [Halo: The Master Chief Collection - Halo 3](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-3)
   - Halo: The Master Chief Collection - Halo 3 #9
 - [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
@@ -65,6 +68,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #25
   - Holdfast: Nations at War #30
   - Holdfast: Nations at War #37
+  - Holdfast: Nations at War #51
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #26
@@ -99,6 +103,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Rust #28
 - [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
   - Silent Hunter 3 #4
+  - Silent Hunter 3 #33
 - [Space Engineers](https://sovietscloset.com/Space-Engineers)
   - Space Engineers #26
   - Space Engineers #28
@@ -115,7 +120,8 @@ Missing videos are only detected if they are followed by a video that is already
 - [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
   - Team Fortress 2 #10
   - Team Fortress 2 #13
-  - Team Fortress 2 #26
+  - Team Fortress 2 #19
+  - Team Fortress 2 #27
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -129,7 +135,7 @@ Missing videos are only detected if they are followed by a video that is already
   - VR Onward #7
   - VR Onward #10
 - [VR Pavlov](https://sovietscloset.com/VR-Pavlov)
-  - VR Pavlov #5
+  - VR Pavlov #6
 
 ## Sorting
 
@@ -224,11 +230,14 @@ This list includes all videos that have the same date.
   - [Factorio #4](https://sovietscloset.com/video/6807) (id: 6807)
   - [Factorio #4](https://sovietscloset.com/video/6912) (id: 6912)
 - Date: 2021-07-30 11:14
-  - [Factorio #22](https://sovietscloset.com/video/6714) (id: 6714)
-  - [Factorio #22](https://sovietscloset.com/video/6734) (id: 6734)
+  - [Factorio #23](https://sovietscloset.com/video/6714) (id: 6714)
+  - [Factorio #23](https://sovietscloset.com/video/6734) (id: 6734)
+- Date: 2021-09-21 20:33
+  - [Factorio #28](https://sovietscloset.com/video/6870) (id: 6870)
+  - [Factorio #28](https://sovietscloset.com/video/7996) (id: 7996)
 - Date: 2021-09-23 11:08
-  - [Factorio #26](https://sovietscloset.com/video/6871) (id: 6871)
-  - [Factorio #26](https://sovietscloset.com/video/6981) (id: 6981)
+  - [Factorio #30](https://sovietscloset.com/video/6871) (id: 6871)
+  - [Factorio #30](https://sovietscloset.com/video/6981) (id: 6981)
 - Date: 2020-09-03 20:51
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
@@ -331,8 +340,8 @@ This list includes all videos that have the same date.
   - [VR Onward #11](https://sovietscloset.com/video/1603) (id: 1603)
   - [VR Onward #11](https://sovietscloset.com/video/6721) (id: 6721)
 - Date: 2021-01-11 21:02
-  - [VR Pavlov #6](https://sovietscloset.com/video/1795) (id: 1795)
-  - [VR Pavlov #6](https://sovietscloset.com/video/1806) (id: 1806)
+  - [VR Pavlov #7](https://sovietscloset.com/video/1795) (id: 1795)
+  - [VR Pavlov #7](https://sovietscloset.com/video/1806) (id: 1806)
 
 ### Dupes by Number
 
@@ -366,8 +375,8 @@ This list includes all videos that have the same number.
   - [VR Blade & Sorcery #39](https://sovietscloset.com/video/6772) (id: 6772)
   - [VR Blade & Sorcery #39](https://sovietscloset.com/video/6973) (id: 6973)
 - Number: 30
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085) (id: 1085)
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920) (id: 6920)
+  - [Factorio #30](https://sovietscloset.com/video/6871) (id: 6871)
+  - [Factorio #30](https://sovietscloset.com/video/6981) (id: 6981)
 - Number: 12
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
@@ -379,8 +388,8 @@ This list includes all videos that have the same number.
   - [DayZ - Standalone #5](https://sovietscloset.com/video/1740) (id: 1740)
   - [DayZ - Standalone #5](https://sovietscloset.com/video/1764) (id: 1764)
 - Number: 7
-  - [Prison Architect #7](https://sovietscloset.com/video/2680) (id: 2680)
-  - [Prison Architect #7](https://sovietscloset.com/video/3679) (id: 3679)
+  - [VR Pavlov #7](https://sovietscloset.com/video/1795) (id: 1795)
+  - [VR Pavlov #7](https://sovietscloset.com/video/1806) (id: 1806)
 - Number: 10
   - [Subnautica #10](https://sovietscloset.com/video/1463) (id: 1463)
   - [Subnautica #10](https://sovietscloset.com/video/1470) (id: 1470)
@@ -400,16 +409,16 @@ This list includes all videos that have the same number.
 - Number: 4
   - [VR Onward #4](https://sovietscloset.com/video/3745) (id: 3745)
   - [VR Onward #4](https://sovietscloset.com/video/6722) (id: 6722)
-- Number: 22
-  - [Factorio #22](https://sovietscloset.com/video/6714) (id: 6714)
-  - [Factorio #22](https://sovietscloset.com/video/6734) (id: 6734)
+- Number: 28
+  - [Factorio #28](https://sovietscloset.com/video/6870) (id: 6870)
+  - [Factorio #28](https://sovietscloset.com/video/7996) (id: 7996)
+- Number: 18
+  - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
+  - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)
 - Number: 26
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1601) (id: 1601)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1643) (id: 1643)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/6896) (id: 6896)
-- Number: 18
-  - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
-  - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)
 - Number: 38
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3721) (id: 3721)
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3735) (id: 3735)
@@ -435,9 +444,6 @@ This list includes all videos that have the same number.
 - Number: 8
   - [VR Onward #8](https://sovietscloset.com/video/3746) (id: 3746)
   - [VR Onward #8](https://sovietscloset.com/video/6723) (id: 6723)
-- Number: 6
-  - [VR Pavlov #6](https://sovietscloset.com/video/1795) (id: 1795)
-  - [VR Pavlov #6](https://sovietscloset.com/video/1806) (id: 1806)
 
 ### Dupes by BunnyCDN ID
 
