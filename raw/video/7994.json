@@ -1,0 +1,23 @@
+{
+  "streamId": 7994,
+  "date": "2021-09-23 19:59",
+  "game": {
+    "name": "Police Simulator",
+    "slug": "Police-Simulator"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 7994,
+        "date": "2021-09-23 19:59"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "3dd2fe3f-9030-4aea-b968-db85824e410b",
+  "useBunny": true
+}

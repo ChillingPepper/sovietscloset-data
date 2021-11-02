@@ -1,0 +1,51 @@
+{
+  "streamId": 8989,
+  "date": "2018-12-29 22:38",
+  "game": {
+    "name": "Dark Souls",
+    "slug": "Dark-Souls"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 8986,
+        "date": "2018-12-22 20:14"
+      },
+      {
+        "streamId": 8982,
+        "date": "2018-12-23 16:53"
+      },
+      {
+        "streamId": 8984,
+        "date": "2018-12-27 11:10"
+      },
+      {
+        "streamId": 8983,
+        "date": "2018-12-28 11:39"
+      },
+      {
+        "streamId": 8985,
+        "date": "2018-12-28 20:13"
+      },
+      {
+        "streamId": 8989,
+        "date": "2018-12-29 22:38"
+      },
+      {
+        "streamId": 8987,
+        "date": "2018-12-31 11:28"
+      },
+      {
+        "streamId": 8988,
+        "date": "2019-01-01 20:15"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "915071a9-50ab-4ceb-a6e4-7bfa5f1b9603",
+  "useBunny": true
+}

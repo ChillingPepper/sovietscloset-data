@@ -1002,6 +1002,72 @@
     ]
   },
   {
+    "id": 7061,
+    "name": "Dark Souls",
+    "slug": "Dark-Souls",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 7074,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 8986,
+            "date": "2018-12-22 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8982,
+            "date": "2018-12-23 16:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8984,
+            "date": "2018-12-27 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8983,
+            "date": "2018-12-28 11:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8985,
+            "date": "2018-12-28 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8989,
+            "date": "2018-12-29 22:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8987,
+            "date": "2018-12-31 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8988,
+            "date": "2019-01-01 20:15",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 1034,
     "name": "DayZ",
     "slug": "DayZ",
@@ -2073,6 +2139,12 @@
             "useBunny": true
           },
           {
+            "id": 7995,
+            "date": "2021-07-28 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6736,
             "date": "2021-07-29 11:13",
             "new": false,
@@ -2098,6 +2170,12 @@
           },
           {
             "id": 6870,
+            "date": "2021-09-21 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7996,
             "date": "2021-09-21 20:33",
             "new": false,
             "useBunny": true
@@ -2272,7 +2350,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -2532,6 +2610,48 @@
             "useBunny": true
           },
           {
+            "id": 6999,
+            "date": "2021-04-29 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6998,
+            "date": "2021-05-20 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6996,
+            "date": "2021-05-27 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6997,
+            "date": "2021-06-10 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6995,
+            "date": "2021-06-17 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6992,
+            "date": "2021-07-01 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6994,
+            "date": "2021-07-08 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6701,
             "date": "2021-08-05 20:59",
             "new": false,
@@ -2566,10 +2686,28 @@
             "date": "2021-10-07 20:49",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 6993,
+            "date": "2021-10-14 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 6990,
+            "date": "2021-10-21 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7983,
+            "date": "2021-10-28 20:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3360,6 +3498,30 @@
     ]
   },
   {
+    "id": 6061,
+    "name": "Police Simulator",
+    "slug": "Police-Simulator",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 6074,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 7994,
+            "date": "2021-09-23 19:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 2050,
     "name": "Prison Architect",
     "slug": "Prison-Architect",
@@ -3490,7 +3652,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1004,
@@ -4694,24 +4856,24 @@
           {
             "id": 6983,
             "date": "2021-10-13 20:12",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6982,
             "date": "2021-10-14 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6984,
             "date": "2021-10-15 11:10",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -5366,18 +5528,66 @@
           {
             "id": 6988,
             "date": "2021-10-16 16:37",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6989,
             "date": "2021-10-17 14:19",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 6987,
             "date": "2021-10-18 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7986,
+            "date": "2021-10-19 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7988,
+            "date": "2021-10-19 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7985,
+            "date": "2021-10-20 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7984,
+            "date": "2021-10-21 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7990,
+            "date": "2021-10-22 11:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7989,
+            "date": "2021-10-25 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7987,
+            "date": "2021-10-26 22:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 7982,
+            "date": "2021-10-27 11:23",
             "new": true,
             "useBunny": true
           }
@@ -6340,7 +6550,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -6626,12 +6836,18 @@
           {
             "id": 6986,
             "date": "2021-10-17 19:57",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 7993,
+            "date": "2021-10-24 20:01",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -8363,6 +8579,12 @@
         "name": "Misc",
         "slug": "Misc",
         "streams": [
+          {
+            "id": 7991,
+            "date": "2019-09-07 19:53",
+            "new": false,
+            "useBunny": true
+          },
           {
             "id": 6770,
             "date": "2020-06-27 19:50",
