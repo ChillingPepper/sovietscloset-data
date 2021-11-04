@@ -1,5 +1,5 @@
 {
-  "timestamp": 1635843193,
+  "timestamp": 1636053578,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2085,6 +2085,43 @@
               "new": false
             }
           ]
+        },
+        {
+          "title": "DayZ - DayZ Mod",
+          "url": "https://sovietscloset.com/DayZ/DayZ-Mod",
+          "name": "DayZ Mod",
+          "slug": "DayZ-Mod",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "DayZ - DayZ Mod #1",
+              "url": "https://sovietscloset.com/video/8996",
+              "id": 8996,
+              "date": "2018-08-06 19:47",
+              "number": 1,
+              "bunnyId": "b1c99758-e6c4-4507-a5d8-4f94701d46a5",
+              "new": false
+            },
+            {
+              "title": "DayZ - DayZ Mod #2",
+              "url": "https://sovietscloset.com/video/8994",
+              "id": 8994,
+              "date": "2018-08-07 12:53",
+              "number": 2,
+              "bunnyId": "591dbe2f-0d60-4460-90a5-997d319a85a3",
+              "new": false
+            },
+            {
+              "title": "DayZ - DayZ Mod #3",
+              "url": "https://sovietscloset.com/video/8995",
+              "id": 8995,
+              "date": "2018-08-08 12:58",
+              "number": 3,
+              "bunnyId": "8c15894e-609d-4d9c-9cb3-afa8ef2b78b1",
+              "new": false
+            }
+          ]
         }
       ]
     },
@@ -2929,7 +2966,7 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Factorio",
@@ -2937,7 +2974,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Factorio #2",
@@ -3199,6 +3236,15 @@
               "number": 31,
               "bunnyId": "b415d9f4-d0e1-4841-bc43-21fe2241d22f",
               "new": false
+            },
+            {
+              "title": "Factorio #32",
+              "url": "https://sovietscloset.com/video/8997",
+              "id": 8997,
+              "date": "2021-11-03 11:31",
+              "number": 32,
+              "bunnyId": "5bcd667c-559f-4f78-a525-a16dc1c2d7aa",
+              "new": true
             }
           ]
         }
@@ -7789,7 +7835,7 @@
       "name": "Silent Hunter 3",
       "slug": "Silent-Hunter-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Silent Hunter 3",
@@ -7797,7 +7843,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Silent Hunter 3 #1",
@@ -8121,7 +8167,7 @@
               "date": "2021-10-26 22:05",
               "number": 38,
               "bunnyId": "3808f4e4-796f-41e6-9943-ba3447f2fb97",
-              "new": true
+              "new": false
             },
             {
               "title": "Silent Hunter 3 #39",
@@ -8130,7 +8176,7 @@
               "date": "2021-10-27 11:23",
               "number": 39,
               "bunnyId": "d59fa074-a39d-43b6-9780-e01915a1dbeb",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9529,7 +9575,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -9537,7 +9583,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -9970,6 +10016,42 @@
               "number": 50,
               "bunnyId": "4164e9ca-ba1e-49ef-9e95-6f9f70d8b399",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #51",
+              "url": "https://sovietscloset.com/video/8991",
+              "id": 8991,
+              "date": "2021-10-31 19:51",
+              "number": 51,
+              "bunnyId": "9626d2d6-f5c0-4d7e-8ddf-59ef93bf7e5f",
+              "new": true
+            },
+            {
+              "title": "Team Fortress 2 #52",
+              "url": "https://sovietscloset.com/video/8990",
+              "id": 8990,
+              "date": "2021-11-01 10:54",
+              "number": 52,
+              "bunnyId": "95b5c807-7b52-4e30-83fb-807eab9df394",
+              "new": true
+            },
+            {
+              "title": "Team Fortress 2 #53",
+              "url": "https://sovietscloset.com/video/8992",
+              "id": 8992,
+              "date": "2021-11-02 11:19",
+              "number": 53,
+              "bunnyId": "a7e85691-4456-4693-a655-9ab1521ea8ca",
+              "new": true
+            },
+            {
+              "title": "Team Fortress 2 #54",
+              "url": "https://sovietscloset.com/video/8993",
+              "id": 8993,
+              "date": "2021-11-02 11:35",
+              "number": 54,
+              "bunnyId": "12946a0d-4790-4727-b128-1ba0d5878abb",
+              "new": true
             }
           ]
         }

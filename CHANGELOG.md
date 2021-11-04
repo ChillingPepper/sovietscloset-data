@@ -1,5 +1,59 @@
 # Changelog
 
+## 2021-11-04T19:19:38Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Added Playlist [DayZ - DayZ Mod](https://sovietscloset.com/DayZ/DayZ-Mod)
+
+##### Videos
+
+- Added `v8996` [DayZ - DayZ Mod #1](https://sovietscloset.com/video/8996)
+- Added `v8994` [DayZ - DayZ Mod #2](https://sovietscloset.com/video/8994)
+- Added `v8995` [DayZ - DayZ Mod #3](https://sovietscloset.com/video/8995)
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v8997` [Factorio #32](https://sovietscloset.com/video/8997) (new)
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v7987` [Silent Hunter 3 #38](https://sovietscloset.com/video/7987)
+  - Is no longer marked as new.
+- Modified `v7982` [Silent Hunter 3 #39](https://sovietscloset.com/video/7982)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v8991` [Team Fortress 2 #51](https://sovietscloset.com/video/8991) (new)
+- Added `v8990` [Team Fortress 2 #52](https://sovietscloset.com/video/8990) (new)
+- Added `v8992` [Team Fortress 2 #53](https://sovietscloset.com/video/8992) (new)
+- Added `v8993` [Team Fortress 2 #54](https://sovietscloset.com/video/8993) (new)
+
 ## 2021-11-02T08:53:13Z
 
 ### Added Game [Dark Souls](https://sovietscloset.com/Dark-Souls)
