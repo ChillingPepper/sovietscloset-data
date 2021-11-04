@@ -1436,6 +1436,33 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 7075,
+        "name": "DayZ Mod",
+        "slug": "DayZ-Mod",
+        "streams": [
+          {
+            "id": 8996,
+            "date": "2018-08-06 19:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8994,
+            "date": "2018-08-07 12:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 8995,
+            "date": "2018-08-08 12:58",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -2017,7 +2044,7 @@
     "name": "Factorio",
     "slug": "Factorio",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1045,
@@ -2197,10 +2224,16 @@
             "date": "2021-09-24 11:14",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 8997,
+            "date": "2021-11-03 11:31",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5362,7 +5395,7 @@
     "name": "Silent Hunter 3",
     "slug": "Silent-Hunter-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1020,
@@ -5582,18 +5615,18 @@
           {
             "id": 7987,
             "date": "2021-10-26 22:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 7982,
             "date": "2021-10-27 11:23",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6550,7 +6583,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -6844,10 +6877,34 @@
             "date": "2021-10-24 20:01",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 8991,
+            "date": "2021-10-31 19:51",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 8990,
+            "date": "2021-11-01 10:54",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 8992,
+            "date": "2021-11-02 11:19",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 8993,
+            "date": "2021-11-02 11:35",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

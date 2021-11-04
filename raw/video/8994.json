@@ -1,0 +1,31 @@
+{
+  "streamId": 8994,
+  "date": "2018-08-07 12:53",
+  "game": {
+    "name": "DayZ",
+    "slug": "DayZ"
+  },
+  "subcategory": {
+    "name": "DayZ Mod",
+    "slug": "DayZ-Mod",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 8996,
+        "date": "2018-08-06 19:47"
+      },
+      {
+        "streamId": 8994,
+        "date": "2018-08-07 12:53"
+      },
+      {
+        "streamId": 8995,
+        "date": "2018-08-08 12:58"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "591dbe2f-0d60-4460-90a5-997d319a85a3",
+  "useBunny": true
+}

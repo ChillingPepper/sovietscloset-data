@@ -8,7 +8,7 @@
   "subcategory": {
     "name": "Standalone",
     "slug": "Standalone",
-    "onlyCategory": true,
+    "onlyCategory": false,
     "playlist": [
       {
         "streamId": 1737,
