@@ -1,5 +1,5 @@
 {
-  "timestamp": 1636053578,
+  "timestamp": 1636233075,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3245,6 +3245,33 @@
               "number": 32,
               "bunnyId": "5bcd667c-559f-4f78-a525-a16dc1c2d7aa",
               "new": true
+            },
+            {
+              "title": "Factorio #33",
+              "url": "https://sovietscloset.com/video/8999",
+              "id": 8999,
+              "date": "2021-11-03 19:21",
+              "number": 33,
+              "bunnyId": "cba903a9-ba01-40d2-ad1e-ba062f21cf0f",
+              "new": true
+            },
+            {
+              "title": "Factorio #34",
+              "url": "https://sovietscloset.com/video/8998",
+              "id": 8998,
+              "date": "2021-11-04 11:24",
+              "number": 34,
+              "bunnyId": "ed422eaf-4cdc-4ed2-9b96-4b8c98f006d2",
+              "new": true
+            },
+            {
+              "title": "Factorio #35",
+              "url": "https://sovietscloset.com/video/9000",
+              "id": 9000,
+              "date": "2021-11-05 11:22",
+              "number": 35,
+              "bunnyId": "6ac6c318-99d2-4501-9e93-90aa658e7296",
+              "new": true
             }
           ]
         }
@@ -3450,7 +3477,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -3458,7 +3485,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -3980,7 +4007,7 @@
               "date": "2021-10-28 20:51",
               "number": 59,
               "bunnyId": "b75d36c1-9594-438c-a48a-dfe65d8dda1a",
-              "new": true
+              "new": false
             }
           ]
         }

@@ -1,5 +1,30 @@
 # Changelog
 
+## 2021-11-06T21:11:15Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v8999` [Factorio #33](https://sovietscloset.com/video/8999) (new)
+- Added `v8998` [Factorio #34](https://sovietscloset.com/video/8998) (new)
+- Added `v9000` [Factorio #35](https://sovietscloset.com/video/9000) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v7983` [Holdfast: Nations at War #59](https://sovietscloset.com/video/7983)
+  - Is no longer marked as new.
+
 ## 2021-11-04T19:19:38Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
