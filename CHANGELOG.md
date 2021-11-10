@@ -1,5 +1,117 @@
 # Changelog
 
+## 2021-11-10T07:48:09Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v9002` [Factorio #36](https://sovietscloset.com/video/9002) (new)
+- Added `v9003` [Factorio #37](https://sovietscloset.com/video/9003) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v9004` [Holdfast: Nations at War #60](https://sovietscloset.com/video/9004) (new)
+
+### Added Game [Startopia](https://sovietscloset.com/Startopia)
+
+#### Added Playlist [Startopia](https://sovietscloset.com/Startopia)
+
+##### Videos
+
+- Added `v9005` [Startopia #1](https://sovietscloset.com/video/9005) (new)
+- Added `v9006` [Startopia #2](https://sovietscloset.com/video/9006) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v9008` [Team Fortress 2 #34](https://sovietscloset.com/video/9008)
+- Added `v9009` [Team Fortress 2 #35](https://sovietscloset.com/video/9009)
+- Modified `v6688` [Team Fortress 2 #36](https://sovietscloset.com/video/6688)
+  - Changed title from `Team Fortress 2 #34` to `Team Fortress 2 #36`
+  - Changed number from `34` to `36`
+- Modified `v6689` [Team Fortress 2 #37](https://sovietscloset.com/video/6689)
+  - Changed title from `Team Fortress 2 #35` to `Team Fortress 2 #37`
+  - Changed number from `35` to `37`
+- Modified `v6690` [Team Fortress 2 #38](https://sovietscloset.com/video/6690)
+  - Changed title from `Team Fortress 2 #36` to `Team Fortress 2 #38`
+  - Changed number from `36` to `38`
+- Modified `v6691` [Team Fortress 2 #39](https://sovietscloset.com/video/6691)
+  - Changed title from `Team Fortress 2 #37` to `Team Fortress 2 #39`
+  - Changed number from `37` to `39`
+- Added `v9011` [Team Fortress 2 #41](https://sovietscloset.com/video/9011)
+- Modified `v6693` [Team Fortress 2 #41](https://sovietscloset.com/video/6693)
+  - Changed title from `Team Fortress 2 #38` to `Team Fortress 2 #41`
+  - Changed number from `38` to `41`
+- Modified `v6700` [Team Fortress 2 #42](https://sovietscloset.com/video/6700)
+  - Changed title from `Team Fortress 2 #39` to `Team Fortress 2 #42`
+  - Changed number from `39` to `42`
+- Modified `v6703` [Team Fortress 2 #43](https://sovietscloset.com/video/6703)
+  - Changed title from `Team Fortress 2 #40` to `Team Fortress 2 #43`
+  - Changed number from `40` to `43`
+- Modified `v6796` [Team Fortress 2 #44](https://sovietscloset.com/video/6796)
+  - Changed title from `Team Fortress 2 #41` to `Team Fortress 2 #44`
+  - Changed number from `41` to `44`
+- Modified `v6795` [Team Fortress 2 #45](https://sovietscloset.com/video/6795)
+  - Changed title from `Team Fortress 2 #42` to `Team Fortress 2 #45`
+  - Changed number from `42` to `45`
+- Added `v9010` [Team Fortress 2 #46](https://sovietscloset.com/video/9010)
+- Modified `v6794` [Team Fortress 2 #47](https://sovietscloset.com/video/6794)
+  - Changed title from `Team Fortress 2 #43` to `Team Fortress 2 #47`
+  - Changed number from `43` to `47`
+- Modified `v6814` [Team Fortress 2 #48](https://sovietscloset.com/video/6814)
+  - Changed title from `Team Fortress 2 #44` to `Team Fortress 2 #48`
+  - Changed number from `44` to `48`
+- Added `v9007` [Team Fortress 2 #50](https://sovietscloset.com/video/9007)
+- Modified `v6869` [Team Fortress 2 #50](https://sovietscloset.com/video/6869)
+  - Changed title from `Team Fortress 2 #45` to `Team Fortress 2 #50`
+  - Changed number from `45` to `50`
+- Modified `v6985` [Team Fortress 2 #51](https://sovietscloset.com/video/6985)
+  - Changed title from `Team Fortress 2 #46` to `Team Fortress 2 #51`
+  - Changed number from `46` to `51`
+- Modified `v6899` [Team Fortress 2 #52](https://sovietscloset.com/video/6899)
+  - Changed title from `Team Fortress 2 #47` to `Team Fortress 2 #52`
+  - Changed number from `47` to `52`
+- Modified `v6962` [Team Fortress 2 #53](https://sovietscloset.com/video/6962)
+  - Changed title from `Team Fortress 2 #48` to `Team Fortress 2 #53`
+  - Changed number from `48` to `53`
+- Modified `v6986` [Team Fortress 2 #54](https://sovietscloset.com/video/6986)
+  - Changed title from `Team Fortress 2 #49` to `Team Fortress 2 #54`
+  - Changed number from `49` to `54`
+- Modified `v7993` [Team Fortress 2 #55](https://sovietscloset.com/video/7993)
+  - Changed title from `Team Fortress 2 #50` to `Team Fortress 2 #55`
+  - Changed number from `50` to `55`
+- Modified `v8991` [Team Fortress 2 #56](https://sovietscloset.com/video/8991)
+  - Changed title from `Team Fortress 2 #51` to `Team Fortress 2 #56`
+  - Changed number from `51` to `56`
+  - Is no longer marked as new.
+- Modified `v8990` [Team Fortress 2 #57](https://sovietscloset.com/video/8990)
+  - Changed title from `Team Fortress 2 #52` to `Team Fortress 2 #57`
+  - Changed number from `52` to `57`
+  - Is no longer marked as new.
+- Modified `v8992` [Team Fortress 2 #58](https://sovietscloset.com/video/8992)
+  - Changed title from `Team Fortress 2 #53` to `Team Fortress 2 #58`
+  - Changed number from `53` to `58`
+  - Is no longer marked as new.
+- Modified `v8993` [Team Fortress 2 #59](https://sovietscloset.com/video/8993)
+  - Changed title from `Team Fortress 2 #54` to `Team Fortress 2 #59`
+  - Changed number from `54` to `59`
+  - Is no longer marked as new.
+- Added `v9001` [Team Fortress 2 #60](https://sovietscloset.com/video/9001) (new)
+
 ## 2021-11-06T21:11:15Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

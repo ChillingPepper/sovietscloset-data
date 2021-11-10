@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-06T21:11:15Z.
+Last updated at 2021-11-10T07:48:09Z.
 
 ## Missing
 
@@ -122,6 +122,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #13
   - Team Fortress 2 #19
   - Team Fortress 2 #27
+  - Team Fortress 2 #40
+  - Team Fortress 2 #49
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -317,6 +319,12 @@ This list includes all videos that have the same date.
 - Date: 2020-12-20 19:55
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
+- Date: 2021-07-25 19:57
+  - [Team Fortress 2 #41](https://sovietscloset.com/video/6693) (id: 6693)
+  - [Team Fortress 2 #41](https://sovietscloset.com/video/9011) (id: 9011)
+- Date: 2021-09-19 20:01
+  - [Team Fortress 2 #50](https://sovietscloset.com/video/6869) (id: 6869)
+  - [Team Fortress 2 #50](https://sovietscloset.com/video/9007) (id: 9007)
 - Date: 2019-01-30 11:40
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6881) (id: 6881)
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6952) (id: 6952)
@@ -398,8 +406,8 @@ This list includes all videos that have the same number.
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
 - Number: 50
-  - [DayZ - Standalone #50](https://sovietscloset.com/video/1742) (id: 1742)
-  - [DayZ - Standalone #50](https://sovietscloset.com/video/1763) (id: 1763)
+  - [Team Fortress 2 #50](https://sovietscloset.com/video/6869) (id: 6869)
+  - [Team Fortress 2 #50](https://sovietscloset.com/video/9007) (id: 9007)
 - Number: 52
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1738) (id: 1738)
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1761) (id: 1761)
@@ -437,6 +445,9 @@ This list includes all videos that have the same number.
 - Number: 11
   - [VR Onward #11](https://sovietscloset.com/video/1603) (id: 1603)
   - [VR Onward #11](https://sovietscloset.com/video/6721) (id: 6721)
+- Number: 41
+  - [Team Fortress 2 #41](https://sovietscloset.com/video/6693) (id: 6693)
+  - [Team Fortress 2 #41](https://sovietscloset.com/video/9011) (id: 9011)
 - Number: 32
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1445) (id: 1445)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1517) (id: 1517)

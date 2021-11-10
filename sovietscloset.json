@@ -1,5 +1,5 @@
 {
-  "timestamp": 1636233075,
+  "timestamp": 1636530489,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3272,6 +3272,24 @@
               "number": 35,
               "bunnyId": "6ac6c318-99d2-4501-9e93-90aa658e7296",
               "new": true
+            },
+            {
+              "title": "Factorio #36",
+              "url": "https://sovietscloset.com/video/9002",
+              "id": 9002,
+              "date": "2021-11-06 17:42",
+              "number": 36,
+              "bunnyId": "2a14626b-9c90-4dfe-bcf5-667a168efb38",
+              "new": true
+            },
+            {
+              "title": "Factorio #37",
+              "url": "https://sovietscloset.com/video/9003",
+              "id": 9003,
+              "date": "2021-11-08 11:09",
+              "number": 37,
+              "bunnyId": "f9e38bee-b9f7-4044-a3f1-334d20ec33f2",
+              "new": true
             }
           ]
         }
@@ -3477,7 +3495,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -3485,7 +3503,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -4008,6 +4026,15 @@
               "number": 59,
               "bunnyId": "b75d36c1-9594-438c-a48a-dfe65d8dda1a",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #60",
+              "url": "https://sovietscloset.com/video/9004",
+              "id": 9004,
+              "date": "2021-11-04 20:51",
+              "number": 60,
+              "bunnyId": "5260638c-76d4-4c66-ab8f-b2b932c7f731",
+              "new": true
             }
           ]
         }
@@ -8806,6 +8833,44 @@
       ]
     },
     {
+      "title": "Startopia",
+      "url": "https://sovietscloset.com/Startopia",
+      "name": "Startopia",
+      "slug": "Startopia",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Startopia",
+          "url": "https://sovietscloset.com/Startopia",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Startopia #1",
+              "url": "https://sovietscloset.com/video/9005",
+              "id": 9005,
+              "date": "2021-11-09 11:06",
+              "number": 1,
+              "bunnyId": "9f9eae22-74da-4ab8-975c-7e02ef48d83a",
+              "new": true
+            },
+            {
+              "title": "Startopia #2",
+              "url": "https://sovietscloset.com/video/9006",
+              "id": 9006,
+              "date": "2021-11-09 20:16",
+              "number": 2,
+              "bunnyId": "4d8dafcb-0fc3-4fb9-a2b7-01ac0afbce66",
+              "new": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Stellaris",
       "url": "https://sovietscloset.com/Stellaris",
       "name": "Stellaris",
@@ -9893,191 +9958,245 @@
             },
             {
               "title": "Team Fortress 2 #34",
-              "url": "https://sovietscloset.com/video/6688",
-              "id": 6688,
-              "date": "2021-06-20 20:07",
+              "url": "https://sovietscloset.com/video/9008",
+              "id": 9008,
+              "date": "2021-06-06 19:59",
               "number": 34,
-              "bunnyId": "b4758387-21ca-49bf-a510-c1a2202a1607",
+              "bunnyId": "93427582-4ee0-4842-88af-f5eb64bc3058",
               "new": false
             },
             {
               "title": "Team Fortress 2 #35",
-              "url": "https://sovietscloset.com/video/6689",
-              "id": 6689,
-              "date": "2021-06-27 20:07",
+              "url": "https://sovietscloset.com/video/9009",
+              "id": 9009,
+              "date": "2021-06-13 20:06",
               "number": 35,
-              "bunnyId": "8eaa5d93-baa6-4192-b84a-3950df61bf84",
+              "bunnyId": "6aa8b17f-30ea-40ae-a33e-27faa552bd84",
               "new": false
             },
             {
               "title": "Team Fortress 2 #36",
-              "url": "https://sovietscloset.com/video/6690",
-              "id": 6690,
-              "date": "2021-07-04 19:55",
+              "url": "https://sovietscloset.com/video/6688",
+              "id": 6688,
+              "date": "2021-06-20 20:07",
               "number": 36,
-              "bunnyId": "d780576f-06a2-4067-874f-e89556323524",
+              "bunnyId": "b4758387-21ca-49bf-a510-c1a2202a1607",
               "new": false
             },
             {
               "title": "Team Fortress 2 #37",
-              "url": "https://sovietscloset.com/video/6691",
-              "id": 6691,
-              "date": "2021-07-18 19:59",
+              "url": "https://sovietscloset.com/video/6689",
+              "id": 6689,
+              "date": "2021-06-27 20:07",
               "number": 37,
-              "bunnyId": "c97e7431-1bbb-4a38-8e22-f8df6f60e4dd",
+              "bunnyId": "8eaa5d93-baa6-4192-b84a-3950df61bf84",
               "new": false
             },
             {
               "title": "Team Fortress 2 #38",
-              "url": "https://sovietscloset.com/video/6693",
-              "id": 6693,
-              "date": "2021-07-25 19:57",
+              "url": "https://sovietscloset.com/video/6690",
+              "id": 6690,
+              "date": "2021-07-04 19:55",
               "number": 38,
-              "bunnyId": "3b6d17f0-dfa4-4f99-8345-b6b4627a4305",
+              "bunnyId": "d780576f-06a2-4067-874f-e89556323524",
               "new": false
             },
             {
               "title": "Team Fortress 2 #39",
-              "url": "https://sovietscloset.com/video/6700",
-              "id": 6700,
-              "date": "2021-08-01 19:59",
+              "url": "https://sovietscloset.com/video/6691",
+              "id": 6691,
+              "date": "2021-07-18 19:59",
               "number": 39,
-              "bunnyId": "a030bcee-e52a-40a4-9a5f-ef85c4313b85",
-              "new": false
-            },
-            {
-              "title": "Team Fortress 2 #40",
-              "url": "https://sovietscloset.com/video/6703",
-              "id": 6703,
-              "date": "2021-08-08 20:01",
-              "number": 40,
-              "bunnyId": "b4067e49-1786-404c-ae9f-f078ae6d8a61",
+              "bunnyId": "c97e7431-1bbb-4a38-8e22-f8df6f60e4dd",
               "new": false
             },
             {
               "title": "Team Fortress 2 #41",
-              "url": "https://sovietscloset.com/video/6796",
-              "id": 6796,
-              "date": "2021-08-15 19:56",
+              "url": "https://sovietscloset.com/video/6693",
+              "id": 6693,
+              "date": "2021-07-25 19:57",
               "number": 41,
-              "bunnyId": "f7223ddb-e23e-409f-b4d1-9704fa62d38f",
+              "bunnyId": "3b6d17f0-dfa4-4f99-8345-b6b4627a4305",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #41",
+              "url": "https://sovietscloset.com/video/9011",
+              "id": 9011,
+              "date": "2021-07-25 19:57",
+              "number": 41,
+              "bunnyId": "3300ea45-fe36-4af4-b343-51bb725503f9",
               "new": false
             },
             {
               "title": "Team Fortress 2 #42",
-              "url": "https://sovietscloset.com/video/6795",
-              "id": 6795,
-              "date": "2021-08-22 20:05",
+              "url": "https://sovietscloset.com/video/6700",
+              "id": 6700,
+              "date": "2021-08-01 19:59",
               "number": 42,
-              "bunnyId": "7256d541-bb69-4a78-9e96-4a799f08212b",
+              "bunnyId": "a030bcee-e52a-40a4-9a5f-ef85c4313b85",
               "new": false
             },
             {
               "title": "Team Fortress 2 #43",
-              "url": "https://sovietscloset.com/video/6794",
-              "id": 6794,
-              "date": "2021-09-05 19:59",
+              "url": "https://sovietscloset.com/video/6703",
+              "id": 6703,
+              "date": "2021-08-08 20:01",
               "number": 43,
-              "bunnyId": "bcaffb4b-b874-45e0-99eb-aebc052defe8",
+              "bunnyId": "b4067e49-1786-404c-ae9f-f078ae6d8a61",
               "new": false
             },
             {
               "title": "Team Fortress 2 #44",
-              "url": "https://sovietscloset.com/video/6814",
-              "id": 6814,
-              "date": "2021-09-12 19:56",
+              "url": "https://sovietscloset.com/video/6796",
+              "id": 6796,
+              "date": "2021-08-15 19:56",
               "number": 44,
-              "bunnyId": "0322e7b9-7baf-4a34-8042-cf6a831ca1ce",
+              "bunnyId": "f7223ddb-e23e-409f-b4d1-9704fa62d38f",
               "new": false
             },
             {
               "title": "Team Fortress 2 #45",
-              "url": "https://sovietscloset.com/video/6869",
-              "id": 6869,
-              "date": "2021-09-19 20:01",
+              "url": "https://sovietscloset.com/video/6795",
+              "id": 6795,
+              "date": "2021-08-22 20:05",
               "number": 45,
-              "bunnyId": "887e3ce2-078d-4279-944d-df8dffdfe9a9",
+              "bunnyId": "7256d541-bb69-4a78-9e96-4a799f08212b",
               "new": false
             },
             {
               "title": "Team Fortress 2 #46",
-              "url": "https://sovietscloset.com/video/6985",
-              "id": 6985,
-              "date": "2021-09-26 19:54",
+              "url": "https://sovietscloset.com/video/9010",
+              "id": 9010,
+              "date": "2021-08-29 20:02",
               "number": 46,
-              "bunnyId": "9822c5ed-6c4d-441a-a675-82ec49d187a8",
+              "bunnyId": "bd4449f1-37b3-492f-a37b-5861a2c73884",
               "new": false
             },
             {
               "title": "Team Fortress 2 #47",
-              "url": "https://sovietscloset.com/video/6899",
-              "id": 6899,
-              "date": "2021-10-03 19:58",
+              "url": "https://sovietscloset.com/video/6794",
+              "id": 6794,
+              "date": "2021-09-05 19:59",
               "number": 47,
-              "bunnyId": "f64076d4-fefc-4b20-8743-6281c7939f5b",
+              "bunnyId": "bcaffb4b-b874-45e0-99eb-aebc052defe8",
               "new": false
             },
             {
               "title": "Team Fortress 2 #48",
-              "url": "https://sovietscloset.com/video/6962",
-              "id": 6962,
-              "date": "2021-10-10 20:00",
+              "url": "https://sovietscloset.com/video/6814",
+              "id": 6814,
+              "date": "2021-09-12 19:56",
               "number": 48,
-              "bunnyId": "91412429-3578-456d-9518-eae1b96aed74",
-              "new": false
-            },
-            {
-              "title": "Team Fortress 2 #49",
-              "url": "https://sovietscloset.com/video/6986",
-              "id": 6986,
-              "date": "2021-10-17 19:57",
-              "number": 49,
-              "bunnyId": "cd0788a9-2db9-4cfc-94b5-a490e2c1b726",
+              "bunnyId": "0322e7b9-7baf-4a34-8042-cf6a831ca1ce",
               "new": false
             },
             {
               "title": "Team Fortress 2 #50",
-              "url": "https://sovietscloset.com/video/7993",
-              "id": 7993,
-              "date": "2021-10-24 20:01",
+              "url": "https://sovietscloset.com/video/6869",
+              "id": 6869,
+              "date": "2021-09-19 20:01",
               "number": 50,
-              "bunnyId": "4164e9ca-ba1e-49ef-9e95-6f9f70d8b399",
+              "bunnyId": "887e3ce2-078d-4279-944d-df8dffdfe9a9",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #50",
+              "url": "https://sovietscloset.com/video/9007",
+              "id": 9007,
+              "date": "2021-09-19 20:01",
+              "number": 50,
+              "bunnyId": "fd5db0d4-54f3-4f65-970f-9bc289d6ba6d",
               "new": false
             },
             {
               "title": "Team Fortress 2 #51",
-              "url": "https://sovietscloset.com/video/8991",
-              "id": 8991,
-              "date": "2021-10-31 19:51",
+              "url": "https://sovietscloset.com/video/6985",
+              "id": 6985,
+              "date": "2021-09-26 19:54",
               "number": 51,
-              "bunnyId": "9626d2d6-f5c0-4d7e-8ddf-59ef93bf7e5f",
-              "new": true
+              "bunnyId": "9822c5ed-6c4d-441a-a675-82ec49d187a8",
+              "new": false
             },
             {
               "title": "Team Fortress 2 #52",
-              "url": "https://sovietscloset.com/video/8990",
-              "id": 8990,
-              "date": "2021-11-01 10:54",
+              "url": "https://sovietscloset.com/video/6899",
+              "id": 6899,
+              "date": "2021-10-03 19:58",
               "number": 52,
-              "bunnyId": "95b5c807-7b52-4e30-83fb-807eab9df394",
-              "new": true
+              "bunnyId": "f64076d4-fefc-4b20-8743-6281c7939f5b",
+              "new": false
             },
             {
               "title": "Team Fortress 2 #53",
-              "url": "https://sovietscloset.com/video/8992",
-              "id": 8992,
-              "date": "2021-11-02 11:19",
+              "url": "https://sovietscloset.com/video/6962",
+              "id": 6962,
+              "date": "2021-10-10 20:00",
               "number": 53,
-              "bunnyId": "a7e85691-4456-4693-a655-9ab1521ea8ca",
-              "new": true
+              "bunnyId": "91412429-3578-456d-9518-eae1b96aed74",
+              "new": false
             },
             {
               "title": "Team Fortress 2 #54",
+              "url": "https://sovietscloset.com/video/6986",
+              "id": 6986,
+              "date": "2021-10-17 19:57",
+              "number": 54,
+              "bunnyId": "cd0788a9-2db9-4cfc-94b5-a490e2c1b726",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #55",
+              "url": "https://sovietscloset.com/video/7993",
+              "id": 7993,
+              "date": "2021-10-24 20:01",
+              "number": 55,
+              "bunnyId": "4164e9ca-ba1e-49ef-9e95-6f9f70d8b399",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #56",
+              "url": "https://sovietscloset.com/video/8991",
+              "id": 8991,
+              "date": "2021-10-31 19:51",
+              "number": 56,
+              "bunnyId": "9626d2d6-f5c0-4d7e-8ddf-59ef93bf7e5f",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #57",
+              "url": "https://sovietscloset.com/video/8990",
+              "id": 8990,
+              "date": "2021-11-01 10:54",
+              "number": 57,
+              "bunnyId": "95b5c807-7b52-4e30-83fb-807eab9df394",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #58",
+              "url": "https://sovietscloset.com/video/8992",
+              "id": 8992,
+              "date": "2021-11-02 11:19",
+              "number": 58,
+              "bunnyId": "a7e85691-4456-4693-a655-9ab1521ea8ca",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #59",
               "url": "https://sovietscloset.com/video/8993",
               "id": 8993,
               "date": "2021-11-02 11:35",
-              "number": 54,
+              "number": 59,
               "bunnyId": "12946a0d-4790-4727-b128-1ba0d5878abb",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #60",
+              "url": "https://sovietscloset.com/video/9001",
+              "id": 9001,
+              "date": "2021-11-07 19:48",
+              "number": 60,
+              "bunnyId": "1fe3dc21-5ad0-4059-b618-a6c8e255dca1",
               "new": true
             }
           ]
