@@ -2248,6 +2248,18 @@
             "date": "2021-11-05 11:22",
             "new": true,
             "useBunny": true
+          },
+          {
+            "id": 9002,
+            "date": "2021-11-06 17:42",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9003,
+            "date": "2021-11-08 11:09",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -2401,7 +2413,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -2755,10 +2767,16 @@
             "date": "2021-10-28 20:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 9004,
+            "date": "2021-11-04 20:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6051,6 +6069,36 @@
     ]
   },
   {
+    "id": 7062,
+    "name": "Startopia",
+    "slug": "Startopia",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 7076,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 9005,
+            "date": "2021-11-09 11:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9006,
+            "date": "2021-11-09 20:16",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 3,
     "name": "Stellaris",
     "slug": "Stellaris",
@@ -6795,6 +6843,18 @@
             "useBunny": true
           },
           {
+            "id": 9008,
+            "date": "2021-06-06 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9009,
+            "date": "2021-06-13 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6688,
             "date": "2021-06-20 20:07",
             "new": false,
@@ -6825,6 +6885,12 @@
             "useBunny": true
           },
           {
+            "id": 9011,
+            "date": "2021-07-25 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6700,
             "date": "2021-08-01 19:59",
             "new": false,
@@ -6849,6 +6915,12 @@
             "useBunny": true
           },
           {
+            "id": 9010,
+            "date": "2021-08-29 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6794,
             "date": "2021-09-05 19:59",
             "new": false,
@@ -6862,6 +6934,12 @@
           },
           {
             "id": 6869,
+            "date": "2021-09-19 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9007,
             "date": "2021-09-19 20:01",
             "new": false,
             "useBunny": true
@@ -6899,24 +6977,30 @@
           {
             "id": 8991,
             "date": "2021-10-31 19:51",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 8990,
             "date": "2021-11-01 10:54",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 8992,
             "date": "2021-11-02 11:19",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 8993,
             "date": "2021-11-02 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9001,
+            "date": "2021-11-07 19:48",
             "new": true,
             "useBunny": true
           }
