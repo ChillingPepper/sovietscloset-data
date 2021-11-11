@@ -1,5 +1,5 @@
 {
-  "timestamp": 1636530489,
+  "timestamp": 1636622223,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3244,7 +3244,7 @@
               "date": "2021-11-03 11:31",
               "number": 32,
               "bunnyId": "5bcd667c-559f-4f78-a525-a16dc1c2d7aa",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #33",
@@ -3253,7 +3253,7 @@
               "date": "2021-11-03 19:21",
               "number": 33,
               "bunnyId": "cba903a9-ba01-40d2-ad1e-ba062f21cf0f",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #34",

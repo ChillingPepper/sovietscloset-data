@@ -1,5 +1,18 @@
 # Changelog
 
+## 2021-11-11T09:17:03Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Modified `v8997` [Factorio #32](https://sovietscloset.com/video/8997)
+  - Is no longer marked as new.
+- Modified `v8999` [Factorio #33](https://sovietscloset.com/video/8999)
+  - Is no longer marked as new.
+
 ## 2021-11-10T07:48:09Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)
