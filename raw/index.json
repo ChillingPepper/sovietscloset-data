@@ -2044,7 +2044,7 @@
     "name": "Factorio",
     "slug": "Factorio",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1045,
@@ -2240,30 +2240,30 @@
           {
             "id": 8998,
             "date": "2021-11-04 11:24",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9000,
             "date": "2021-11-05 11:22",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9002,
             "date": "2021-11-06 17:42",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9003,
             "date": "2021-11-08 11:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -2771,6 +2771,12 @@
           {
             "id": 9004,
             "date": "2021-11-04 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9012,
+            "date": "2021-11-11 20:51",
             "new": true,
             "useBunny": true
           }
@@ -6649,7 +6655,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -7001,12 +7007,12 @@
           {
             "id": 9001,
             "date": "2021-11-07 19:48",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
