@@ -1,5 +1,49 @@
 # Changelog
 
+## 2021-11-15T20:00:05Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v8998` [Factorio #34](https://sovietscloset.com/video/8998)
+  - Is no longer marked as new.
+- Modified `v9000` [Factorio #35](https://sovietscloset.com/video/9000)
+  - Is no longer marked as new.
+- Modified `v9002` [Factorio #36](https://sovietscloset.com/video/9002)
+  - Is no longer marked as new.
+- Modified `v9003` [Factorio #37](https://sovietscloset.com/video/9003)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Modified `v9004` [Holdfast: Nations at War #60](https://sovietscloset.com/video/9004)
+  - Is no longer marked as new.
+- Added `v9012` [Holdfast: Nations at War #61](https://sovietscloset.com/video/9012) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v9001` [Team Fortress 2 #60](https://sovietscloset.com/video/9001)
+  - Is no longer marked as new.
+
 ## 2021-11-11T09:17:03Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

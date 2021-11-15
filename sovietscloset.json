@@ -1,5 +1,5 @@
 {
-  "timestamp": 1636622223,
+  "timestamp": 1637006405,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2966,7 +2966,7 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Factorio",
@@ -2974,7 +2974,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Factorio #2",
@@ -3262,7 +3262,7 @@
               "date": "2021-11-04 11:24",
               "number": 34,
               "bunnyId": "ed422eaf-4cdc-4ed2-9b96-4b8c98f006d2",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #35",
@@ -3271,7 +3271,7 @@
               "date": "2021-11-05 11:22",
               "number": 35,
               "bunnyId": "6ac6c318-99d2-4501-9e93-90aa658e7296",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #36",
@@ -3280,7 +3280,7 @@
               "date": "2021-11-06 17:42",
               "number": 36,
               "bunnyId": "2a14626b-9c90-4dfe-bcf5-667a168efb38",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #37",
@@ -3289,7 +3289,7 @@
               "date": "2021-11-08 11:09",
               "number": 37,
               "bunnyId": "f9e38bee-b9f7-4044-a3f1-334d20ec33f2",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4034,6 +4034,15 @@
               "date": "2021-11-04 20:51",
               "number": 60,
               "bunnyId": "5260638c-76d4-4c66-ab8f-b2b932c7f731",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #61",
+              "url": "https://sovietscloset.com/video/9012",
+              "id": 9012,
+              "date": "2021-11-11 20:51",
+              "number": 61,
+              "bunnyId": "b62a6c42-d715-41ca-b83c-2e526dc8fed9",
               "new": true
             }
           ]
@@ -9667,7 +9676,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -9675,7 +9684,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -10197,7 +10206,7 @@
               "date": "2021-11-07 19:48",
               "number": 60,
               "bunnyId": "1fe3dc21-5ad0-4059-b618-a6c8e255dca1",
-              "new": true
+              "new": false
             }
           ]
         }
