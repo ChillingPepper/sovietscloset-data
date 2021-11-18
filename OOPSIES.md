@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-15T20:00:05Z.
+Last updated at 2021-11-18T19:42:34Z.
 
 ## Missing
 
@@ -68,7 +68,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #25
   - Holdfast: Nations at War #30
   - Holdfast: Nations at War #37
-  - Holdfast: Nations at War #51
+  - Holdfast: Nations at War #44
+  - Holdfast: Nations at War #53
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #26
@@ -97,7 +98,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Rising Storm 2: Vietnam #9
   - Rising Storm 2: Vietnam #11
   - Rising Storm 2: Vietnam #22
-  - Rising Storm 2: Vietnam #30
+  - Rising Storm 2: Vietnam #25
+  - Rising Storm 2: Vietnam #31
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
@@ -122,8 +124,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #13
   - Team Fortress 2 #19
   - Team Fortress 2 #27
-  - Team Fortress 2 #40
-  - Team Fortress 2 #49
+  - Team Fortress 2 #41
+  - Team Fortress 2 #50
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -289,8 +291,8 @@ This list includes all videos that have the same date.
   - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/3691) (id: 3691)
   - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/3696) (id: 3696)
 - Date: 2021-03-30 20:32
-  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3783) (id: 3783)
-  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3785) (id: 3785)
+  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3783) (id: 3783)
+  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3785) (id: 3785)
 - Date: 2020-08-09 10:58
   - [Space Engineers #27](https://sovietscloset.com/video/1404) (id: 1404)
   - [Space Engineers #27](https://sovietscloset.com/video/1679) (id: 1679)
@@ -320,11 +322,11 @@ This list includes all videos that have the same date.
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
 - Date: 2021-07-25 19:57
-  - [Team Fortress 2 #41](https://sovietscloset.com/video/6693) (id: 6693)
-  - [Team Fortress 2 #41](https://sovietscloset.com/video/9011) (id: 9011)
+  - [Team Fortress 2 #42](https://sovietscloset.com/video/6693) (id: 6693)
+  - [Team Fortress 2 #42](https://sovietscloset.com/video/9011) (id: 9011)
 - Date: 2021-09-19 20:01
-  - [Team Fortress 2 #50](https://sovietscloset.com/video/6869) (id: 6869)
-  - [Team Fortress 2 #50](https://sovietscloset.com/video/9007) (id: 9007)
+  - [Team Fortress 2 #51](https://sovietscloset.com/video/6869) (id: 6869)
+  - [Team Fortress 2 #51](https://sovietscloset.com/video/9007) (id: 9007)
 - Date: 2019-01-30 11:40
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6881) (id: 6881)
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6952) (id: 6952)
@@ -406,8 +408,8 @@ This list includes all videos that have the same number.
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
 - Number: 50
-  - [Team Fortress 2 #50](https://sovietscloset.com/video/6869) (id: 6869)
-  - [Team Fortress 2 #50](https://sovietscloset.com/video/9007) (id: 9007)
+  - [DayZ - Standalone #50](https://sovietscloset.com/video/1742) (id: 1742)
+  - [DayZ - Standalone #50](https://sovietscloset.com/video/1763) (id: 1763)
 - Number: 52
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1738) (id: 1738)
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1761) (id: 1761)
@@ -439,19 +441,22 @@ This list includes all videos that have the same number.
 - Number: 94
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778) (id: 1778)
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777) (id: 6777)
+- Number: 32
+  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1445) (id: 1445)
+  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1517) (id: 1517)
+  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/6971) (id: 6971)
 - Number: 9
   - [SWAT 4 #9](https://sovietscloset.com/video/1117) (id: 1117)
   - [SWAT 4 #9](https://sovietscloset.com/video/1447) (id: 1447)
 - Number: 11
   - [VR Onward #11](https://sovietscloset.com/video/1603) (id: 1603)
   - [VR Onward #11](https://sovietscloset.com/video/6721) (id: 6721)
-- Number: 41
-  - [Team Fortress 2 #41](https://sovietscloset.com/video/6693) (id: 6693)
-  - [Team Fortress 2 #41](https://sovietscloset.com/video/9011) (id: 9011)
-- Number: 32
-  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1445) (id: 1445)
-  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1517) (id: 1517)
-  - [VR Blade & Sorcery #32](https://sovietscloset.com/video/6971) (id: 6971)
+- Number: 42
+  - [Team Fortress 2 #42](https://sovietscloset.com/video/6693) (id: 6693)
+  - [Team Fortress 2 #42](https://sovietscloset.com/video/9011) (id: 9011)
+- Number: 51
+  - [Team Fortress 2 #51](https://sovietscloset.com/video/6869) (id: 6869)
+  - [Team Fortress 2 #51](https://sovietscloset.com/video/9007) (id: 9007)
 - Number: 8
   - [VR Onward #8](https://sovietscloset.com/video/3746) (id: 3746)
   - [VR Onward #8](https://sovietscloset.com/video/6723) (id: 6723)
