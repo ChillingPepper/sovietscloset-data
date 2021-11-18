@@ -2673,6 +2673,12 @@
             "useBunny": true
           },
           {
+            "id": 9017,
+            "date": "2021-04-01 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6999,
             "date": "2021-04-29 20:48",
             "new": false,
@@ -6079,7 +6085,7 @@
     "name": "Startopia",
     "slug": "Startopia",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 7076,
@@ -6089,18 +6095,36 @@
           {
             "id": 9005,
             "date": "2021-11-09 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9006,
             "date": "2021-11-09 20:16",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9013,
+            "date": "2021-11-10 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9014,
+            "date": "2021-11-10 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9015,
+            "date": "2021-11-11 11:18",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6845,6 +6869,12 @@
           {
             "id": 4679,
             "date": "2021-04-04 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9018,
+            "date": "2021-04-09 19:58",
             "new": false,
             "useBunny": true
           },
