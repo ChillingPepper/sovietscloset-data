@@ -1479,6 +1479,72 @@
         "slug": "Misc",
         "streams": [
           {
+            "id": 9023,
+            "date": "2019-03-16 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9024,
+            "date": "2019-03-17 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9021,
+            "date": "2019-03-21 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9022,
+            "date": "2019-04-22 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9025,
+            "date": "2019-04-23 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9026,
+            "date": "2019-04-26 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9027,
+            "date": "2019-04-30 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9028,
+            "date": "2019-05-19 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9029,
+            "date": "2020-06-03 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9030,
+            "date": "2020-06-10 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9020,
+            "date": "2020-06-17 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1516,
             "date": "2020-10-24 20:03",
             "new": false,
@@ -2413,7 +2479,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -2679,6 +2745,12 @@
             "useBunny": true
           },
           {
+            "id": 9019,
+            "date": "2021-04-15 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6999,
             "date": "2021-04-29 20:48",
             "new": false,
@@ -2783,12 +2855,12 @@
           {
             "id": 9012,
             "date": "2021-11-11 20:51",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
