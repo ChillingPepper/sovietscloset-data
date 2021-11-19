@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-18T19:42:34Z.
+Last updated at 2021-11-19T08:46:40Z.
 
 ## Missing
 
@@ -68,7 +68,6 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #25
   - Holdfast: Nations at War #30
   - Holdfast: Nations at War #37
-  - Holdfast: Nations at War #44
   - Holdfast: Nations at War #53
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19

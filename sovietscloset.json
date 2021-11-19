@@ -1,5 +1,5 @@
 {
-  "timestamp": 1637264554,
+  "timestamp": 1637311600,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2143,10 +2143,109 @@
           "videos": [
             {
               "title": "Deep Rock Galactic #1",
+              "url": "https://sovietscloset.com/video/9023",
+              "id": 9023,
+              "date": "2019-03-16 19:58",
+              "number": 1,
+              "bunnyId": "27889606-1f8d-483f-952a-a5c7a03ff683",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #2",
+              "url": "https://sovietscloset.com/video/9024",
+              "id": 9024,
+              "date": "2019-03-17 19:55",
+              "number": 2,
+              "bunnyId": "7bf35d47-021c-4dc1-8eba-4edb2debd9ae",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #3",
+              "url": "https://sovietscloset.com/video/9021",
+              "id": 9021,
+              "date": "2019-03-21 20:11",
+              "number": 3,
+              "bunnyId": "a286ab1c-b5e2-4f32-a91b-dfdfb4762a0c",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #4",
+              "url": "https://sovietscloset.com/video/9022",
+              "id": 9022,
+              "date": "2019-04-22 20:27",
+              "number": 4,
+              "bunnyId": "88f59c67-c5ee-478e-a561-9299e606bab1",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #5",
+              "url": "https://sovietscloset.com/video/9025",
+              "id": 9025,
+              "date": "2019-04-23 20:05",
+              "number": 5,
+              "bunnyId": "833b5563-e292-4855-a162-1b2bc2db5e52",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #6",
+              "url": "https://sovietscloset.com/video/9026",
+              "id": 9026,
+              "date": "2019-04-26 20:04",
+              "number": 6,
+              "bunnyId": "27207bb1-0c49-4c5a-9b73-c211ec569e2a",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #7",
+              "url": "https://sovietscloset.com/video/9027",
+              "id": 9027,
+              "date": "2019-04-30 19:59",
+              "number": 7,
+              "bunnyId": "0559f6fd-3858-429f-8621-49488ef613e1",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #8",
+              "url": "https://sovietscloset.com/video/9028",
+              "id": 9028,
+              "date": "2019-05-19 19:55",
+              "number": 8,
+              "bunnyId": "45b62a5c-98f1-475e-bf59-4ab7c3083689",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #9",
+              "url": "https://sovietscloset.com/video/9029",
+              "id": 9029,
+              "date": "2020-06-03 20:03",
+              "number": 9,
+              "bunnyId": "3199caa3-b5f0-497f-b1ec-dbd0dc8e74ec",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #10",
+              "url": "https://sovietscloset.com/video/9030",
+              "id": 9030,
+              "date": "2020-06-10 20:00",
+              "number": 10,
+              "bunnyId": "562a9d63-422c-4b38-97d9-fe4eb0009d69",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #11",
+              "url": "https://sovietscloset.com/video/9020",
+              "id": 9020,
+              "date": "2020-06-17 20:01",
+              "number": 11,
+              "bunnyId": "862ee923-1219-4820-84c4-6b06ff27f5f8",
+              "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #12",
               "url": "https://sovietscloset.com/video/1516",
               "id": 1516,
               "date": "2020-10-24 20:03",
-              "number": 1,
+              "number": 12,
               "bunnyId": "74757ecc-ba17-4fba-a303-ef59cac167b8",
               "new": false
             }
@@ -3495,7 +3594,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -3503,7 +3602,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -3893,6 +3992,15 @@
               "new": false
             },
             {
+              "title": "Holdfast: Nations at War #44",
+              "url": "https://sovietscloset.com/video/9019",
+              "id": 9019,
+              "date": "2021-04-15 20:54",
+              "number": 44,
+              "bunnyId": "23ac9da6-b4dd-4291-bb16-2bfa56c64b08",
+              "new": false
+            },
+            {
               "title": "Holdfast: Nations at War #45",
               "url": "https://sovietscloset.com/video/6999",
               "id": 6999,
@@ -4052,7 +4160,7 @@
               "date": "2021-11-11 20:51",
               "number": 63,
               "bunnyId": "b62a6c42-d715-41ca-b83c-2e526dc8fed9",
-              "new": true
+              "new": false
             }
           ]
         }

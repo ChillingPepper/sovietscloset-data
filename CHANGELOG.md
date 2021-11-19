@@ -1,5 +1,42 @@
 # Changelog
 
+## 2021-11-19T08:46:40Z
+
+### Modified Game [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+#### Modified Playlist [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+##### Videos
+
+- Added `v9023` [Deep Rock Galactic #1](https://sovietscloset.com/video/9023)
+- Added `v9024` [Deep Rock Galactic #2](https://sovietscloset.com/video/9024)
+- Added `v9021` [Deep Rock Galactic #3](https://sovietscloset.com/video/9021)
+- Added `v9022` [Deep Rock Galactic #4](https://sovietscloset.com/video/9022)
+- Added `v9025` [Deep Rock Galactic #5](https://sovietscloset.com/video/9025)
+- Added `v9026` [Deep Rock Galactic #6](https://sovietscloset.com/video/9026)
+- Added `v9027` [Deep Rock Galactic #7](https://sovietscloset.com/video/9027)
+- Added `v9028` [Deep Rock Galactic #8](https://sovietscloset.com/video/9028)
+- Added `v9029` [Deep Rock Galactic #9](https://sovietscloset.com/video/9029)
+- Added `v9030` [Deep Rock Galactic #10](https://sovietscloset.com/video/9030)
+- Added `v9020` [Deep Rock Galactic #11](https://sovietscloset.com/video/9020)
+- Modified `v1516` [Deep Rock Galactic #12](https://sovietscloset.com/video/1516)
+  - Changed title from `Deep Rock Galactic #1` to `Deep Rock Galactic #12`
+  - Changed number from `1` to `12`
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v9019` [Holdfast: Nations at War #44](https://sovietscloset.com/video/9019)
+- Modified `v9012` [Holdfast: Nations at War #63](https://sovietscloset.com/video/9012)
+  - Is no longer marked as new.
+
 ## 2021-11-18T19:42:34Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
