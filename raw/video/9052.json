@@ -1,0 +1,59 @@
+{
+  "streamId": 9052,
+  "date": "2021-05-11 11:21",
+  "game": {
+    "name": "Total War: Napoleon",
+    "slug": "Total-War-Napoleon"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9049,
+        "date": "2021-05-05 11:16"
+      },
+      {
+        "streamId": 9047,
+        "date": "2021-05-06 10:56"
+      },
+      {
+        "streamId": 9051,
+        "date": "2021-05-07 11:05"
+      },
+      {
+        "streamId": 9048,
+        "date": "2021-05-10 11:28"
+      },
+      {
+        "streamId": 9050,
+        "date": "2021-05-10 20:26"
+      },
+      {
+        "streamId": 9052,
+        "date": "2021-05-11 11:21"
+      },
+      {
+        "streamId": 9055,
+        "date": "2021-05-12 11:19"
+      },
+      {
+        "streamId": 9053,
+        "date": "2021-05-12 20:17"
+      },
+      {
+        "streamId": 9054,
+        "date": "2021-05-13 11:36"
+      },
+      {
+        "streamId": 6704,
+        "date": "2021-05-14 11:22"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "bec3fc9b-d3a4-4244-8f47-469a35045e96",
+  "useBunny": true
+}

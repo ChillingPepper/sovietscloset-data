@@ -1,0 +1,23 @@
+{
+  "streamId": 9059,
+  "date": "2016-02-16 14:08",
+  "game": {
+    "name": "Farming Simulator",
+    "slug": "Farming-Simulator"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9059,
+        "date": "2016-02-16 14:08"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "a516ece5-d28e-46fc-8b6c-001c88fa9bb5",
+  "useBunny": true
+}

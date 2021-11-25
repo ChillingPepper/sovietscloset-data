@@ -741,6 +741,12 @@
             "useBunny": true
           },
           {
+            "id": 9061,
+            "date": "2021-05-11 19:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6748,
             "date": "2021-06-08 20:04",
             "new": false,
@@ -2334,6 +2340,180 @@
     ]
   },
   {
+    "id": 7064,
+    "name": "Farming Simulator",
+    "slug": "Farming-Simulator",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 7078,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 9059,
+            "date": "2016-02-16 14:08",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 7065,
+    "name": "Final Fantasy X",
+    "slug": "Final-Fantasy-X",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 7079,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 9087,
+            "date": "2019-04-25 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9088,
+            "date": "2019-04-26 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9069,
+            "date": "2019-04-27 15:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9070,
+            "date": "2019-04-29 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9068,
+            "date": "2019-04-30 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9072,
+            "date": "2019-05-01 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9071,
+            "date": "2019-05-03 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9073,
+            "date": "2019-05-20 11:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9074,
+            "date": "2019-05-21 10:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9075,
+            "date": "2019-05-22 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9076,
+            "date": "2019-05-23 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9077,
+            "date": "2019-05-30 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9079,
+            "date": "2019-05-31 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9078,
+            "date": "2019-06-03 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9080,
+            "date": "2019-06-04 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9082,
+            "date": "2019-06-05 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9083,
+            "date": "2019-06-06 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9084,
+            "date": "2019-06-06 16:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9081,
+            "date": "2019-06-07 10:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9085,
+            "date": "2019-06-07 21:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9086,
+            "date": "2019-06-08 16:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9089,
+            "date": "2019-06-08 21:06",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 1019,
     "name": "Halo: The Master Chief Collection",
     "slug": "Halo-The-Master-Chief-Collection",
@@ -2745,14 +2925,44 @@
             "useBunny": true
           },
           {
+            "id": 9058,
+            "date": "2021-04-08 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 9019,
             "date": "2021-04-15 20:54",
             "new": false,
             "useBunny": true
           },
           {
+            "id": 9031,
+            "date": "2021-04-22 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9033,
+            "date": "2021-04-22 22:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6999,
             "date": "2021-04-29 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9056,
+            "date": "2021-05-06 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9057,
+            "date": "2021-05-13 20:47",
             "new": false,
             "useBunny": true
           },
@@ -2789,6 +2999,12 @@
           {
             "id": 6994,
             "date": "2021-07-08 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9032,
+            "date": "2021-07-29 20:50",
             "new": false,
             "useBunny": true
           },
@@ -2989,7 +3205,7 @@
     "name": "Kerbal Space Program",
     "slug": "Kerbal-Space-Program",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1027,
@@ -3141,6 +3357,24 @@
             "useBunny": true
           },
           {
+            "id": 9036,
+            "date": "2021-08-06 11:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9034,
+            "date": "2021-08-06 20:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9037,
+            "date": "2021-08-06 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6702,
             "date": "2021-08-09 10:54",
             "new": false,
@@ -3169,10 +3403,76 @@
             "date": "2021-08-11 11:34",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 9044,
+            "date": "2021-11-18 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9035,
+            "date": "2021-11-18 22:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9038,
+            "date": "2021-11-19 11:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9040,
+            "date": "2021-11-20 12:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9043,
+            "date": "2021-11-21 12:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9042,
+            "date": "2021-11-21 17:42",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9063,
+            "date": "2021-11-22 11:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9064,
+            "date": "2021-11-23 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9066,
+            "date": "2021-11-23 20:23",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9065,
+            "date": "2021-11-24 11:17",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9067,
+            "date": "2021-11-24 20:17",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4954,6 +5254,12 @@
             "date": "2021-04-22 11:05",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 9039,
+            "date": "2021-04-23 14:25",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -5237,6 +5543,24 @@
           {
             "id": 4683,
             "date": "2021-04-07 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9041,
+            "date": "2021-04-28 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9046,
+            "date": "2021-04-30 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9045,
+            "date": "2021-05-03 11:06",
             "new": false,
             "useBunny": true
           },
@@ -7683,6 +8007,60 @@
         "slug": "Misc",
         "streams": [
           {
+            "id": 9049,
+            "date": "2021-05-05 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9047,
+            "date": "2021-05-06 10:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9051,
+            "date": "2021-05-07 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9048,
+            "date": "2021-05-10 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9050,
+            "date": "2021-05-10 20:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9052,
+            "date": "2021-05-11 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9055,
+            "date": "2021-05-12 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9053,
+            "date": "2021-05-12 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9054,
+            "date": "2021-05-13 11:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6704,
             "date": "2021-05-14 11:22",
             "new": false,
@@ -8639,6 +9017,12 @@
           {
             "id": 6759,
             "date": "2020-06-20 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9060,
+            "date": "2021-05-07 19:56",
             "new": false,
             "useBunny": true
           }
