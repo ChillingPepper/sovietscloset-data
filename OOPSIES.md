@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-19T08:46:40Z.
+Last updated at 2021-11-25T17:43:26Z.
 
 ## Missing
 
@@ -33,7 +33,7 @@ Missing videos are only detected if they are followed by a video that is already
 - [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
   - Arma 3 - Zeus Games #14
 - [Blackwake](https://sovietscloset.com/Blackwake)
-  - Blackwake #11
+  - Blackwake #12
 - [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
   - DayZ - Standalone #1
   - DayZ - Standalone #4
@@ -68,10 +68,10 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #25
   - Holdfast: Nations at War #30
   - Holdfast: Nations at War #37
-  - Holdfast: Nations at War #53
+  - Holdfast: Nations at War #59
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
-  - Kerbal Space Program #26
+  - Kerbal Space Program #27
 - [Minecraft](https://sovietscloset.com/Minecraft)
   - Minecraft #24
   - Minecraft #26
@@ -191,8 +191,8 @@ This list includes all videos that have the same date.
   - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085) (id: 1085)
   - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920) (id: 6920)
 - Date: 2021-06-08 20:04
-  - [Blackwake #12](https://sovietscloset.com/video/6748) (id: 6748)
-  - [Blackwake #12](https://sovietscloset.com/video/6949) (id: 6949)
+  - [Blackwake #13](https://sovietscloset.com/video/6748) (id: 6748)
+  - [Blackwake #13](https://sovietscloset.com/video/6949) (id: 6949)
 - Date: 2019-01-16 20:16
   - [DayZ - Standalone #2](https://sovietscloset.com/video/1737) (id: 1737)
   - [DayZ - Standalone #2](https://sovietscloset.com/video/1760) (id: 1760)
@@ -386,10 +386,9 @@ This list includes all videos that have the same number.
 - Number: 30
   - [Factorio #30](https://sovietscloset.com/video/6871) (id: 6871)
   - [Factorio #30](https://sovietscloset.com/video/6981) (id: 6981)
-- Number: 12
-  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
-  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
-  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1349) (id: 1349)
+- Number: 13
+  - [Blackwake #13](https://sovietscloset.com/video/6748) (id: 6748)
+  - [Blackwake #13](https://sovietscloset.com/video/6949) (id: 6949)
 - Number: 2
   - [Factorio #2](https://sovietscloset.com/video/6808) (id: 6808)
   - [Factorio #2](https://sovietscloset.com/video/6911) (id: 6911)
@@ -403,6 +402,10 @@ This list includes all videos that have the same number.
   - [Subnautica #10](https://sovietscloset.com/video/1463) (id: 1463)
   - [Subnautica #10](https://sovietscloset.com/video/1470) (id: 1470)
   - [Subnautica #10](https://sovietscloset.com/video/1487) (id: 1487)
+- Number: 12
+  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
+  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
+  - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1349) (id: 1349)
 - Number: 14
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)

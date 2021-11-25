@@ -1,5 +1,228 @@
 # Changelog
 
+## 2021-11-25T17:43:26Z
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+##### Videos
+
+- Added `v9061` [Blackwake #11](https://sovietscloset.com/video/9061)
+- Modified `v6748` [Blackwake #13](https://sovietscloset.com/video/6748)
+  - Changed title from `Blackwake #12` to `Blackwake #13`
+  - Changed number from `12` to `13`
+- Modified `v6949` [Blackwake #13](https://sovietscloset.com/video/6949)
+  - Changed title from `Blackwake #12` to `Blackwake #13`
+  - Changed number from `12` to `13`
+
+### Added Game [Farming Simulator](https://sovietscloset.com/Farming-Simulator)
+
+#### Added Playlist [Farming Simulator](https://sovietscloset.com/Farming-Simulator)
+
+##### Videos
+
+- Added `v9059` [Farming Simulator #1](https://sovietscloset.com/video/9059)
+
+### Added Game [Final Fantasy X](https://sovietscloset.com/Final-Fantasy-X)
+
+#### Added Playlist [Final Fantasy X](https://sovietscloset.com/Final-Fantasy-X)
+
+##### Videos
+
+- Added `v9087` [Final Fantasy X #1](https://sovietscloset.com/video/9087)
+- Added `v9088` [Final Fantasy X #2](https://sovietscloset.com/video/9088)
+- Added `v9069` [Final Fantasy X #3](https://sovietscloset.com/video/9069)
+- Added `v9070` [Final Fantasy X #4](https://sovietscloset.com/video/9070)
+- Added `v9068` [Final Fantasy X #5](https://sovietscloset.com/video/9068)
+- Added `v9072` [Final Fantasy X #6](https://sovietscloset.com/video/9072)
+- Added `v9071` [Final Fantasy X #7](https://sovietscloset.com/video/9071)
+- Added `v9073` [Final Fantasy X #8](https://sovietscloset.com/video/9073)
+- Added `v9074` [Final Fantasy X #9](https://sovietscloset.com/video/9074)
+- Added `v9075` [Final Fantasy X #10](https://sovietscloset.com/video/9075)
+- Added `v9076` [Final Fantasy X #11](https://sovietscloset.com/video/9076)
+- Added `v9077` [Final Fantasy X #12](https://sovietscloset.com/video/9077)
+- Added `v9079` [Final Fantasy X #13](https://sovietscloset.com/video/9079)
+- Added `v9078` [Final Fantasy X #14](https://sovietscloset.com/video/9078)
+- Added `v9080` [Final Fantasy X #15](https://sovietscloset.com/video/9080)
+- Added `v9082` [Final Fantasy X #16](https://sovietscloset.com/video/9082)
+- Added `v9083` [Final Fantasy X #17](https://sovietscloset.com/video/9083)
+- Added `v9084` [Final Fantasy X #18](https://sovietscloset.com/video/9084)
+- Added `v9081` [Final Fantasy X #19](https://sovietscloset.com/video/9081)
+- Added `v9085` [Final Fantasy X #20](https://sovietscloset.com/video/9085)
+- Added `v9086` [Final Fantasy X #21](https://sovietscloset.com/video/9086)
+- Added `v9089` [Final Fantasy X #22](https://sovietscloset.com/video/9089)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v9058` [Holdfast: Nations at War #44](https://sovietscloset.com/video/9058)
+- Modified `v9019` [Holdfast: Nations at War #45](https://sovietscloset.com/video/9019)
+  - Changed title from `Holdfast: Nations at War #44` to `Holdfast: Nations at War #45`
+  - Changed number from `44` to `45`
+- Added `v9031` [Holdfast: Nations at War #46](https://sovietscloset.com/video/9031)
+- Added `v9033` [Holdfast: Nations at War #47](https://sovietscloset.com/video/9033)
+- Modified `v6999` [Holdfast: Nations at War #48](https://sovietscloset.com/video/6999)
+  - Changed title from `Holdfast: Nations at War #45` to `Holdfast: Nations at War #48`
+  - Changed number from `45` to `48`
+- Added `v9056` [Holdfast: Nations at War #49](https://sovietscloset.com/video/9056)
+- Added `v9057` [Holdfast: Nations at War #50](https://sovietscloset.com/video/9057)
+- Modified `v6998` [Holdfast: Nations at War #51](https://sovietscloset.com/video/6998)
+  - Changed title from `Holdfast: Nations at War #46` to `Holdfast: Nations at War #51`
+  - Changed number from `46` to `51`
+- Modified `v6996` [Holdfast: Nations at War #52](https://sovietscloset.com/video/6996)
+  - Changed title from `Holdfast: Nations at War #47` to `Holdfast: Nations at War #52`
+  - Changed number from `47` to `52`
+- Modified `v6997` [Holdfast: Nations at War #53](https://sovietscloset.com/video/6997)
+  - Changed title from `Holdfast: Nations at War #48` to `Holdfast: Nations at War #53`
+  - Changed number from `48` to `53`
+- Modified `v6995` [Holdfast: Nations at War #54](https://sovietscloset.com/video/6995)
+  - Changed title from `Holdfast: Nations at War #49` to `Holdfast: Nations at War #54`
+  - Changed number from `49` to `54`
+- Modified `v6992` [Holdfast: Nations at War #55](https://sovietscloset.com/video/6992)
+  - Changed title from `Holdfast: Nations at War #50` to `Holdfast: Nations at War #55`
+  - Changed number from `50` to `55`
+- Modified `v6994` [Holdfast: Nations at War #56](https://sovietscloset.com/video/6994)
+  - Changed title from `Holdfast: Nations at War #51` to `Holdfast: Nations at War #56`
+  - Changed number from `51` to `56`
+- Added `v9032` [Holdfast: Nations at War #57](https://sovietscloset.com/video/9032)
+- Modified `v6701` [Holdfast: Nations at War #58](https://sovietscloset.com/video/6701)
+  - Changed title from `Holdfast: Nations at War #52` to `Holdfast: Nations at War #58`
+  - Changed number from `52` to `58`
+- Modified `v6909` [Holdfast: Nations at War #60](https://sovietscloset.com/video/6909)
+  - Changed title from `Holdfast: Nations at War #54` to `Holdfast: Nations at War #60`
+  - Changed number from `54` to `60`
+- Modified `v6819` [Holdfast: Nations at War #61](https://sovietscloset.com/video/6819)
+  - Changed title from `Holdfast: Nations at War #55` to `Holdfast: Nations at War #61`
+  - Changed number from `55` to `61`
+- Modified `v6908` [Holdfast: Nations at War #62](https://sovietscloset.com/video/6908)
+  - Changed title from `Holdfast: Nations at War #56` to `Holdfast: Nations at War #62`
+  - Changed number from `56` to `62`
+- Modified `v6907` [Holdfast: Nations at War #63](https://sovietscloset.com/video/6907)
+  - Changed title from `Holdfast: Nations at War #57` to `Holdfast: Nations at War #63`
+  - Changed number from `57` to `63`
+- Modified `v6906` [Holdfast: Nations at War #64](https://sovietscloset.com/video/6906)
+  - Changed title from `Holdfast: Nations at War #58` to `Holdfast: Nations at War #64`
+  - Changed number from `58` to `64`
+- Modified `v6993` [Holdfast: Nations at War #65](https://sovietscloset.com/video/6993)
+  - Changed title from `Holdfast: Nations at War #59` to `Holdfast: Nations at War #65`
+  - Changed number from `59` to `65`
+- Modified `v6990` [Holdfast: Nations at War #66](https://sovietscloset.com/video/6990)
+  - Changed title from `Holdfast: Nations at War #60` to `Holdfast: Nations at War #66`
+  - Changed number from `60` to `66`
+- Modified `v7983` [Holdfast: Nations at War #67](https://sovietscloset.com/video/7983)
+  - Changed title from `Holdfast: Nations at War #61` to `Holdfast: Nations at War #67`
+  - Changed number from `61` to `67`
+- Modified `v9004` [Holdfast: Nations at War #68](https://sovietscloset.com/video/9004)
+  - Changed title from `Holdfast: Nations at War #62` to `Holdfast: Nations at War #68`
+  - Changed number from `62` to `68`
+- Modified `v9012` [Holdfast: Nations at War #69](https://sovietscloset.com/video/9012)
+  - Changed title from `Holdfast: Nations at War #63` to `Holdfast: Nations at War #69`
+  - Changed number from `63` to `69`
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v9036` [Kerbal Space Program #26](https://sovietscloset.com/video/9036)
+- Added `v9034` [Kerbal Space Program #28](https://sovietscloset.com/video/9034)
+- Added `v9037` [Kerbal Space Program #29](https://sovietscloset.com/video/9037)
+- Modified `v6702` [Kerbal Space Program #30](https://sovietscloset.com/video/6702)
+  - Changed title from `Kerbal Space Program #27` to `Kerbal Space Program #30`
+  - Changed number from `27` to `30`
+- Modified `v6708` [Kerbal Space Program #31](https://sovietscloset.com/video/6708)
+  - Changed title from `Kerbal Space Program #28` to `Kerbal Space Program #31`
+  - Changed number from `28` to `31`
+- Modified `v6709` [Kerbal Space Program #32](https://sovietscloset.com/video/6709)
+  - Changed title from `Kerbal Space Program #29` to `Kerbal Space Program #32`
+  - Changed number from `29` to `32`
+- Modified `v6710` [Kerbal Space Program #33](https://sovietscloset.com/video/6710)
+  - Changed title from `Kerbal Space Program #30` to `Kerbal Space Program #33`
+  - Changed number from `30` to `33`
+- Modified `v6712` [Kerbal Space Program #34](https://sovietscloset.com/video/6712)
+  - Changed title from `Kerbal Space Program #31` to `Kerbal Space Program #34`
+  - Changed number from `31` to `34`
+- Added `v9044` [Kerbal Space Program #35](https://sovietscloset.com/video/9044)
+- Added `v9035` [Kerbal Space Program #36](https://sovietscloset.com/video/9035) (new)
+- Added `v9038` [Kerbal Space Program #37](https://sovietscloset.com/video/9038) (new)
+- Added `v9040` [Kerbal Space Program #38](https://sovietscloset.com/video/9040) (new)
+- Added `v9043` [Kerbal Space Program #39](https://sovietscloset.com/video/9043) (new)
+- Added `v9042` [Kerbal Space Program #40](https://sovietscloset.com/video/9042) (new)
+- Added `v9063` [Kerbal Space Program #41](https://sovietscloset.com/video/9063) (new)
+- Added `v9064` [Kerbal Space Program #42](https://sovietscloset.com/video/9064) (new)
+- Added `v9066` [Kerbal Space Program #43](https://sovietscloset.com/video/9066) (new)
+- Added `v9065` [Kerbal Space Program #44](https://sovietscloset.com/video/9065) (new)
+- Added `v9067` [Kerbal Space Program #45](https://sovietscloset.com/video/9067) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - Caloma's Creek](https://sovietscloset.com/Rimworld/Caloma-s-Creek)
+
+##### Videos
+
+- Added `v9039` [Rimworld - Caloma's Creek #102](https://sovietscloset.com/video/9039)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v9041` [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/9041)
+- Added `v9046` [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/9046)
+- Added `v9045` [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/9045)
+- Modified `v6686` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #36` to `Rising Storm 2: Vietnam #39`
+  - Changed number from `36` to `39`
+- Modified `v6692` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #37` to `Rising Storm 2: Vietnam #40`
+  - Changed number from `37` to `40`
+- Modified `v6749` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #38` to `Rising Storm 2: Vietnam #41`
+  - Changed number from `38` to `41`
+- Modified `v6979` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #39` to `Rising Storm 2: Vietnam #42`
+  - Changed number from `39` to `42`
+- Modified `v6978` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `40` to `43`
+
+### Modified Game [Total War: Napoleon](https://sovietscloset.com/Total-War-Napoleon)
+
+#### Modified Playlist [Total War: Napoleon](https://sovietscloset.com/Total-War-Napoleon)
+
+##### Videos
+
+- Added `v9049` [Total War: Napoleon #1](https://sovietscloset.com/video/9049)
+- Added `v9047` [Total War: Napoleon #2](https://sovietscloset.com/video/9047)
+- Added `v9051` [Total War: Napoleon #3](https://sovietscloset.com/video/9051)
+- Added `v9048` [Total War: Napoleon #4](https://sovietscloset.com/video/9048)
+- Added `v9050` [Total War: Napoleon #5](https://sovietscloset.com/video/9050)
+- Added `v9052` [Total War: Napoleon #6](https://sovietscloset.com/video/9052)
+- Added `v9055` [Total War: Napoleon #7](https://sovietscloset.com/video/9055)
+- Added `v9053` [Total War: Napoleon #8](https://sovietscloset.com/video/9053)
+- Added `v9054` [Total War: Napoleon #9](https://sovietscloset.com/video/9054)
+- Modified `v6704` [Total War: Napoleon #10](https://sovietscloset.com/video/6704)
+  - Changed title from `Total War: Napoleon #1` to `Total War: Napoleon #10`
+  - Changed number from `1` to `10`
+
+### Modified Game [VR Chat](https://sovietscloset.com/VR-Chat)
+
+#### Modified Playlist [VR Chat](https://sovietscloset.com/VR-Chat)
+
+##### Videos
+
+- Added `v9060` [VR Chat #3](https://sovietscloset.com/video/9060)
+
 ## 2021-11-19T08:46:40Z
 
 ### Modified Game [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
