@@ -1,5 +1,5 @@
 {
-  "timestamp": 1637862206,
+  "timestamp": 1637916543,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3651,6 +3651,98 @@
       ]
     },
     {
+      "title": "Gears of War 5",
+      "url": "https://sovietscloset.com/Gears-of-War-5",
+      "name": "Gears of War 5",
+      "slug": "Gears-of-War-5",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Gears of War 5",
+          "url": "https://sovietscloset.com/Gears-of-War-5",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Gears of War 5 #1",
+              "url": "https://sovietscloset.com/video/9090",
+              "id": 9090,
+              "date": "2019-09-09 11:04",
+              "number": 1,
+              "bunnyId": "01e1ffc7-82eb-49fd-a925-7932c2397633",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #2",
+              "url": "https://sovietscloset.com/video/9093",
+              "id": 9093,
+              "date": "2019-09-09 11:45",
+              "number": 2,
+              "bunnyId": "69b123cd-1aef-4df8-ab6b-91a2d4b94a3a",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #3",
+              "url": "https://sovietscloset.com/video/9097",
+              "id": 9097,
+              "date": "2019-09-09 11:50",
+              "number": 3,
+              "bunnyId": "9cf06f79-be2b-4639-aa76-664805501b4f",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #4",
+              "url": "https://sovietscloset.com/video/9096",
+              "id": 9096,
+              "date": "2019-09-10 11:00",
+              "number": 4,
+              "bunnyId": "ba95fa17-78d8-4b91-bc0d-e2cdc23da1a1",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #5",
+              "url": "https://sovietscloset.com/video/9095",
+              "id": 9095,
+              "date": "2019-09-11 11:51",
+              "number": 5,
+              "bunnyId": "75f83695-33c5-4159-b40c-cffb20773d44",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #6",
+              "url": "https://sovietscloset.com/video/9094",
+              "id": 9094,
+              "date": "2019-09-12 11:05",
+              "number": 6,
+              "bunnyId": "86263381-153b-47b7-9c8c-021f2f6dc512",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #7",
+              "url": "https://sovietscloset.com/video/9092",
+              "id": 9092,
+              "date": "2019-09-15 18:09",
+              "number": 7,
+              "bunnyId": "8e26d2b4-d267-4664-a4a1-9bc95f423e27",
+              "new": false
+            },
+            {
+              "title": "Gears of War 5 #8",
+              "url": "https://sovietscloset.com/video/9091",
+              "id": 9091,
+              "date": "2019-09-16 11:47",
+              "number": 8,
+              "bunnyId": "277a8fb4-0280-44eb-9c82-0d82cd6529b6",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Halo: The Master Chief Collection",
       "url": "https://sovietscloset.com/Halo-The-Master-Chief-Collection",
       "name": "Halo: The Master Chief Collection",
@@ -4955,7 +5047,7 @@
               "date": "2021-11-18 22:09",
               "number": 36,
               "bunnyId": "ead39f76-d186-43a4-ade3-cad3ee319184",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #37",

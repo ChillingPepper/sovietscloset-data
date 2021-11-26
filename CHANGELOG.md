@@ -1,5 +1,31 @@
 # Changelog
 
+## 2021-11-26T08:49:03Z
+
+### Added Game [Gears of War 5](https://sovietscloset.com/Gears-of-War-5)
+
+#### Added Playlist [Gears of War 5](https://sovietscloset.com/Gears-of-War-5)
+
+##### Videos
+
+- Added `v9090` [Gears of War 5 #1](https://sovietscloset.com/video/9090)
+- Added `v9093` [Gears of War 5 #2](https://sovietscloset.com/video/9093)
+- Added `v9097` [Gears of War 5 #3](https://sovietscloset.com/video/9097)
+- Added `v9096` [Gears of War 5 #4](https://sovietscloset.com/video/9096)
+- Added `v9095` [Gears of War 5 #5](https://sovietscloset.com/video/9095)
+- Added `v9094` [Gears of War 5 #6](https://sovietscloset.com/video/9094)
+- Added `v9092` [Gears of War 5 #7](https://sovietscloset.com/video/9092)
+- Added `v9091` [Gears of War 5 #8](https://sovietscloset.com/video/9091)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Modified `v9035` [Kerbal Space Program #36](https://sovietscloset.com/video/9035)
+  - Is no longer marked as new.
+
 ## 2021-11-25T17:43:26Z
 
 ### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
