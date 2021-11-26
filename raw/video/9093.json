@@ -1,0 +1,51 @@
+{
+  "streamId": 9093,
+  "date": "2019-09-09 11:45",
+  "game": {
+    "name": "Gears of War 5",
+    "slug": "Gears-of-War-5"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9090,
+        "date": "2019-09-09 11:04"
+      },
+      {
+        "streamId": 9093,
+        "date": "2019-09-09 11:45"
+      },
+      {
+        "streamId": 9097,
+        "date": "2019-09-09 11:50"
+      },
+      {
+        "streamId": 9096,
+        "date": "2019-09-10 11:00"
+      },
+      {
+        "streamId": 9095,
+        "date": "2019-09-11 11:51"
+      },
+      {
+        "streamId": 9094,
+        "date": "2019-09-12 11:05"
+      },
+      {
+        "streamId": 9092,
+        "date": "2019-09-15 18:09"
+      },
+      {
+        "streamId": 9091,
+        "date": "2019-09-16 11:47"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "69b123cd-1aef-4df8-ab6b-91a2d4b94a3a",
+  "useBunny": true
+}
