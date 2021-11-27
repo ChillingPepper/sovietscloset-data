@@ -1,5 +1,43 @@
 # Changelog
 
+## 2021-11-27T16:35:44Z
+
+### Added Game [Foxhole](https://sovietscloset.com/Foxhole)
+
+#### Added Playlist [Foxhole](https://sovietscloset.com/Foxhole)
+
+##### Videos
+
+- Added `v9099` [Foxhole #1](https://sovietscloset.com/video/9099)
+
+### Added Game [Gang Beasts](https://sovietscloset.com/Gang-Beasts)
+
+#### Added Playlist [Gang Beasts](https://sovietscloset.com/Gang-Beasts)
+
+##### Videos
+
+- Added `v9098` [Gang Beasts #1](https://sovietscloset.com/video/9098)
+
+### Added Game [Golf It](https://sovietscloset.com/Golf-It)
+
+#### Added Playlist [Golf It](https://sovietscloset.com/Golf-It)
+
+##### Videos
+
+- Added `v9100` [Golf It #1](https://sovietscloset.com/video/9100)
+- Added `v9101` [Golf It #2](https://sovietscloset.com/video/9101)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Modified `v9038` [Kerbal Space Program #37](https://sovietscloset.com/video/9038)
+  - Is no longer marked as new.
+- Modified `v9040` [Kerbal Space Program #38](https://sovietscloset.com/video/9040)
+  - Is no longer marked as new.
+
 ## 2021-11-26T08:49:03Z
 
 ### Added Game [Gears of War 5](https://sovietscloset.com/Gears-of-War-5)

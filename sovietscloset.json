@@ -1,5 +1,5 @@
 {
-  "timestamp": 1637916543,
+  "timestamp": 1638030944,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3651,6 +3651,64 @@
       ]
     },
     {
+      "title": "Foxhole",
+      "url": "https://sovietscloset.com/Foxhole",
+      "name": "Foxhole",
+      "slug": "Foxhole",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Foxhole",
+          "url": "https://sovietscloset.com/Foxhole",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Foxhole #1",
+              "url": "https://sovietscloset.com/video/9099",
+              "id": 9099,
+              "date": "2019-01-04 19:57",
+              "number": 1,
+              "bunnyId": "f44a21c4-9092-46c0-85d8-bffffaa8422b",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gang Beasts",
+      "url": "https://sovietscloset.com/Gang-Beasts",
+      "name": "Gang Beasts",
+      "slug": "Gang-Beasts",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Gang Beasts",
+          "url": "https://sovietscloset.com/Gang-Beasts",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Gang Beasts #1",
+              "url": "https://sovietscloset.com/video/9098",
+              "id": 9098,
+              "date": "2017-04-08 10:54",
+              "number": 1,
+              "bunnyId": "7dcff31f-e529-4685-80e3-0d65e40def1c",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Gears of War 5",
       "url": "https://sovietscloset.com/Gears-of-War-5",
       "name": "Gears of War 5",
@@ -3736,6 +3794,44 @@
               "date": "2019-09-16 11:47",
               "number": 8,
               "bunnyId": "277a8fb4-0280-44eb-9c82-0d82cd6529b6",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Golf It",
+      "url": "https://sovietscloset.com/Golf-It",
+      "name": "Golf It",
+      "slug": "Golf-It",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Golf It",
+          "url": "https://sovietscloset.com/Golf-It",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Golf It #1",
+              "url": "https://sovietscloset.com/video/9100",
+              "id": 9100,
+              "date": "2017-07-26 20:47",
+              "number": 1,
+              "bunnyId": "ad7358db-c210-4ca8-a4ca-b03b8dcc91ae",
+              "new": false
+            },
+            {
+              "title": "Golf It #2",
+              "url": "https://sovietscloset.com/video/9101",
+              "id": 9101,
+              "date": "2017-07-28 18:30",
+              "number": 2,
+              "bunnyId": "67968294-316d-46e9-907d-36b117e2c4e1",
               "new": false
             }
           ]
@@ -5056,7 +5152,7 @@
               "date": "2021-11-19 11:09",
               "number": 37,
               "bunnyId": "21b152fa-6e58-4360-8c3c-4e91887d2e11",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #38",
@@ -5065,7 +5161,7 @@
               "date": "2021-11-20 12:07",
               "number": 38,
               "bunnyId": "8e2c0a1a-ddc7-4aff-900c-07856728def6",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #39",
