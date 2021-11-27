@@ -1,0 +1,27 @@
+{
+  "streamId": 9101,
+  "date": "2017-07-28 18:30",
+  "game": {
+    "name": "Golf It",
+    "slug": "Golf-It"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9100,
+        "date": "2017-07-26 20:47"
+      },
+      {
+        "streamId": 9101,
+        "date": "2017-07-28 18:30"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "67968294-316d-46e9-907d-36b117e2c4e1",
+  "useBunny": true
+}
