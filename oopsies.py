@@ -64,7 +64,9 @@ def update_oopsies():
                     if len(temp_dict[key]) > 1:
                         if key not in dupes_dict:
                             dupes_dict[key] = list()
-                        dupes_dict[key] = temp_dict[key]
+                        for video in temp_dict[key]:
+                            if video not in dupes_dict[key]:
+                                dupes_dict[key].append(video)
 
     oopsies_md = "# Oopsies\n\n"
     oopsies_md += f"Last updated at {sovietscloset.timestamp.isoformat(timespec='seconds')}Z.\n\n"
@@ -134,9 +136,9 @@ def update_oopsies():
         oopsies_md += f"This list includes all videos that have the same {name}.\n\n"
 
         if dupes:
-            for key, videos in dupes.items():
+            for key, videos in sorted(dupes.items()):
                 oopsies_md += f"- {capitalized_name}: {key}\n"
-                for video in videos:
+                for video in sorted(videos, key=lambda v: f"{v.title}{v.id}"):
                     oopsies_md += f"  - [{video.title}](https://sovietscloset.com/video/{video.id}) (id: {video.id})\n"
         else:
             oopsies_md += f"All videos have a unique {name}. :tada:\n"
