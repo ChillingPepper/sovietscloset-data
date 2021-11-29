@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-27T16:35:44Z.
+Last updated at 2021-11-29T17:18:46Z.
 
 ## Missing
 
@@ -52,11 +52,11 @@ Missing videos are only detected if they are followed by a video that is already
 - [Factorio](https://sovietscloset.com/Factorio)
   - Factorio #1
   - Factorio #3
-  - Factorio #22
-  - Factorio #24
-  - Factorio #26
+  - Factorio #23
+  - Factorio #25
   - Factorio #27
-  - Factorio #29
+  - Factorio #28
+  - Factorio #30
 - [Halo: The Master Chief Collection - Halo 3](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-3)
   - Halo: The Master Chief Collection - Halo 3 #9
 - [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
@@ -233,14 +233,14 @@ This list includes all videos that have the same date.
   - [Factorio #4](https://sovietscloset.com/video/6807) (id: 6807)
   - [Factorio #4](https://sovietscloset.com/video/6912) (id: 6912)
 - Date: 2021-07-30 11:14
-  - [Factorio #23](https://sovietscloset.com/video/6714) (id: 6714)
-  - [Factorio #23](https://sovietscloset.com/video/6734) (id: 6734)
+  - [Factorio #24](https://sovietscloset.com/video/6714) (id: 6714)
+  - [Factorio #24](https://sovietscloset.com/video/6734) (id: 6734)
 - Date: 2021-09-21 20:33
-  - [Factorio #28](https://sovietscloset.com/video/6870) (id: 6870)
-  - [Factorio #28](https://sovietscloset.com/video/7996) (id: 7996)
+  - [Factorio #29](https://sovietscloset.com/video/6870) (id: 6870)
+  - [Factorio #29](https://sovietscloset.com/video/7996) (id: 7996)
 - Date: 2021-09-23 11:08
-  - [Factorio #30](https://sovietscloset.com/video/6871) (id: 6871)
-  - [Factorio #30](https://sovietscloset.com/video/6981) (id: 6981)
+  - [Factorio #31](https://sovietscloset.com/video/6871) (id: 6871)
+  - [Factorio #31](https://sovietscloset.com/video/6981) (id: 6981)
 - Date: 2020-09-03 20:51
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
@@ -384,8 +384,8 @@ This list includes all videos that have the same number.
   - [VR Blade & Sorcery #39](https://sovietscloset.com/video/6772) (id: 6772)
   - [VR Blade & Sorcery #39](https://sovietscloset.com/video/6973) (id: 6973)
 - Number: 30
-  - [Factorio #30](https://sovietscloset.com/video/6871) (id: 6871)
-  - [Factorio #30](https://sovietscloset.com/video/6981) (id: 6981)
+  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085) (id: 1085)
+  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920) (id: 6920)
 - Number: 13
   - [Blackwake #13](https://sovietscloset.com/video/6748) (id: 6748)
   - [Blackwake #13](https://sovietscloset.com/video/6949) (id: 6949)
@@ -421,9 +421,9 @@ This list includes all videos that have the same number.
 - Number: 4
   - [VR Onward #4](https://sovietscloset.com/video/3745) (id: 3745)
   - [VR Onward #4](https://sovietscloset.com/video/6722) (id: 6722)
-- Number: 28
-  - [Factorio #28](https://sovietscloset.com/video/6870) (id: 6870)
-  - [Factorio #28](https://sovietscloset.com/video/7996) (id: 7996)
+- Number: 24
+  - [Factorio #24](https://sovietscloset.com/video/6714) (id: 6714)
+  - [Factorio #24](https://sovietscloset.com/video/6734) (id: 6734)
 - Number: 18
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)

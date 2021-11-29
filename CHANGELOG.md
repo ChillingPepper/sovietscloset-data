@@ -1,5 +1,118 @@
 # Changelog
 
+## 2021-11-29T17:18:46Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v9102` [Factorio #6](https://sovietscloset.com/video/9102)
+- Modified `v6725` [Factorio #7](https://sovietscloset.com/video/6725)
+  - Changed title from `Factorio #6` to `Factorio #7`
+  - Changed number from `6` to `7`
+- Modified `v6727` [Factorio #8](https://sovietscloset.com/video/6727)
+  - Changed title from `Factorio #7` to `Factorio #8`
+  - Changed number from `7` to `8`
+- Modified `v6729` [Factorio #9](https://sovietscloset.com/video/6729)
+  - Changed title from `Factorio #8` to `Factorio #9`
+  - Changed number from `8` to `9`
+- Modified `v6730` [Factorio #10](https://sovietscloset.com/video/6730)
+  - Changed title from `Factorio #9` to `Factorio #10`
+  - Changed number from `9` to `10`
+- Modified `v6732` [Factorio #11](https://sovietscloset.com/video/6732)
+  - Changed title from `Factorio #10` to `Factorio #11`
+  - Changed number from `10` to `11`
+- Modified `v6728` [Factorio #12](https://sovietscloset.com/video/6728)
+  - Changed title from `Factorio #11` to `Factorio #12`
+  - Changed number from `11` to `12`
+- Modified `v6731` [Factorio #13](https://sovietscloset.com/video/6731)
+  - Changed title from `Factorio #12` to `Factorio #13`
+  - Changed number from `12` to `13`
+- Modified `v6733` [Factorio #14](https://sovietscloset.com/video/6733)
+  - Changed title from `Factorio #13` to `Factorio #14`
+  - Changed number from `13` to `14`
+- Modified `v6696` [Factorio #15](https://sovietscloset.com/video/6696)
+  - Changed title from `Factorio #14` to `Factorio #15`
+  - Changed number from `14` to `15`
+- Modified `v6695` [Factorio #16](https://sovietscloset.com/video/6695)
+  - Changed title from `Factorio #15` to `Factorio #16`
+  - Changed number from `15` to `16`
+- Modified `v6697` [Factorio #17](https://sovietscloset.com/video/6697)
+  - Changed title from `Factorio #16` to `Factorio #17`
+  - Changed number from `16` to `17`
+- Modified `v6698` [Factorio #18](https://sovietscloset.com/video/6698)
+  - Changed title from `Factorio #17` to `Factorio #18`
+  - Changed number from `17` to `18`
+- Modified `v6694` [Factorio #19](https://sovietscloset.com/video/6694)
+  - Changed title from `Factorio #18` to `Factorio #19`
+  - Changed number from `18` to `19`
+- Modified `v6735` [Factorio #20](https://sovietscloset.com/video/6735)
+  - Changed title from `Factorio #19` to `Factorio #20`
+  - Changed number from `19` to `20`
+- Modified `v7995` [Factorio #21](https://sovietscloset.com/video/7995)
+  - Changed title from `Factorio #20` to `Factorio #21`
+  - Changed number from `20` to `21`
+- Modified `v6736` [Factorio #22](https://sovietscloset.com/video/6736)
+  - Changed title from `Factorio #21` to `Factorio #22`
+  - Changed number from `21` to `22`
+- Modified `v6714` [Factorio #24](https://sovietscloset.com/video/6714)
+  - Changed title from `Factorio #23` to `Factorio #24`
+  - Changed number from `23` to `24`
+- Modified `v6734` [Factorio #24](https://sovietscloset.com/video/6734)
+  - Changed title from `Factorio #23` to `Factorio #24`
+  - Changed number from `23` to `24`
+- Modified `v6868` [Factorio #26](https://sovietscloset.com/video/6868)
+  - Changed title from `Factorio #25` to `Factorio #26`
+  - Changed number from `25` to `26`
+- Modified `v6870` [Factorio #29](https://sovietscloset.com/video/6870)
+  - Changed title from `Factorio #28` to `Factorio #29`
+  - Changed number from `28` to `29`
+- Modified `v7996` [Factorio #29](https://sovietscloset.com/video/7996)
+  - Changed title from `Factorio #28` to `Factorio #29`
+  - Changed number from `28` to `29`
+- Modified `v6871` [Factorio #31](https://sovietscloset.com/video/6871)
+  - Changed title from `Factorio #30` to `Factorio #31`
+  - Changed number from `30` to `31`
+- Modified `v6981` [Factorio #31](https://sovietscloset.com/video/6981)
+  - Changed title from `Factorio #30` to `Factorio #31`
+  - Changed number from `30` to `31`
+- Modified `v6980` [Factorio #32](https://sovietscloset.com/video/6980)
+  - Changed title from `Factorio #31` to `Factorio #32`
+  - Changed number from `31` to `32`
+- Modified `v8997` [Factorio #33](https://sovietscloset.com/video/8997)
+  - Changed title from `Factorio #32` to `Factorio #33`
+  - Changed number from `32` to `33`
+- Modified `v8999` [Factorio #34](https://sovietscloset.com/video/8999)
+  - Changed title from `Factorio #33` to `Factorio #34`
+  - Changed number from `33` to `34`
+- Modified `v8998` [Factorio #35](https://sovietscloset.com/video/8998)
+  - Changed title from `Factorio #34` to `Factorio #35`
+  - Changed number from `34` to `35`
+- Modified `v9000` [Factorio #36](https://sovietscloset.com/video/9000)
+  - Changed title from `Factorio #35` to `Factorio #36`
+  - Changed number from `35` to `36`
+- Modified `v9002` [Factorio #37](https://sovietscloset.com/video/9002)
+  - Changed title from `Factorio #36` to `Factorio #37`
+  - Changed number from `36` to `37`
+- Modified `v9003` [Factorio #38](https://sovietscloset.com/video/9003)
+  - Changed title from `Factorio #37` to `Factorio #38`
+  - Changed number from `37` to `38`
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Modified `v9043` [Kerbal Space Program #39](https://sovietscloset.com/video/9043)
+  - Is no longer marked as new.
+- Modified `v9042` [Kerbal Space Program #40](https://sovietscloset.com/video/9042)
+  - Is no longer marked as new.
+- Modified `v9063` [Kerbal Space Program #41](https://sovietscloset.com/video/9063)
+  - Is no longer marked as new.
+
 ## 2021-11-27T16:35:44Z
 
 ### Added Game [Foxhole](https://sovietscloset.com/Foxhole)
