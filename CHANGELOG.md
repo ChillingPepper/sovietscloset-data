@@ -1,5 +1,95 @@
 # Changelog
 
+## 2021-12-02T16:59:50Z
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+##### Videos
+
+- Added `v9105` [Blackwake #12](https://sovietscloset.com/video/9105)
+- Modified `v6748` [Blackwake #14](https://sovietscloset.com/video/6748)
+  - Changed title from `Blackwake #13` to `Blackwake #14`
+  - Changed number from `13` to `14`
+- Modified `v6949` [Blackwake #14](https://sovietscloset.com/video/6949)
+  - Changed title from `Blackwake #13` to `Blackwake #14`
+  - Changed number from `13` to `14`
+
+### Modified Game [Halo: The Master Chief Collection](https://sovietscloset.com/Halo-The-Master-Chief-Collection)
+
+#### Added Playlist [Halo: The Master Chief Collection - Halo: Combat Evolved](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-Combat-Evolved)
+
+##### Videos
+
+- Added `v9110` [Halo: The Master Chief Collection - Halo: Combat Evolved #1](https://sovietscloset.com/video/9110)
+- Added `v9109` [Halo: The Master Chief Collection - Halo: Combat Evolved #2](https://sovietscloset.com/video/9109)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Modified `v9064` [Kerbal Space Program #42](https://sovietscloset.com/video/9064)
+  - Is no longer marked as new.
+- Modified `v9066` [Kerbal Space Program #43](https://sovietscloset.com/video/9066)
+  - Is no longer marked as new.
+- Modified `v9065` [Kerbal Space Program #44](https://sovietscloset.com/video/9065)
+  - Is no longer marked as new.
+- Modified `v9067` [Kerbal Space Program #45](https://sovietscloset.com/video/9067)
+  - Is no longer marked as new.
+- Added `v9107` [Kerbal Space Program #46](https://sovietscloset.com/video/9107)
+- Added `v9108` [Kerbal Space Program #47](https://sovietscloset.com/video/9108) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v9104` [Rimworld - The Pale Ones #14](https://sovietscloset.com/video/9104) (new)
+- Added `v9111` [Rimworld - The Pale Ones #15](https://sovietscloset.com/video/9111) (new)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v9106` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/9106)
+- Modified `v6686` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #39` to `Rising Storm 2: Vietnam #40`
+  - Changed number from `39` to `40`
+- Modified `v6692` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #41`
+  - Changed number from `40` to `41`
+- Modified `v6749` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #41` to `Rising Storm 2: Vietnam #42`
+  - Changed number from `41` to `42`
+- Modified `v6979` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #42` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `42` to `43`
+- Modified `v6978` [Rising Storm 2: Vietnam #44](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #43` to `Rising Storm 2: Vietnam #44`
+  - Changed number from `43` to `44`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v9103` [Team Fortress 2 #62](https://sovietscloset.com/video/9103) (new)
+
 ## 2021-11-29T17:18:46Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

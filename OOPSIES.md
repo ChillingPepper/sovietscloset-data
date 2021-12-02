@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-11-29T17:18:46Z.
+Last updated at 2021-12-02T16:59:50Z.
 
 ## Missing
 
@@ -33,7 +33,7 @@ Missing videos are only detected if they are followed by a video that is already
 - [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
   - Arma 3 - Zeus Games #14
 - [Blackwake](https://sovietscloset.com/Blackwake)
-  - Blackwake #12
+  - Blackwake #13
 - [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
   - DayZ - Standalone #1
   - DayZ - Standalone #4
@@ -334,8 +334,8 @@ This list includes all videos that have the same date.
   - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3783) (id: 3783)
   - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3785) (id: 3785)
 - Date: 2021-06-08 20:04
-  - [Blackwake #13](https://sovietscloset.com/video/6748) (id: 6748)
-  - [Blackwake #13](https://sovietscloset.com/video/6949) (id: 6949)
+  - [Blackwake #14](https://sovietscloset.com/video/6748) (id: 6748)
+  - [Blackwake #14](https://sovietscloset.com/video/6949) (id: 6949)
 - Date: 2021-07-25 19:57
   - [Team Fortress 2 #42](https://sovietscloset.com/video/6693) (id: 6693)
   - [Team Fortress 2 #42](https://sovietscloset.com/video/9011) (id: 9011)
@@ -404,10 +404,9 @@ This list includes all videos that have the same number.
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1349) (id: 1349)
-- Number: 13
-  - [Blackwake #13](https://sovietscloset.com/video/6748) (id: 6748)
-  - [Blackwake #13](https://sovietscloset.com/video/6949) (id: 6949)
 - Number: 14
+  - [Blackwake #14](https://sovietscloset.com/video/6748) (id: 6748)
+  - [Blackwake #14](https://sovietscloset.com/video/6949) (id: 6949)
   - [DayZ - Standalone #14](https://sovietscloset.com/video/1736) (id: 1736)
   - [DayZ - Standalone #14](https://sovietscloset.com/video/1759) (id: 1759)
   - [Holdfast: Nations at War #14](https://sovietscloset.com/video/1083) (id: 1083)
