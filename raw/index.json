@@ -747,6 +747,12 @@
             "useBunny": true
           },
           {
+            "id": 9105,
+            "date": "2021-05-18 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6748,
             "date": "2021-06-08 20:04",
             "new": false,
@@ -2747,6 +2753,27 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 7084,
+        "name": "Halo: Combat Evolved",
+        "slug": "Halo-Combat-Evolved",
+        "streams": [
+          {
+            "id": 9110,
+            "date": "2018-12-14 19:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9109,
+            "date": "2019-01-05 14:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3599,24 +3626,36 @@
           {
             "id": 9064,
             "date": "2021-11-23 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9066,
             "date": "2021-11-23 20:23",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9065,
             "date": "2021-11-24 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9067,
             "date": "2021-11-24 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9107,
+            "date": "2021-11-25 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9108,
+            "date": "2021-11-26 11:10",
             "new": true,
             "useBunny": true
           }
@@ -4255,7 +4294,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1004,
@@ -5479,10 +5518,22 @@
             "date": "2021-10-15 11:10",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 9104,
+            "date": "2021-11-30 11:10",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 9111,
+            "date": "2021-12-01 11:15",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5711,6 +5762,12 @@
           {
             "id": 9045,
             "date": "2021-05-03 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9106,
+            "date": "2021-05-21 20:00",
             "new": false,
             "useBunny": true
           },
@@ -7225,7 +7282,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -7585,10 +7642,16 @@
             "date": "2021-11-07 19:48",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 9103,
+            "date": "2021-11-28 20:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

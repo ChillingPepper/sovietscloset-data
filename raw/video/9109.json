@@ -1,0 +1,27 @@
+{
+  "streamId": 9109,
+  "date": "2019-01-05 14:59",
+  "game": {
+    "name": "Halo: The Master Chief Collection",
+    "slug": "Halo-The-Master-Chief-Collection"
+  },
+  "subcategory": {
+    "name": "Halo: Combat Evolved",
+    "slug": "Halo-Combat-Evolved",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 9110,
+        "date": "2018-12-14 19:10"
+      },
+      {
+        "streamId": 9109,
+        "date": "2019-01-05 14:59"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "e490adda-6318-482b-bf9f-eccd049fbb0f",
+  "useBunny": true
+}
