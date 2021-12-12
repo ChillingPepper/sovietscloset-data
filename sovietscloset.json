@@ -1,5 +1,5 @@
 {
-  "timestamp": 1638464390,
+  "timestamp": 1639273423,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -3045,6 +3045,88 @@
               "new": false
             }
           ]
+        },
+        {
+          "title": "Divinity: Original Sin 2 - Audio gathering solo play",
+          "url": "https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play",
+          "name": "Audio gathering solo play",
+          "slug": "Audio-gathering-solo-play",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #1",
+              "url": "https://sovietscloset.com/video/10082",
+              "id": 10082,
+              "date": "2021-05-31 11:30",
+              "number": 1,
+              "bunnyId": "8e43287a-8373-4c7c-97c4-eda4935a192d",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #2",
+              "url": "https://sovietscloset.com/video/10099",
+              "id": 10099,
+              "date": "2021-06-04 11:13",
+              "number": 2,
+              "bunnyId": "69e8ff1f-33fc-4649-938c-2aa30a539e7c",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #3",
+              "url": "https://sovietscloset.com/video/10101",
+              "id": 10101,
+              "date": "2021-06-04 20:22",
+              "number": 3,
+              "bunnyId": "f0a95399-8090-44eb-8cce-a057ad472099",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #4",
+              "url": "https://sovietscloset.com/video/10097",
+              "id": 10097,
+              "date": "2021-06-07 11:20",
+              "number": 4,
+              "bunnyId": "bab0bfda-b23e-4f60-b717-5f35d3d12a13",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #5",
+              "url": "https://sovietscloset.com/video/10098",
+              "id": 10098,
+              "date": "2021-06-08 12:04",
+              "number": 5,
+              "bunnyId": "ce620aac-d8c3-4514-a7ba-f71e34ce1065",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #6",
+              "url": "https://sovietscloset.com/video/10100",
+              "id": 10100,
+              "date": "2021-06-09 11:15",
+              "number": 6,
+              "bunnyId": "2cc774b6-d376-4eb8-ba40-77968217032b",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #7",
+              "url": "https://sovietscloset.com/video/10102",
+              "id": 10102,
+              "date": "2021-06-10 11:19",
+              "number": 7,
+              "bunnyId": "59206bdf-b6cf-447d-b824-e68380c01e4a",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #8",
+              "url": "https://sovietscloset.com/video/10103",
+              "id": 10103,
+              "date": "2021-06-11 11:28",
+              "number": 8,
+              "bunnyId": "d6613611-7e6f-48be-9f7f-409ed14c6b02",
+              "new": false
+            }
+          ]
         }
       ]
     },
@@ -4084,7 +4166,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -4092,7 +4174,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -4518,193 +4600,319 @@
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #48",
+              "title": "Holdfast: Nations at War #49",
               "url": "https://sovietscloset.com/video/6999",
               "id": 6999,
               "date": "2021-04-29 20:48",
-              "number": 48,
+              "number": 49,
               "bunnyId": "63c77c44-004d-4caf-bb60-11a00f8ea249",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #49",
-              "url": "https://sovietscloset.com/video/9056",
-              "id": 9056,
-              "date": "2021-05-06 20:52",
+              "url": "https://sovietscloset.com/video/10092",
+              "id": 10092,
+              "date": "2021-04-29 20:48",
               "number": 49,
-              "bunnyId": "e571db8a-e37f-4d52-aeab-a0b014361e83",
+              "bunnyId": "e2d56d0e-78f7-4f84-84cc-f1a789fab546",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #50",
-              "url": "https://sovietscloset.com/video/9057",
-              "id": 9057,
-              "date": "2021-05-13 20:47",
+              "url": "https://sovietscloset.com/video/9056",
+              "id": 9056,
+              "date": "2021-05-06 20:52",
               "number": 50,
-              "bunnyId": "0fde70e2-ddee-474c-90ee-7e54514d074a",
+              "bunnyId": "e571db8a-e37f-4d52-aeab-a0b014361e83",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #51",
-              "url": "https://sovietscloset.com/video/6998",
-              "id": 6998,
-              "date": "2021-05-20 20:52",
+              "url": "https://sovietscloset.com/video/9057",
+              "id": 9057,
+              "date": "2021-05-13 20:47",
               "number": 51,
-              "bunnyId": "1a1902bd-cef3-4cf9-a806-311c77f09d2b",
-              "new": false
-            },
-            {
-              "title": "Holdfast: Nations at War #52",
-              "url": "https://sovietscloset.com/video/6996",
-              "id": 6996,
-              "date": "2021-05-27 20:56",
-              "number": 52,
-              "bunnyId": "5000e577-f66c-49c3-9e84-535eeec6e5c7",
+              "bunnyId": "0fde70e2-ddee-474c-90ee-7e54514d074a",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #53",
-              "url": "https://sovietscloset.com/video/6997",
-              "id": 6997,
-              "date": "2021-06-10 20:53",
+              "url": "https://sovietscloset.com/video/6998",
+              "id": 6998,
+              "date": "2021-05-20 20:52",
               "number": 53,
-              "bunnyId": "f3e48fdb-7262-4547-a24d-9bdd621c846d",
+              "bunnyId": "1a1902bd-cef3-4cf9-a806-311c77f09d2b",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #54",
-              "url": "https://sovietscloset.com/video/6995",
-              "id": 6995,
-              "date": "2021-06-17 20:53",
-              "number": 54,
-              "bunnyId": "0464979f-ccdc-4450-b872-2b719d3ebc21",
+              "title": "Holdfast: Nations at War #53",
+              "url": "https://sovietscloset.com/video/10090",
+              "id": 10090,
+              "date": "2021-05-20 20:52",
+              "number": 53,
+              "bunnyId": "9c337ba6-876b-488e-a3fe-99e0ad04f195",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #55",
-              "url": "https://sovietscloset.com/video/6992",
-              "id": 6992,
-              "date": "2021-07-01 20:47",
+              "url": "https://sovietscloset.com/video/6996",
+              "id": 6996,
+              "date": "2021-05-27 20:56",
               "number": 55,
-              "bunnyId": "026855b2-59e7-4d0e-988e-ccc3800af002",
+              "bunnyId": "5000e577-f66c-49c3-9e84-535eeec6e5c7",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #56",
-              "url": "https://sovietscloset.com/video/6994",
-              "id": 6994,
-              "date": "2021-07-08 20:50",
-              "number": 56,
-              "bunnyId": "b3a59b9a-cc0c-4903-813a-dd11cbe5a0a0",
+              "title": "Holdfast: Nations at War #55",
+              "url": "https://sovietscloset.com/video/10085",
+              "id": 10085,
+              "date": "2021-05-27 20:56",
+              "number": 55,
+              "bunnyId": "1460f564-b097-47a9-a86b-eddbfa5731a1",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #57",
-              "url": "https://sovietscloset.com/video/9032",
-              "id": 9032,
-              "date": "2021-07-29 20:50",
+              "url": "https://sovietscloset.com/video/6997",
+              "id": 6997,
+              "date": "2021-06-10 20:53",
               "number": 57,
-              "bunnyId": "325c4386-d996-4e7e-8dd2-84c8249d85ea",
+              "bunnyId": "f3e48fdb-7262-4547-a24d-9bdd621c846d",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #58",
-              "url": "https://sovietscloset.com/video/6701",
-              "id": 6701,
-              "date": "2021-08-05 20:59",
-              "number": 58,
-              "bunnyId": "d6c79b6d-eea7-47c3-bdb3-610d8f68a8b6",
+              "title": "Holdfast: Nations at War #57",
+              "url": "https://sovietscloset.com/video/10086",
+              "id": 10086,
+              "date": "2021-06-10 20:53",
+              "number": 57,
+              "bunnyId": "abad306b-05d0-463d-8c2d-3a11e7a4e035",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #60",
-              "url": "https://sovietscloset.com/video/6909",
-              "id": 6909,
-              "date": "2021-08-26 20:52",
-              "number": 60,
-              "bunnyId": "d8131ca6-6e6e-435c-85ec-6526c0961f22",
+              "title": "Holdfast: Nations at War #59",
+              "url": "https://sovietscloset.com/video/6995",
+              "id": 6995,
+              "date": "2021-06-17 20:53",
+              "number": 59,
+              "bunnyId": "0464979f-ccdc-4450-b872-2b719d3ebc21",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #59",
+              "url": "https://sovietscloset.com/video/10089",
+              "id": 10089,
+              "date": "2021-06-17 20:53",
+              "number": 59,
+              "bunnyId": "acca8cbc-1164-40d4-9624-4cb2aac79c0b",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #61",
-              "url": "https://sovietscloset.com/video/6819",
-              "id": 6819,
-              "date": "2021-09-09 20:53",
+              "url": "https://sovietscloset.com/video/6992",
+              "id": 6992,
+              "date": "2021-07-01 20:47",
               "number": 61,
-              "bunnyId": "393c548f-c6c6-4022-bbe0-1f084898cf3a",
+              "bunnyId": "026855b2-59e7-4d0e-988e-ccc3800af002",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #62",
-              "url": "https://sovietscloset.com/video/6908",
-              "id": 6908,
-              "date": "2021-09-16 20:53",
-              "number": 62,
-              "bunnyId": "779112a5-bbcf-42d8-bde9-a984c2367ae0",
+              "title": "Holdfast: Nations at War #61",
+              "url": "https://sovietscloset.com/video/10087",
+              "id": 10087,
+              "date": "2021-07-01 20:47",
+              "number": 61,
+              "bunnyId": "59d051d5-fd72-4f8e-886f-f8b6ea4e31b5",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #63",
-              "url": "https://sovietscloset.com/video/6907",
-              "id": 6907,
-              "date": "2021-09-30 20:54",
+              "url": "https://sovietscloset.com/video/6994",
+              "id": 6994,
+              "date": "2021-07-08 20:50",
               "number": 63,
-              "bunnyId": "cf44643c-ddf0-4e10-bfd3-5c76e7222018",
+              "bunnyId": "b3a59b9a-cc0c-4903-813a-dd11cbe5a0a0",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #63",
+              "url": "https://sovietscloset.com/video/10088",
+              "id": 10088,
+              "date": "2021-07-08 20:50",
+              "number": 63,
+              "bunnyId": "6e0671b6-d76d-4d57-a448-df41fc5c2db7",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #64",
-              "url": "https://sovietscloset.com/video/6906",
-              "id": 6906,
-              "date": "2021-10-07 20:49",
+              "url": "https://sovietscloset.com/video/9032",
+              "id": 9032,
+              "date": "2021-07-29 20:50",
               "number": 64,
-              "bunnyId": "9cc527c2-8f52-4544-8244-c5219c556073",
+              "bunnyId": "325c4386-d996-4e7e-8dd2-84c8249d85ea",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #65",
-              "url": "https://sovietscloset.com/video/6993",
-              "id": 6993,
-              "date": "2021-10-14 20:52",
+              "url": "https://sovietscloset.com/video/6701",
+              "id": 6701,
+              "date": "2021-08-05 20:59",
               "number": 65,
-              "bunnyId": "3d7f0c98-cf16-44cd-98d6-c4e80f746598",
-              "new": false
-            },
-            {
-              "title": "Holdfast: Nations at War #66",
-              "url": "https://sovietscloset.com/video/6990",
-              "id": 6990,
-              "date": "2021-10-21 20:50",
-              "number": 66,
-              "bunnyId": "95401ca7-aad5-4503-bbda-46665006864f",
+              "bunnyId": "d6c79b6d-eea7-47c3-bdb3-610d8f68a8b6",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #67",
-              "url": "https://sovietscloset.com/video/7983",
-              "id": 7983,
-              "date": "2021-10-28 20:51",
+              "url": "https://sovietscloset.com/video/10093",
+              "id": 10093,
+              "date": "2021-08-12 20:51",
               "number": 67,
-              "bunnyId": "b75d36c1-9594-438c-a48a-dfe65d8dda1a",
+              "bunnyId": "83eb09a8-6ac2-4b32-9e48-46a52f4654cc",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #68",
-              "url": "https://sovietscloset.com/video/9004",
-              "id": 9004,
-              "date": "2021-11-04 20:51",
+              "url": "https://sovietscloset.com/video/6909",
+              "id": 6909,
+              "date": "2021-08-26 20:52",
               "number": 68,
-              "bunnyId": "5260638c-76d4-4c66-ab8f-b2b932c7f731",
+              "bunnyId": "d8131ca6-6e6e-435c-85ec-6526c0961f22",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #69",
+              "url": "https://sovietscloset.com/video/6819",
+              "id": 6819,
+              "date": "2021-09-09 20:53",
+              "number": 69,
+              "bunnyId": "393c548f-c6c6-4022-bbe0-1f084898cf3a",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #70",
+              "url": "https://sovietscloset.com/video/6908",
+              "id": 6908,
+              "date": "2021-09-16 20:53",
+              "number": 70,
+              "bunnyId": "779112a5-bbcf-42d8-bde9-a984c2367ae0",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #71",
+              "url": "https://sovietscloset.com/video/6907",
+              "id": 6907,
+              "date": "2021-09-30 20:54",
+              "number": 71,
+              "bunnyId": "cf44643c-ddf0-4e10-bfd3-5c76e7222018",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #72",
+              "url": "https://sovietscloset.com/video/6906",
+              "id": 6906,
+              "date": "2021-10-07 20:49",
+              "number": 72,
+              "bunnyId": "9cc527c2-8f52-4544-8244-c5219c556073",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #74",
+              "url": "https://sovietscloset.com/video/6993",
+              "id": 6993,
+              "date": "2021-10-14 20:52",
+              "number": 74,
+              "bunnyId": "3d7f0c98-cf16-44cd-98d6-c4e80f746598",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #74",
+              "url": "https://sovietscloset.com/video/10094",
+              "id": 10094,
+              "date": "2021-10-14 20:52",
+              "number": 74,
+              "bunnyId": "51bf0bba-0f19-44bc-8d00-1d7c0871eade",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #76",
+              "url": "https://sovietscloset.com/video/6990",
+              "id": 6990,
+              "date": "2021-10-21 20:50",
+              "number": 76,
+              "bunnyId": "95401ca7-aad5-4503-bbda-46665006864f",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #76",
+              "url": "https://sovietscloset.com/video/10091",
+              "id": 10091,
+              "date": "2021-10-21 20:50",
+              "number": 76,
+              "bunnyId": "1db9c891-5674-44c9-9029-048076135815",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #77",
+              "url": "https://sovietscloset.com/video/7983",
+              "id": 7983,
+              "date": "2021-10-28 20:51",
+              "number": 77,
+              "bunnyId": "b75d36c1-9594-438c-a48a-dfe65d8dda1a",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #78",
+              "url": "https://sovietscloset.com/video/9004",
+              "id": 9004,
+              "date": "2021-11-04 20:51",
+              "number": 78,
+              "bunnyId": "5260638c-76d4-4c66-ab8f-b2b932c7f731",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #79",
               "url": "https://sovietscloset.com/video/9012",
               "id": 9012,
               "date": "2021-11-11 20:51",
-              "number": 69,
+              "number": 79,
               "bunnyId": "b62a6c42-d715-41ca-b83c-2e526dc8fed9",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #80",
+              "url": "https://sovietscloset.com/video/10080",
+              "id": 10080,
+              "date": "2021-11-18 20:53",
+              "number": 80,
+              "bunnyId": "ddaa84fb-5a27-4b48-96cb-392e428d59f6",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #81",
+              "url": "https://sovietscloset.com/video/10078",
+              "id": 10078,
+              "date": "2021-11-25 20:52",
+              "number": 81,
+              "bunnyId": "a7a2b743-41ac-421a-b6b5-980c3e31e87d",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #82",
+              "url": "https://sovietscloset.com/video/10081",
+              "id": 10081,
+              "date": "2021-12-02 20:49",
+              "number": 82,
+              "bunnyId": "f5ac5b4e-c36a-4bc9-8b10-ef3c1b05375f",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #83",
+              "url": "https://sovietscloset.com/video/10079",
+              "id": 10079,
+              "date": "2021-12-09 20:51",
+              "number": 83,
+              "bunnyId": "df07fb97-ab78-4c09-be36-f32054855a1f",
+              "new": true
             }
           ]
         }
@@ -4875,7 +5083,7 @@
       "name": "Kerbal Space Program",
       "slug": "Kerbal-Space-Program",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Kerbal Space Program",
@@ -4883,7 +5091,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Kerbal Space Program #1",
@@ -5288,7 +5496,7 @@
               "date": "2021-11-26 11:10",
               "number": 47,
               "bunnyId": "9d299bb2-0f44-42d8-9f89-c097d408d2c9",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -5329,7 +5537,7 @@
       "name": "Minecraft",
       "slug": "Minecraft",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Minecraft",
@@ -5337,7 +5545,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Minecraft #1",
@@ -5617,6 +5825,51 @@
               "number": 31,
               "bunnyId": "50da7d2c-0334-45db-95cc-84a1869d5c61",
               "new": false
+            },
+            {
+              "title": "Minecraft #32",
+              "url": "https://sovietscloset.com/video/10073",
+              "id": 10073,
+              "date": "2021-12-06 11:11",
+              "number": 32,
+              "bunnyId": "73c6513c-0f37-40fb-a7bd-2db61a2ecbf1",
+              "new": true
+            },
+            {
+              "title": "Minecraft #33",
+              "url": "https://sovietscloset.com/video/10072",
+              "id": 10072,
+              "date": "2021-12-07 11:06",
+              "number": 33,
+              "bunnyId": "c7b9d08b-d3d4-4955-8865-cb214530ed5b",
+              "new": true
+            },
+            {
+              "title": "Minecraft #34",
+              "url": "https://sovietscloset.com/video/10071",
+              "id": 10071,
+              "date": "2021-12-08 11:07",
+              "number": 34,
+              "bunnyId": "b20c5db2-d893-4f41-b918-b3a928ad6228",
+              "new": true
+            },
+            {
+              "title": "Minecraft #36",
+              "url": "https://sovietscloset.com/video/10075",
+              "id": 10075,
+              "date": "2021-12-09 11:25",
+              "number": 36,
+              "bunnyId": "97172ece-9b90-4dbd-8bf6-74ca093a819e",
+              "new": true
+            },
+            {
+              "title": "Minecraft #37",
+              "url": "https://sovietscloset.com/video/10096",
+              "id": 10096,
+              "date": "2021-12-10 11:14",
+              "number": 37,
+              "bunnyId": "842e9067-826c-48ae-92ba-266785c5f951",
+              "new": true
             }
           ]
         }
@@ -6166,7 +6419,7 @@
       "name": "Rimworld",
       "slug": "Rimworld",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rimworld - Tundrafall",
@@ -7904,7 +8157,7 @@
           "name": "The Pale Ones",
           "slug": "The-Pale-Ones",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rimworld - The Pale Ones #3",
@@ -8003,7 +8256,7 @@
               "date": "2021-11-30 11:10",
               "number": 14,
               "bunnyId": "0b254032-6f4d-4ecf-a2c0-f1ad37e9059a",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #15",
@@ -8012,7 +8265,34 @@
               "date": "2021-12-01 11:15",
               "number": 15,
               "bunnyId": "6ed175bd-cb1f-4832-899d-9ce2ff23e599",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #16",
+              "url": "https://sovietscloset.com/video/9115",
+              "id": 9115,
+              "date": "2021-12-01 20:16",
+              "number": 16,
+              "bunnyId": "4aa1d633-cc07-418e-8812-a4bb50c57aa5",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #17",
+              "url": "https://sovietscloset.com/video/9114",
+              "id": 9114,
+              "date": "2021-12-02 10:55",
+              "number": 17,
+              "bunnyId": "c9a9d5db-6d3f-4bdc-827d-6a8ab83c54c3",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #18",
+              "url": "https://sovietscloset.com/video/10077",
+              "id": 10077,
+              "date": "2021-12-03 11:00",
+              "number": 18,
+              "bunnyId": "253be431-e16b-44ad-a109-9e98e42b4200",
+              "new": false
             }
           ]
         }
@@ -8369,46 +8649,64 @@
             },
             {
               "title": "Rising Storm 2: Vietnam #40",
-              "url": "https://sovietscloset.com/video/6686",
-              "id": 6686,
-              "date": "2021-07-16 20:07",
+              "url": "https://sovietscloset.com/video/10083",
+              "id": 10083,
+              "date": "2021-05-31 20:46",
               "number": 40,
-              "bunnyId": "586d9747-e28c-4bb3-b710-83bee25c9238",
+              "bunnyId": "c2e8e007-06ca-4892-8acd-db3ad3a34096",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #41",
-              "url": "https://sovietscloset.com/video/6692",
-              "id": 6692,
-              "date": "2021-07-19 11:41",
+              "url": "https://sovietscloset.com/video/10084",
+              "id": 10084,
+              "date": "2021-06-02 11:05",
               "number": 41,
-              "bunnyId": "5fc7d3f6-e8b3-4a3a-b7ca-72c719e9c047",
+              "bunnyId": "a4d1c24e-ce86-4c46-8de2-115df20c87c1",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #42",
-              "url": "https://sovietscloset.com/video/6749",
-              "id": 6749,
-              "date": "2021-08-24 11:21",
+              "url": "https://sovietscloset.com/video/6686",
+              "id": 6686,
+              "date": "2021-07-16 20:07",
               "number": 42,
-              "bunnyId": "fe53d764-77b5-4c81-9fb0-25b0f8892742",
+              "bunnyId": "586d9747-e28c-4bb3-b710-83bee25c9238",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #43",
-              "url": "https://sovietscloset.com/video/6979",
-              "id": 6979,
-              "date": "2021-09-25 20:00",
+              "url": "https://sovietscloset.com/video/6692",
+              "id": 6692,
+              "date": "2021-07-19 11:41",
               "number": 43,
-              "bunnyId": "226d96e6-86a5-41c4-a33b-5bd2b53db293",
+              "bunnyId": "5fc7d3f6-e8b3-4a3a-b7ca-72c719e9c047",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #44",
+              "url": "https://sovietscloset.com/video/6749",
+              "id": 6749,
+              "date": "2021-08-24 11:21",
+              "number": 44,
+              "bunnyId": "fe53d764-77b5-4c81-9fb0-25b0f8892742",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #45",
+              "url": "https://sovietscloset.com/video/6979",
+              "id": 6979,
+              "date": "2021-09-25 20:00",
+              "number": 45,
+              "bunnyId": "226d96e6-86a5-41c4-a33b-5bd2b53db293",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #46",
               "url": "https://sovietscloset.com/video/6978",
               "id": 6978,
               "date": "2021-09-27 11:13",
-              "number": 44,
+              "number": 46,
               "bunnyId": "976e98b4-be3c-4687-aa58-91df2062fd47",
               "new": false
             }
@@ -11114,11 +11412,29 @@
             },
             {
               "title": "Team Fortress 2 #62",
+              "url": "https://sovietscloset.com/video/10104",
+              "id": 10104,
+              "date": "2021-11-21 20:00",
+              "number": 62,
+              "bunnyId": "7bafdd61-e1bb-4a54-a380-fc2c6e26d168",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #63",
               "url": "https://sovietscloset.com/video/9103",
               "id": 9103,
               "date": "2021-11-28 20:00",
-              "number": 62,
+              "number": 63,
               "bunnyId": "951aa259-ad57-4211-a3a3-23fd8c00422d",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #64",
+              "url": "https://sovietscloset.com/video/10076",
+              "id": 10076,
+              "date": "2021-12-05 19:57",
+              "number": 64,
+              "bunnyId": "88b0e87c-cbcb-4600-ad31-4c7f62ce9b93",
               "new": true
             }
           ]
@@ -13996,6 +14312,15 @@
               "date": "2020-11-09 11:42",
               "number": 7,
               "bunnyId": "28cc68a7-384c-4337-a5c1-b0e2bedcc332",
+              "new": false
+            },
+            {
+              "title": "VR Ultimate Fishing Simulator #8",
+              "url": "https://sovietscloset.com/video/10095",
+              "id": 10095,
+              "date": "2021-05-28 11:28",
+              "number": 8,
+              "bunnyId": "5935377d-3250-4c9e-bee7-636a41081fb4",
               "new": false
             }
           ]

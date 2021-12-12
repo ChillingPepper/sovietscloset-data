@@ -1,5 +1,202 @@
 # Changelog
 
+## 2021-12-12T01:43:43Z
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Added Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v10082` [Divinity: Original Sin 2 - Audio gathering solo play #1](https://sovietscloset.com/video/10082)
+- Added `v10099` [Divinity: Original Sin 2 - Audio gathering solo play #2](https://sovietscloset.com/video/10099)
+- Added `v10101` [Divinity: Original Sin 2 - Audio gathering solo play #3](https://sovietscloset.com/video/10101)
+- Added `v10097` [Divinity: Original Sin 2 - Audio gathering solo play #4](https://sovietscloset.com/video/10097)
+- Added `v10098` [Divinity: Original Sin 2 - Audio gathering solo play #5](https://sovietscloset.com/video/10098)
+- Added `v10100` [Divinity: Original Sin 2 - Audio gathering solo play #6](https://sovietscloset.com/video/10100)
+- Added `v10102` [Divinity: Original Sin 2 - Audio gathering solo play #7](https://sovietscloset.com/video/10102)
+- Added `v10103` [Divinity: Original Sin 2 - Audio gathering solo play #8](https://sovietscloset.com/video/10103)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v10092` [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092)
+- Modified `v6999` [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999)
+  - Changed title from `Holdfast: Nations at War #48` to `Holdfast: Nations at War #49`
+  - Changed number from `48` to `49`
+- Modified `v9056` [Holdfast: Nations at War #50](https://sovietscloset.com/video/9056)
+  - Changed title from `Holdfast: Nations at War #49` to `Holdfast: Nations at War #50`
+  - Changed number from `49` to `50`
+- Modified `v9057` [Holdfast: Nations at War #51](https://sovietscloset.com/video/9057)
+  - Changed title from `Holdfast: Nations at War #50` to `Holdfast: Nations at War #51`
+  - Changed number from `50` to `51`
+- Added `v10090` [Holdfast: Nations at War #53](https://sovietscloset.com/video/10090)
+- Modified `v6998` [Holdfast: Nations at War #53](https://sovietscloset.com/video/6998)
+  - Changed title from `Holdfast: Nations at War #51` to `Holdfast: Nations at War #53`
+  - Changed number from `51` to `53`
+- Added `v10085` [Holdfast: Nations at War #55](https://sovietscloset.com/video/10085)
+- Modified `v6996` [Holdfast: Nations at War #55](https://sovietscloset.com/video/6996)
+  - Changed title from `Holdfast: Nations at War #52` to `Holdfast: Nations at War #55`
+  - Changed number from `52` to `55`
+- Added `v10086` [Holdfast: Nations at War #57](https://sovietscloset.com/video/10086)
+- Modified `v6997` [Holdfast: Nations at War #57](https://sovietscloset.com/video/6997)
+  - Changed title from `Holdfast: Nations at War #53` to `Holdfast: Nations at War #57`
+  - Changed number from `53` to `57`
+- Added `v10089` [Holdfast: Nations at War #59](https://sovietscloset.com/video/10089)
+- Modified `v6995` [Holdfast: Nations at War #59](https://sovietscloset.com/video/6995)
+  - Changed title from `Holdfast: Nations at War #54` to `Holdfast: Nations at War #59`
+  - Changed number from `54` to `59`
+- Added `v10087` [Holdfast: Nations at War #61](https://sovietscloset.com/video/10087)
+- Modified `v6992` [Holdfast: Nations at War #61](https://sovietscloset.com/video/6992)
+  - Changed title from `Holdfast: Nations at War #55` to `Holdfast: Nations at War #61`
+  - Changed number from `55` to `61`
+- Added `v10088` [Holdfast: Nations at War #63](https://sovietscloset.com/video/10088)
+- Modified `v6994` [Holdfast: Nations at War #63](https://sovietscloset.com/video/6994)
+  - Changed title from `Holdfast: Nations at War #56` to `Holdfast: Nations at War #63`
+  - Changed number from `56` to `63`
+- Modified `v9032` [Holdfast: Nations at War #64](https://sovietscloset.com/video/9032)
+  - Changed title from `Holdfast: Nations at War #57` to `Holdfast: Nations at War #64`
+  - Changed number from `57` to `64`
+- Modified `v6701` [Holdfast: Nations at War #65](https://sovietscloset.com/video/6701)
+  - Changed title from `Holdfast: Nations at War #58` to `Holdfast: Nations at War #65`
+  - Changed number from `58` to `65`
+- Added `v10093` [Holdfast: Nations at War #67](https://sovietscloset.com/video/10093)
+- Modified `v6909` [Holdfast: Nations at War #68](https://sovietscloset.com/video/6909)
+  - Changed title from `Holdfast: Nations at War #60` to `Holdfast: Nations at War #68`
+  - Changed number from `60` to `68`
+- Modified `v6819` [Holdfast: Nations at War #69](https://sovietscloset.com/video/6819)
+  - Changed title from `Holdfast: Nations at War #61` to `Holdfast: Nations at War #69`
+  - Changed number from `61` to `69`
+- Modified `v6908` [Holdfast: Nations at War #70](https://sovietscloset.com/video/6908)
+  - Changed title from `Holdfast: Nations at War #62` to `Holdfast: Nations at War #70`
+  - Changed number from `62` to `70`
+- Modified `v6907` [Holdfast: Nations at War #71](https://sovietscloset.com/video/6907)
+  - Changed title from `Holdfast: Nations at War #63` to `Holdfast: Nations at War #71`
+  - Changed number from `63` to `71`
+- Modified `v6906` [Holdfast: Nations at War #72](https://sovietscloset.com/video/6906)
+  - Changed title from `Holdfast: Nations at War #64` to `Holdfast: Nations at War #72`
+  - Changed number from `64` to `72`
+- Added `v10094` [Holdfast: Nations at War #74](https://sovietscloset.com/video/10094)
+- Modified `v6993` [Holdfast: Nations at War #74](https://sovietscloset.com/video/6993)
+  - Changed title from `Holdfast: Nations at War #65` to `Holdfast: Nations at War #74`
+  - Changed number from `65` to `74`
+- Added `v10091` [Holdfast: Nations at War #76](https://sovietscloset.com/video/10091)
+- Modified `v6990` [Holdfast: Nations at War #76](https://sovietscloset.com/video/6990)
+  - Changed title from `Holdfast: Nations at War #66` to `Holdfast: Nations at War #76`
+  - Changed number from `66` to `76`
+- Modified `v7983` [Holdfast: Nations at War #77](https://sovietscloset.com/video/7983)
+  - Changed title from `Holdfast: Nations at War #67` to `Holdfast: Nations at War #77`
+  - Changed number from `67` to `77`
+- Modified `v9004` [Holdfast: Nations at War #78](https://sovietscloset.com/video/9004)
+  - Changed title from `Holdfast: Nations at War #68` to `Holdfast: Nations at War #78`
+  - Changed number from `68` to `78`
+- Modified `v9012` [Holdfast: Nations at War #79](https://sovietscloset.com/video/9012)
+  - Changed title from `Holdfast: Nations at War #69` to `Holdfast: Nations at War #79`
+  - Changed number from `69` to `79`
+- Added `v10080` [Holdfast: Nations at War #80](https://sovietscloset.com/video/10080)
+- Added `v10078` [Holdfast: Nations at War #81](https://sovietscloset.com/video/10078)
+- Added `v10081` [Holdfast: Nations at War #82](https://sovietscloset.com/video/10081)
+- Added `v10079` [Holdfast: Nations at War #83](https://sovietscloset.com/video/10079) (new)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v9108` [Kerbal Space Program #47](https://sovietscloset.com/video/9108)
+  - Is no longer marked as new.
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v10073` [Minecraft #32](https://sovietscloset.com/video/10073) (new)
+- Added `v10072` [Minecraft #33](https://sovietscloset.com/video/10072) (new)
+- Added `v10071` [Minecraft #34](https://sovietscloset.com/video/10071) (new)
+- Added `v10075` [Minecraft #36](https://sovietscloset.com/video/10075) (new)
+- Added `v10096` [Minecraft #37](https://sovietscloset.com/video/10096) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v9104` [Rimworld - The Pale Ones #14](https://sovietscloset.com/video/9104)
+  - Is no longer marked as new.
+- Modified `v9111` [Rimworld - The Pale Ones #15](https://sovietscloset.com/video/9111)
+  - Is no longer marked as new.
+- Added `v9115` [Rimworld - The Pale Ones #16](https://sovietscloset.com/video/9115)
+- Added `v9114` [Rimworld - The Pale Ones #17](https://sovietscloset.com/video/9114)
+- Added `v10077` [Rimworld - The Pale Ones #18](https://sovietscloset.com/video/10077)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v10083` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/10083)
+- Added `v10084` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/10084)
+- Modified `v6686` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #42`
+  - Changed number from `40` to `42`
+- Modified `v6692` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #41` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `41` to `43`
+- Modified `v6749` [Rising Storm 2: Vietnam #44](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #42` to `Rising Storm 2: Vietnam #44`
+  - Changed number from `42` to `44`
+- Modified `v6979` [Rising Storm 2: Vietnam #45](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #43` to `Rising Storm 2: Vietnam #45`
+  - Changed number from `43` to `45`
+- Modified `v6978` [Rising Storm 2: Vietnam #46](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #44` to `Rising Storm 2: Vietnam #46`
+  - Changed number from `44` to `46`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v10104` [Team Fortress 2 #62](https://sovietscloset.com/video/10104)
+- Modified `v9103` [Team Fortress 2 #63](https://sovietscloset.com/video/9103)
+  - Changed title from `Team Fortress 2 #62` to `Team Fortress 2 #63`
+  - Changed number from `62` to `63`
+  - Is no longer marked as new.
+- Added `v10076` [Team Fortress 2 #64](https://sovietscloset.com/video/10076) (new)
+
+### Modified Game [VR Ultimate Fishing Simulator](https://sovietscloset.com/VR-Ultimate-Fishing-Simulator)
+
+#### Modified Playlist [VR Ultimate Fishing Simulator](https://sovietscloset.com/VR-Ultimate-Fishing-Simulator)
+
+##### Videos
+
+- Added `v10095` [VR Ultimate Fishing Simulator #8](https://sovietscloset.com/video/10095)
+
 ## 2021-12-02T16:59:50Z
 
 ### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
