@@ -1,0 +1,51 @@
+{
+  "streamId": 10103,
+  "date": "2021-06-11 11:28",
+  "game": {
+    "name": "Divinity: Original Sin 2",
+    "slug": "Divinity-Original-Sin-2"
+  },
+  "subcategory": {
+    "name": "Audio gathering solo play",
+    "slug": "Audio-gathering-solo-play",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 10082,
+        "date": "2021-05-31 11:30"
+      },
+      {
+        "streamId": 10099,
+        "date": "2021-06-04 11:13"
+      },
+      {
+        "streamId": 10101,
+        "date": "2021-06-04 20:22"
+      },
+      {
+        "streamId": 10097,
+        "date": "2021-06-07 11:20"
+      },
+      {
+        "streamId": 10098,
+        "date": "2021-06-08 12:04"
+      },
+      {
+        "streamId": 10100,
+        "date": "2021-06-09 11:15"
+      },
+      {
+        "streamId": 10102,
+        "date": "2021-06-10 11:19"
+      },
+      {
+        "streamId": 10103,
+        "date": "2021-06-11 11:28"
+      }
+    ]
+  },
+  "number": 8,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "d6613611-7e6f-48be-9f7f-409ed14c6b02",
+  "useBunny": true
+}

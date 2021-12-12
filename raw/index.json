@@ -2090,6 +2090,63 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 8080,
+        "name": "Audio gathering solo play",
+        "slug": "Audio-gathering-solo-play",
+        "streams": [
+          {
+            "id": 10082,
+            "date": "2021-05-31 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10099,
+            "date": "2021-06-04 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10101,
+            "date": "2021-06-04 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10097,
+            "date": "2021-06-07 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10098,
+            "date": "2021-06-08 12:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10100,
+            "date": "2021-06-09 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10102,
+            "date": "2021-06-10 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10103,
+            "date": "2021-06-11 11:28",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -2836,7 +2893,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -3132,6 +3189,12 @@
             "useBunny": true
           },
           {
+            "id": 10092,
+            "date": "2021-04-29 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 9056,
             "date": "2021-05-06 20:52",
             "new": false,
@@ -3150,7 +3213,19 @@
             "useBunny": true
           },
           {
+            "id": 10090,
+            "date": "2021-05-20 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6996,
+            "date": "2021-05-27 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10085,
             "date": "2021-05-27 20:56",
             "new": false,
             "useBunny": true
@@ -3162,7 +3237,19 @@
             "useBunny": true
           },
           {
+            "id": 10086,
+            "date": "2021-06-10 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6995,
+            "date": "2021-06-17 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10089,
             "date": "2021-06-17 20:53",
             "new": false,
             "useBunny": true
@@ -3174,7 +3261,19 @@
             "useBunny": true
           },
           {
+            "id": 10087,
+            "date": "2021-07-01 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6994,
+            "date": "2021-07-08 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10088,
             "date": "2021-07-08 20:50",
             "new": false,
             "useBunny": true
@@ -3188,6 +3287,12 @@
           {
             "id": 6701,
             "date": "2021-08-05 20:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10093,
+            "date": "2021-08-12 20:51",
             "new": false,
             "useBunny": true
           },
@@ -3228,7 +3333,19 @@
             "useBunny": true
           },
           {
+            "id": 10094,
+            "date": "2021-10-14 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6990,
+            "date": "2021-10-21 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10091,
             "date": "2021-10-21 20:50",
             "new": false,
             "useBunny": true
@@ -3250,10 +3367,34 @@
             "date": "2021-11-11 20:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10080,
+            "date": "2021-11-18 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10078,
+            "date": "2021-11-25 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10081,
+            "date": "2021-12-02 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10079,
+            "date": "2021-12-09 20:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3382,7 +3523,7 @@
     "name": "Kerbal Space Program",
     "slug": "Kerbal-Space-Program",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1027,
@@ -3656,12 +3797,12 @@
           {
             "id": 9108,
             "date": "2021-11-26 11:10",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3694,7 +3835,7 @@
     "name": "Minecraft",
     "slug": "Minecraft",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1060,
@@ -3886,10 +4027,40 @@
             "date": "2020-12-11 11:18",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10073,
+            "date": "2021-12-06 11:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10072,
+            "date": "2021-12-07 11:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10071,
+            "date": "2021-12-08 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10075,
+            "date": "2021-12-09 11:25",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10096,
+            "date": "2021-12-10 11:14",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4294,7 +4465,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1004,
@@ -5522,18 +5693,36 @@
           {
             "id": 9104,
             "date": "2021-11-30 11:10",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 9111,
             "date": "2021-12-01 11:15",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9115,
+            "date": "2021-12-01 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 9114,
+            "date": "2021-12-02 10:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10077,
+            "date": "2021-12-03 11:00",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -5768,6 +5957,18 @@
           {
             "id": 9106,
             "date": "2021-05-21 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10083,
+            "date": "2021-05-31 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10084,
+            "date": "2021-06-02 11:05",
             "new": false,
             "useBunny": true
           },
@@ -7644,8 +7845,20 @@
             "useBunny": true
           },
           {
+            "id": 10104,
+            "date": "2021-11-21 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 9103,
             "date": "2021-11-28 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10076,
+            "date": "2021-12-05 19:57",
             "new": true,
             "useBunny": true
           }
@@ -9662,6 +9875,12 @@
           {
             "id": 3741,
             "date": "2020-11-09 11:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10095,
+            "date": "2021-05-28 11:28",
             "new": false,
             "useBunny": true
           }
