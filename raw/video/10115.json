@@ -1,0 +1,23 @@
+{
+  "streamId": 10115,
+  "date": "2021-11-13 18:05",
+  "game": {
+    "name": "Crab Game",
+    "slug": "Crab-Game"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10115,
+        "date": "2021-11-13 18:05"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "ebb2d9f0-2591-48db-880b-f8e9beae5ecb",
+  "useBunny": true
+}
