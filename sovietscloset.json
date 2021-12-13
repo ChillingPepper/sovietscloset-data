@@ -1,5 +1,5 @@
 {
-  "timestamp": 1639273423,
+  "timestamp": 1639399403,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1291,6 +1291,35 @@
       ]
     },
     {
+      "title": "Crab Game",
+      "url": "https://sovietscloset.com/Crab-Game",
+      "name": "Crab Game",
+      "slug": "Crab-Game",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Crab Game",
+          "url": "https://sovietscloset.com/Crab-Game",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Crab Game #1",
+              "url": "https://sovietscloset.com/video/10115",
+              "id": 10115,
+              "date": "2021-11-13 18:05",
+              "number": 1,
+              "bunnyId": "ebb2d9f0-2591-48db-880b-f8e9beae5ecb",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "CSGO",
       "url": "https://sovietscloset.com/CSGO",
       "name": "CSGO",
@@ -2095,11 +2124,101 @@
             },
             {
               "title": "DayZ - Standalone #59",
+              "url": "https://sovietscloset.com/video/10109",
+              "id": 10109,
+              "date": "2021-06-26 12:23",
+              "number": 59,
+              "bunnyId": "bf9d5197-2c80-4eb4-9caf-225eec8533cd",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #60",
+              "url": "https://sovietscloset.com/video/10106",
+              "id": 10106,
+              "date": "2021-06-27 14:27",
+              "number": 60,
+              "bunnyId": "b2ba8563-6f32-4a31-ba92-dc55de89564d",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #61",
+              "url": "https://sovietscloset.com/video/10112",
+              "id": 10112,
+              "date": "2021-06-28 10:31",
+              "number": 61,
+              "bunnyId": "199ed5dc-e9b6-4e04-9056-8cf69d8ab292",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #62",
+              "url": "https://sovietscloset.com/video/10113",
+              "id": 10113,
+              "date": "2021-06-28 20:18",
+              "number": 62,
+              "bunnyId": "b620fa94-e0c7-44f1-85b2-2b2f7e7f5ac5",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #63",
+              "url": "https://sovietscloset.com/video/10114",
+              "id": 10114,
+              "date": "2021-06-29 11:00",
+              "number": 63,
+              "bunnyId": "b953820e-aa7d-42df-aa68-4a709208d64b",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #64",
+              "url": "https://sovietscloset.com/video/10110",
+              "id": 10110,
+              "date": "2021-06-29 22:26",
+              "number": 64,
+              "bunnyId": "7435af26-f525-4b54-bfbe-0755465fab1d",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #65",
+              "url": "https://sovietscloset.com/video/10111",
+              "id": 10111,
+              "date": "2021-06-30 11:13",
+              "number": 65,
+              "bunnyId": "11096259-181d-4186-8529-6df6d6feaa99",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #66",
+              "url": "https://sovietscloset.com/video/10107",
+              "id": 10107,
+              "date": "2021-06-30 20:20",
+              "number": 66,
+              "bunnyId": "f9b7f37c-88d7-4fcb-8109-24bd7f235325",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #67",
+              "url": "https://sovietscloset.com/video/10105",
+              "id": 10105,
+              "date": "2021-07-01 11:09",
+              "number": 67,
+              "bunnyId": "55448df6-bf2a-417d-92c7-a84c21ed6e6a",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #68",
               "url": "https://sovietscloset.com/video/6747",
               "id": 6747,
               "date": "2021-07-02 10:58",
-              "number": 59,
+              "number": 68,
               "bunnyId": "6dd920e9-33f3-4c1d-b360-47f78937f3c3",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone #69",
+              "url": "https://sovietscloset.com/video/10108",
+              "id": 10108,
+              "date": "2021-07-05 10:57",
+              "number": 69,
+              "bunnyId": "5238189f-1720-4007-b94f-dbcf169265f1",
               "new": false
             }
           ]
@@ -5833,7 +5952,7 @@
               "date": "2021-12-06 11:11",
               "number": 32,
               "bunnyId": "73c6513c-0f37-40fb-a7bd-2db61a2ecbf1",
-              "new": true
+              "new": false
             },
             {
               "title": "Minecraft #33",
@@ -10067,6 +10186,15 @@
               "number": 5,
               "bunnyId": "b77e488f-944e-451d-94df-ad0e54da9aa0",
               "new": false
+            },
+            {
+              "title": "Startopia #6",
+              "url": "https://sovietscloset.com/video/10116",
+              "id": 10116,
+              "date": "2021-11-13 12:25",
+              "number": 6,
+              "bunnyId": "586adad2-98ae-469c-952c-c4c2de615904",
+              "new": false
             }
           ]
         }
@@ -11411,30 +11539,39 @@
               "new": false
             },
             {
-              "title": "Team Fortress 2 #62",
+              "title": "Team Fortress 2 #63",
               "url": "https://sovietscloset.com/video/10104",
               "id": 10104,
               "date": "2021-11-21 20:00",
-              "number": 62,
+              "number": 63,
               "bunnyId": "7bafdd61-e1bb-4a54-a380-fc2c6e26d168",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #63",
+              "title": "Team Fortress 2 #64",
               "url": "https://sovietscloset.com/video/9103",
               "id": 9103,
               "date": "2021-11-28 20:00",
-              "number": 63,
+              "number": 64,
               "bunnyId": "951aa259-ad57-4211-a3a3-23fd8c00422d",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #64",
+              "title": "Team Fortress 2 #65",
               "url": "https://sovietscloset.com/video/10076",
               "id": 10076,
               "date": "2021-12-05 19:57",
-              "number": 64,
+              "number": 65,
               "bunnyId": "88b0e87c-cbcb-4600-ad31-4c7f62ce9b93",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #66",
+              "url": "https://sovietscloset.com/video/10120",
+              "id": 10120,
+              "date": "2021-12-12 19:59",
+              "number": 66,
+              "bunnyId": "5ca4d26e-9066-4d86-96ee-fc401237bfa0",
               "new": true
             }
           ]
@@ -13204,30 +13341,48 @@
           "recentlyUpdated": false,
           "videos": [
             {
-              "title": "Valheim #1",
+              "title": "Valheim #2",
               "url": "https://sovietscloset.com/video/5692",
               "id": 5692,
               "date": "2021-07-06 11:24",
-              "number": 1,
+              "number": 2,
               "bunnyId": "24113bb4-19c8-4e1e-83f9-09a4bcd74824",
               "new": false
             },
             {
-              "title": "Valheim #2",
+              "title": "Valheim #4",
               "url": "https://sovietscloset.com/video/5690",
               "id": 5690,
               "date": "2021-07-07 11:13",
-              "number": 2,
+              "number": 4,
               "bunnyId": "155cfe36-1678-482a-bb31-ba7623488e92",
               "new": false
             },
             {
-              "title": "Valheim #3",
+              "title": "Valheim #4",
+              "url": "https://sovietscloset.com/video/10117",
+              "id": 10117,
+              "date": "2021-07-07 11:13",
+              "number": 4,
+              "bunnyId": "7ae1770d-5fd5-4e0a-98d6-1faeeb597c7e",
+              "new": false
+            },
+            {
+              "title": "Valheim #6",
               "url": "https://sovietscloset.com/video/5691",
               "id": 5691,
               "date": "2021-07-07 20:40",
-              "number": 3,
+              "number": 6,
               "bunnyId": "b4d94247-8445-4cb5-aeb6-ace035cea878",
+              "new": false
+            },
+            {
+              "title": "Valheim #6",
+              "url": "https://sovietscloset.com/video/10118",
+              "id": 10118,
+              "date": "2021-07-07 20:40",
+              "number": 6,
+              "bunnyId": "c1f2c5b6-059f-4195-a97b-3872c578823a",
               "new": false
             }
           ]

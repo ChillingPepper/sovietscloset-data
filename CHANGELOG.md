@@ -1,5 +1,88 @@
 # Changelog
 
+## 2021-12-13T12:43:23Z
+
+### Added Game [Crab Game](https://sovietscloset.com/Crab-Game)
+
+#### Added Playlist [Crab Game](https://sovietscloset.com/Crab-Game)
+
+##### Videos
+
+- Added `v10115` [Crab Game #1](https://sovietscloset.com/video/10115)
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v10109` [DayZ - Standalone #59](https://sovietscloset.com/video/10109)
+- Added `v10106` [DayZ - Standalone #60](https://sovietscloset.com/video/10106)
+- Added `v10112` [DayZ - Standalone #61](https://sovietscloset.com/video/10112)
+- Added `v10113` [DayZ - Standalone #62](https://sovietscloset.com/video/10113)
+- Added `v10114` [DayZ - Standalone #63](https://sovietscloset.com/video/10114)
+- Added `v10110` [DayZ - Standalone #64](https://sovietscloset.com/video/10110)
+- Added `v10111` [DayZ - Standalone #65](https://sovietscloset.com/video/10111)
+- Added `v10107` [DayZ - Standalone #66](https://sovietscloset.com/video/10107)
+- Added `v10105` [DayZ - Standalone #67](https://sovietscloset.com/video/10105)
+- Modified `v6747` [DayZ - Standalone #68](https://sovietscloset.com/video/6747)
+  - Changed title from `DayZ - Standalone #59` to `DayZ - Standalone #68`
+  - Changed number from `59` to `68`
+- Added `v10108` [DayZ - Standalone #69](https://sovietscloset.com/video/10108)
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+##### Videos
+
+- Modified `v10073` [Minecraft #32](https://sovietscloset.com/video/10073)
+  - Is no longer marked as new.
+
+### Modified Game [Startopia](https://sovietscloset.com/Startopia)
+
+#### Modified Playlist [Startopia](https://sovietscloset.com/Startopia)
+
+##### Videos
+
+- Added `v10116` [Startopia #6](https://sovietscloset.com/video/10116)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Modified `v10104` [Team Fortress 2 #63](https://sovietscloset.com/video/10104)
+  - Changed title from `Team Fortress 2 #62` to `Team Fortress 2 #63`
+  - Changed number from `62` to `63`
+- Modified `v9103` [Team Fortress 2 #64](https://sovietscloset.com/video/9103)
+  - Changed title from `Team Fortress 2 #63` to `Team Fortress 2 #64`
+  - Changed number from `63` to `64`
+- Modified `v10076` [Team Fortress 2 #65](https://sovietscloset.com/video/10076)
+  - Changed title from `Team Fortress 2 #64` to `Team Fortress 2 #65`
+  - Changed number from `64` to `65`
+  - Is no longer marked as new.
+- Added `v10120` [Team Fortress 2 #66](https://sovietscloset.com/video/10120) (new)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim](https://sovietscloset.com/Valheim)
+
+##### Videos
+
+- Modified `v5692` [Valheim #2](https://sovietscloset.com/video/5692)
+  - Changed title from `Valheim #1` to `Valheim #2`
+  - Changed number from `1` to `2`
+- Added `v10117` [Valheim #4](https://sovietscloset.com/video/10117)
+- Modified `v5690` [Valheim #4](https://sovietscloset.com/video/5690)
+  - Changed title from `Valheim #2` to `Valheim #4`
+  - Changed number from `2` to `4`
+- Added `v10118` [Valheim #6](https://sovietscloset.com/video/10118)
+- Modified `v5691` [Valheim #6](https://sovietscloset.com/video/5691)
+  - Changed title from `Valheim #3` to `Valheim #6`
+  - Changed number from `3` to `6`
+
 ## 2021-12-12T01:43:43Z
 
 ### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
