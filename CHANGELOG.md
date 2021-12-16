@@ -1,5 +1,311 @@
 # Changelog
 
+## 2021-12-16T19:08:19Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Added Playlist [Arma 3 - Prairie Fire MACV SOG Campaign](https://sovietscloset.com/Arma-3/Prairie-Fire-MACV-SOG-Campaign)
+
+##### Videos
+
+- Added `v10153` [Arma 3 - Prairie Fire MACV SOG Campaign #1](https://sovietscloset.com/video/10153)
+- Added `v10151` [Arma 3 - Prairie Fire MACV SOG Campaign #2](https://sovietscloset.com/video/10151)
+- Added `v10155` [Arma 3 - Prairie Fire MACV SOG Campaign #3](https://sovietscloset.com/video/10155)
+- Added `v10156` [Arma 3 - Prairie Fire MACV SOG Campaign #4](https://sovietscloset.com/video/10156)
+- Added `v10154` [Arma 3 - Prairie Fire MACV SOG Campaign #5](https://sovietscloset.com/video/10154)
+- Added `v10152` [Arma 3 - Prairie Fire MACV SOG Campaign #6](https://sovietscloset.com/video/10152)
+
+### Added Game [Barotrauma](https://sovietscloset.com/Barotrauma)
+
+#### Added Playlist [Barotrauma](https://sovietscloset.com/Barotrauma)
+
+##### Videos
+
+- Added `v10142` [Barotrauma #1](https://sovietscloset.com/video/10142) (new)
+- Added `v10143` [Barotrauma #2](https://sovietscloset.com/video/10143) (new)
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+##### Videos
+
+- Modified `v6748` [Blackwake #15](https://sovietscloset.com/video/6748)
+  - Changed title from `Blackwake #14` to `Blackwake #15`
+  - Changed number from `14` to `15`
+- Modified `v6949` [Blackwake #15](https://sovietscloset.com/video/6949)
+  - Changed title from `Blackwake #14` to `Blackwake #15`
+  - Changed number from `14` to `15`
+- Added `v10122` [Blackwake #16](https://sovietscloset.com/video/10122)
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v10149` [Factorio #35](https://sovietscloset.com/video/10149)
+- Modified `v8999` [Factorio #35](https://sovietscloset.com/video/8999)
+  - Changed title from `Factorio #34` to `Factorio #35`
+  - Changed number from `34` to `35`
+- Added `v10148` [Factorio #37](https://sovietscloset.com/video/10148)
+- Modified `v8998` [Factorio #37](https://sovietscloset.com/video/8998)
+  - Changed title from `Factorio #35` to `Factorio #37`
+  - Changed number from `35` to `37`
+- Modified `v9000` [Factorio #38](https://sovietscloset.com/video/9000)
+  - Changed title from `Factorio #36` to `Factorio #38`
+  - Changed number from `36` to `38`
+- Modified `v9002` [Factorio #39](https://sovietscloset.com/video/9002)
+  - Changed title from `Factorio #37` to `Factorio #39`
+  - Changed number from `37` to `39`
+- Modified `v9003` [Factorio #40](https://sovietscloset.com/video/9003)
+  - Changed title from `Factorio #38` to `Factorio #40`
+  - Changed number from `38` to `40`
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v10135` [Just Chatting #3](https://sovietscloset.com/video/10135)
+- Modified `v6713` [Just Chatting #4](https://sovietscloset.com/video/6713)
+  - Changed title from `Just Chatting #3` to `Just Chatting #4`
+  - Changed number from `3` to `4`
+- Modified `v6821` [Just Chatting #5](https://sovietscloset.com/video/6821)
+  - Changed title from `Just Chatting #4` to `Just Chatting #5`
+  - Changed number from `4` to `5`
+- Added `v10144` [Just Chatting #6](https://sovietscloset.com/video/10144) (new)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v10145` [Kerbal Space Program #35](https://sovietscloset.com/video/10145)
+- Modified `v9044` [Kerbal Space Program #36](https://sovietscloset.com/video/9044)
+  - Changed title from `Kerbal Space Program #35` to `Kerbal Space Program #36`
+  - Changed number from `35` to `36`
+- Modified `v9035` [Kerbal Space Program #37](https://sovietscloset.com/video/9035)
+  - Changed title from `Kerbal Space Program #36` to `Kerbal Space Program #37`
+  - Changed number from `36` to `37`
+- Modified `v9038` [Kerbal Space Program #38](https://sovietscloset.com/video/9038)
+  - Changed title from `Kerbal Space Program #37` to `Kerbal Space Program #38`
+  - Changed number from `37` to `38`
+- Modified `v9040` [Kerbal Space Program #39](https://sovietscloset.com/video/9040)
+  - Changed title from `Kerbal Space Program #38` to `Kerbal Space Program #39`
+  - Changed number from `38` to `39`
+- Modified `v9043` [Kerbal Space Program #40](https://sovietscloset.com/video/9043)
+  - Changed title from `Kerbal Space Program #39` to `Kerbal Space Program #40`
+  - Changed number from `39` to `40`
+- Modified `v9042` [Kerbal Space Program #41](https://sovietscloset.com/video/9042)
+  - Changed title from `Kerbal Space Program #40` to `Kerbal Space Program #41`
+  - Changed number from `40` to `41`
+- Modified `v9063` [Kerbal Space Program #42](https://sovietscloset.com/video/9063)
+  - Changed title from `Kerbal Space Program #41` to `Kerbal Space Program #42`
+  - Changed number from `41` to `42`
+- Modified `v9064` [Kerbal Space Program #43](https://sovietscloset.com/video/9064)
+  - Changed title from `Kerbal Space Program #42` to `Kerbal Space Program #43`
+  - Changed number from `42` to `43`
+- Modified `v9066` [Kerbal Space Program #44](https://sovietscloset.com/video/9066)
+  - Changed title from `Kerbal Space Program #43` to `Kerbal Space Program #44`
+  - Changed number from `43` to `44`
+- Modified `v9065` [Kerbal Space Program #45](https://sovietscloset.com/video/9065)
+  - Changed title from `Kerbal Space Program #44` to `Kerbal Space Program #45`
+  - Changed number from `44` to `45`
+- Modified `v9067` [Kerbal Space Program #46](https://sovietscloset.com/video/9067)
+  - Changed title from `Kerbal Space Program #45` to `Kerbal Space Program #46`
+  - Changed number from `45` to `46`
+- Modified `v9107` [Kerbal Space Program #47](https://sovietscloset.com/video/9107)
+  - Changed title from `Kerbal Space Program #46` to `Kerbal Space Program #47`
+  - Changed number from `46` to `47`
+- Modified `v9108` [Kerbal Space Program #48](https://sovietscloset.com/video/9108)
+  - Changed title from `Kerbal Space Program #47` to `Kerbal Space Program #48`
+  - Changed number from `47` to `48`
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+##### Videos
+
+- Modified `v10072` [Minecraft #33](https://sovietscloset.com/video/10072)
+  - Is no longer marked as new.
+- Modified `v10071` [Minecraft #34](https://sovietscloset.com/video/10071)
+  - Is no longer marked as new.
+- Modified `v10075` [Minecraft #36](https://sovietscloset.com/video/10075)
+  - Is no longer marked as new.
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v10127` [Rising Storm 2: Vietnam #22](https://sovietscloset.com/video/10127)
+- Modified `v3711` [Rising Storm 2: Vietnam #22](https://sovietscloset.com/video/3711)
+  - Changed title from `Rising Storm 2: Vietnam #21` to `Rising Storm 2: Vietnam #22`
+  - Changed number from `21` to `22`
+- Modified `v3691` [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/3691)
+  - Changed title from `Rising Storm 2: Vietnam #23` to `Rising Storm 2: Vietnam #24`
+  - Changed number from `23` to `24`
+- Modified `v3696` [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/3696)
+  - Changed title from `Rising Storm 2: Vietnam #23` to `Rising Storm 2: Vietnam #24`
+  - Changed number from `23` to `24`
+- Modified `v3695` [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3695)
+  - Changed title from `Rising Storm 2: Vietnam #24` to `Rising Storm 2: Vietnam #25`
+  - Changed number from `24` to `25`
+- Modified `v3757` [Rising Storm 2: Vietnam #27](https://sovietscloset.com/video/3757)
+  - Changed title from `Rising Storm 2: Vietnam #26` to `Rising Storm 2: Vietnam #27`
+  - Changed number from `26` to `27`
+- Added `v10124` [Rising Storm 2: Vietnam #29](https://sovietscloset.com/video/10124)
+- Modified `v3764` [Rising Storm 2: Vietnam #29](https://sovietscloset.com/video/3764)
+  - Changed title from `Rising Storm 2: Vietnam #27` to `Rising Storm 2: Vietnam #29`
+  - Changed number from `27` to `29`
+- Added `v10126` [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/10126)
+- Modified `v3768` [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3768)
+  - Changed title from `Rising Storm 2: Vietnam #28` to `Rising Storm 2: Vietnam #31`
+  - Changed number from `28` to `31`
+- Modified `v3767` [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3767)
+  - Changed title from `Rising Storm 2: Vietnam #29` to `Rising Storm 2: Vietnam #32`
+  - Changed number from `29` to `32`
+- Added `v10130` [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10130)
+- Modified `v4685` [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/4685)
+  - Changed title from `Rising Storm 2: Vietnam #30` to `Rising Storm 2: Vietnam #34`
+  - Changed number from `30` to `34`
+- Modified `v3783` [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3783)
+  - Changed title from `Rising Storm 2: Vietnam #32` to `Rising Storm 2: Vietnam #36`
+  - Changed number from `32` to `36`
+- Modified `v3785` [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3785)
+  - Changed title from `Rising Storm 2: Vietnam #32` to `Rising Storm 2: Vietnam #36`
+  - Changed number from `32` to `36`
+- Modified `v3787` [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/3787)
+  - Changed title from `Rising Storm 2: Vietnam #33` to `Rising Storm 2: Vietnam #37`
+  - Changed number from `33` to `37`
+- Modified `v4687` [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/4687)
+  - Changed title from `Rising Storm 2: Vietnam #34` to `Rising Storm 2: Vietnam #38`
+  - Changed number from `34` to `38`
+- Modified `v4683` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/4683)
+  - Changed title from `Rising Storm 2: Vietnam #35` to `Rising Storm 2: Vietnam #39`
+  - Changed number from `35` to `39`
+- Added `v10128` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/10128)
+- Added `v10125` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/10125)
+- Added `v10132` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/10132)
+- Modified `v9041` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/9041)
+  - Changed title from `Rising Storm 2: Vietnam #36` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `36` to `43`
+- Added `v10131` [Rising Storm 2: Vietnam #44](https://sovietscloset.com/video/10131)
+- Modified `v9046` [Rising Storm 2: Vietnam #45](https://sovietscloset.com/video/9046)
+  - Changed title from `Rising Storm 2: Vietnam #37` to `Rising Storm 2: Vietnam #45`
+  - Changed number from `37` to `45`
+- Modified `v9045` [Rising Storm 2: Vietnam #46](https://sovietscloset.com/video/9045)
+  - Changed title from `Rising Storm 2: Vietnam #38` to `Rising Storm 2: Vietnam #46`
+  - Changed number from `38` to `46`
+- Modified `v9106` [Rising Storm 2: Vietnam #47](https://sovietscloset.com/video/9106)
+  - Changed title from `Rising Storm 2: Vietnam #39` to `Rising Storm 2: Vietnam #47`
+  - Changed number from `39` to `47`
+- Modified `v10083` [Rising Storm 2: Vietnam #48](https://sovietscloset.com/video/10083)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #48`
+  - Changed number from `40` to `48`
+- Modified `v10084` [Rising Storm 2: Vietnam #49](https://sovietscloset.com/video/10084)
+  - Changed title from `Rising Storm 2: Vietnam #41` to `Rising Storm 2: Vietnam #49`
+  - Changed number from `41` to `49`
+- Modified `v6686` [Rising Storm 2: Vietnam #50](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #42` to `Rising Storm 2: Vietnam #50`
+  - Changed number from `42` to `50`
+- Modified `v6692` [Rising Storm 2: Vietnam #51](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #43` to `Rising Storm 2: Vietnam #51`
+  - Changed number from `43` to `51`
+- Modified `v6749` [Rising Storm 2: Vietnam #52](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #44` to `Rising Storm 2: Vietnam #52`
+  - Changed number from `44` to `52`
+- Modified `v6979` [Rising Storm 2: Vietnam #53](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #45` to `Rising Storm 2: Vietnam #53`
+  - Changed number from `45` to `53`
+- Modified `v6978` [Rising Storm 2: Vietnam #54](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #46` to `Rising Storm 2: Vietnam #54`
+  - Changed number from `46` to `54`
+- Added `v10129` [Rising Storm 2: Vietnam #55](https://sovietscloset.com/video/10129)
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v10141` [Space Engineers #66](https://sovietscloset.com/video/10141)
+- Added `v10146` [Space Engineers #67](https://sovietscloset.com/video/10146)
+
+### Added Game [Star Wars: Battlefront 2](https://sovietscloset.com/Star-Wars-Battlefront-2)
+
+#### Added Playlist [Star Wars: Battlefront 2](https://sovietscloset.com/Star-Wars-Battlefront-2)
+
+##### Videos
+
+- Added `v10133` [Star Wars: Battlefront 2 #1](https://sovietscloset.com/video/10133)
+- Added `v10134` [Star Wars: Battlefront 2 #2](https://sovietscloset.com/video/10134)
+
+### Modified Game [Startopia](https://sovietscloset.com/Startopia)
+
+#### Modified Playlist [Startopia](https://sovietscloset.com/Startopia)
+
+##### Videos
+
+- Added `v10150` [Startopia #6](https://sovietscloset.com/video/10150)
+- Modified `v10116` [Startopia #7](https://sovietscloset.com/video/10116)
+  - Changed title from `Startopia #6` to `Startopia #7`
+  - Changed number from `6` to `7`
+
+### Modified Game [Stellaris](https://sovietscloset.com/Stellaris)
+
+#### Modified Playlist [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
+
+##### Videos
+
+- Added `v10147` [Stellaris - The Gardener's Tended #15](https://sovietscloset.com/video/10147)
+- Modified `v6867` [Stellaris - The Gardener's Tended #15](https://sovietscloset.com/video/6867)
+  - Changed title from `Stellaris - The Gardener's Tended #14` to `Stellaris - The Gardener's Tended #15`
+  - Changed number from `14` to `15`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v10121` [Team Fortress 2 #62](https://sovietscloset.com/video/10121)
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Added `v10140` [VR Blade & Sorcery #43](https://sovietscloset.com/video/10140)
+- Added `v10138` [VR Blade & Sorcery #44](https://sovietscloset.com/video/10138)
+- Added `v10139` [VR Blade & Sorcery #45](https://sovietscloset.com/video/10139)
+
+### Modified Game [VR Chat](https://sovietscloset.com/VR-Chat)
+
+#### Modified Playlist [VR Chat](https://sovietscloset.com/VR-Chat)
+
+##### Videos
+
+- Added `v10137` [VR Chat #4](https://sovietscloset.com/video/10137)
+
+### Modified Game [VR Pokerstars](https://sovietscloset.com/VR-Pokerstars)
+
+#### Modified Playlist [VR Pokerstars](https://sovietscloset.com/VR-Pokerstars)
+
+##### Videos
+
+- Added `v10136` [VR Pokerstars #3](https://sovietscloset.com/video/10136)
+
 ## 2021-12-13T12:43:23Z
 
 ### Added Game [Crab Game](https://sovietscloset.com/Crab-Game)
