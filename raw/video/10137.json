@@ -1,0 +1,35 @@
+{
+  "streamId": 10137,
+  "date": "2021-08-28 19:49",
+  "game": {
+    "name": "VR Chat",
+    "slug": "VR-Chat"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1539,
+        "date": "2018-07-11 21:42"
+      },
+      {
+        "streamId": 6759,
+        "date": "2020-06-20 20:00"
+      },
+      {
+        "streamId": 9060,
+        "date": "2021-05-07 19:56"
+      },
+      {
+        "streamId": 10137,
+        "date": "2021-08-28 19:49"
+      }
+    ]
+  },
+  "number": 4,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "febdce22-5a75-4854-a4e5-22d597b7d907",
+  "useBunny": true
+}

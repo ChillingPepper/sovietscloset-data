@@ -611,6 +611,81 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 8085,
+        "name": "Prairie Fire MACV SOG Campaign",
+        "slug": "Prairie-Fire-MACV-SOG-Campaign",
+        "streams": [
+          {
+            "id": 10153,
+            "date": "2021-09-27 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10151,
+            "date": "2021-10-04 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10155,
+            "date": "2021-10-08 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10156,
+            "date": "2021-10-11 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10154,
+            "date": "2021-10-15 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10152,
+            "date": "2021-10-18 20:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 8069,
+    "name": "Barotrauma",
+    "slug": "Barotrauma",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 8084,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 10142,
+            "date": "2021-12-14 19:57",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10143,
+            "date": "2021-12-14 20:09",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -761,6 +836,12 @@
           {
             "id": 6949,
             "date": "2021-06-08 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10122,
+            "date": "2021-06-15 20:00",
             "new": false,
             "useBunny": true
           }
@@ -2463,7 +2544,19 @@
             "useBunny": true
           },
           {
+            "id": 10149,
+            "date": "2021-11-03 19:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 8998,
+            "date": "2021-11-04 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10148,
             "date": "2021-11-04 11:24",
             "new": false,
             "useBunny": true
@@ -3565,7 +3658,7 @@
     "name": "Just Chatting",
     "slug": "Just-Chatting",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1023,
@@ -3585,6 +3678,12 @@
             "useBunny": true
           },
           {
+            "id": 10135,
+            "date": "2021-06-16 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6713,
             "date": "2021-07-30 20:33",
             "new": false,
@@ -3595,10 +3694,16 @@
             "date": "2021-09-03 11:13",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10144,
+            "date": "2021-12-15 11:06",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3803,6 +3908,12 @@
           {
             "id": 6712,
             "date": "2021-08-11 11:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10145,
+            "date": "2021-08-12 11:17",
             "new": false,
             "useBunny": true
           },
@@ -4121,19 +4232,19 @@
           {
             "id": 10072,
             "date": "2021-12-07 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 10071,
             "date": "2021-12-08 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 10075,
             "date": "2021-12-09 11:25",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -5943,6 +6054,12 @@
             "useBunny": true
           },
           {
+            "id": 10127,
+            "date": "2021-02-05 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 3691,
             "date": "2021-02-09 20:04",
             "new": false,
@@ -5973,7 +6090,19 @@
             "useBunny": true
           },
           {
+            "id": 10124,
+            "date": "2021-03-15 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 3768,
+            "date": "2021-03-15 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10126,
             "date": "2021-03-15 20:17",
             "new": false,
             "useBunny": true
@@ -5981,6 +6110,12 @@
           {
             "id": 3767,
             "date": "2021-03-16 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10130,
+            "date": "2021-03-16 20:00",
             "new": false,
             "useBunny": true
           },
@@ -6021,8 +6156,32 @@
             "useBunny": true
           },
           {
+            "id": 10128,
+            "date": "2021-04-07 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10125,
+            "date": "2021-04-08 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10132,
+            "date": "2021-04-27 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 9041,
             "date": "2021-04-28 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10131,
+            "date": "2021-04-29 11:05",
             "new": false,
             "useBunny": true
           },
@@ -6083,6 +6242,12 @@
           {
             "id": 6978,
             "date": "2021-09-27 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10129,
+            "date": "2021-11-17 11:12",
             "new": false,
             "useBunny": true
           }
@@ -6961,6 +7126,48 @@
             "date": "2021-08-05 11:22",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10141,
+            "date": "2021-08-11 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10146,
+            "date": "2021-08-21 22:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 8068,
+    "name": "Star Wars: Battlefront 2",
+    "slug": "Star-Wars-Battlefront-2",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 8083,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 10133,
+            "date": "2021-06-29 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10134,
+            "date": "2021-07-06 20:10",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -7007,6 +7214,12 @@
           {
             "id": 9015,
             "date": "2021-11-11 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10150,
+            "date": "2021-11-12 11:14",
             "new": false,
             "useBunny": true
           },
@@ -7336,6 +7549,12 @@
           },
           {
             "id": 6867,
+            "date": "2021-09-17 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10147,
             "date": "2021-09-17 11:18",
             "new": false,
             "useBunny": true
@@ -7931,6 +8150,12 @@
           {
             "id": 9001,
             "date": "2021-11-07 19:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10121,
+            "date": "2021-11-14 20:00",
             "new": false,
             "useBunny": true
           },
@@ -9523,6 +9748,24 @@
             "date": "2021-04-20 11:09",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10140,
+            "date": "2021-10-26 11:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10138,
+            "date": "2021-10-26 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10139,
+            "date": "2021-10-28 11:21",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -9557,6 +9800,12 @@
           {
             "id": 9060,
             "date": "2021-05-07 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10137,
+            "date": "2021-08-28 19:49",
             "new": false,
             "useBunny": true
           }
@@ -9833,6 +10082,12 @@
           {
             "id": 6750,
             "date": "2020-06-13 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10136,
+            "date": "2021-08-14 19:51",
             "new": false,
             "useBunny": true
           }

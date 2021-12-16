@@ -1,0 +1,27 @@
+{
+  "streamId": 10133,
+  "date": "2021-06-29 20:03",
+  "game": {
+    "name": "Star Wars: Battlefront 2",
+    "slug": "Star-Wars-Battlefront-2"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10133,
+        "date": "2021-06-29 20:03"
+      },
+      {
+        "streamId": 10134,
+        "date": "2021-07-06 20:10"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "2287ca8a-ad86-4947-aec6-07914a4ccd42",
+  "useBunny": true
+}

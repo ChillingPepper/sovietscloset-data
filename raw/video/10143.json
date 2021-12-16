@@ -1,0 +1,27 @@
+{
+  "streamId": 10143,
+  "date": "2021-12-14 20:09",
+  "game": {
+    "name": "Barotrauma",
+    "slug": "Barotrauma"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10142,
+        "date": "2021-12-14 19:57"
+      },
+      {
+        "streamId": 10143,
+        "date": "2021-12-14 20:09"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "53ae5458-63bf-4585-aa71-b5e0918c22b8",
+  "useBunny": true
+}

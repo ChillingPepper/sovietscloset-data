@@ -1,0 +1,43 @@
+{
+  "streamId": 10135,
+  "date": "2021-06-16 20:15",
+  "game": {
+    "name": "Just Chatting",
+    "slug": "Just-Chatting"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1210,
+        "date": "2020-09-25 11:39"
+      },
+      {
+        "streamId": 3749,
+        "date": "2021-03-02 20:20"
+      },
+      {
+        "streamId": 10135,
+        "date": "2021-06-16 20:15"
+      },
+      {
+        "streamId": 6713,
+        "date": "2021-07-30 20:33"
+      },
+      {
+        "streamId": 6821,
+        "date": "2021-09-03 11:13"
+      },
+      {
+        "streamId": 10144,
+        "date": "2021-12-15 11:06"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "5ba14f08-d144-48a5-93fb-4aebd58e4abe",
+  "useBunny": true
+}

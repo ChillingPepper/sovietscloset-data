@@ -1,0 +1,47 @@
+{
+  "streamId": 10150,
+  "date": "2021-11-12 11:14",
+  "game": {
+    "name": "Startopia",
+    "slug": "Startopia"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9005,
+        "date": "2021-11-09 11:06"
+      },
+      {
+        "streamId": 9006,
+        "date": "2021-11-09 20:16"
+      },
+      {
+        "streamId": 9013,
+        "date": "2021-11-10 11:09"
+      },
+      {
+        "streamId": 9014,
+        "date": "2021-11-10 20:07"
+      },
+      {
+        "streamId": 9015,
+        "date": "2021-11-11 11:18"
+      },
+      {
+        "streamId": 10150,
+        "date": "2021-11-12 11:14"
+      },
+      {
+        "streamId": 10116,
+        "date": "2021-11-13 12:25"
+      }
+    ]
+  },
+  "number": 6,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "27ff4e8e-67bc-457a-b9ca-0682f5be3e2f",
+  "useBunny": true
+}

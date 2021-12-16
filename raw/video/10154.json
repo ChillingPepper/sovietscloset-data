@@ -1,0 +1,43 @@
+{
+  "streamId": 10154,
+  "date": "2021-10-15 20:00",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Prairie Fire MACV SOG Campaign",
+    "slug": "Prairie-Fire-MACV-SOG-Campaign",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 10153,
+        "date": "2021-09-27 19:54"
+      },
+      {
+        "streamId": 10151,
+        "date": "2021-10-04 19:58"
+      },
+      {
+        "streamId": 10155,
+        "date": "2021-10-08 20:12"
+      },
+      {
+        "streamId": 10156,
+        "date": "2021-10-11 20:02"
+      },
+      {
+        "streamId": 10154,
+        "date": "2021-10-15 20:00"
+      },
+      {
+        "streamId": 10152,
+        "date": "2021-10-18 20:00"
+      }
+    ]
+  },
+  "number": 5,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "59ad7f05-6bc7-446c-87f9-7e58521e6ef1",
+  "useBunny": true
+}
