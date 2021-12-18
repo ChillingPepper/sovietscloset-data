@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2021-12-16T19:08:19Z.
+Last updated at 2021-12-18T20:04:55Z.
 
 ## Missing
 
@@ -74,13 +74,15 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #48
   - Holdfast: Nations at War #52
   - Holdfast: Nations at War #54
-  - Holdfast: Nations at War #56
   - Holdfast: Nations at War #58
   - Holdfast: Nations at War #60
-  - Holdfast: Nations at War #62
-  - Holdfast: Nations at War #66
-  - Holdfast: Nations at War #73
-  - Holdfast: Nations at War #75
+  - Holdfast: Nations at War #63
+  - Holdfast: Nations at War #65
+  - Holdfast: Nations at War #69
+  - Holdfast: Nations at War #76
+  - Holdfast: Nations at War #78
+  - Holdfast: Nations at War #81
+  - Holdfast: Nations at War #83
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -114,7 +116,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Rising Storm 2: Vietnam #26
   - Rising Storm 2: Vietnam #28
   - Rising Storm 2: Vietnam #30
-  - Rising Storm 2: Vietnam #35
+  - Rising Storm 2: Vietnam #32
+  - Rising Storm 2: Vietnam #36
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
@@ -361,9 +364,12 @@ This list includes all videos that have the same date.
 - Date: 2021-03-15 20:17
   - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/10126) (id: 10126)
   - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3768) (id: 3768)
+- Date: 2021-03-16 11:16
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10171) (id: 10171)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/3767) (id: 3767)
 - Date: 2021-03-30 20:32
-  - [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3783) (id: 3783)
-  - [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3785) (id: 3785)
+  - [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/3783) (id: 3783)
+  - [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/3785) (id: 3785)
 - Date: 2021-04-29 20:48
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092) (id: 10092)
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999) (id: 6999)
@@ -377,14 +383,14 @@ This list includes all videos that have the same date.
   - [Blackwake #15](https://sovietscloset.com/video/6748) (id: 6748)
   - [Blackwake #15](https://sovietscloset.com/video/6949) (id: 6949)
 - Date: 2021-06-10 20:53
-  - [Holdfast: Nations at War #57](https://sovietscloset.com/video/10086) (id: 10086)
-  - [Holdfast: Nations at War #57](https://sovietscloset.com/video/6997) (id: 6997)
+  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/10086) (id: 10086)
+  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/6997) (id: 6997)
 - Date: 2021-06-17 20:53
-  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/10089) (id: 10089)
-  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/6995) (id: 6995)
+  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/10089) (id: 10089)
+  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/6995) (id: 6995)
 - Date: 2021-07-01 20:47
-  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/10087) (id: 10087)
-  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/6992) (id: 6992)
+  - [Holdfast: Nations at War #64](https://sovietscloset.com/video/10087) (id: 10087)
+  - [Holdfast: Nations at War #64](https://sovietscloset.com/video/6992) (id: 6992)
 - Date: 2021-07-07 11:13
   - [Valheim #4](https://sovietscloset.com/video/10117) (id: 10117)
   - [Valheim #4](https://sovietscloset.com/video/5690) (id: 5690)
@@ -392,8 +398,8 @@ This list includes all videos that have the same date.
   - [Valheim #6](https://sovietscloset.com/video/10118) (id: 10118)
   - [Valheim #6](https://sovietscloset.com/video/5691) (id: 5691)
 - Date: 2021-07-08 20:50
-  - [Holdfast: Nations at War #63](https://sovietscloset.com/video/10088) (id: 10088)
-  - [Holdfast: Nations at War #63](https://sovietscloset.com/video/6994) (id: 6994)
+  - [Holdfast: Nations at War #66](https://sovietscloset.com/video/10088) (id: 10088)
+  - [Holdfast: Nations at War #66](https://sovietscloset.com/video/6994) (id: 6994)
 - Date: 2021-07-25 19:57
   - [Team Fortress 2 #42](https://sovietscloset.com/video/6693) (id: 6693)
   - [Team Fortress 2 #42](https://sovietscloset.com/video/9011) (id: 9011)
@@ -413,17 +419,23 @@ This list includes all videos that have the same date.
   - [Factorio #31](https://sovietscloset.com/video/6871) (id: 6871)
   - [Factorio #31](https://sovietscloset.com/video/6981) (id: 6981)
 - Date: 2021-10-14 20:52
-  - [Holdfast: Nations at War #74](https://sovietscloset.com/video/10094) (id: 10094)
-  - [Holdfast: Nations at War #74](https://sovietscloset.com/video/6993) (id: 6993)
+  - [Holdfast: Nations at War #77](https://sovietscloset.com/video/10094) (id: 10094)
+  - [Holdfast: Nations at War #77](https://sovietscloset.com/video/6993) (id: 6993)
 - Date: 2021-10-21 20:50
-  - [Holdfast: Nations at War #76](https://sovietscloset.com/video/10091) (id: 10091)
-  - [Holdfast: Nations at War #76](https://sovietscloset.com/video/6990) (id: 6990)
+  - [Holdfast: Nations at War #79](https://sovietscloset.com/video/10091) (id: 10091)
+  - [Holdfast: Nations at War #79](https://sovietscloset.com/video/6990) (id: 6990)
 - Date: 2021-11-03 19:21
   - [Factorio #35](https://sovietscloset.com/video/10149) (id: 10149)
   - [Factorio #35](https://sovietscloset.com/video/8999) (id: 8999)
 - Date: 2021-11-04 11:24
   - [Factorio #37](https://sovietscloset.com/video/10148) (id: 10148)
   - [Factorio #37](https://sovietscloset.com/video/8998) (id: 8998)
+- Date: 2021-11-04 20:51
+  - [Holdfast: Nations at War #82](https://sovietscloset.com/video/10158) (id: 10158)
+  - [Holdfast: Nations at War #82](https://sovietscloset.com/video/9004) (id: 9004)
+- Date: 2021-11-11 20:51
+  - [Holdfast: Nations at War #84](https://sovietscloset.com/video/10162) (id: 10162)
+  - [Holdfast: Nations at War #84](https://sovietscloset.com/video/9012) (id: 9012)
 
 ### Dupes by Number
 
@@ -558,6 +570,8 @@ This list includes all videos that have the same number.
 - Number: 33
   - [7 Days to Die #33](https://sovietscloset.com/video/1214) (id: 1214)
   - [7 Days to Die #33](https://sovietscloset.com/video/6850) (id: 6850)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10171) (id: 10171)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/3767) (id: 3767)
 - Number: 35
   - [7 Days to Die #35](https://sovietscloset.com/video/1006) (id: 1006)
   - [7 Days to Die #35](https://sovietscloset.com/video/6853) (id: 6853)
@@ -565,9 +579,6 @@ This list includes all videos that have the same number.
   - [Factorio #35](https://sovietscloset.com/video/8999) (id: 8999)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6773) (id: 6773)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6974) (id: 6974)
-- Number: 36
-  - [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3783) (id: 3783)
-  - [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/3785) (id: 3785)
 - Number: 37
   - [7 Days to Die #37](https://sovietscloset.com/video/1004) (id: 1004)
   - [7 Days to Die #37](https://sovietscloset.com/video/6852) (id: 6852)
@@ -575,6 +586,8 @@ This list includes all videos that have the same number.
   - [DayZ - Standalone #37](https://sovietscloset.com/video/1725) (id: 1725)
   - [Factorio #37](https://sovietscloset.com/video/10148) (id: 10148)
   - [Factorio #37](https://sovietscloset.com/video/8998) (id: 8998)
+  - [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/3783) (id: 3783)
+  - [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/3785) (id: 3785)
   - [Space Engineers #37](https://sovietscloset.com/video/1217) (id: 1217)
   - [Space Engineers #37](https://sovietscloset.com/video/1685) (id: 1685)
 - Number: 38
@@ -611,28 +624,33 @@ This list includes all videos that have the same number.
 - Number: 55
   - [Holdfast: Nations at War #55](https://sovietscloset.com/video/10085) (id: 10085)
   - [Holdfast: Nations at War #55](https://sovietscloset.com/video/6996) (id: 6996)
-- Number: 57
-  - [Holdfast: Nations at War #57](https://sovietscloset.com/video/10086) (id: 10086)
-  - [Holdfast: Nations at War #57](https://sovietscloset.com/video/6997) (id: 6997)
 - Number: 59
-  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/10089) (id: 10089)
-  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/6995) (id: 6995)
+  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/10086) (id: 10086)
+  - [Holdfast: Nations at War #59](https://sovietscloset.com/video/6997) (id: 6997)
 - Number: 61
-  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/10087) (id: 10087)
-  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/6992) (id: 6992)
-- Number: 63
-  - [Holdfast: Nations at War #63](https://sovietscloset.com/video/10088) (id: 10088)
-  - [Holdfast: Nations at War #63](https://sovietscloset.com/video/6994) (id: 6994)
-- Number: 74
-  - [Holdfast: Nations at War #74](https://sovietscloset.com/video/10094) (id: 10094)
-  - [Holdfast: Nations at War #74](https://sovietscloset.com/video/6993) (id: 6993)
-- Number: 76
-  - [Holdfast: Nations at War #76](https://sovietscloset.com/video/10091) (id: 10091)
-  - [Holdfast: Nations at War #76](https://sovietscloset.com/video/6990) (id: 6990)
+  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/10089) (id: 10089)
+  - [Holdfast: Nations at War #61](https://sovietscloset.com/video/6995) (id: 6995)
+- Number: 64
+  - [Holdfast: Nations at War #64](https://sovietscloset.com/video/10087) (id: 10087)
+  - [Holdfast: Nations at War #64](https://sovietscloset.com/video/6992) (id: 6992)
+- Number: 66
+  - [Holdfast: Nations at War #66](https://sovietscloset.com/video/10088) (id: 10088)
+  - [Holdfast: Nations at War #66](https://sovietscloset.com/video/6994) (id: 6994)
+- Number: 77
+  - [Holdfast: Nations at War #77](https://sovietscloset.com/video/10094) (id: 10094)
+  - [Holdfast: Nations at War #77](https://sovietscloset.com/video/6993) (id: 6993)
+- Number: 79
+  - [Holdfast: Nations at War #79](https://sovietscloset.com/video/10091) (id: 10091)
+  - [Holdfast: Nations at War #79](https://sovietscloset.com/video/6990) (id: 6990)
 - Number: 80
   - [Rimworld - Caloma's Creek #80](https://sovietscloset.com/video/1719) (id: 1719)
   - [Rimworld - Caloma's Creek #80](https://sovietscloset.com/video/1723) (id: 1723)
+- Number: 82
+  - [Holdfast: Nations at War #82](https://sovietscloset.com/video/10158) (id: 10158)
+  - [Holdfast: Nations at War #82](https://sovietscloset.com/video/9004) (id: 9004)
 - Number: 84
+  - [Holdfast: Nations at War #84](https://sovietscloset.com/video/10162) (id: 10162)
+  - [Holdfast: Nations at War #84](https://sovietscloset.com/video/9012) (id: 9012)
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1720) (id: 1720)
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1748) (id: 1748)
 - Number: 94
