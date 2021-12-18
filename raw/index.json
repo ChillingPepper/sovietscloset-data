@@ -1189,7 +1189,7 @@
     "name": "DayZ",
     "slug": "DayZ",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1041,
@@ -1609,10 +1609,16 @@
             "date": "2021-07-05 10:57",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10177,
+            "date": "2021-12-17 11:14",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       },
       {
         "id": 7075,
@@ -2264,6 +2270,12 @@
           {
             "id": 10082,
             "date": "2021-05-31 11:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10164,
+            "date": "2021-06-03 11:22",
             "new": false,
             "useBunny": true
           },
@@ -3408,6 +3420,18 @@
             "useBunny": true
           },
           {
+            "id": 10159,
+            "date": "2021-06-03 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10160,
+            "date": "2021-06-03 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6997,
             "date": "2021-06-10 20:53",
             "new": false,
@@ -3428,6 +3452,12 @@
           {
             "id": 10089,
             "date": "2021-06-17 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10163,
+            "date": "2021-06-24 20:52",
             "new": false,
             "useBunny": true
           },
@@ -3540,7 +3570,19 @@
             "useBunny": true
           },
           {
+            "id": 10158,
+            "date": "2021-11-04 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 9012,
+            "date": "2021-11-11 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10162,
             "date": "2021-11-11 20:51",
             "new": false,
             "useBunny": true
@@ -3566,6 +3608,12 @@
           {
             "id": 10079,
             "date": "2021-12-09 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10161,
+            "date": "2021-12-16 20:51",
             "new": true,
             "useBunny": true
           }
@@ -4030,7 +4078,7 @@
     "name": "Minecraft",
     "slug": "Minecraft",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1060,
@@ -4250,12 +4298,12 @@
           {
             "id": 10096,
             "date": "2021-12-10 11:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6114,6 +6162,12 @@
             "useBunny": true
           },
           {
+            "id": 10171,
+            "date": "2021-03-16 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 10130,
             "date": "2021-03-16 20:00",
             "new": false,
@@ -6168,6 +6222,18 @@
             "useBunny": true
           },
           {
+            "id": 10170,
+            "date": "2021-04-26 11:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10174,
+            "date": "2021-04-26 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 10132,
             "date": "2021-04-27 11:10",
             "new": false,
@@ -6182,6 +6248,12 @@
           {
             "id": 10131,
             "date": "2021-04-29 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10172,
+            "date": "2021-04-30 11:42",
             "new": false,
             "useBunny": true
           },
@@ -6204,6 +6276,12 @@
             "useBunny": true
           },
           {
+            "id": 10173,
+            "date": "2021-05-26 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 10083,
             "date": "2021-05-31 20:46",
             "new": false,
@@ -6216,6 +6294,24 @@
             "useBunny": true
           },
           {
+            "id": 10167,
+            "date": "2021-06-07 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10169,
+            "date": "2021-06-11 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10168,
+            "date": "2021-06-14 10:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6686,
             "date": "2021-07-16 20:07",
             "new": false,
@@ -6224,6 +6320,18 @@
           {
             "id": 6692,
             "date": "2021-07-19 11:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10175,
+            "date": "2021-07-19 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10176,
+            "date": "2021-08-16 20:17",
             "new": false,
             "useBunny": true
           },
@@ -6242,6 +6350,18 @@
           {
             "id": 6978,
             "date": "2021-09-27 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10166,
+            "date": "2021-11-16 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10165,
+            "date": "2021-11-16 21:26",
             "new": false,
             "useBunny": true
           },
@@ -7226,6 +7346,12 @@
           {
             "id": 10116,
             "date": "2021-11-13 12:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 10157,
+            "date": "2021-11-15 11:03",
             "new": false,
             "useBunny": true
           }
