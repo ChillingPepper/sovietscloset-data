@@ -1,0 +1,23 @@
+{
+  "streamId": 10178,
+  "date": "2021-12-21 11:29",
+  "game": {
+    "name": "Source Filmmaker",
+    "slug": "Source-Filmmaker"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10178,
+        "date": "2021-12-21 11:29"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "f7edff29-f8e6-4601-8315-bc8be0872001",
+  "useBunny": true
+}

@@ -664,7 +664,7 @@
     "name": "Barotrauma",
     "slug": "Barotrauma",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 8084,
@@ -674,18 +674,18 @@
           {
             "id": 10142,
             "date": "2021-12-14 19:57",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 10143,
             "date": "2021-12-14 20:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3706,7 +3706,7 @@
     "name": "Just Chatting",
     "slug": "Just-Chatting",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1023,
@@ -3746,12 +3746,12 @@
           {
             "id": 10144,
             "date": "2021-12-15 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6852,6 +6852,30 @@
     ]
   },
   {
+    "id": 8070,
+    "name": "Source Filmmaker",
+    "slug": "Source-Filmmaker",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 8086,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 10178,
+            "date": "2021-12-21 11:29",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 1021,
     "name": "Space Engineers",
     "slug": "Space-Engineers",
@@ -7918,7 +7942,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -8306,12 +8330,12 @@
           {
             "id": 10120,
             "date": "2021-12-12 19:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
