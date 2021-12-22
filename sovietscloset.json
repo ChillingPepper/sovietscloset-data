@@ -1,5 +1,5 @@
 {
-  "timestamp": 1639857895,
+  "timestamp": 1640210980,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -973,7 +973,7 @@
       "name": "Barotrauma",
       "slug": "Barotrauma",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Barotrauma",
@@ -981,7 +981,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Barotrauma #1",
@@ -990,7 +990,7 @@
               "date": "2021-12-14 19:57",
               "number": 1,
               "bunnyId": "b2e8ab3a-12de-4ae6-98ce-d0cbeeff184c",
-              "new": true
+              "new": false
             },
             {
               "title": "Barotrauma #2",
@@ -999,7 +999,7 @@
               "date": "2021-12-14 20:09",
               "number": 2,
               "bunnyId": "53ae5458-63bf-4585-aa71-b5e0918c22b8",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -5347,7 +5347,7 @@
       "name": "Just Chatting",
       "slug": "Just-Chatting",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Just Chatting",
@@ -5355,7 +5355,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Just Chatting #1",
@@ -5409,7 +5409,7 @@
               "date": "2021-12-15 11:06",
               "number": 6,
               "bunnyId": "3b258978-f938-4615-83be-3f6e72671e43",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9948,6 +9948,35 @@
       ]
     },
     {
+      "title": "Source Filmmaker",
+      "url": "https://sovietscloset.com/Source-Filmmaker",
+      "name": "Source Filmmaker",
+      "slug": "Source-Filmmaker",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Source Filmmaker",
+          "url": "https://sovietscloset.com/Source-Filmmaker",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Source Filmmaker #1",
+              "url": "https://sovietscloset.com/video/10178",
+              "id": 10178,
+              "date": "2021-12-21 11:29",
+              "number": 1,
+              "bunnyId": "f7edff29-f8e6-4601-8315-bc8be0872001",
+              "new": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Space Engineers",
       "url": "https://sovietscloset.com/Space-Engineers",
       "name": "Space Engineers",
@@ -11497,7 +11526,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -11505,7 +11534,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12081,7 +12110,7 @@
               "date": "2021-12-12 19:59",
               "number": 66,
               "bunnyId": "5ca4d26e-9066-4d86-96ee-fc401237bfa0",
-              "new": true
+              "new": false
             }
           ]
         }

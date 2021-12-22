@@ -1,5 +1,56 @@
 # Changelog
 
+## 2021-12-22T22:09:40Z
+
+### Modified Game [Barotrauma](https://sovietscloset.com/Barotrauma)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Barotrauma](https://sovietscloset.com/Barotrauma)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10142` [Barotrauma #1](https://sovietscloset.com/video/10142)
+  - Is no longer marked as new.
+- Modified `v10143` [Barotrauma #2](https://sovietscloset.com/video/10143)
+  - Is no longer marked as new.
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10144` [Just Chatting #6](https://sovietscloset.com/video/10144)
+  - Is no longer marked as new.
+
+### Added Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+#### Added Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+##### Videos
+
+- Added `v10178` [Source Filmmaker #1](https://sovietscloset.com/video/10178) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10120` [Team Fortress 2 #66](https://sovietscloset.com/video/10120)
+  - Is no longer marked as new.
+
 ## 2021-12-18T20:04:55Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
