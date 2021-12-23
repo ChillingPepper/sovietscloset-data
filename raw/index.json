@@ -748,7 +748,7 @@
     "name": "Blackwake",
     "slug": "Blackwake",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6063,
@@ -844,10 +844,16 @@
             "date": "2021-06-15 20:00",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 10179,
+            "date": "2021-12-22 19:56",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
