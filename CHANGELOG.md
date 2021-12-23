@@ -1,5 +1,19 @@
 # Changelog
 
+## 2021-12-23T16:57:42Z
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v10179` [Blackwake #17](https://sovietscloset.com/video/10179) (new)
+
 ## 2021-12-22T22:09:40Z
 
 ### Modified Game [Barotrauma](https://sovietscloset.com/Barotrauma)
