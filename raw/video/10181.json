@@ -1,0 +1,27 @@
+{
+  "streamId": 10181,
+  "date": "2021-12-20 11:03",
+  "game": {
+    "name": "Project Zomboid",
+    "slug": "Project-Zomboid"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10181,
+        "date": "2021-12-20 11:03"
+      },
+      {
+        "streamId": 10180,
+        "date": "2021-12-21 20:12"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "634b4e53-5806-47a1-90bc-2ec8d7419a1c",
+  "useBunny": true
+}
