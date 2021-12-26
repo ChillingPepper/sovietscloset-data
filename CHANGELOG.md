@@ -1,5 +1,116 @@
 # Changelog
 
+## 2021-12-26T01:01:25Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10177` [DayZ - Standalone #70](https://sovietscloset.com/video/10177)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10161` [Holdfast: Nations at War #89](https://sovietscloset.com/video/10161)
+  - Is no longer marked as new.
+
+### Added Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+#### Added Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+##### Videos
+
+- Added `v10181` [Project Zomboid #1](https://sovietscloset.com/video/10181) (new)
+- Added `v10180` [Project Zomboid #2](https://sovietscloset.com/video/10180) (new)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v10192` [Rising Storm 2: Vietnam #52](https://sovietscloset.com/video/10192)
+- Modified `v10173` [Rising Storm 2: Vietnam #53](https://sovietscloset.com/video/10173)
+  - Changed title from `Rising Storm 2: Vietnam #52` to `Rising Storm 2: Vietnam #53`
+  - Changed number from `52` to `53`
+- Modified `v10083` [Rising Storm 2: Vietnam #54](https://sovietscloset.com/video/10083)
+  - Changed title from `Rising Storm 2: Vietnam #53` to `Rising Storm 2: Vietnam #54`
+  - Changed number from `53` to `54`
+- Modified `v10084` [Rising Storm 2: Vietnam #55](https://sovietscloset.com/video/10084)
+  - Changed title from `Rising Storm 2: Vietnam #54` to `Rising Storm 2: Vietnam #55`
+  - Changed number from `54` to `55`
+- Modified `v10167` [Rising Storm 2: Vietnam #56](https://sovietscloset.com/video/10167)
+  - Changed title from `Rising Storm 2: Vietnam #55` to `Rising Storm 2: Vietnam #56`
+  - Changed number from `55` to `56`
+- Modified `v10169` [Rising Storm 2: Vietnam #57](https://sovietscloset.com/video/10169)
+  - Changed title from `Rising Storm 2: Vietnam #56` to `Rising Storm 2: Vietnam #57`
+  - Changed number from `56` to `57`
+- Modified `v10168` [Rising Storm 2: Vietnam #58](https://sovietscloset.com/video/10168)
+  - Changed title from `Rising Storm 2: Vietnam #57` to `Rising Storm 2: Vietnam #58`
+  - Changed number from `57` to `58`
+- Added `v10184` [Rising Storm 2: Vietnam #59](https://sovietscloset.com/video/10184)
+- Modified `v6686` [Rising Storm 2: Vietnam #60](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #58` to `Rising Storm 2: Vietnam #60`
+  - Changed number from `58` to `60`
+- Modified `v6692` [Rising Storm 2: Vietnam #61](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #59` to `Rising Storm 2: Vietnam #61`
+  - Changed number from `59` to `61`
+- Modified `v10175` [Rising Storm 2: Vietnam #62](https://sovietscloset.com/video/10175)
+  - Changed title from `Rising Storm 2: Vietnam #60` to `Rising Storm 2: Vietnam #62`
+  - Changed number from `60` to `62`
+- Added `v10182` [Rising Storm 2: Vietnam #63](https://sovietscloset.com/video/10182)
+- Added `v10187` [Rising Storm 2: Vietnam #64](https://sovietscloset.com/video/10187)
+- Added `v10183` [Rising Storm 2: Vietnam #65](https://sovietscloset.com/video/10183)
+- Modified `v10176` [Rising Storm 2: Vietnam #66](https://sovietscloset.com/video/10176)
+  - Changed title from `Rising Storm 2: Vietnam #61` to `Rising Storm 2: Vietnam #66`
+  - Changed number from `61` to `66`
+- Added `v10185` [Rising Storm 2: Vietnam #67](https://sovietscloset.com/video/10185)
+- Added `v10188` [Rising Storm 2: Vietnam #68](https://sovietscloset.com/video/10188)
+- Added `v10190` [Rising Storm 2: Vietnam #69](https://sovietscloset.com/video/10190)
+- Modified `v6749` [Rising Storm 2: Vietnam #70](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #62` to `Rising Storm 2: Vietnam #70`
+  - Changed number from `62` to `70`
+- Added `v10186` [Rising Storm 2: Vietnam #71](https://sovietscloset.com/video/10186)
+- Added `v10189` [Rising Storm 2: Vietnam #72](https://sovietscloset.com/video/10189)
+- Added `v10191` [Rising Storm 2: Vietnam #73](https://sovietscloset.com/video/10191)
+- Modified `v6979` [Rising Storm 2: Vietnam #74](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #63` to `Rising Storm 2: Vietnam #74`
+  - Changed number from `63` to `74`
+- Modified `v6978` [Rising Storm 2: Vietnam #75](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #64` to `Rising Storm 2: Vietnam #75`
+  - Changed number from `64` to `75`
+- Modified `v10166` [Rising Storm 2: Vietnam #76](https://sovietscloset.com/video/10166)
+  - Changed title from `Rising Storm 2: Vietnam #65` to `Rising Storm 2: Vietnam #76`
+  - Changed number from `65` to `76`
+- Modified `v10165` [Rising Storm 2: Vietnam #77](https://sovietscloset.com/video/10165)
+  - Changed title from `Rising Storm 2: Vietnam #66` to `Rising Storm 2: Vietnam #77`
+  - Changed number from `66` to `77`
+- Modified `v10129` [Rising Storm 2: Vietnam #78](https://sovietscloset.com/video/10129)
+  - Changed title from `Rising Storm 2: Vietnam #67` to `Rising Storm 2: Vietnam #78`
+  - Changed number from `67` to `78`
+
+### Modified Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+#### Modified Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+##### Videos
+
+- Added `v10193` [Source Filmmaker #2](https://sovietscloset.com/video/10193) (new)
+
 ## 2021-12-23T16:57:42Z
 
 ### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
