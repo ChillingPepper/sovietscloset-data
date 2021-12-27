@@ -2,11 +2,16 @@ import json
 import re
 import time
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 import eventlet
 import requests
-from eventlet.green.urllib.request import urlopen
 from eventlet.greenthread import sleep
+
+if not TYPE_CHECKING:
+    from eventlet.green.urllib.request import urlopen
+else:
+    from urllib.request import urlopen
 
 from utils import log
 
@@ -118,8 +123,11 @@ def get_global_vars():
 
     embed_html = download(embed_url, headers=MEDIADELIVERY_REFERER)
     embed_match = next(
-        re.finditer(r"https:\/\/(?P<pull_zone>.*)\.b-cdn\.net\/%s\/" % video_id, embed_html)
+        re.finditer(r"https:\/\/(?P<pull_zone>.*)\.b-cdn\.net\/%s\/" % video_id, embed_html), None
     )
+    if not embed_match:
+        log("get_global_vars", f"failed to find BunnyCDN pull zone in:\n\n{embed_html}")
+        raise RuntimeError("failed to find BunnyCDN pull zone")
     pull_zone = embed_match.group("pull_zone")
 
     # Path("debug.video.html").write_text(video_html)

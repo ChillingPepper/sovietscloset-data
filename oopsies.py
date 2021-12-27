@@ -1,5 +1,4 @@
 from pathlib import Path
-from typing import Dict, List
 
 from sovietscloset import SovietsCloset
 from utils import log
@@ -7,15 +6,15 @@ from utils import log
 
 def update_oopsies():
     log("update_oopsies", "start")
-    missing_bunnycdn: List[SovietsCloset.Video] = list()
-    missing_completely: List[(SovietsCloset.Playlist, int, int)] = list()
+    missing_bunnycdn: list[SovietsCloset.Video] = list()
+    missing_completely: list[tuple[SovietsCloset.Playlist, int, int]] = list()
 
-    sorting_date: List[SovietsCloset.Video] = list()
-    sorting_number: List[SovietsCloset.Video] = list()
+    sorting_date: list[SovietsCloset.Video] = list()
+    sorting_number: list[SovietsCloset.Video] = list()
 
-    dupes_date: Dict[str, List[SovietsCloset.Video]] = dict()
-    dupes_number: Dict[int, List[SovietsCloset.Video]] = dict()
-    dupes_bunnycdn: Dict[str, List[SovietsCloset.Video]] = dict()
+    dupes_date: dict[str, list[SovietsCloset.Video]] = dict()
+    dupes_number: dict[int, list[SovietsCloset.Video]] = dict()
+    dupes_bunnycdn: dict[str, list[SovietsCloset.Video]] = dict()
 
     sovietscloset = SovietsCloset()
     for game in sovietscloset:
@@ -46,9 +45,9 @@ def update_oopsies():
                         sorting_number.append(video)
 
             # dupes
-            dates: Dict[str, List[SovietsCloset.Video]] = dict()
-            numbers: Dict[int, List[SovietsCloset.Video]] = dict()
-            bunnycdn: Dict[str, List[SovietsCloset.Video]] = dict()
+            dates: dict[str, list[SovietsCloset.Video]] = dict()
+            numbers: dict[int, list[SovietsCloset.Video]] = dict()
+            bunnycdn: dict[str, list[SovietsCloset.Video]] = dict()
 
             for video in playlist:
                 for key_name, temp_dict, dupes_dict in [

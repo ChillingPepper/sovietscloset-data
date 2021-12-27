@@ -5,12 +5,12 @@ description = "balls"
 authors = ["ChillingPepper"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.10"
 requests = "^2.26.0"
-eventlet = "^0.32.0"
+eventlet = "^0.33.0"
 
 [tool.poetry.dev-dependencies]
-black = "^21.9b0"
+black = "^21.12b0"
 
 [tool.black]
 line-length = 99

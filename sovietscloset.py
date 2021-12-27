@@ -1,7 +1,7 @@
-from datetime import datetime
 import json
 from dataclasses import dataclass
-from typing import List, Optional
+from datetime import datetime
+from typing import TypeVar
 
 
 class SovietsCloset:
@@ -21,7 +21,7 @@ class SovietsCloset:
         id: int
         date: str
         number: int
-        bunnyId: Optional[str]
+        bunnyId: str | None
         new: bool
 
         def __eq__(self, other: "SovietsCloset.Video") -> bool:
@@ -47,7 +47,7 @@ class SovietsCloset:
     class Playlist(Category):
         game: "SovietsCloset.Game"
 
-        videos: List["SovietsCloset.Video"]
+        videos: list["SovietsCloset.Video"]
 
         def __eq__(self, other: "SovietsCloset.Playlist") -> bool:
             return SovietsCloset.Category.__eq__(self, other)
@@ -55,12 +55,12 @@ class SovietsCloset:
         def __iter__(self):
             yield from self.videos
 
-        def __getitem__(self, i):
+        def __getitem__(self, i: int):
             return self.videos[i]
 
     @dataclass
     class Game(Category):
-        playlists: List["SovietsCloset.Playlist"]
+        playlists: list["SovietsCloset.Playlist"]
 
         def __eq__(self, other: "SovietsCloset.Game") -> bool:
             return SovietsCloset.Category.__eq__(self, other)
@@ -68,7 +68,7 @@ class SovietsCloset:
         def __iter__(self):
             yield from self.playlists
 
-        def __getitem__(self, i):
+        def __getitem__(self, i: int):
             return self.playlists[i]
 
         @property
@@ -78,7 +78,7 @@ class SovietsCloset:
 
     timestamp: datetime
     bunnyCdn: BunnyCdn
-    games: List[Game]
+    games: list[Game]
 
     _filename: str
     _json: dict
@@ -113,7 +113,7 @@ class SovietsCloset:
     def __iter__(self):
         yield from self.games
 
-    def __getitem__(self, i):
+    def __getitem__(self, i: int):
         return self.games[i]
 
     @property
@@ -125,3 +125,11 @@ class SovietsCloset:
     def videos(self):
         for playlist in self.playlists:
             yield from playlist
+
+
+SovietsClosetType = TypeVar(
+    "SovietsClosetType",
+    SovietsCloset.Game,
+    SovietsCloset.Playlist,
+    SovietsCloset.Video,
+)

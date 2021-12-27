@@ -1,8 +1,8 @@
 from enum import Enum
 from pathlib import Path
-from typing import List, Optional
+from typing import TypeVar
 
-from sovietscloset import SovietsCloset
+from sovietscloset import SovietsCloset, SovietsClosetType
 from utils import log
 
 
@@ -27,13 +27,33 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
 
     changelog_timestamp = new_sovietscloset.timestamp.isoformat(timespec="seconds")
 
-    changelog_games: List[(ChangeType, SovietsCloset.Game, SovietsCloset.Game)] = list()
-    changelog_playlists: List[
-        (ChangeType, SovietsCloset.Playlist, SovietsCloset.Playlist)
+    changelog_games: list[
+        tuple[
+            ChangeType,
+            SovietsCloset.Game,
+            SovietsCloset.Game,
+        ]
     ] = list()
-    changelog_videos: List[(ChangeType, SovietsCloset.Video, SovietsCloset.Video)] = list()
+    changelog_playlists: list[
+        tuple[
+            ChangeType,
+            SovietsCloset.Playlist,
+            SovietsCloset.Playlist,
+        ]
+    ] = list()
+    changelog_videos: list[
+        tuple[
+            ChangeType,
+            SovietsCloset.Video,
+            SovietsCloset.Video,
+        ]
+    ] = list()
 
-    def find_element(elements, comparison_element, key):
+    def find_element(
+        elements: list[SovietsClosetType],
+        comparison_element: SovietsClosetType,
+        key: str,
+    ) -> SovietsClosetType | None:
         return next(
             (
                 element
@@ -47,9 +67,7 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
     for new_game in new_sovietscloset:
         is_modified_game = False
 
-        found_old_game: Optional[SovietsCloset.Game] = find_element(
-            old_sovietscloset.games, new_game, "name"
-        )
+        found_old_game = find_element(old_sovietscloset.games, new_game, "name")
         if not found_old_game:
             # added game with new playlists and new videos
             changelog_games.append((ChangeType.ADD, new_game, new_game))
@@ -63,9 +81,7 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
             for new_playlist in new_game:
                 is_modified_playlist = False
 
-                found_old_playlist: Optional[SovietsCloset.Playlist] = find_element(
-                    found_old_game.playlists, new_playlist, "name"
-                )
+                found_old_playlist = find_element(found_old_game.playlists, new_playlist, "name")
                 if not found_old_playlist:
                     # added playlist with added videos in modified game
                     is_modified_game = True
@@ -76,33 +92,29 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
 
                     # find added videos
                     for new_video in new_playlist:
-                        found_old_video: Optional[SovietsCloset.Game] = find_element(
-                            found_old_playlist.videos, new_video, "id"
-                        )
+                        found_old_video = find_element(found_old_playlist.videos, new_video, "id")
                         if not found_old_video:
                             # added video in modified playlist in modified game
                             is_modified_game = True
                             is_modified_playlist = True
                             changelog_videos.append((ChangeType.ADD, new_video, new_video))
 
-                if is_modified_playlist:
-                    playlist_tuple = (ChangeType.MODIFY, found_old_playlist, new_playlist)
-                    if playlist_tuple not in changelog_playlists:
-                        changelog_playlists.append(playlist_tuple)
+                    if is_modified_playlist:
+                        playlist_tuple = (ChangeType.MODIFY, found_old_playlist, new_playlist)
+                        if playlist_tuple not in changelog_playlists:
+                            changelog_playlists.append(playlist_tuple)
 
-        if is_modified_game:
-            game_tuple = (ChangeType.MODIFY, found_old_game, new_game)
-            if game_tuple not in changelog_games:
-                changelog_games.append(game_tuple)
+            if is_modified_game:
+                game_tuple = (ChangeType.MODIFY, found_old_game, new_game)
+                if game_tuple not in changelog_games:
+                    changelog_games.append(game_tuple)
 
     # find deleted and modified games
     for old_game in old_sovietscloset:
         is_modified_game = False
 
         # find deleted games
-        found_new_game: Optional[SovietsCloset.Game] = find_element(
-            new_sovietscloset.games, old_game, "name"
-        )
+        found_new_game = find_element(new_sovietscloset.games, old_game, "name")
         if not found_new_game:
             # deleted game with deleted playlists and deleted videos
             changelog_games.append((ChangeType.DELETE, old_game, old_game))
@@ -121,9 +133,7 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
                 is_modified_playlist = False
 
                 # find deleted playlists
-                found_new_playlist: Optional[SovietsCloset.Playlist] = find_element(
-                    found_new_game.playlists, old_playlist, "name"
-                )
+                found_new_playlist = find_element(found_new_game.playlists, old_playlist, "name")
                 if not found_new_playlist:
                     # deleted playlist with deleted videos in modified game
                     is_modified_game = True
@@ -142,9 +152,7 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
                     for old_video in old_playlist:
 
                         # find deleted videos
-                        found_new_video: Optional[SovietsCloset.Video] = find_element(
-                            found_new_playlist.videos, old_video, "id"
-                        )
+                        found_new_video = find_element(found_new_playlist.videos, old_video, "id")
                         if not found_new_video:
                             # deleted video in modified playlist in modified game
                             is_modified_game = True
@@ -160,15 +168,15 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
                                     (ChangeType.MODIFY, old_video, found_new_video)
                                 )
 
-                if is_modified_playlist:
-                    playlist_tuple = (ChangeType.MODIFY, old_playlist, found_new_playlist)
-                    if playlist_tuple not in changelog_playlists:
-                        changelog_playlists.append(playlist_tuple)
+                    if is_modified_playlist:
+                        playlist_tuple = (ChangeType.MODIFY, old_playlist, found_new_playlist)
+                        if playlist_tuple not in changelog_playlists:
+                            changelog_playlists.append(playlist_tuple)
 
-        if is_modified_game:
-            game_tuple = (ChangeType.MODIFY, old_game, found_new_game)
-            if game_tuple not in changelog_games:
-                changelog_games.append(game_tuple)
+            if is_modified_game:
+                game_tuple = (ChangeType.MODIFY, old_game, found_new_game)
+                if game_tuple not in changelog_games:
+                    changelog_games.append(game_tuple)
 
     # sort by game date and stream date
     changelog_games.sort(key=lambda g: g[2].name)
@@ -184,8 +192,8 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
     changelog_not_empty = bool(changelog_games or changelog_playlists or changelog_videos)
     if changelog_not_empty:
 
-        def badges(element):
-            if type(element) in [SovietsCloset.Game, SovietsCloset.Playlist]:
+        def badges(element: SovietsClosetType):
+            if isinstance(element, SovietsCloset.Category):
                 if element.enabled and not element.recentlyUpdated:
                     return ""
 
@@ -199,13 +207,11 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
                 result += ")"
                 return result
 
-            elif type(element) == SovietsCloset.Video:
+            else:
                 if element.new:
                     return "(new)"
                 else:
                     return ""
-
-            raise RuntimeError()
 
         def link(element):
             return f"[{element.title}]({element.url})"
