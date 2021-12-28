@@ -1,5 +1,5 @@
 {
-  "timestamp": 1640480485,
+  "timestamp": 1640721158,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6736,7 +6736,7 @@
               "date": "2021-12-20 11:03",
               "number": 1,
               "bunnyId": "634b4e53-5806-47a1-90bc-2ec8d7419a1c",
-              "new": true
+              "new": false
             },
             {
               "title": "Project Zomboid #2",
@@ -6745,6 +6745,15 @@
               "date": "2021-12-21 20:12",
               "number": 2,
               "bunnyId": "0d23ff73-1811-43b8-b948-18497da303bf",
+              "new": false
+            },
+            {
+              "title": "Project Zomboid #3",
+              "url": "https://sovietscloset.com/video/10194",
+              "id": 10194,
+              "date": "2021-12-27 11:08",
+              "number": 3,
+              "bunnyId": "409d7221-acac-4efa-9b4d-5a8db1faa0d7",
               "new": true
             }
           ]
@@ -10116,7 +10125,7 @@
               "date": "2021-12-21 11:29",
               "number": 1,
               "bunnyId": "f7edff29-f8e6-4601-8315-bc8be0872001",
-              "new": true
+              "new": false
             },
             {
               "title": "Source Filmmaker #2",
@@ -11681,7 +11690,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -11689,7 +11698,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12266,6 +12275,15 @@
               "number": 66,
               "bunnyId": "5ca4d26e-9066-4d86-96ee-fc401237bfa0",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #67",
+              "url": "https://sovietscloset.com/video/10195",
+              "id": 10195,
+              "date": "2021-12-26 19:56",
+              "number": 67,
+              "bunnyId": "813f519b-8aa9-4130-8441-e5ebc630e048",
+              "new": true
             }
           ]
         }

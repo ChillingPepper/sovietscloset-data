@@ -1,5 +1,40 @@
 # Changelog
 
+## 2021-12-28T19:52:38Z
+
+### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+#### Modified Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+##### Videos
+
+- Modified `v10181` [Project Zomboid #1](https://sovietscloset.com/video/10181)
+  - Is no longer marked as new.
+- Modified `v10180` [Project Zomboid #2](https://sovietscloset.com/video/10180)
+  - Is no longer marked as new.
+- Added `v10194` [Project Zomboid #3](https://sovietscloset.com/video/10194) (new)
+
+### Modified Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+#### Modified Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+##### Videos
+
+- Modified `v10178` [Source Filmmaker #1](https://sovietscloset.com/video/10178)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v10195` [Team Fortress 2 #67](https://sovietscloset.com/video/10195) (new)
+
 ## 2021-12-26T01:01:25Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
