@@ -748,7 +748,7 @@
     "name": "Blackwake",
     "slug": "Blackwake",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6063,
@@ -848,12 +848,12 @@
           {
             "id": 10179,
             "date": "2021-12-22 19:56",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4742,6 +4742,36 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 8072,
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 8088,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 10197,
+            "date": "2021-12-23 19:52",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 10196,
+            "date": "2021-12-28 19:50",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
