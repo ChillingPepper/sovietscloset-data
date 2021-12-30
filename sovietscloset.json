@@ -1,5 +1,5 @@
 {
-  "timestamp": 1640721158,
+  "timestamp": 1640872905,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1085,7 +1085,7 @@
       "name": "Blackwake",
       "slug": "Blackwake",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Blackwake",
@@ -1093,7 +1093,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Blackwake #1",
@@ -1237,7 +1237,7 @@
               "date": "2021-12-22 19:56",
               "number": 17,
               "bunnyId": "d0991435-9c62-4765-9335-1e7d7a6b5972",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -6811,6 +6811,44 @@
               "number": 4,
               "bunnyId": "9064c6f6-587c-4656-ae55-11d6806ee524",
               "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ready or Not",
+      "url": "https://sovietscloset.com/Ready-or-Not",
+      "name": "Ready or Not",
+      "slug": "Ready-or-Not",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Ready or Not",
+          "url": "https://sovietscloset.com/Ready-or-Not",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Ready or Not #1",
+              "url": "https://sovietscloset.com/video/10197",
+              "id": 10197,
+              "date": "2021-12-23 19:52",
+              "number": 1,
+              "bunnyId": "ff93bb86-fe00-4ed2-aa87-979d2104e28e",
+              "new": true
+            },
+            {
+              "title": "Ready or Not #2",
+              "url": "https://sovietscloset.com/video/10196",
+              "id": 10196,
+              "date": "2021-12-28 19:50",
+              "number": 2,
+              "bunnyId": "b8dbadfc-d874-45da-8cbb-0012ac7df622",
+              "new": true
             }
           ]
         }

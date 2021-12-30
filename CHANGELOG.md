@@ -1,5 +1,29 @@
 # Changelog
 
+## 2021-12-30T14:01:45Z
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10179` [Blackwake #17](https://sovietscloset.com/video/10179)
+  - Is no longer marked as new.
+
+### Added Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Added Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v10197` [Ready or Not #1](https://sovietscloset.com/video/10197) (new)
+- Added `v10196` [Ready or Not #2](https://sovietscloset.com/video/10196) (new)
+
 ## 2021-12-28T19:52:38Z
 
 ### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
