@@ -1,5 +1,5 @@
 {
-  "timestamp": 1640872905,
+  "timestamp": 1641248829,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6754,6 +6754,15 @@
               "date": "2021-12-27 11:08",
               "number": 3,
               "bunnyId": "409d7221-acac-4efa-9b4d-5a8db1faa0d7",
+              "new": false
+            },
+            {
+              "title": "Project Zomboid #4",
+              "url": "https://sovietscloset.com/video/10198",
+              "id": 10198,
+              "date": "2021-12-30 11:20",
+              "number": 4,
+              "bunnyId": "a433f4c1-db90-41d2-bcba-ca355b8a830d",
               "new": true
             }
           ]
@@ -6839,7 +6848,7 @@
               "date": "2021-12-23 19:52",
               "number": 1,
               "bunnyId": "ff93bb86-fe00-4ed2-aa87-979d2104e28e",
-              "new": true
+              "new": false
             },
             {
               "title": "Ready or Not #2",
@@ -10146,7 +10155,7 @@
       "name": "Source Filmmaker",
       "slug": "Source-Filmmaker",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Source Filmmaker",
@@ -10154,7 +10163,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Source Filmmaker #1",
@@ -10172,7 +10181,7 @@
               "date": "2021-12-24 11:29",
               "number": 2,
               "bunnyId": "0938b900-adbc-4d80-8e04-d3e030f3762a",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -11728,7 +11737,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -11736,7 +11745,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12321,7 +12330,7 @@
               "date": "2021-12-26 19:56",
               "number": 67,
               "bunnyId": "813f519b-8aa9-4130-8441-e5ebc630e048",
-              "new": true
+              "new": false
             }
           ]
         }

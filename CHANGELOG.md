@@ -1,5 +1,52 @@
 # Changelog
 
+## 2022-01-03T22:27:09Z
+
+### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+#### Modified Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+##### Videos
+
+- Modified `v10194` [Project Zomboid #3](https://sovietscloset.com/video/10194)
+  - Is no longer marked as new.
+- Added `v10198` [Project Zomboid #4](https://sovietscloset.com/video/10198) (new)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Modified `v10197` [Ready or Not #1](https://sovietscloset.com/video/10197)
+  - Is no longer marked as new.
+
+### Modified Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10193` [Source Filmmaker #2](https://sovietscloset.com/video/10193)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10195` [Team Fortress 2 #67](https://sovietscloset.com/video/10195)
+  - Is no longer marked as new.
+
 ## 2021-12-30T14:01:45Z
 
 ### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
