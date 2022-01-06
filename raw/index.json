@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1016,
@@ -656,6 +656,129 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 8089,
+        "name": "Prairie Fire Mike Force",
+        "slug": "Prairie-Fire-Mike-Force",
+        "streams": [
+          {
+            "id": 12084,
+            "date": "2021-11-01 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12081,
+            "date": "2021-11-05 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12085,
+            "date": "2021-11-08 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12082,
+            "date": "2021-11-12 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11088,
+            "date": "2021-11-15 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12083,
+            "date": "2021-11-15 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12080,
+            "date": "2021-11-19 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11086,
+            "date": "2021-11-22 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11084,
+            "date": "2021-11-26 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11090,
+            "date": "2021-11-26 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11087,
+            "date": "2021-11-29 19:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11089,
+            "date": "2021-12-03 19:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11082,
+            "date": "2021-12-06 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11085,
+            "date": "2021-12-10 19:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11083,
+            "date": "2021-12-13 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11081,
+            "date": "2021-12-17 19:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11080,
+            "date": "2021-12-20 19:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11079,
+            "date": "2021-12-27 19:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 11078,
+            "date": "2022-01-03 19:51",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4672,7 +4795,7 @@
     "name": "Project Zomboid",
     "slug": "Project-Zomboid",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 8087,
@@ -4700,12 +4823,12 @@
           {
             "id": 10198,
             "date": "2021-12-30 11:20",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4756,7 +4879,7 @@
     "name": "Ready or Not",
     "slug": "Ready-or-Not",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 8088,
@@ -4772,12 +4895,12 @@
           {
             "id": 10196,
             "date": "2021-12-28 19:50",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },

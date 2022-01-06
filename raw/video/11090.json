@@ -1,0 +1,95 @@
+{
+  "streamId": 11090,
+  "date": "2021-11-26 20:11",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Prairie Fire Mike Force",
+    "slug": "Prairie-Fire-Mike-Force",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 12084,
+        "date": "2021-11-01 19:54"
+      },
+      {
+        "streamId": 12081,
+        "date": "2021-11-05 19:56"
+      },
+      {
+        "streamId": 12085,
+        "date": "2021-11-08 19:54"
+      },
+      {
+        "streamId": 12082,
+        "date": "2021-11-12 19:53"
+      },
+      {
+        "streamId": 11088,
+        "date": "2021-11-15 19:56"
+      },
+      {
+        "streamId": 12083,
+        "date": "2021-11-15 20:10"
+      },
+      {
+        "streamId": 12080,
+        "date": "2021-11-19 19:57"
+      },
+      {
+        "streamId": 11086,
+        "date": "2021-11-22 19:55"
+      },
+      {
+        "streamId": 11084,
+        "date": "2021-11-26 20:02"
+      },
+      {
+        "streamId": 11090,
+        "date": "2021-11-26 20:11"
+      },
+      {
+        "streamId": 11087,
+        "date": "2021-11-29 19:48"
+      },
+      {
+        "streamId": 11089,
+        "date": "2021-12-03 19:48"
+      },
+      {
+        "streamId": 11082,
+        "date": "2021-12-06 19:56"
+      },
+      {
+        "streamId": 11085,
+        "date": "2021-12-10 19:45"
+      },
+      {
+        "streamId": 11083,
+        "date": "2021-12-13 20:00"
+      },
+      {
+        "streamId": 11081,
+        "date": "2021-12-17 19:48"
+      },
+      {
+        "streamId": 11080,
+        "date": "2021-12-20 19:46"
+      },
+      {
+        "streamId": 11079,
+        "date": "2021-12-27 19:43"
+      },
+      {
+        "streamId": 11078,
+        "date": "2022-01-03 19:51"
+      }
+    ]
+  },
+  "number": 10,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "bfad03ee-2420-406a-a361-a5aac52fecf4",
+  "useBunny": true
+}
