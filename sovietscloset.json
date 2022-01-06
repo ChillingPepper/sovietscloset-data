@@ -1,5 +1,5 @@
 {
-  "timestamp": 1641248829,
+  "timestamp": 1641500605,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -420,7 +420,7 @@
       "name": "Arma 3",
       "slug": "Arma-3",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Arma 3 - Antistasi Games",
@@ -962,6 +962,187 @@
               "number": 6,
               "bunnyId": "dd2f2d53-8940-40ac-abfb-fbadcb1e35c1",
               "new": false
+            }
+          ]
+        },
+        {
+          "title": "Arma 3 - Prairie Fire Mike Force",
+          "url": "https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force",
+          "name": "Prairie Fire Mike Force",
+          "slug": "Prairie-Fire-Mike-Force",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #1",
+              "url": "https://sovietscloset.com/video/12084",
+              "id": 12084,
+              "date": "2021-11-01 19:54",
+              "number": 1,
+              "bunnyId": "c099d0a5-e2da-44d9-bab7-f504670d3f0b",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #2",
+              "url": "https://sovietscloset.com/video/12081",
+              "id": 12081,
+              "date": "2021-11-05 19:56",
+              "number": 2,
+              "bunnyId": "1f9d72a0-ee18-406c-9ec5-edfa3829b7cb",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #3",
+              "url": "https://sovietscloset.com/video/12085",
+              "id": 12085,
+              "date": "2021-11-08 19:54",
+              "number": 3,
+              "bunnyId": "b6822d33-8b41-4db9-b981-f1d0447d6407",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #4",
+              "url": "https://sovietscloset.com/video/12082",
+              "id": 12082,
+              "date": "2021-11-12 19:53",
+              "number": 4,
+              "bunnyId": "09524411-c9b2-4066-9840-5444df46e7ad",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #5",
+              "url": "https://sovietscloset.com/video/11088",
+              "id": 11088,
+              "date": "2021-11-15 19:56",
+              "number": 5,
+              "bunnyId": "78f2225f-618f-48d7-88c3-ec2fa459279a",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #6",
+              "url": "https://sovietscloset.com/video/12083",
+              "id": 12083,
+              "date": "2021-11-15 20:10",
+              "number": 6,
+              "bunnyId": "0ad51292-3578-4ac2-ac24-d320b8fd5b9a",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #7",
+              "url": "https://sovietscloset.com/video/12080",
+              "id": 12080,
+              "date": "2021-11-19 19:57",
+              "number": 7,
+              "bunnyId": "b67f7b54-2a00-4962-9de8-26bf2101e781",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #8",
+              "url": "https://sovietscloset.com/video/11086",
+              "id": 11086,
+              "date": "2021-11-22 19:55",
+              "number": 8,
+              "bunnyId": "334204c9-5f27-44cc-8987-f261235a2787",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #9",
+              "url": "https://sovietscloset.com/video/11084",
+              "id": 11084,
+              "date": "2021-11-26 20:02",
+              "number": 9,
+              "bunnyId": "4f0a1b2a-c0dd-4523-ae72-6635627fad2d",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #10",
+              "url": "https://sovietscloset.com/video/11090",
+              "id": 11090,
+              "date": "2021-11-26 20:11",
+              "number": 10,
+              "bunnyId": "bfad03ee-2420-406a-a361-a5aac52fecf4",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #11",
+              "url": "https://sovietscloset.com/video/11087",
+              "id": 11087,
+              "date": "2021-11-29 19:48",
+              "number": 11,
+              "bunnyId": "266370fd-9633-44f0-8875-c2b43ad3adb3",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #12",
+              "url": "https://sovietscloset.com/video/11089",
+              "id": 11089,
+              "date": "2021-12-03 19:48",
+              "number": 12,
+              "bunnyId": "9daca59a-4e4a-4980-a488-173d2198566c",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #13",
+              "url": "https://sovietscloset.com/video/11082",
+              "id": 11082,
+              "date": "2021-12-06 19:56",
+              "number": 13,
+              "bunnyId": "15b53539-b1d5-4801-9c96-691547f2a606",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #14",
+              "url": "https://sovietscloset.com/video/11085",
+              "id": 11085,
+              "date": "2021-12-10 19:45",
+              "number": 14,
+              "bunnyId": "60828377-1d6f-44a2-bc79-aeb7e243e289",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #15",
+              "url": "https://sovietscloset.com/video/11083",
+              "id": 11083,
+              "date": "2021-12-13 20:00",
+              "number": 15,
+              "bunnyId": "7c89d6b5-b584-4b35-8559-f9a2f10db23f",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #16",
+              "url": "https://sovietscloset.com/video/11081",
+              "id": 11081,
+              "date": "2021-12-17 19:48",
+              "number": 16,
+              "bunnyId": "d1223b6f-973e-4d46-87cb-ac1473ba9706",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #17",
+              "url": "https://sovietscloset.com/video/11080",
+              "id": 11080,
+              "date": "2021-12-20 19:46",
+              "number": 17,
+              "bunnyId": "1836f115-c787-49eb-869a-f8d9aff528f8",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #18",
+              "url": "https://sovietscloset.com/video/11079",
+              "id": 11079,
+              "date": "2021-12-27 19:43",
+              "number": 18,
+              "bunnyId": "24215cc4-3f92-4036-a722-1e0b12643094",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #19",
+              "url": "https://sovietscloset.com/video/11078",
+              "id": 11078,
+              "date": "2022-01-03 19:51",
+              "number": 19,
+              "bunnyId": "0544b046-3e95-4ec1-8c98-c1fefd6bb4a6",
+              "new": true
             }
           ]
         }
@@ -6719,7 +6900,7 @@
       "name": "Project Zomboid",
       "slug": "Project-Zomboid",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Project Zomboid",
@@ -6727,7 +6908,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Project Zomboid #1",
@@ -6763,7 +6944,7 @@
               "date": "2021-12-30 11:20",
               "number": 4,
               "bunnyId": "a433f4c1-db90-41d2-bcba-ca355b8a830d",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -6831,7 +7012,7 @@
       "name": "Ready or Not",
       "slug": "Ready-or-Not",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Ready or Not",
@@ -6839,7 +7020,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Ready or Not #1",
@@ -6857,7 +7038,7 @@
               "date": "2021-12-28 19:50",
               "number": 2,
               "bunnyId": "b8dbadfc-d874-45da-8cbb-0012ac7df622",
-              "new": true
+              "new": false
             }
           ]
         }

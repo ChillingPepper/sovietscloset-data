@@ -1,5 +1,61 @@
 # Changelog
 
+## 2022-01-06T20:23:25Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is now marked as recently updated.
+
+#### Added Playlist [Arma 3 - Prairie Fire Mike Force](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force)
+
+##### Videos
+
+- Added `v12084` [Arma 3 - Prairie Fire Mike Force #1](https://sovietscloset.com/video/12084)
+- Added `v12081` [Arma 3 - Prairie Fire Mike Force #2](https://sovietscloset.com/video/12081)
+- Added `v12085` [Arma 3 - Prairie Fire Mike Force #3](https://sovietscloset.com/video/12085)
+- Added `v12082` [Arma 3 - Prairie Fire Mike Force #4](https://sovietscloset.com/video/12082)
+- Added `v11088` [Arma 3 - Prairie Fire Mike Force #5](https://sovietscloset.com/video/11088)
+- Added `v12083` [Arma 3 - Prairie Fire Mike Force #6](https://sovietscloset.com/video/12083)
+- Added `v12080` [Arma 3 - Prairie Fire Mike Force #7](https://sovietscloset.com/video/12080)
+- Added `v11086` [Arma 3 - Prairie Fire Mike Force #8](https://sovietscloset.com/video/11086)
+- Added `v11084` [Arma 3 - Prairie Fire Mike Force #9](https://sovietscloset.com/video/11084)
+- Added `v11090` [Arma 3 - Prairie Fire Mike Force #10](https://sovietscloset.com/video/11090)
+- Added `v11087` [Arma 3 - Prairie Fire Mike Force #11](https://sovietscloset.com/video/11087)
+- Added `v11089` [Arma 3 - Prairie Fire Mike Force #12](https://sovietscloset.com/video/11089)
+- Added `v11082` [Arma 3 - Prairie Fire Mike Force #13](https://sovietscloset.com/video/11082)
+- Added `v11085` [Arma 3 - Prairie Fire Mike Force #14](https://sovietscloset.com/video/11085)
+- Added `v11083` [Arma 3 - Prairie Fire Mike Force #15](https://sovietscloset.com/video/11083)
+- Added `v11081` [Arma 3 - Prairie Fire Mike Force #16](https://sovietscloset.com/video/11081)
+- Added `v11080` [Arma 3 - Prairie Fire Mike Force #17](https://sovietscloset.com/video/11080)
+- Added `v11079` [Arma 3 - Prairie Fire Mike Force #18](https://sovietscloset.com/video/11079)
+- Added `v11078` [Arma 3 - Prairie Fire Mike Force #19](https://sovietscloset.com/video/11078) (new)
+
+### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10198` [Project Zomboid #4](https://sovietscloset.com/video/10198)
+  - Is no longer marked as new.
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v10196` [Ready or Not #2](https://sovietscloset.com/video/10196)
+  - Is no longer marked as new.
+
 ## 2022-01-03T22:27:09Z
 
 ### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
