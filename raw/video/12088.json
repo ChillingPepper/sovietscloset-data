@@ -1,0 +1,39 @@
+{
+  "streamId": 12088,
+  "date": "2022-01-05 11:57",
+  "game": {
+    "name": "Source Filmmaker",
+    "slug": "Source-Filmmaker"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10178,
+        "date": "2021-12-21 11:29"
+      },
+      {
+        "streamId": 10193,
+        "date": "2021-12-24 11:29"
+      },
+      {
+        "streamId": 12089,
+        "date": "2022-01-05 11:14"
+      },
+      {
+        "streamId": 12088,
+        "date": "2022-01-05 11:57"
+      },
+      {
+        "streamId": 12090,
+        "date": "2022-01-05 12:00"
+      }
+    ]
+  },
+  "number": 4,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "f7baa7aa-ac76-468c-a6e0-b69b74b155ff",
+  "useBunny": true
+}

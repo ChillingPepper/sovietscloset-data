@@ -1,0 +1,31 @@
+{
+  "streamId": 12091,
+  "date": "2022-01-04 20:00",
+  "game": {
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10197,
+        "date": "2021-12-23 19:52"
+      },
+      {
+        "streamId": 10196,
+        "date": "2021-12-28 19:50"
+      },
+      {
+        "streamId": 12091,
+        "date": "2022-01-04 20:00"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "f858aaa3-a76f-4c01-8879-5c02e6ed1f0b",
+  "useBunny": true
+}

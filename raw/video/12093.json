@@ -1,0 +1,55 @@
+{
+  "streamId": 12093,
+  "date": "2022-01-03 11:25",
+  "game": {
+    "name": "Project Zomboid",
+    "slug": "Project-Zomboid"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10181,
+        "date": "2021-12-20 11:03"
+      },
+      {
+        "streamId": 10180,
+        "date": "2021-12-21 20:12"
+      },
+      {
+        "streamId": 10194,
+        "date": "2021-12-27 11:08"
+      },
+      {
+        "streamId": 10198,
+        "date": "2021-12-30 11:20"
+      },
+      {
+        "streamId": 12094,
+        "date": "2021-12-31 11:15"
+      },
+      {
+        "streamId": 12096,
+        "date": "2022-01-01 20:53"
+      },
+      {
+        "streamId": 12095,
+        "date": "2022-01-02 14:10"
+      },
+      {
+        "streamId": 12092,
+        "date": "2022-01-03 11:10"
+      },
+      {
+        "streamId": 12093,
+        "date": "2022-01-03 11:25"
+      }
+    ]
+  },
+  "number": 9,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "9c4e2b17-942a-4eec-9809-a8ab842d773c",
+  "useBunny": true
+}

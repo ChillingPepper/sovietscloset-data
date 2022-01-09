@@ -775,6 +775,12 @@
             "date": "2022-01-03 19:51",
             "new": true,
             "useBunny": true
+          },
+          {
+            "id": 12086,
+            "date": "2022-01-07 19:54",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -3211,7 +3217,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -3745,10 +3751,16 @@
             "date": "2021-12-16 20:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12087,
+            "date": "2022-01-06 20:49",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4795,7 +4807,7 @@
     "name": "Project Zomboid",
     "slug": "Project-Zomboid",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 8087,
@@ -4825,10 +4837,40 @@
             "date": "2021-12-30 11:20",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12094,
+            "date": "2021-12-31 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12096,
+            "date": "2022-01-01 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12095,
+            "date": "2022-01-02 14:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12092,
+            "date": "2022-01-03 11:10",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12093,
+            "date": "2022-01-03 11:25",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4879,7 +4921,7 @@
     "name": "Ready or Not",
     "slug": "Ready-or-Not",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 8088,
@@ -4897,10 +4939,16 @@
             "date": "2021-12-28 19:50",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12091,
+            "date": "2022-01-04 20:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7123,7 +7171,7 @@
     "name": "Source Filmmaker",
     "slug": "Source-Filmmaker",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 8086,
@@ -7141,10 +7189,28 @@
             "date": "2021-12-24 11:29",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12089,
+            "date": "2022-01-05 11:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12088,
+            "date": "2022-01-05 11:57",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12090,
+            "date": "2022-01-05 12:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
