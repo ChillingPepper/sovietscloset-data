@@ -1,5 +1,5 @@
 {
-  "timestamp": 1641500605,
+  "timestamp": 1641769779,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1142,6 +1142,15 @@
               "date": "2022-01-03 19:51",
               "number": 19,
               "bunnyId": "0544b046-3e95-4ec1-8c98-c1fefd6bb4a6",
+              "new": true
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force #20",
+              "url": "https://sovietscloset.com/video/12086",
+              "id": 12086,
+              "date": "2022-01-07 19:54",
+              "number": 20,
+              "bunnyId": "785fb1aa-5378-47cd-856f-aae97efd9c79",
               "new": true
             }
           ]
@@ -4622,7 +4631,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -4630,7 +4639,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -5423,6 +5432,15 @@
               "number": 89,
               "bunnyId": "b430ab9a-52b2-4c9c-8943-47a40c4598ac",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #90",
+              "url": "https://sovietscloset.com/video/12087",
+              "id": 12087,
+              "date": "2022-01-06 20:49",
+              "number": 90,
+              "bunnyId": "89446b43-4b21-4829-9db3-845be62401ac",
+              "new": true
             }
           ]
         }
@@ -6900,7 +6918,7 @@
       "name": "Project Zomboid",
       "slug": "Project-Zomboid",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Project Zomboid",
@@ -6908,7 +6926,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Project Zomboid #1",
@@ -6945,6 +6963,51 @@
               "number": 4,
               "bunnyId": "a433f4c1-db90-41d2-bcba-ca355b8a830d",
               "new": false
+            },
+            {
+              "title": "Project Zomboid #5",
+              "url": "https://sovietscloset.com/video/12094",
+              "id": 12094,
+              "date": "2021-12-31 11:15",
+              "number": 5,
+              "bunnyId": "70b5be9c-f230-4556-8a4c-55a432096cea",
+              "new": false
+            },
+            {
+              "title": "Project Zomboid #6",
+              "url": "https://sovietscloset.com/video/12096",
+              "id": 12096,
+              "date": "2022-01-01 20:53",
+              "number": 6,
+              "bunnyId": "4de28d2e-342a-41fa-80c5-94cc59935841",
+              "new": false
+            },
+            {
+              "title": "Project Zomboid #7",
+              "url": "https://sovietscloset.com/video/12095",
+              "id": 12095,
+              "date": "2022-01-02 14:10",
+              "number": 7,
+              "bunnyId": "59f00a89-cbf6-4e2e-8961-962f6a81254b",
+              "new": false
+            },
+            {
+              "title": "Project Zomboid #8",
+              "url": "https://sovietscloset.com/video/12092",
+              "id": 12092,
+              "date": "2022-01-03 11:10",
+              "number": 8,
+              "bunnyId": "445e1f97-307d-41a1-9859-d75f66307d07",
+              "new": true
+            },
+            {
+              "title": "Project Zomboid #9",
+              "url": "https://sovietscloset.com/video/12093",
+              "id": 12093,
+              "date": "2022-01-03 11:25",
+              "number": 9,
+              "bunnyId": "9c4e2b17-942a-4eec-9809-a8ab842d773c",
+              "new": true
             }
           ]
         }
@@ -7012,7 +7075,7 @@
       "name": "Ready or Not",
       "slug": "Ready-or-Not",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Ready or Not",
@@ -7020,7 +7083,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Ready or Not #1",
@@ -7039,6 +7102,15 @@
               "number": 2,
               "bunnyId": "b8dbadfc-d874-45da-8cbb-0012ac7df622",
               "new": false
+            },
+            {
+              "title": "Ready or Not #3",
+              "url": "https://sovietscloset.com/video/12091",
+              "id": 12091,
+              "date": "2022-01-04 20:00",
+              "number": 3,
+              "bunnyId": "f858aaa3-a76f-4c01-8879-5c02e6ed1f0b",
+              "new": true
             }
           ]
         }
@@ -10336,7 +10408,7 @@
       "name": "Source Filmmaker",
       "slug": "Source-Filmmaker",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Source Filmmaker",
@@ -10344,7 +10416,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Source Filmmaker #1",
@@ -10363,6 +10435,33 @@
               "number": 2,
               "bunnyId": "0938b900-adbc-4d80-8e04-d3e030f3762a",
               "new": false
+            },
+            {
+              "title": "Source Filmmaker #3",
+              "url": "https://sovietscloset.com/video/12089",
+              "id": 12089,
+              "date": "2022-01-05 11:14",
+              "number": 3,
+              "bunnyId": "44f1a973-d45e-40ba-9ee2-7996b7d8f3ab",
+              "new": true
+            },
+            {
+              "title": "Source Filmmaker #4",
+              "url": "https://sovietscloset.com/video/12088",
+              "id": 12088,
+              "date": "2022-01-05 11:57",
+              "number": 4,
+              "bunnyId": "f7baa7aa-ac76-468c-a6e0-b69b74b155ff",
+              "new": true
+            },
+            {
+              "title": "Source Filmmaker #5",
+              "url": "https://sovietscloset.com/video/12090",
+              "id": 12090,
+              "date": "2022-01-05 12:00",
+              "number": 5,
+              "bunnyId": "639be496-5f4b-465a-8473-0a61b3a68c95",
+              "new": true
             }
           ]
         }

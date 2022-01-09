@@ -1,5 +1,69 @@
 # Changelog
 
+## 2022-01-09T23:09:39Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force)
+
+##### Videos
+
+- Added `v12086` [Arma 3 - Prairie Fire Mike Force #20](https://sovietscloset.com/video/12086) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12087` [Holdfast: Nations at War #90](https://sovietscloset.com/video/12087) (new)
+
+### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12094` [Project Zomboid #5](https://sovietscloset.com/video/12094)
+- Added `v12096` [Project Zomboid #6](https://sovietscloset.com/video/12096)
+- Added `v12095` [Project Zomboid #7](https://sovietscloset.com/video/12095)
+- Added `v12092` [Project Zomboid #8](https://sovietscloset.com/video/12092) (new)
+- Added `v12093` [Project Zomboid #9](https://sovietscloset.com/video/12093) (new)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12091` [Ready or Not #3](https://sovietscloset.com/video/12091) (new)
+
+### Modified Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12089` [Source Filmmaker #3](https://sovietscloset.com/video/12089) (new)
+- Added `v12088` [Source Filmmaker #4](https://sovietscloset.com/video/12088) (new)
+- Added `v12090` [Source Filmmaker #5](https://sovietscloset.com/video/12090) (new)
+
 ## 2022-01-06T20:23:25Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
