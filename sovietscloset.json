@@ -1,5 +1,5 @@
 {
-  "timestamp": 1641769779,
+  "timestamp": 1641928436,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1142,7 +1142,7 @@
               "date": "2022-01-03 19:51",
               "number": 19,
               "bunnyId": "0544b046-3e95-4ec1-8c98-c1fefd6bb4a6",
-              "new": true
+              "new": false
             },
             {
               "title": "Arma 3 - Prairie Fire Mike Force #20",
@@ -6918,7 +6918,7 @@
       "name": "Project Zomboid",
       "slug": "Project-Zomboid",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Project Zomboid",
@@ -6926,7 +6926,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Project Zomboid #1",
@@ -6998,7 +6998,7 @@
               "date": "2022-01-03 11:10",
               "number": 8,
               "bunnyId": "445e1f97-307d-41a1-9859-d75f66307d07",
-              "new": true
+              "new": false
             },
             {
               "title": "Project Zomboid #9",
@@ -7007,7 +7007,7 @@
               "date": "2022-01-03 11:25",
               "number": 9,
               "bunnyId": "9c4e2b17-942a-4eec-9809-a8ab842d773c",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -7075,7 +7075,7 @@
       "name": "Ready or Not",
       "slug": "Ready-or-Not",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Ready or Not",
@@ -7083,7 +7083,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Ready or Not #1",
@@ -7110,7 +7110,7 @@
               "date": "2022-01-04 20:00",
               "number": 3,
               "bunnyId": "f858aaa3-a76f-4c01-8879-5c02e6ed1f0b",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -12017,7 +12017,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -12025,7 +12025,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12611,6 +12611,24 @@
               "number": 67,
               "bunnyId": "813f519b-8aa9-4130-8441-e5ebc630e048",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #68",
+              "url": "https://sovietscloset.com/video/12097",
+              "id": 12097,
+              "date": "2022-01-02 19:56",
+              "number": 68,
+              "bunnyId": "46353760-56d0-4279-999b-3e0d235bf1b0",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #69",
+              "url": "https://sovietscloset.com/video/12098",
+              "id": 12098,
+              "date": "2022-01-09 19:53",
+              "number": 69,
+              "bunnyId": "4207a425-60ba-43bd-a8d0-e8e93d7fde7d",
+              "new": true
             }
           ]
         }
@@ -15685,7 +15703,7 @@
       "name": "X3-Albion Prelude",
       "slug": "X3-Albion-Prelude",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "X3-Albion Prelude - Litcube's Universe Mod",
@@ -15693,7 +15711,7 @@
           "name": "Litcube's Universe Mod",
           "slug": "Litcube-s-Universe-Mod",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "X3-Albion Prelude - Litcube's Universe Mod #1",
@@ -15865,6 +15883,15 @@
               "number": 19,
               "bunnyId": "f62abf08-8735-43f3-b41f-7787ba9eb7d6",
               "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #20",
+              "url": "https://sovietscloset.com/video/12099",
+              "id": 12099,
+              "date": "2022-01-10 11:13",
+              "number": 20,
+              "bunnyId": "743281c7-9aec-46a1-a2bf-156298d4d301",
+              "new": true
             }
           ]
         }

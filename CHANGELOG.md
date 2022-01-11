@@ -1,5 +1,69 @@
 # Changelog
 
+## 2022-01-11T19:13:56Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force)
+
+##### Videos
+
+- Modified `v11078` [Arma 3 - Prairie Fire Mike Force #19](https://sovietscloset.com/video/11078)
+  - Is no longer marked as new.
+
+### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12092` [Project Zomboid #8](https://sovietscloset.com/video/12092)
+  - Is no longer marked as new.
+- Modified `v12093` [Project Zomboid #9](https://sovietscloset.com/video/12093)
+  - Is no longer marked as new.
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12091` [Ready or Not #3](https://sovietscloset.com/video/12091)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12097` [Team Fortress 2 #68](https://sovietscloset.com/video/12097)
+- Added `v12098` [Team Fortress 2 #69](https://sovietscloset.com/video/12098) (new)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12099` [X3-Albion Prelude - Litcube's Universe Mod #20](https://sovietscloset.com/video/12099) (new)
+
 ## 2022-01-09T23:09:39Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
