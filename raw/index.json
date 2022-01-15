@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1016,
@@ -779,12 +779,12 @@
           {
             "id": 12086,
             "date": "2022-01-07 19:54",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3755,6 +3755,12 @@
           {
             "id": 12087,
             "date": "2022-01-06 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 12103,
+            "date": "2022-01-13 20:45",
             "new": true,
             "useBunny": true
           }
@@ -4921,7 +4927,7 @@
     "name": "Ready or Not",
     "slug": "Ready-or-Not",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 8088,
@@ -4945,10 +4951,16 @@
             "date": "2022-01-04 20:00",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12104,
+            "date": "2022-01-11 20:12",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7171,7 +7183,7 @@
     "name": "Source Filmmaker",
     "slug": "Source-Filmmaker",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 8086,
@@ -7193,24 +7205,24 @@
           {
             "id": 12089,
             "date": "2022-01-05 11:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12088,
             "date": "2022-01-05 11:57",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12090,
             "date": "2022-01-05 12:00",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -10979,6 +10991,24 @@
           {
             "id": 12099,
             "date": "2022-01-10 11:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12102,
+            "date": "2022-01-12 11:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12100,
+            "date": "2022-01-12 20:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12101,
+            "date": "2022-01-13 10:52",
             "new": true,
             "useBunny": true
           }
