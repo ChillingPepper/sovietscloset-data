@@ -1,5 +1,69 @@
 # Changelog
 
+## 2022-01-15T03:06:18Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12086` [Arma 3 - Prairie Fire Mike Force #20](https://sovietscloset.com/video/12086)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Modified `v12087` [Holdfast: Nations at War #90](https://sovietscloset.com/video/12087)
+  - Is no longer marked as new.
+- Added `v12103` [Holdfast: Nations at War #91](https://sovietscloset.com/video/12103) (new)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12104` [Ready or Not #4](https://sovietscloset.com/video/12104) (new)
+
+### Modified Game [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Source Filmmaker](https://sovietscloset.com/Source-Filmmaker)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12089` [Source Filmmaker #3](https://sovietscloset.com/video/12089)
+  - Is no longer marked as new.
+- Modified `v12088` [Source Filmmaker #4](https://sovietscloset.com/video/12088)
+  - Is no longer marked as new.
+- Modified `v12090` [Source Filmmaker #5](https://sovietscloset.com/video/12090)
+  - Is no longer marked as new.
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Added `v12102` [X3-Albion Prelude - Litcube's Universe Mod #21](https://sovietscloset.com/video/12102) (new)
+- Added `v12100` [X3-Albion Prelude - Litcube's Universe Mod #22](https://sovietscloset.com/video/12100) (new)
+- Added `v12101` [X3-Albion Prelude - Litcube's Universe Mod #23](https://sovietscloset.com/video/12101) (new)
+
 ## 2022-01-11T19:13:56Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
