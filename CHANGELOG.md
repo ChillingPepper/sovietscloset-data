@@ -1,5 +1,68 @@
 # Changelog
 
+## 2022-01-21T23:30:28Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12103` [Holdfast: Nations at War #91](https://sovietscloset.com/video/12103)
+  - Is no longer marked as new.
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12104` [Ready or Not #4](https://sovietscloset.com/video/12104)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12098` [Team Fortress 2 #69](https://sovietscloset.com/video/12098)
+  - Is no longer marked as new.
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Modified `v12099` [X3-Albion Prelude - Litcube's Universe Mod #20](https://sovietscloset.com/video/12099)
+  - Is no longer marked as new.
+- Modified `v12102` [X3-Albion Prelude - Litcube's Universe Mod #21](https://sovietscloset.com/video/12102)
+  - Is no longer marked as new.
+- Modified `v12100` [X3-Albion Prelude - Litcube's Universe Mod #22](https://sovietscloset.com/video/12100)
+  - Is no longer marked as new.
+- Modified `v12101` [X3-Albion Prelude - Litcube's Universe Mod #23](https://sovietscloset.com/video/12101)
+  - Is no longer marked as new.
+- Added `v12110` [X3-Albion Prelude - Litcube's Universe Mod #24](https://sovietscloset.com/video/12110)
+- Added `v12106` [X3-Albion Prelude - Litcube's Universe Mod #25](https://sovietscloset.com/video/12106) (new)
+- Added `v12107` [X3-Albion Prelude - Litcube's Universe Mod #26](https://sovietscloset.com/video/12107) (new)
+- Added `v12105` [X3-Albion Prelude - Litcube's Universe Mod #27](https://sovietscloset.com/video/12105) (new)
+- Added `v12108` [X3-Albion Prelude - Litcube's Universe Mod #28](https://sovietscloset.com/video/12108) (new)
+- Added `v12109` [X3-Albion Prelude - Litcube's Universe Mod #29](https://sovietscloset.com/video/12109) (new)
+- Added `v12111` [X3-Albion Prelude - Litcube's Universe Mod #30](https://sovietscloset.com/video/12111) (new)
+
 ## 2022-01-15T03:06:18Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
