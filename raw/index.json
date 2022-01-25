@@ -3853,7 +3853,7 @@
     "name": "Just Chatting",
     "slug": "Just-Chatting",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1023,
@@ -3895,10 +3895,16 @@
             "date": "2021-12-15 11:06",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12113,
+            "date": "2022-01-21 11:23",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -8293,7 +8299,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -8701,10 +8707,16 @@
             "date": "2022-01-09 19:53",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 12112,
+            "date": "2022-01-23 19:52",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -11021,7 +11033,7 @@
           {
             "id": 12106,
             "date": "2022-01-17 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
