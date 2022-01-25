@@ -1,5 +1,5 @@
 {
-  "timestamp": 1642807828,
+  "timestamp": 1643082660,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5564,7 +5564,7 @@
       "name": "Just Chatting",
       "slug": "Just-Chatting",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Just Chatting",
@@ -5572,7 +5572,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Just Chatting #1",
@@ -5627,6 +5627,15 @@
               "number": 6,
               "bunnyId": "3b258978-f938-4615-83be-3f6e72671e43",
               "new": false
+            },
+            {
+              "title": "Just Chatting #7",
+              "url": "https://sovietscloset.com/video/12113",
+              "id": 12113,
+              "date": "2022-01-21 11:23",
+              "number": 7,
+              "bunnyId": "dcc87c68-0e48-46ba-a9b2-68cf3dcce8c0",
+              "new": true
             }
           ]
         }
@@ -12035,7 +12044,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -12043,7 +12052,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12647,6 +12656,15 @@
               "number": 69,
               "bunnyId": "4207a425-60ba-43bd-a8d0-e8e93d7fde7d",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #70",
+              "url": "https://sovietscloset.com/video/12112",
+              "id": 12112,
+              "date": "2022-01-23 19:52",
+              "number": 70,
+              "bunnyId": "20cacc46-d26c-48df-8e94-a9164372fddb",
+              "new": true
             }
           ]
         }
@@ -15954,7 +15972,7 @@
               "date": "2022-01-17 11:17",
               "number": 25,
               "bunnyId": "1f0b0c66-1361-40c5-9afc-89887cbb0f51",
-              "new": true
+              "new": false
             },
             {
               "title": "X3-Albion Prelude - Litcube's Universe Mod #26",

@@ -1,5 +1,40 @@
 # Changelog
 
+## 2022-01-25T03:51:00Z
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12113` [Just Chatting #7](https://sovietscloset.com/video/12113) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12112` [Team Fortress 2 #70](https://sovietscloset.com/video/12112) (new)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Modified `v12106` [X3-Albion Prelude - Litcube's Universe Mod #25](https://sovietscloset.com/video/12106)
+  - Is no longer marked as new.
+
 ## 2022-01-21T23:30:28Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
