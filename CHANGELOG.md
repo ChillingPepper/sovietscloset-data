@@ -1,5 +1,35 @@
 # Changelog
 
+## 2022-01-26T22:49:29Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v12114` [Kerbal Space Program #49](https://sovietscloset.com/video/12114) (new)
+- Added `v12115` [Kerbal Space Program #50](https://sovietscloset.com/video/12115) (new)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Modified `v12107` [X3-Albion Prelude - Litcube's Universe Mod #26](https://sovietscloset.com/video/12107)
+  - Is no longer marked as new.
+- Modified `v12105` [X3-Albion Prelude - Litcube's Universe Mod #27](https://sovietscloset.com/video/12105)
+  - Is no longer marked as new.
+- Modified `v12108` [X3-Albion Prelude - Litcube's Universe Mod #28](https://sovietscloset.com/video/12108)
+  - Is no longer marked as new.
+- Modified `v12109` [X3-Albion Prelude - Litcube's Universe Mod #29](https://sovietscloset.com/video/12109)
+  - Is no longer marked as new.
+
 ## 2022-01-25T03:51:00Z
 
 ### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
