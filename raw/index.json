@@ -4207,6 +4207,30 @@
             "date": "2022-01-25 11:07",
             "new": true,
             "useBunny": true
+          },
+          {
+            "id": 12119,
+            "date": "2022-01-25 20:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12116,
+            "date": "2022-01-25 23:08",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12117,
+            "date": "2022-01-26 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12118,
+            "date": "2022-01-26 20:14",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -10891,7 +10915,7 @@
     "name": "X3-Albion Prelude",
     "slug": "X3-Albion-Prelude",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1055,
@@ -11075,12 +11099,12 @@
           {
             "id": 12111,
             "date": "2022-01-20 11:15",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   }
