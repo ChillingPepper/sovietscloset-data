@@ -1,5 +1,31 @@
 # Changelog
 
+## 2022-01-28T07:48:47Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v12119` [Kerbal Space Program #51](https://sovietscloset.com/video/12119) (new)
+- Added `v12116` [Kerbal Space Program #52](https://sovietscloset.com/video/12116) (new)
+- Added `v12117` [Kerbal Space Program #53](https://sovietscloset.com/video/12117) (new)
+- Added `v12118` [Kerbal Space Program #54](https://sovietscloset.com/video/12118) (new)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12111` [X3-Albion Prelude - Litcube's Universe Mod #30](https://sovietscloset.com/video/12111)
+  - Is no longer marked as new.
+
 ## 2022-01-26T22:49:29Z
 
 ### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
