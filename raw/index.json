@@ -3217,7 +3217,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -3763,10 +3763,22 @@
             "date": "2022-01-13 20:45",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 13082,
+            "date": "2022-01-20 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 13083,
+            "date": "2022-01-27 20:52",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3853,7 +3865,7 @@
     "name": "Just Chatting",
     "slug": "Just-Chatting",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1023,
@@ -3899,12 +3911,12 @@
           {
             "id": 12113,
             "date": "2022-01-21 11:23",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4199,36 +4211,54 @@
           {
             "id": 12114,
             "date": "2022-01-24 11:04",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12115,
             "date": "2022-01-25 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12119,
             "date": "2022-01-25 20:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12116,
             "date": "2022-01-25 23:08",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12117,
             "date": "2022-01-26 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12118,
             "date": "2022-01-26 20:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12120,
+            "date": "2022-01-27 11:19",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 12122,
+            "date": "2022-01-27 22:09",
+            "new": true,
+            "useBunny": false
+          },
+          {
+            "id": 12121,
+            "date": "2022-01-28 11:12",
             "new": true,
             "useBunny": true
           }
@@ -4985,6 +5015,12 @@
           {
             "id": 10196,
             "date": "2021-12-28 19:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 13089,
+            "date": "2021-12-30 19:56",
             "new": false,
             "useBunny": true
           },
@@ -6369,6 +6405,12 @@
             "useBunny": true
           },
           {
+            "id": 13085,
+            "date": "2020-12-18 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1775,
             "date": "2021-01-01 20:20",
             "new": false,
@@ -6683,6 +6725,12 @@
           {
             "id": 10190,
             "date": "2021-08-20 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 13086,
+            "date": "2021-08-20 20:52",
             "new": false,
             "useBunny": true
           },
@@ -7783,7 +7831,7 @@
     "name": "Stellaris",
     "slug": "Stellaris",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 2,
@@ -8101,10 +8149,28 @@
             "date": "2021-09-17 11:18",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 13080,
+            "date": "2022-01-31 11:22",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 13088,
+            "date": "2022-02-01 11:16",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 13087,
+            "date": "2022-02-01 11:21",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -8745,8 +8811,20 @@
             "useBunny": true
           },
           {
+            "id": 13084,
+            "date": "2022-01-16 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 12112,
             "date": "2022-01-23 19:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 13081,
+            "date": "2022-01-30 19:54",
             "new": true,
             "useBunny": true
           }
