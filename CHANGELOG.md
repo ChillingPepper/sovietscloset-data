@@ -1,5 +1,292 @@
 # Changelog
 
+## 2022-02-02T19:12:30Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v13082` [Holdfast: Nations at War #92](https://sovietscloset.com/video/13082)
+- Added `v13083` [Holdfast: Nations at War #93](https://sovietscloset.com/video/13083) (new)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v12113` [Just Chatting #7](https://sovietscloset.com/video/12113)
+  - Is no longer marked as new.
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Modified `v12114` [Kerbal Space Program #49](https://sovietscloset.com/video/12114)
+  - Is no longer marked as new.
+- Modified `v12115` [Kerbal Space Program #50](https://sovietscloset.com/video/12115)
+  - Is no longer marked as new.
+- Modified `v12119` [Kerbal Space Program #51](https://sovietscloset.com/video/12119)
+  - Is no longer marked as new.
+- Modified `v12116` [Kerbal Space Program #52](https://sovietscloset.com/video/12116)
+  - Is no longer marked as new.
+- Modified `v12117` [Kerbal Space Program #53](https://sovietscloset.com/video/12117)
+  - Is no longer marked as new.
+- Added `v12120` [Kerbal Space Program #55](https://sovietscloset.com/video/12120) (new)
+- Added `v12122` [Kerbal Space Program #56](https://sovietscloset.com/video/12122) (new)
+- Added `v12121` [Kerbal Space Program #57](https://sovietscloset.com/video/12121) (new)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v13089` [Ready or Not #3](https://sovietscloset.com/video/13089)
+- Modified `v12091` [Ready or Not #4](https://sovietscloset.com/video/12091)
+  - Changed title from `Ready or Not #3` to `Ready or Not #4`
+  - Changed number from `3` to `4`
+- Modified `v12104` [Ready or Not #5](https://sovietscloset.com/video/12104)
+  - Changed title from `Ready or Not #4` to `Ready or Not #5`
+  - Changed number from `4` to `5`
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v13085` [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/13085)
+- Modified `v4686` [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/4686)
+  - Changed title from `Rising Storm 2: Vietnam #15` to `Rising Storm 2: Vietnam #16`
+  - Changed number from `15` to `16`
+- Modified `v1775` [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/1775)
+  - Changed title from `Rising Storm 2: Vietnam #16` to `Rising Storm 2: Vietnam #17`
+  - Changed number from `16` to `17`
+- Modified `v1790` [Rising Storm 2: Vietnam #18](https://sovietscloset.com/video/1790)
+  - Changed title from `Rising Storm 2: Vietnam #17` to `Rising Storm 2: Vietnam #18`
+  - Changed number from `17` to `18`
+- Modified `v1789` [Rising Storm 2: Vietnam #19](https://sovietscloset.com/video/1789)
+  - Changed title from `Rising Storm 2: Vietnam #18` to `Rising Storm 2: Vietnam #19`
+  - Changed number from `18` to `19`
+- Modified `v1779` [Rising Storm 2: Vietnam #20](https://sovietscloset.com/video/1779)
+  - Changed title from `Rising Storm 2: Vietnam #19` to `Rising Storm 2: Vietnam #20`
+  - Changed number from `19` to `20`
+- Modified `v3730` [Rising Storm 2: Vietnam #21](https://sovietscloset.com/video/3730)
+  - Changed title from `Rising Storm 2: Vietnam #20` to `Rising Storm 2: Vietnam #21`
+  - Changed number from `20` to `21`
+- Modified `v3711` [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/3711)
+  - Changed title from `Rising Storm 2: Vietnam #22` to `Rising Storm 2: Vietnam #23`
+  - Changed number from `22` to `23`
+- Modified `v10127` [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/10127)
+  - Changed title from `Rising Storm 2: Vietnam #22` to `Rising Storm 2: Vietnam #23`
+  - Changed number from `22` to `23`
+- Modified `v3691` [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3691)
+  - Changed title from `Rising Storm 2: Vietnam #24` to `Rising Storm 2: Vietnam #25`
+  - Changed number from `24` to `25`
+- Modified `v3696` [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3696)
+  - Changed title from `Rising Storm 2: Vietnam #24` to `Rising Storm 2: Vietnam #25`
+  - Changed number from `24` to `25`
+- Modified `v3695` [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3695)
+  - Changed title from `Rising Storm 2: Vietnam #25` to `Rising Storm 2: Vietnam #26`
+  - Changed number from `25` to `26`
+- Modified `v3757` [Rising Storm 2: Vietnam #28](https://sovietscloset.com/video/3757)
+  - Changed title from `Rising Storm 2: Vietnam #27` to `Rising Storm 2: Vietnam #28`
+  - Changed number from `27` to `28`
+- Modified `v3764` [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/3764)
+  - Changed title from `Rising Storm 2: Vietnam #29` to `Rising Storm 2: Vietnam #30`
+  - Changed number from `29` to `30`
+- Modified `v10124` [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/10124)
+  - Changed title from `Rising Storm 2: Vietnam #29` to `Rising Storm 2: Vietnam #30`
+  - Changed number from `29` to `30`
+- Modified `v3768` [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3768)
+  - Changed title from `Rising Storm 2: Vietnam #31` to `Rising Storm 2: Vietnam #32`
+  - Changed number from `31` to `32`
+- Modified `v10126` [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/10126)
+  - Changed title from `Rising Storm 2: Vietnam #31` to `Rising Storm 2: Vietnam #32`
+  - Changed number from `31` to `32`
+- Modified `v3767` [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/3767)
+  - Changed title from `Rising Storm 2: Vietnam #33` to `Rising Storm 2: Vietnam #34`
+  - Changed number from `33` to `34`
+- Modified `v10171` [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/10171)
+  - Changed title from `Rising Storm 2: Vietnam #33` to `Rising Storm 2: Vietnam #34`
+  - Changed number from `33` to `34`
+- Modified `v10130` [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/10130)
+  - Changed title from `Rising Storm 2: Vietnam #34` to `Rising Storm 2: Vietnam #35`
+  - Changed number from `34` to `35`
+- Modified `v4685` [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/4685)
+  - Changed title from `Rising Storm 2: Vietnam #35` to `Rising Storm 2: Vietnam #36`
+  - Changed number from `35` to `36`
+- Modified `v3783` [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3783)
+  - Changed title from `Rising Storm 2: Vietnam #37` to `Rising Storm 2: Vietnam #38`
+  - Changed number from `37` to `38`
+- Modified `v3785` [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3785)
+  - Changed title from `Rising Storm 2: Vietnam #37` to `Rising Storm 2: Vietnam #38`
+  - Changed number from `37` to `38`
+- Modified `v3787` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3787)
+  - Changed title from `Rising Storm 2: Vietnam #38` to `Rising Storm 2: Vietnam #39`
+  - Changed number from `38` to `39`
+- Modified `v4687` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/4687)
+  - Changed title from `Rising Storm 2: Vietnam #39` to `Rising Storm 2: Vietnam #40`
+  - Changed number from `39` to `40`
+- Modified `v4683` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/4683)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #41`
+  - Changed number from `40` to `41`
+- Modified `v10128` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/10128)
+  - Changed title from `Rising Storm 2: Vietnam #41` to `Rising Storm 2: Vietnam #42`
+  - Changed number from `41` to `42`
+- Modified `v10125` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/10125)
+  - Changed title from `Rising Storm 2: Vietnam #42` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `42` to `43`
+- Modified `v10170` [Rising Storm 2: Vietnam #44](https://sovietscloset.com/video/10170)
+  - Changed title from `Rising Storm 2: Vietnam #43` to `Rising Storm 2: Vietnam #44`
+  - Changed number from `43` to `44`
+- Modified `v10174` [Rising Storm 2: Vietnam #45](https://sovietscloset.com/video/10174)
+  - Changed title from `Rising Storm 2: Vietnam #44` to `Rising Storm 2: Vietnam #45`
+  - Changed number from `44` to `45`
+- Modified `v10132` [Rising Storm 2: Vietnam #46](https://sovietscloset.com/video/10132)
+  - Changed title from `Rising Storm 2: Vietnam #45` to `Rising Storm 2: Vietnam #46`
+  - Changed number from `45` to `46`
+- Modified `v9041` [Rising Storm 2: Vietnam #47](https://sovietscloset.com/video/9041)
+  - Changed title from `Rising Storm 2: Vietnam #46` to `Rising Storm 2: Vietnam #47`
+  - Changed number from `46` to `47`
+- Modified `v10131` [Rising Storm 2: Vietnam #48](https://sovietscloset.com/video/10131)
+  - Changed title from `Rising Storm 2: Vietnam #47` to `Rising Storm 2: Vietnam #48`
+  - Changed number from `47` to `48`
+- Modified `v10172` [Rising Storm 2: Vietnam #49](https://sovietscloset.com/video/10172)
+  - Changed title from `Rising Storm 2: Vietnam #48` to `Rising Storm 2: Vietnam #49`
+  - Changed number from `48` to `49`
+- Modified `v9046` [Rising Storm 2: Vietnam #50](https://sovietscloset.com/video/9046)
+  - Changed title from `Rising Storm 2: Vietnam #49` to `Rising Storm 2: Vietnam #50`
+  - Changed number from `49` to `50`
+- Modified `v9045` [Rising Storm 2: Vietnam #51](https://sovietscloset.com/video/9045)
+  - Changed title from `Rising Storm 2: Vietnam #50` to `Rising Storm 2: Vietnam #51`
+  - Changed number from `50` to `51`
+- Modified `v9106` [Rising Storm 2: Vietnam #52](https://sovietscloset.com/video/9106)
+  - Changed title from `Rising Storm 2: Vietnam #51` to `Rising Storm 2: Vietnam #52`
+  - Changed number from `51` to `52`
+- Modified `v10192` [Rising Storm 2: Vietnam #53](https://sovietscloset.com/video/10192)
+  - Changed title from `Rising Storm 2: Vietnam #52` to `Rising Storm 2: Vietnam #53`
+  - Changed number from `52` to `53`
+- Modified `v10173` [Rising Storm 2: Vietnam #54](https://sovietscloset.com/video/10173)
+  - Changed title from `Rising Storm 2: Vietnam #53` to `Rising Storm 2: Vietnam #54`
+  - Changed number from `53` to `54`
+- Modified `v10083` [Rising Storm 2: Vietnam #55](https://sovietscloset.com/video/10083)
+  - Changed title from `Rising Storm 2: Vietnam #54` to `Rising Storm 2: Vietnam #55`
+  - Changed number from `54` to `55`
+- Modified `v10084` [Rising Storm 2: Vietnam #56](https://sovietscloset.com/video/10084)
+  - Changed title from `Rising Storm 2: Vietnam #55` to `Rising Storm 2: Vietnam #56`
+  - Changed number from `55` to `56`
+- Modified `v10167` [Rising Storm 2: Vietnam #57](https://sovietscloset.com/video/10167)
+  - Changed title from `Rising Storm 2: Vietnam #56` to `Rising Storm 2: Vietnam #57`
+  - Changed number from `56` to `57`
+- Modified `v10169` [Rising Storm 2: Vietnam #58](https://sovietscloset.com/video/10169)
+  - Changed title from `Rising Storm 2: Vietnam #57` to `Rising Storm 2: Vietnam #58`
+  - Changed number from `57` to `58`
+- Modified `v10168` [Rising Storm 2: Vietnam #59](https://sovietscloset.com/video/10168)
+  - Changed title from `Rising Storm 2: Vietnam #58` to `Rising Storm 2: Vietnam #59`
+  - Changed number from `58` to `59`
+- Modified `v10184` [Rising Storm 2: Vietnam #60](https://sovietscloset.com/video/10184)
+  - Changed title from `Rising Storm 2: Vietnam #59` to `Rising Storm 2: Vietnam #60`
+  - Changed number from `59` to `60`
+- Modified `v6686` [Rising Storm 2: Vietnam #61](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #60` to `Rising Storm 2: Vietnam #61`
+  - Changed number from `60` to `61`
+- Modified `v6692` [Rising Storm 2: Vietnam #62](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #61` to `Rising Storm 2: Vietnam #62`
+  - Changed number from `61` to `62`
+- Modified `v10175` [Rising Storm 2: Vietnam #63](https://sovietscloset.com/video/10175)
+  - Changed title from `Rising Storm 2: Vietnam #62` to `Rising Storm 2: Vietnam #63`
+  - Changed number from `62` to `63`
+- Modified `v10182` [Rising Storm 2: Vietnam #64](https://sovietscloset.com/video/10182)
+  - Changed title from `Rising Storm 2: Vietnam #63` to `Rising Storm 2: Vietnam #64`
+  - Changed number from `63` to `64`
+- Modified `v10187` [Rising Storm 2: Vietnam #65](https://sovietscloset.com/video/10187)
+  - Changed title from `Rising Storm 2: Vietnam #64` to `Rising Storm 2: Vietnam #65`
+  - Changed number from `64` to `65`
+- Modified `v10183` [Rising Storm 2: Vietnam #66](https://sovietscloset.com/video/10183)
+  - Changed title from `Rising Storm 2: Vietnam #65` to `Rising Storm 2: Vietnam #66`
+  - Changed number from `65` to `66`
+- Modified `v10176` [Rising Storm 2: Vietnam #67](https://sovietscloset.com/video/10176)
+  - Changed title from `Rising Storm 2: Vietnam #66` to `Rising Storm 2: Vietnam #67`
+  - Changed number from `66` to `67`
+- Modified `v10185` [Rising Storm 2: Vietnam #68](https://sovietscloset.com/video/10185)
+  - Changed title from `Rising Storm 2: Vietnam #67` to `Rising Storm 2: Vietnam #68`
+  - Changed number from `67` to `68`
+- Modified `v10188` [Rising Storm 2: Vietnam #69](https://sovietscloset.com/video/10188)
+  - Changed title from `Rising Storm 2: Vietnam #68` to `Rising Storm 2: Vietnam #69`
+  - Changed number from `68` to `69`
+- Modified `v10190` [Rising Storm 2: Vietnam #70](https://sovietscloset.com/video/10190)
+  - Changed title from `Rising Storm 2: Vietnam #69` to `Rising Storm 2: Vietnam #70`
+  - Changed number from `69` to `70`
+- Added `v13086` [Rising Storm 2: Vietnam #71](https://sovietscloset.com/video/13086)
+- Modified `v6749` [Rising Storm 2: Vietnam #72](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #70` to `Rising Storm 2: Vietnam #72`
+  - Changed number from `70` to `72`
+- Modified `v10186` [Rising Storm 2: Vietnam #73](https://sovietscloset.com/video/10186)
+  - Changed title from `Rising Storm 2: Vietnam #71` to `Rising Storm 2: Vietnam #73`
+  - Changed number from `71` to `73`
+- Modified `v10189` [Rising Storm 2: Vietnam #74](https://sovietscloset.com/video/10189)
+  - Changed title from `Rising Storm 2: Vietnam #72` to `Rising Storm 2: Vietnam #74`
+  - Changed number from `72` to `74`
+- Modified `v10191` [Rising Storm 2: Vietnam #75](https://sovietscloset.com/video/10191)
+  - Changed title from `Rising Storm 2: Vietnam #73` to `Rising Storm 2: Vietnam #75`
+  - Changed number from `73` to `75`
+- Modified `v6979` [Rising Storm 2: Vietnam #76](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #74` to `Rising Storm 2: Vietnam #76`
+  - Changed number from `74` to `76`
+- Modified `v6978` [Rising Storm 2: Vietnam #77](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #75` to `Rising Storm 2: Vietnam #77`
+  - Changed number from `75` to `77`
+- Modified `v10166` [Rising Storm 2: Vietnam #78](https://sovietscloset.com/video/10166)
+  - Changed title from `Rising Storm 2: Vietnam #76` to `Rising Storm 2: Vietnam #78`
+  - Changed number from `76` to `78`
+- Modified `v10165` [Rising Storm 2: Vietnam #79](https://sovietscloset.com/video/10165)
+  - Changed title from `Rising Storm 2: Vietnam #77` to `Rising Storm 2: Vietnam #79`
+  - Changed number from `77` to `79`
+- Modified `v10129` [Rising Storm 2: Vietnam #80](https://sovietscloset.com/video/10129)
+  - Changed title from `Rising Storm 2: Vietnam #78` to `Rising Storm 2: Vietnam #80`
+  - Changed number from `78` to `80`
+
+### Modified Game [Stellaris](https://sovietscloset.com/Stellaris)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v13080` [Stellaris - The Gardener's Tended #16](https://sovietscloset.com/video/13080) (new)
+- Added `v13088` [Stellaris - The Gardener's Tended #17](https://sovietscloset.com/video/13088) (new)
+- Added `v13087` [Stellaris - The Gardener's Tended #18](https://sovietscloset.com/video/13087) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v13084` [Team Fortress 2 #70](https://sovietscloset.com/video/13084)
+- Modified `v12112` [Team Fortress 2 #71](https://sovietscloset.com/video/12112)
+  - Changed title from `Team Fortress 2 #70` to `Team Fortress 2 #71`
+  - Changed number from `70` to `71`
+  - Is no longer marked as new.
+- Added `v13081` [Team Fortress 2 #72](https://sovietscloset.com/video/13081) (new)
+
 ## 2022-01-28T07:48:47Z
 
 ### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
