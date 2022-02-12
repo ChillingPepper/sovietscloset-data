@@ -2,7 +2,7 @@ import json
 import re
 import time
 from pathlib import Path
-from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING, Any
 
 import eventlet
 import requests
@@ -16,7 +16,7 @@ else:
 from utils import log
 
 
-def js_to_json(code, vars={}):
+def js_to_json(code: str, vars: dict[str, str] = {}):
     # vars is a dict of var, val pairs to substitute
     COMMENT_RE = r"/\*(?:(?!\*/).)*?\*/|//[^\n]*\n"
     SKIP_RE = r"\s*(?:{comment})?\s*".format(comment=COMMENT_RE)
@@ -25,17 +25,22 @@ def js_to_json(code, vars={}):
         (r"(?s)^(0+[0-7]+){skip}:?$".format(skip=SKIP_RE), 8),
     )
 
-    def fix_kv(m):
-        v = m.group(0)
-        if v in ("true", "false", "null"):
-            return v
-        elif v in ("undefined", "void 0"):
+    def fix_kv(match: re.Match[str]):
+        value = match.group(0)
+        if value in ("true", "false", "null"):
+            return value
+        elif value in ("undefined", "void 0"):
             return "null"
-        elif v.startswith("/*") or v.startswith("//") or v.startswith("!") or v == ",":
+        elif (
+            value.startswith("/*")
+            or value.startswith("//")
+            or value.startswith("!")
+            or value == ","
+        ):
             return ""
 
-        if v[0] in ("'", '"'):
-            v = re.sub(
+        if value[0] in ("'", '"'):
+            value = re.sub(
                 r'(?s)\\.|"',
                 lambda m: {
                     '"': '\\"',
@@ -43,19 +48,19 @@ def js_to_json(code, vars={}):
                     "\\\n": "",
                     "\\x": "\\u00",
                 }.get(m.group(0), m.group(0)),
-                v[1:-1],
+                value[1:-1],
             )
         else:
             for regex, base in INTEGER_TABLE:
-                im = re.match(regex, v)
-                if im:
-                    i = int(im.group(1), base)
-                    return f'"{i}":' if v.endswith(":") else str(i)
+                integer_match = re.match(regex, value)
+                if integer_match:
+                    i = int(integer_match.group(1), base)
+                    return f'"{i}":' if value.endswith(":") else str(i)
 
-            if v in vars:
-                return vars[v]
+            if value in vars:
+                return vars[value]
 
-        return f'"{v}"'
+        return f'"{value}"'
 
     return re.sub(
         r"""(?sx)
@@ -77,7 +82,7 @@ def js_to_json(code, vars={}):
 MEDIADELIVERY_REFERER = {"Referer": "https://iframe.mediadelivery.net/"}
 
 
-def download(url, headers={}, progress=None):
+def download(url: str, headers: dict[str, str] = {}, progress: tuple[int, int] | None = None):
     if not progress:
         log("download", url)
     else:
@@ -89,7 +94,7 @@ def download(url, headers={}, progress=None):
     return requests.get(url, headers=headers).text
 
 
-def parse_nuxt_jsonp(nuxt_jsonp):
+def parse_nuxt_jsonp(nuxt_jsonp: str):
     NUXT_JSONP_RE = r"__NUXT_JSONP__\(.*?\(function\((?P<arg_keys>.*?)\)\{return\s(?P<js>\{.*?\})\}\((?P<arg_vals>.*?)\)"
     match = next(re.finditer(NUXT_JSONP_RE, nuxt_jsonp))
     arg_keys = match.group("arg_keys").split(",")
@@ -163,7 +168,7 @@ def update_raw_data():
 
     log("update_raw_data", "updating video data")
 
-    def update_raw_video(video_id):
+    def update_raw_video(video_id: int):
         stream_details_url = f"{base_url}/video/{video_id}/payload.js"
         # log("update_raw_video", f"downloading {stream_details_url}")
         stream_details_jsonp = urlopen(stream_details_url).read().decode("utf-8")
@@ -199,7 +204,7 @@ def update_raw_data():
 
 def combine_data():
     log("combine_data", "start")
-    sovietscloset = dict()
+    sovietscloset = dict[str, Any]()
 
     global_vars = json.load(open("raw/global.json"))
     sovietscloset["timestamp"] = global_vars["staticAssetsTimestamp"]
@@ -210,7 +215,7 @@ def combine_data():
     raw_index = json.load(open("raw/index.json"))
     sovietscloset["games"] = list()
     for index_game in raw_index:
-        game = dict()
+        game = dict[str, Any]()
         game["title"] = index_game["name"]
         game["url"] = f"https://sovietscloset.com/{index_game['slug']}"
         for key in ["name", "slug", "enabled", "recentlyUpdated"]:
@@ -218,7 +223,7 @@ def combine_data():
 
         game["playlists"] = list()
         for index_subcategory in index_game["subcategories"]:
-            playlist = dict()
+            playlist = dict[str, Any]()
             playlist["title"] = game["title"]
             playlist["url"] = game["url"]
             if index_subcategory["name"] != "Misc":
@@ -232,7 +237,7 @@ def combine_data():
                 raw_video = json.load(open(f"raw/video/{index_video['id']}.json"))
                 combined_video = {**index_video, **raw_video}
 
-                video = dict()
+                video = dict[str, Any]()
                 video["title"] = f"{playlist['title']} #{combined_video['number']}"
                 video["url"] = f"https://sovietscloset.com/video/{combined_video['id']}"
                 for key in ["id", "date", "number", "bunnyId", "new"]:

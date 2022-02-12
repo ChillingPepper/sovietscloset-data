@@ -1,7 +1,7 @@
 import json
 from dataclasses import dataclass
 from datetime import datetime
-from typing import TypeVar
+from typing import Any, TypeVar
 
 
 class SovietsCloset:
@@ -81,9 +81,9 @@ class SovietsCloset:
     games: list[Game]
 
     _filename: str
-    _json: dict
+    _json: dict[str, Any]
 
-    def __init__(self, filename="sovietscloset.json"):
+    def __init__(self, filename: str = "sovietscloset.json"):
         self._filename = filename
         self._json = json.load(open(filename))
 
@@ -92,7 +92,7 @@ class SovietsCloset:
 
         self.games = list()
         for game in self._json["games"]:
-            playlists = list()
+            playlists = list[SovietsCloset.Playlist]()
             for playlist in game["playlists"]:
                 playlist["game"] = None
                 for i, video in enumerate(playlist["videos"]):

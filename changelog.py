@@ -1,6 +1,5 @@
 from enum import Enum
 from pathlib import Path
-from typing import TypeVar
 
 from sovietscloset import SovietsCloset, SovietsClosetType
 from utils import log
@@ -213,25 +212,30 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
                 else:
                     return ""
 
-        def link(element):
+        def link(element: SovietsClosetType):
             return f"[{element.title}]({element.url})"
 
-        def link_with_badges(element):
+        def link_with_badges(element: SovietsClosetType):
             return f"{link(element)} {badges(element)}".strip()
 
-        def header(hn, change_type, element_type, element):
+        def header(
+            hn: int, change_type: ChangeType, element_type: str, element: SovietsClosetType
+        ):
             return f"{'#' * hn} {change_type} {element_type} {link(element)}\n\n"
 
-        def game_header(change_type, game):
+        def game_header(change_type: ChangeType, game: SovietsCloset.Game):
             return header(3, change_type, "Game", game)
 
-        def playlist_header(change_type, playlist):
+        def playlist_header(change_type: ChangeType, playlist: SovietsCloset.Playlist):
             return header(4, change_type, "Playlist", playlist)
 
-        # def video_header(change_type, video):
+        # def video_header(change_type: ChangeType, video: SovietsCloset.Video):
         #     return header(5, change_type, "Video", video)
 
-        def category_changes(category_old, category_new):
+        def category_changes(
+            category_old: SovietsCloset.Category,
+            category_new: SovietsCloset.Category,
+        ):
             result = ""
 
             if category_old.enabled != category_new.enabled:
@@ -251,7 +255,7 @@ def update_changelog(old_sovietscloset: SovietsCloset, new_sovietscloset: Soviet
 
             return result
 
-        def video_changes(video_old, video_new):
+        def video_changes(video_old: SovietsCloset.Video, video_new: SovietsCloset.Video):
             result = ""
 
             for key in ["title", "date", "number", "bunnyId"]:
