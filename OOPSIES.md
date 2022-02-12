@@ -2,6 +2,34 @@
 
 Last updated at 2022-02-02T19:12:30Z.
 
+## Wrong Tags
+
+### BunnyCDN tag
+
+This list includes all videos that are available on BunnyCDN but are tagged as though they aren't.
+
+- [DayZ - Standalone #16](https://sovietscloset.com/video/1699)
+- [DayZ - Standalone #17](https://sovietscloset.com/video/1698)
+- [Holdfast: Nations at War #28](https://sovietscloset.com/video/1697)
+- [Kerbal Space Program #56](https://sovietscloset.com/video/12122)
+- [Rimworld - Caloma's Creek #92](https://sovietscloset.com/video/1749)
+- [Rising Storm 2: Vietnam #13](https://sovietscloset.com/video/1693)
+- [Space Engineers #9](https://sovietscloset.com/video/1647)
+- [Space Engineers #11](https://sovietscloset.com/video/1649)
+- [Space Engineers #13](https://sovietscloset.com/video/1650)
+- [Space Engineers #14](https://sovietscloset.com/video/1648)
+- [Space Engineers #15](https://sovietscloset.com/video/1652)
+- [Space Engineers #16](https://sovietscloset.com/video/1651)
+- [Space Engineers #17](https://sovietscloset.com/video/1676)
+- [Space Engineers #18](https://sovietscloset.com/video/1675)
+- [Space Engineers #19](https://sovietscloset.com/video/1677)
+- [Space Engineers #20](https://sovietscloset.com/video/1678)
+- [Space Engineers #32](https://sovietscloset.com/video/1681)
+- [Space Engineers #33](https://sovietscloset.com/video/1682)
+- [Space Engineers #35](https://sovietscloset.com/video/1684)
+- [Team Fortress 2 #11](https://sovietscloset.com/video/1692)
+- [Team Fortress 2 #11](https://sovietscloset.com/video/1753)
+
 ## Missing
 
 ### Missing from BunnyCDN

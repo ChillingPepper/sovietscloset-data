@@ -1,11 +1,31 @@
+import json
 from pathlib import Path
 
 from sovietscloset import SovietsCloset
 from utils import log
 
 
+def bunnycdn_wrong_tag_load_raw():
+    wrong_tag = list[int]()
+
+    for f in Path("raw/video").iterdir():
+        raw = json.load(f.open())
+        use_bunny: bool = raw["useBunny"]
+        bunny_id: str = raw["bunnyId"]
+        stream_id: int = raw["streamId"]
+
+        if not use_bunny:
+            if bunny_id:
+                wrong_tag.append(stream_id)
+
+    return wrong_tag
+
+
 def update_oopsies():
     log("update_oopsies", "start")
+    bunnycdn_wrong_tag_raw = bunnycdn_wrong_tag_load_raw()
+    bunnycdn_wrong_tag: list[SovietsCloset.Video] = list()
+
     missing_bunnycdn: list[SovietsCloset.Video] = list()
     missing_completely: list[tuple[SovietsCloset.Playlist, int, int]] = list()
 
@@ -23,6 +43,11 @@ def update_oopsies():
             for video in playlist:
                 if not video.bunnyId:
                     missing_bunnycdn.append(video)
+
+            # wrong usesBunny tag
+            for video in playlist:
+                if video.id in bunnycdn_wrong_tag_raw:
+                    bunnycdn_wrong_tag.append(video)
 
             # missing completely
             last_video_number = 0
@@ -69,6 +94,19 @@ def update_oopsies():
 
     oopsies_md = "# Oopsies\n\n"
     oopsies_md += f"Last updated at {sovietscloset.timestamp.isoformat(timespec='seconds')}Z.\n\n"
+
+    # wrongly tagged
+    oopsies_md += "## Wrong Tags\n\n"
+
+    oopsies_md += "### BunnyCDN tag\n\n"
+    oopsies_md += "This list includes all videos that are available on BunnyCDN but are tagged as though they aren't.\n\n"
+
+    if len(bunnycdn_wrong_tag):
+        for video in bunnycdn_wrong_tag:
+            oopsies_md += f"- [{video.title}](https://sovietscloset.com/video/{video.id})\n"
+    else:
+        oopsies_md += "All videos are tagged correctly. :tada:\n"
+    oopsies_md += "\n"
 
     # missing
     oopsies_md += "## Missing\n\n"
