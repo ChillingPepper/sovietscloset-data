@@ -3217,7 +3217,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -3773,12 +3773,12 @@
           {
             "id": 13083,
             "date": "2022-01-27 20:52",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3925,7 +3925,7 @@
     "name": "Kerbal Space Program",
     "slug": "Kerbal-Space-Program",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1027,
@@ -4241,30 +4241,30 @@
           {
             "id": 12118,
             "date": "2022-01-26 20:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12120,
             "date": "2022-01-27 11:19",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 12122,
             "date": "2022-01-27 22:09",
-            "new": true,
+            "new": false,
             "useBunny": false
           },
           {
             "id": 12121,
             "date": "2022-01-28 11:12",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -7831,7 +7831,7 @@
     "name": "Stellaris",
     "slug": "Stellaris",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 2,
@@ -8153,24 +8153,24 @@
           {
             "id": 13080,
             "date": "2022-01-31 11:22",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 13088,
             "date": "2022-02-01 11:16",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 13087,
             "date": "2022-02-01 11:21",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -8401,7 +8401,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -8825,6 +8825,30 @@
           {
             "id": 13081,
             "date": "2022-01-30 19:54",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 7071,
+    "name": "Test",
+    "slug": "Test",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 7086,
+        "name": "Test",
+        "slug": "Test",
+        "streams": [
+          {
+            "id": 14084,
+            "date": "2022-04-03 21:05",
             "new": true,
             "useBunny": true
           }

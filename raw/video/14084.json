@@ -1,0 +1,23 @@
+{
+  "streamId": 14084,
+  "date": "2022-04-03 21:05",
+  "game": {
+    "name": "Test",
+    "slug": "Test"
+  },
+  "subcategory": {
+    "name": "Test",
+    "slug": "Test",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14084,
+        "date": "2022-04-03 21:05"
+      }
+    ]
+  },
+  "number": 1,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "c1642d5c-8f0b-4b9c-bfb4-9c93c20bada4",
+  "useBunny": true
+}
