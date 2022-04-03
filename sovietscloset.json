@@ -1,5 +1,5 @@
 {
-  "timestamp": 1643829150,
+  "timestamp": 1649019366,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -4631,7 +4631,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -4639,7 +4639,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -5467,7 +5467,7 @@
               "date": "2022-01-27 20:52",
               "number": 93,
               "bunnyId": "d673d3ac-8970-44dc-a7dc-af7e06455121",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -5665,7 +5665,7 @@
       "name": "Kerbal Space Program",
       "slug": "Kerbal-Space-Program",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Kerbal Space Program",
@@ -5673,7 +5673,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Kerbal Space Program #1",
@@ -6141,7 +6141,7 @@
               "date": "2022-01-26 20:14",
               "number": 54,
               "bunnyId": "3f5eacbb-60c3-4a37-907e-507aebe81e49",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #55",
@@ -6150,7 +6150,7 @@
               "date": "2022-01-27 11:19",
               "number": 55,
               "bunnyId": "2fc30bbf-90b3-4993-a958-bc1069c8761e",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #56",
@@ -6159,7 +6159,7 @@
               "date": "2022-01-27 22:09",
               "number": 56,
               "bunnyId": "86e56659-b2d9-4d38-974e-54f1f540b042",
-              "new": true
+              "new": false
             },
             {
               "title": "Kerbal Space Program #57",
@@ -6168,7 +6168,7 @@
               "date": "2022-01-28 11:12",
               "number": 57,
               "bunnyId": "6f0e7577-7d1c-4495-9e87-68c7660635c0",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -11370,7 +11370,7 @@
       "name": "Stellaris",
       "slug": "Stellaris",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Stellaris - The Provion Dominion",
@@ -11704,7 +11704,7 @@
           "name": "The Gardener's Tended",
           "slug": "The-Gardener-s-Tended",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Stellaris - The Gardener's Tended #1",
@@ -11848,7 +11848,7 @@
               "date": "2022-01-31 11:22",
               "number": 16,
               "bunnyId": "4fbb3fb7-620b-453a-ae9d-de49d444a08c",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #17",
@@ -11857,7 +11857,7 @@
               "date": "2022-02-01 11:16",
               "number": 17,
               "bunnyId": "caa7de9c-9b9d-40b4-a000-5b73932fec73",
-              "new": true
+              "new": false
             },
             {
               "title": "Stellaris - The Gardener's Tended #18",
@@ -11866,7 +11866,7 @@
               "date": "2022-02-01 11:21",
               "number": 18,
               "bunnyId": "156d69c2-ef6d-4f49-9fcd-d502a9dce27d",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -12197,7 +12197,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -12205,7 +12205,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -12835,6 +12835,35 @@
               "date": "2022-01-30 19:54",
               "number": 72,
               "bunnyId": "e3247408-bc05-403d-a017-f57a1157b11c",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Test",
+      "url": "https://sovietscloset.com/Test",
+      "name": "Test",
+      "slug": "Test",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Test - Test",
+          "url": "https://sovietscloset.com/Test/Test",
+          "name": "Test",
+          "slug": "Test",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Test - Test #1",
+              "url": "https://sovietscloset.com/video/14084",
+              "id": 14084,
+              "date": "2022-04-03 21:05",
+              "number": 1,
+              "bunnyId": "c1642d5c-8f0b-4b9c-bfb4-9c93c20bada4",
               "new": true
             }
           ]
