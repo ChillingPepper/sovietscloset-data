@@ -119,7 +119,7 @@ def get_global_vars():
         )
     )
 
-    static_assets_base = re.findall(r"staticAssetsBase:\"(.*?)\"", video_html)[0]
+    static_assets_base = re.findall(r"/_nuxt/static/\d+", video_html)[0]
     static_assets_base = f"https://sovietscloset.com{static_assets_base}"
 
     video_library_id = video_match.group("video_library_id")
