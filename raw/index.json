@@ -4605,6 +4605,30 @@
     ]
   },
   {
+    "id": 9066,
+    "name": "Outer Wilds",
+    "slug": "Outer-Wilds",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9080,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14085,
+            "date": "2022-03-08 11:06",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 1039,
     "name": "Overwatch",
     "slug": "Overwatch",
@@ -8831,30 +8855,6 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
-      }
-    ]
-  },
-  {
-    "id": 7071,
-    "name": "Test",
-    "slug": "Test",
-    "enabled": true,
-    "recentlyUpdated": true,
-    "subcategories": [
-      {
-        "id": 7086,
-        "name": "Test",
-        "slug": "Test",
-        "streams": [
-          {
-            "id": 14084,
-            "date": "2022-04-03 21:05",
-            "new": true,
-            "useBunny": true
-          }
-        ],
-        "enabled": true,
-        "recentlyUpdated": true
       }
     ]
   },

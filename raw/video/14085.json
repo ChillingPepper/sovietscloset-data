@@ -1,0 +1,23 @@
+{
+  "streamId": 14085,
+  "date": "2022-03-08 11:06",
+  "game": {
+    "name": "Outer Wilds",
+    "slug": "Outer-Wilds"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14085,
+        "date": "2022-03-08 11:06"
+      }
+    ]
+  },
+  "number": 2,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "4cf77a53-a5e5-4b55-b2a2-f3a5fc6f5f5e",
+  "useBunny": true
+}
