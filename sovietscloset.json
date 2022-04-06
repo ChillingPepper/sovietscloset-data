@@ -1,5 +1,5 @@
 {
-  "timestamp": 1649254762,
+  "timestamp": 1649270964,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6673,6 +6673,24 @@
               "date": "2022-03-08 11:06",
               "number": 2,
               "bunnyId": "4cf77a53-a5e5-4b55-b2a2-f3a5fc6f5f5e",
+              "new": false
+            },
+            {
+              "title": "Outer Wilds #3",
+              "url": "https://sovietscloset.com/video/14089",
+              "id": 14089,
+              "date": "2022-03-08 20:15",
+              "number": 3,
+              "bunnyId": "8f4fd659-13db-4a6e-af0f-661b0712248b",
+              "new": false
+            },
+            {
+              "title": "Outer Wilds #4",
+              "url": "https://sovietscloset.com/video/14088",
+              "id": 14088,
+              "date": "2022-03-09 11:13",
+              "number": 4,
+              "bunnyId": "25f75afd-65a1-4532-8543-0df921f8bdfe",
               "new": false
             }
           ]

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2022-04-06T18:49:24Z
+
+### Modified Game [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
+
+#### Modified Playlist [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
+
+##### Videos
+
+- Added `v14089` [Outer Wilds #3](https://sovietscloset.com/video/14089)
+- Added `v14088` [Outer Wilds #4](https://sovietscloset.com/video/14088)
+
 ## 2022-04-06T08:48:23Z
 
 ### Added Game [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
