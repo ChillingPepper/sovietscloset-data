@@ -1,5 +1,5 @@
 {
-  "timestamp": 1649019366,
+  "timestamp": 1649234903,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6651,6 +6651,35 @@
       ]
     },
     {
+      "title": "Outer Wilds",
+      "url": "https://sovietscloset.com/Outer-Wilds",
+      "name": "Outer Wilds",
+      "slug": "Outer-Wilds",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Outer Wilds",
+          "url": "https://sovietscloset.com/Outer-Wilds",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Outer Wilds #2",
+              "url": "https://sovietscloset.com/video/14085",
+              "id": 14085,
+              "date": "2022-03-08 11:06",
+              "number": 2,
+              "bunnyId": "4cf77a53-a5e5-4b55-b2a2-f3a5fc6f5f5e",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Overwatch",
       "url": "https://sovietscloset.com/Overwatch",
       "name": "Overwatch",
@@ -12836,35 +12865,6 @@
               "number": 72,
               "bunnyId": "e3247408-bc05-403d-a017-f57a1157b11c",
               "new": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Test",
-      "url": "https://sovietscloset.com/Test",
-      "name": "Test",
-      "slug": "Test",
-      "enabled": true,
-      "recentlyUpdated": true,
-      "playlists": [
-        {
-          "title": "Test - Test",
-          "url": "https://sovietscloset.com/Test/Test",
-          "name": "Test",
-          "slug": "Test",
-          "enabled": true,
-          "recentlyUpdated": true,
-          "videos": [
-            {
-              "title": "Test - Test #1",
-              "url": "https://sovietscloset.com/video/14084",
-              "id": 14084,
-              "date": "2022-04-03 21:05",
-              "number": 1,
-              "bunnyId": "c1642d5c-8f0b-4b9c-bfb4-9c93c20bada4",
-              "new": true
             }
           ]
         }

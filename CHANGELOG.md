@@ -1,5 +1,23 @@
 # Changelog
 
+## 2022-04-06T08:48:23Z
+
+### Added Game [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
+
+#### Added Playlist [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
+
+##### Videos
+
+- Added `v14085` [Outer Wilds #2](https://sovietscloset.com/video/14085)
+
+### Deleted Game [Test](https://sovietscloset.com/Test)
+
+#### Deleted Playlist [Test - Test](https://sovietscloset.com/Test/Test)
+
+##### Videos
+
+- Deleted `v14084` [Test - Test #1](https://sovietscloset.com/video/14084) (new)
+
 ## 2022-04-03T20:56:06Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
