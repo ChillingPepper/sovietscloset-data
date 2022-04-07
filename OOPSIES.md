@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-04-06T18:49:24Z.
+Last updated at 2022-04-07T17:11:28Z.
 
 ## Wrong Tags
 
@@ -119,8 +119,6 @@ Missing videos are only detected if they are followed by a video that is already
   - Minecraft #26
   - Minecraft #28
   - Minecraft #35
-- [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
-  - Outer Wilds #1
 - [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
   - Player Unknown's Battlegrounds #1
 - [Prison Architect](https://sovietscloset.com/Prison-Architect)
