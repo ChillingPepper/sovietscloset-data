@@ -1,5 +1,95 @@
 # Changelog
 
+## 2022-04-22T14:58:58Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14101` [Holdfast: Nations at War #94](https://sovietscloset.com/video/14101)
+- Added `v14103` [Holdfast: Nations at War #95](https://sovietscloset.com/video/14103)
+- Added `v14102` [Holdfast: Nations at War #96](https://sovietscloset.com/video/14102)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Modified `v10144` [Just Chatting #7](https://sovietscloset.com/video/10144)
+  - Changed title from `Just Chatting #6` to `Just Chatting #7`
+  - Changed number from `6` to `7`
+- Modified `v12113` [Just Chatting #8](https://sovietscloset.com/video/12113)
+  - Changed title from `Just Chatting #7` to `Just Chatting #8`
+  - Changed number from `7` to `8`
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+##### Videos
+
+- Added `v14117` [Rust #39](https://sovietscloset.com/video/14117)
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v14118` [Silent Hunter 3 #40](https://sovietscloset.com/video/14118)
+- Added `v14119` [Silent Hunter 3 #41](https://sovietscloset.com/video/14119)
+- Added `v14106` [Silent Hunter 3 #42](https://sovietscloset.com/video/14106)
+- Added `v14107` [Silent Hunter 3 #43](https://sovietscloset.com/video/14107)
+- Added `v14113` [Silent Hunter 3 #44](https://sovietscloset.com/video/14113)
+- Added `v14108` [Silent Hunter 3 #45](https://sovietscloset.com/video/14108)
+- Added `v14112` [Silent Hunter 3 #46](https://sovietscloset.com/video/14112)
+- Added `v14111` [Silent Hunter 3 #47](https://sovietscloset.com/video/14111)
+- Added `v14110` [Silent Hunter 3 #48](https://sovietscloset.com/video/14110)
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v14116` [Space Engineers #68](https://sovietscloset.com/video/14116)
+- Added `v14114` [Space Engineers #69](https://sovietscloset.com/video/14114)
+- Added `v14115` [Space Engineers #70](https://sovietscloset.com/video/14115)
+
+### Modified Game [Stellaris](https://sovietscloset.com/Stellaris)
+
+#### Modified Playlist [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
+
+##### Videos
+
+- Added `v14104` [Stellaris - The Gardener's Tended #19](https://sovietscloset.com/video/14104)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14105` [Team Fortress 2 #73](https://sovietscloset.com/video/14105)
+- Added `v14100` [Team Fortress 2 #74](https://sovietscloset.com/video/14100)
+- Added `v14098` [Team Fortress 2 #75](https://sovietscloset.com/video/14098)
+- Added `v14097` [Team Fortress 2 #76](https://sovietscloset.com/video/14097)
+- Added `v14099` [Team Fortress 2 #77](https://sovietscloset.com/video/14099)
+
+### Modified Game [Wildermyth](https://sovietscloset.com/Wildermyth)
+
+#### Modified Playlist [Wildermyth](https://sovietscloset.com/Wildermyth)
+
+##### Videos
+
+- Added `v14120` [Wildermyth #2](https://sovietscloset.com/video/14120)
+- Modified `v6822` [Wildermyth #3](https://sovietscloset.com/video/6822)
+  - Changed title from `Wildermyth #2` to `Wildermyth #3`
+  - Changed number from `2` to `3`
+
 ## 2022-04-14T18:30:36Z
 
 ### Modified Game [Outer Wilds](https://sovietscloset.com/Outer-Wilds)

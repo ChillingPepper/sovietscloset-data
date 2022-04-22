@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-04-15T21:28:22Z.
+Last updated at 2022-04-22T14:58:58Z.
 
 ## Wrong Tags
 
@@ -111,6 +111,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #78
   - Holdfast: Nations at War #81
   - Holdfast: Nations at War #83
+- [Just Chatting](https://sovietscloset.com/Just-Chatting)
+  - Just Chatting #6
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
