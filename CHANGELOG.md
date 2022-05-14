@@ -1,5 +1,28 @@
 # Changelog
 
+## 2022-05-14T11:40:06Z
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14121` [Just Chatting #6](https://sovietscloset.com/video/14121)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14123` [Kerbal Space Program #58](https://sovietscloset.com/video/14123)
+- Added `v14125` [Kerbal Space Program #59](https://sovietscloset.com/video/14125)
+- Added `v14124` [Kerbal Space Program #60](https://sovietscloset.com/video/14124)
+- Added `v14127` [Kerbal Space Program #61](https://sovietscloset.com/video/14127)
+- Added `v14126` [Kerbal Space Program #62](https://sovietscloset.com/video/14126)
+- Added `v14128` [Kerbal Space Program #63](https://sovietscloset.com/video/14128)
+
 ## 2022-04-22T14:58:58Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
