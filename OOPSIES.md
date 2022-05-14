@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-05-14T11:40:06Z.
+Last updated at 2022-05-14T15:50:20Z.
 
 ## Wrong Tags
 
@@ -11,7 +11,6 @@ This list includes all videos that are available on BunnyCDN but are tagged as t
 - [DayZ - Standalone #16](https://sovietscloset.com/video/1699)
 - [DayZ - Standalone #17](https://sovietscloset.com/video/1698)
 - [Holdfast: Nations at War #28](https://sovietscloset.com/video/1697)
-- [Kerbal Space Program #56](https://sovietscloset.com/video/12122)
 - [Rimworld - Caloma's Creek #92](https://sovietscloset.com/video/1749)
 - [Rising Storm 2: Vietnam #13](https://sovietscloset.com/video/1693)
 - [Space Engineers #9](https://sovietscloset.com/video/1647)
