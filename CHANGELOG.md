@@ -1,5 +1,41 @@
 # Changelog
 
+## 2022-05-16T14:49:39Z
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v14130` [Silent Hunter 3 #42](https://sovietscloset.com/video/14130)
+- Added `v14133` [Silent Hunter 3 #43](https://sovietscloset.com/video/14133)
+- Added `v14132` [Silent Hunter 3 #44](https://sovietscloset.com/video/14132)
+- Modified `v14106` [Silent Hunter 3 #45](https://sovietscloset.com/video/14106)
+  - Changed title from `Silent Hunter 3 #42` to `Silent Hunter 3 #45`
+  - Changed number from `42` to `45`
+- Modified `v14107` [Silent Hunter 3 #46](https://sovietscloset.com/video/14107)
+  - Changed title from `Silent Hunter 3 #43` to `Silent Hunter 3 #46`
+  - Changed number from `43` to `46`
+- Added `v14134` [Silent Hunter 3 #47](https://sovietscloset.com/video/14134)
+- Added `v14129` [Silent Hunter 3 #48](https://sovietscloset.com/video/14129)
+- Modified `v14113` [Silent Hunter 3 #49](https://sovietscloset.com/video/14113)
+  - Changed title from `Silent Hunter 3 #44` to `Silent Hunter 3 #49`
+  - Changed number from `44` to `49`
+- Modified `v14108` [Silent Hunter 3 #50](https://sovietscloset.com/video/14108)
+  - Changed title from `Silent Hunter 3 #45` to `Silent Hunter 3 #50`
+  - Changed number from `45` to `50`
+- Modified `v14112` [Silent Hunter 3 #51](https://sovietscloset.com/video/14112)
+  - Changed title from `Silent Hunter 3 #46` to `Silent Hunter 3 #51`
+  - Changed number from `46` to `51`
+- Modified `v14111` [Silent Hunter 3 #52](https://sovietscloset.com/video/14111)
+  - Changed title from `Silent Hunter 3 #47` to `Silent Hunter 3 #52`
+  - Changed number from `47` to `52`
+- Added `v14131` [Silent Hunter 3 #53](https://sovietscloset.com/video/14131)
+- Modified `v14110` [Silent Hunter 3 #54](https://sovietscloset.com/video/14110)
+  - Changed title from `Silent Hunter 3 #48` to `Silent Hunter 3 #54`
+  - Changed number from `48` to `54`
+
 ## 2022-05-14T11:40:06Z
 
 ### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
