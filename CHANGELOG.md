@@ -1,5 +1,19 @@
 # Changelog
 
+## 2022-05-18T21:19:23Z
+
+### Added Game [Banished](https://sovietscloset.com/Banished)
+
+#### Added Playlist [Banished](https://sovietscloset.com/Banished)
+
+##### Videos
+
+- Added `v14137` [Banished #1](https://sovietscloset.com/video/14137)
+- Added `v14139` [Banished #2](https://sovietscloset.com/video/14139)
+- Added `v14138` [Banished #3](https://sovietscloset.com/video/14138)
+- Added `v14135` [Banished #4](https://sovietscloset.com/video/14135)
+- Added `v14136` [Banished #5](https://sovietscloset.com/video/14136)
+
 ## 2022-05-16T14:49:39Z
 
 ### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
