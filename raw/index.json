@@ -789,6 +789,54 @@
     ]
   },
   {
+    "id": 9067,
+    "name": "Banished",
+    "slug": "Banished",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9082,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14137,
+            "date": "2022-03-21 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14139,
+            "date": "2022-03-21 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14138,
+            "date": "2022-03-22 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14135,
+            "date": "2022-03-22 20:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14136,
+            "date": "2022-03-22 20:36",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 8069,
     "name": "Barotrauma",
     "slug": "Barotrauma",

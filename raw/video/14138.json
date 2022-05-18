@@ -1,0 +1,39 @@
+{
+  "streamId": 14138,
+  "date": "2022-03-22 11:03",
+  "game": {
+    "name": "Banished",
+    "slug": "Banished"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14137,
+        "date": "2022-03-21 11:17"
+      },
+      {
+        "streamId": 14139,
+        "date": "2022-03-21 20:18"
+      },
+      {
+        "streamId": 14138,
+        "date": "2022-03-22 11:03"
+      },
+      {
+        "streamId": 14135,
+        "date": "2022-03-22 20:29"
+      },
+      {
+        "streamId": 14136,
+        "date": "2022-03-22 20:36"
+      }
+    ]
+  },
+  "number": 3,
+  "vimeoEmbedHtml": null,
+  "bunnyId": "07d32629-c67d-4d68-8c69-d12857328ddf",
+  "useBunny": true
+}
