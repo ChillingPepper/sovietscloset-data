@@ -1,5 +1,158 @@
 # Changelog
 
+## 2022-05-26T22:27:58Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v14150` [DayZ - Standalone #71](https://sovietscloset.com/video/14150)
+- Added `v14149` [DayZ - Standalone #72](https://sovietscloset.com/video/14149)
+- Added `v14148` [DayZ - Standalone #73](https://sovietscloset.com/video/14148)
+- Added `v14146` [DayZ - Standalone #74](https://sovietscloset.com/video/14146)
+- Added `v14147` [DayZ - Standalone #75](https://sovietscloset.com/video/14147)
+- Added `v14145` [DayZ - Standalone #76](https://sovietscloset.com/video/14145)
+- Added `v14143` [DayZ - Standalone #77](https://sovietscloset.com/video/14143)
+- Added `v14144` [DayZ - Standalone #78](https://sovietscloset.com/video/14144)
+- Added `v14142` [DayZ - Standalone #79](https://sovietscloset.com/video/14142)
+- Added `v14140` [DayZ - Standalone #80](https://sovietscloset.com/video/14140)
+- Added `v14141` [DayZ - Standalone #81](https://sovietscloset.com/video/14141)
+
+### Modified Game [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+#### Modified Playlist [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+##### Videos
+
+- Added `v14155` [Prison Architect #16](https://sovietscloset.com/video/14155)
+- Added `v14152` [Prison Architect #17](https://sovietscloset.com/video/14152)
+- Added `v14153` [Prison Architect #18](https://sovietscloset.com/video/14153)
+- Added `v14151` [Prison Architect #19](https://sovietscloset.com/video/14151)
+- Added `v14156` [Prison Architect #20](https://sovietscloset.com/video/14156)
+- Added `v14158` [Prison Architect #21](https://sovietscloset.com/video/14158)
+- Added `v14157` [Prison Architect #22](https://sovietscloset.com/video/14157)
+- Added `v14159` [Prison Architect #23](https://sovietscloset.com/video/14159)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14178` [Rimworld - The Pale Ones #19](https://sovietscloset.com/video/14178)
+- Added `v14177` [Rimworld - The Pale Ones #20](https://sovietscloset.com/video/14177)
+- Added `v14173` [Rimworld - The Pale Ones #21](https://sovietscloset.com/video/14173)
+- Added `v14176` [Rimworld - The Pale Ones #22](https://sovietscloset.com/video/14176)
+- Added `v14174` [Rimworld - The Pale Ones #23](https://sovietscloset.com/video/14174)
+- Added `v14175` [Rimworld - The Pale Ones #24](https://sovietscloset.com/video/14175)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14171` [Team Fortress 2 #67](https://sovietscloset.com/video/14171)
+- Modified `v10195` [Team Fortress 2 #68](https://sovietscloset.com/video/10195)
+  - Changed title from `Team Fortress 2 #67` to `Team Fortress 2 #68`
+  - Changed number from `67` to `68`
+- Modified `v12097` [Team Fortress 2 #69](https://sovietscloset.com/video/12097)
+  - Changed title from `Team Fortress 2 #68` to `Team Fortress 2 #69`
+  - Changed number from `68` to `69`
+- Modified `v12098` [Team Fortress 2 #70](https://sovietscloset.com/video/12098)
+  - Changed title from `Team Fortress 2 #69` to `Team Fortress 2 #70`
+  - Changed number from `69` to `70`
+- Modified `v13084` [Team Fortress 2 #71](https://sovietscloset.com/video/13084)
+  - Changed title from `Team Fortress 2 #70` to `Team Fortress 2 #71`
+  - Changed number from `70` to `71`
+- Modified `v12112` [Team Fortress 2 #72](https://sovietscloset.com/video/12112)
+  - Changed title from `Team Fortress 2 #71` to `Team Fortress 2 #72`
+  - Changed number from `71` to `72`
+- Modified `v13081` [Team Fortress 2 #73](https://sovietscloset.com/video/13081)
+  - Changed title from `Team Fortress 2 #72` to `Team Fortress 2 #73`
+  - Changed number from `72` to `73`
+- Modified `v14105` [Team Fortress 2 #74](https://sovietscloset.com/video/14105)
+  - Changed title from `Team Fortress 2 #73` to `Team Fortress 2 #74`
+  - Changed number from `73` to `74`
+- Added `v14170` [Team Fortress 2 #75](https://sovietscloset.com/video/14170)
+- Added `v14172` [Team Fortress 2 #76](https://sovietscloset.com/video/14172)
+- Modified `v14100` [Team Fortress 2 #77](https://sovietscloset.com/video/14100)
+  - Changed title from `Team Fortress 2 #74` to `Team Fortress 2 #77`
+  - Changed number from `74` to `77`
+- Added `v14167` [Team Fortress 2 #79](https://sovietscloset.com/video/14167)
+- Modified `v14098` [Team Fortress 2 #79](https://sovietscloset.com/video/14098)
+  - Changed title from `Team Fortress 2 #75` to `Team Fortress 2 #79`
+  - Changed number from `75` to `79`
+- Modified `v14097` [Team Fortress 2 #80](https://sovietscloset.com/video/14097)
+  - Changed title from `Team Fortress 2 #76` to `Team Fortress 2 #80`
+  - Changed number from `76` to `80`
+- Added `v14168` [Team Fortress 2 #81](https://sovietscloset.com/video/14168)
+- Modified `v14099` [Team Fortress 2 #82](https://sovietscloset.com/video/14099)
+  - Changed title from `Team Fortress 2 #77` to `Team Fortress 2 #82`
+  - Changed number from `77` to `82`
+- Added `v14169` [Team Fortress 2 #83](https://sovietscloset.com/video/14169)
+- Added `v14166` [Team Fortress 2 #84](https://sovietscloset.com/video/14166)
+- Added `v14165` [Team Fortress 2 #85](https://sovietscloset.com/video/14165)
+- Added `v14161` [Team Fortress 2 #86](https://sovietscloset.com/video/14161)
+- Added `v14163` [Team Fortress 2 #87](https://sovietscloset.com/video/14163)
+- Added `v14160` [Team Fortress 2 #88](https://sovietscloset.com/video/14160)
+- Added `v14164` [Team Fortress 2 #90](https://sovietscloset.com/video/14164) (new)
+
+### Modified Game [The Isle](https://sovietscloset.com/The-Isle)
+
+#### Modified Playlist [The Isle](https://sovietscloset.com/The-Isle)
+
+##### Videos
+
+- Added `v14179` [The Isle #1](https://sovietscloset.com/video/14179)
+- Added `v14182` [The Isle #2](https://sovietscloset.com/video/14182)
+- Added `v14190` [The Isle #3](https://sovietscloset.com/video/14190)
+- Added `v14193` [The Isle #4](https://sovietscloset.com/video/14193)
+- Added `v14189` [The Isle #5](https://sovietscloset.com/video/14189)
+- Added `v14187` [The Isle #6](https://sovietscloset.com/video/14187)
+- Added `v14186` [The Isle #7](https://sovietscloset.com/video/14186)
+- Added `v14180` [The Isle #8](https://sovietscloset.com/video/14180)
+- Added `v14184` [The Isle #9](https://sovietscloset.com/video/14184)
+- Added `v14181` [The Isle #10](https://sovietscloset.com/video/14181)
+- Added `v14191` [The Isle #11](https://sovietscloset.com/video/14191)
+- Added `v14188` [The Isle #13](https://sovietscloset.com/video/14188)
+- Modified `v1417` [The Isle #13](https://sovietscloset.com/video/1417)
+  - Changed title from `The Isle #1` to `The Isle #13`
+  - Changed number from `1` to `13`
+- Modified `v3712` [The Isle #14](https://sovietscloset.com/video/3712)
+  - Changed title from `The Isle #2` to `The Isle #14`
+  - Changed number from `2` to `14`
+- Modified `v3743` [The Isle #15](https://sovietscloset.com/video/3743)
+  - Changed title from `The Isle #3` to `The Isle #15`
+  - Changed number from `3` to `15`
+- Added `v14183` [The Isle #16](https://sovietscloset.com/video/14183)
+- Modified `v3722` [The Isle #17](https://sovietscloset.com/video/3722)
+  - Changed title from `The Isle #4` to `The Isle #17`
+  - Changed number from `4` to `17`
+- Added `v14192` [The Isle #19](https://sovietscloset.com/video/14192)
+- Modified `v3734` [The Isle #19](https://sovietscloset.com/video/3734)
+  - Changed title from `The Isle #5` to `The Isle #19`
+  - Changed number from `5` to `19`
+- Modified `v3723` [The Isle #20](https://sovietscloset.com/video/3723)
+  - Changed title from `The Isle #6` to `The Isle #20`
+  - Changed number from `6` to `20`
+- Modified `v3724` [The Isle #21](https://sovietscloset.com/video/3724)
+  - Changed title from `The Isle #7` to `The Isle #21`
+  - Changed number from `7` to `21`
+- Modified `v3725` [The Isle #22](https://sovietscloset.com/video/3725)
+  - Changed title from `The Isle #8` to `The Isle #22`
+  - Changed number from `8` to `22`
+- Added `v14185` [The Isle #24](https://sovietscloset.com/video/14185)
+- Modified `v3726` [The Isle #24](https://sovietscloset.com/video/3726)
+  - Changed title from `The Isle #9` to `The Isle #24`
+  - Changed number from `9` to `24`
+
 ## 2022-05-18T21:19:23Z
 
 ### Added Game [Banished](https://sovietscloset.com/Banished)

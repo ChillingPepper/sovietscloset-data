@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-05-18T21:19:23Z.
+Last updated at 2022-05-26T22:27:58Z.
 
 ## Wrong Tags
 
@@ -125,6 +125,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Prison Architect #5
   - Prison Architect #6
   - Prison Architect #13
+  - Prison Architect #15
 - [Rimworld - Caloma's Creek](https://sovietscloset.com/Rimworld/Caloma-s-Creek)
   - Rimworld - Caloma's Creek #79
   - Rimworld - Caloma's Creek #83
@@ -174,6 +175,12 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #27
   - Team Fortress 2 #41
   - Team Fortress 2 #50
+  - Team Fortress 2 #78
+  - Team Fortress 2 #89
+- [The Isle](https://sovietscloset.com/The-Isle)
+  - The Isle #12
+  - The Isle #18
+  - The Isle #23
 - [Valheim](https://sovietscloset.com/Valheim)
   - Valheim #1
   - Valheim #3
@@ -332,6 +339,9 @@ This list includes all videos that have the same date.
 - Date: 2020-10-08 20:56
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)
+- Date: 2020-10-19 20:24
+  - [The Isle #13](https://sovietscloset.com/video/1417) (id: 1417)
+  - [The Isle #13](https://sovietscloset.com/video/14188) (id: 14188)
 - Date: 2020-11-02 11:07
   - [Subnautica #10](https://sovietscloset.com/video/1463) (id: 1463)
   - [Subnautica #10](https://sovietscloset.com/video/1470) (id: 1470)
@@ -389,6 +399,12 @@ This list includes all videos that have the same date.
 - Date: 2021-02-18 20:48
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3721) (id: 3721)
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3735) (id: 3735)
+- Date: 2021-02-19 20:10
+  - [The Isle #19](https://sovietscloset.com/video/14192) (id: 14192)
+  - [The Isle #19](https://sovietscloset.com/video/3734) (id: 3734)
+- Date: 2021-02-23 20:37
+  - [The Isle #24](https://sovietscloset.com/video/14185) (id: 14185)
+  - [The Isle #24](https://sovietscloset.com/video/3726) (id: 3726)
 - Date: 2021-03-15 11:11
   - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/10124) (id: 10124)
   - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/3764) (id: 3764)
@@ -467,6 +483,9 @@ This list includes all videos that have the same date.
 - Date: 2021-11-11 20:51
   - [Holdfast: Nations at War #84](https://sovietscloset.com/video/10162) (id: 10162)
   - [Holdfast: Nations at War #84](https://sovietscloset.com/video/9012) (id: 9012)
+- Date: 2022-03-06 19:48
+  - [Team Fortress 2 #79](https://sovietscloset.com/video/14098) (id: 14098)
+  - [Team Fortress 2 #79](https://sovietscloset.com/video/14167) (id: 14167)
 
 ### Dupes by Number
 
@@ -525,6 +544,9 @@ This list includes all videos that have the same number.
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1030) (id: 1030)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1147) (id: 1147)
   - [Holdfast: Nations at War #12](https://sovietscloset.com/video/1349) (id: 1349)
+- Number: 13
+  - [The Isle #13](https://sovietscloset.com/video/1417) (id: 1417)
+  - [The Isle #13](https://sovietscloset.com/video/14188) (id: 14188)
 - Number: 14
   - [DayZ - Standalone #14](https://sovietscloset.com/video/1736) (id: 1736)
   - [DayZ - Standalone #14](https://sovietscloset.com/video/1759) (id: 1759)
@@ -543,6 +565,9 @@ This list includes all videos that have the same number.
 - Number: 18
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)
+- Number: 19
+  - [The Isle #19](https://sovietscloset.com/video/14192) (id: 14192)
+  - [The Isle #19](https://sovietscloset.com/video/3734) (id: 3734)
 - Number: 23
   - [7 Days to Die #23](https://sovietscloset.com/video/1002) (id: 1002)
   - [7 Days to Die #23](https://sovietscloset.com/video/6844) (id: 6844)
@@ -551,6 +576,8 @@ This list includes all videos that have the same number.
 - Number: 24
   - [Factorio #24](https://sovietscloset.com/video/6714) (id: 6714)
   - [Factorio #24](https://sovietscloset.com/video/6734) (id: 6734)
+  - [The Isle #24](https://sovietscloset.com/video/14185) (id: 14185)
+  - [The Isle #24](https://sovietscloset.com/video/3726) (id: 3726)
 - Number: 25
   - [7 Days to Die #25](https://sovietscloset.com/video/1005) (id: 1005)
   - [7 Days to Die #25](https://sovietscloset.com/video/6851) (id: 6851)
@@ -676,6 +703,8 @@ This list includes all videos that have the same number.
 - Number: 79
   - [Holdfast: Nations at War #79](https://sovietscloset.com/video/10091) (id: 10091)
   - [Holdfast: Nations at War #79](https://sovietscloset.com/video/6990) (id: 6990)
+  - [Team Fortress 2 #79](https://sovietscloset.com/video/14098) (id: 14098)
+  - [Team Fortress 2 #79](https://sovietscloset.com/video/14167) (id: 14167)
 - Number: 80
   - [Rimworld - Caloma's Creek #80](https://sovietscloset.com/video/1719) (id: 1719)
   - [Rimworld - Caloma's Creek #80](https://sovietscloset.com/video/1723) (id: 1723)
