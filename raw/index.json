@@ -1798,6 +1798,72 @@
             "date": "2021-12-17 11:14",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14150,
+            "date": "2022-04-17 12:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14149,
+            "date": "2022-04-18 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14148,
+            "date": "2022-04-19 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14146,
+            "date": "2022-04-20 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14147,
+            "date": "2022-04-20 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14145,
+            "date": "2022-04-21 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14143,
+            "date": "2022-04-22 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14144,
+            "date": "2022-04-22 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14142,
+            "date": "2022-04-25 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14140,
+            "date": "2022-04-26 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14141,
+            "date": "2022-04-26 20:18",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -5059,6 +5125,54 @@
             "date": "2021-04-02 11:29",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14155,
+            "date": "2022-03-28 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14152,
+            "date": "2022-03-29 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14153,
+            "date": "2022-03-29 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14151,
+            "date": "2022-03-30 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14156,
+            "date": "2022-03-30 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14158,
+            "date": "2022-03-31 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14157,
+            "date": "2022-04-01 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14159,
+            "date": "2022-04-01 20:31",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6485,6 +6599,42 @@
           {
             "id": 10077,
             "date": "2021-12-03 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14178,
+            "date": "2022-04-27 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14177,
+            "date": "2022-05-03 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14173,
+            "date": "2022-05-04 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14176,
+            "date": "2022-05-05 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14174,
+            "date": "2022-05-06 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14175,
+            "date": "2022-05-06 20:28",
             "new": false,
             "useBunny": true
           }
@@ -8707,7 +8857,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -9099,6 +9249,12 @@
             "useBunny": true
           },
           {
+            "id": 14171,
+            "date": "2021-12-19 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 10195,
             "date": "2021-12-26 19:56",
             "new": false,
@@ -9141,6 +9297,18 @@
             "useBunny": true
           },
           {
+            "id": 14170,
+            "date": "2022-02-13 19:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14172,
+            "date": "2022-02-20 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14100,
             "date": "2022-02-27 19:53",
             "new": false,
@@ -9153,8 +9321,20 @@
             "useBunny": true
           },
           {
+            "id": 14167,
+            "date": "2022-03-06 19:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14097,
             "date": "2022-03-13 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14168,
+            "date": "2022-03-20 19:15",
             "new": false,
             "useBunny": true
           },
@@ -9163,10 +9343,52 @@
             "date": "2022-03-27 19:54",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14169,
+            "date": "2022-04-03 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14166,
+            "date": "2022-04-10 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14165,
+            "date": "2022-04-17 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14161,
+            "date": "2022-04-24 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14163,
+            "date": "2022-05-01 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14160,
+            "date": "2022-05-08 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14164,
+            "date": "2022-05-22 19:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -9267,7 +9489,79 @@
         "slug": "Misc",
         "streams": [
           {
+            "id": 14179,
+            "date": "2020-04-17 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14182,
+            "date": "2020-04-17 11:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14190,
+            "date": "2020-04-18 13:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14193,
+            "date": "2020-04-19 13:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14189,
+            "date": "2020-04-20 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14187,
+            "date": "2020-04-21 10:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14186,
+            "date": "2020-04-22 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14180,
+            "date": "2020-04-27 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14184,
+            "date": "2020-04-28 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14181,
+            "date": "2020-04-29 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14191,
+            "date": "2020-06-16 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1417,
+            "date": "2020-10-19 20:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14188,
             "date": "2020-10-19 20:24",
             "new": false,
             "useBunny": true
@@ -9285,6 +9579,12 @@
             "useBunny": true
           },
           {
+            "id": 14183,
+            "date": "2021-02-18 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 3722,
             "date": "2021-02-19 11:44",
             "new": false,
@@ -9292,6 +9592,12 @@
           },
           {
             "id": 3734,
+            "date": "2021-02-19 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14192,
             "date": "2021-02-19 20:10",
             "new": false,
             "useBunny": true
@@ -9316,6 +9622,12 @@
           },
           {
             "id": 3726,
+            "date": "2021-02-23 20:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14185,
             "date": "2021-02-23 20:37",
             "new": false,
             "useBunny": true
