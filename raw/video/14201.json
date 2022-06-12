@@ -1,0 +1,78 @@
+{
+  "streamId": 14201,
+  "date": "2022-05-16 11:14",
+  "game": {
+    "name": "Subnautica: Below Zero",
+    "slug": "Subnautica-Below-Zero"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14194,
+        "date": "2022-05-10 11:18"
+      },
+      {
+        "streamId": 14197,
+        "date": "2022-05-11 11:25"
+      },
+      {
+        "streamId": 14198,
+        "date": "2022-05-11 20:23"
+      },
+      {
+        "streamId": 14195,
+        "date": "2022-05-12 11:13"
+      },
+      {
+        "streamId": 14196,
+        "date": "2022-05-13 11:05"
+      },
+      {
+        "streamId": 14203,
+        "date": "2022-05-14 22:23"
+      },
+      {
+        "streamId": 14201,
+        "date": "2022-05-16 11:14"
+      },
+      {
+        "streamId": 14202,
+        "date": "2022-05-16 20:21"
+      },
+      {
+        "streamId": 14200,
+        "date": "2022-05-17 11:06"
+      },
+      {
+        "streamId": 14199,
+        "date": "2022-05-17 12:45"
+      },
+      {
+        "streamId": 14204,
+        "date": "2022-05-18 11:19"
+      },
+      {
+        "streamId": 14206,
+        "date": "2022-05-18 20:17"
+      },
+      {
+        "streamId": 14205,
+        "date": "2022-05-19 11:24"
+      },
+      {
+        "streamId": 14208,
+        "date": "2022-05-20 11:17"
+      },
+      {
+        "streamId": 14207,
+        "date": "2022-05-23 11:13"
+      }
+    ]
+  },
+  "number": 7,
+  "bunnyId": "fad08bc3-76a7-41f6-bcaf-86c43ee36526",
+  "useBunny": true
+}
