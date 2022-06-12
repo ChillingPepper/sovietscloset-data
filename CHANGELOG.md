@@ -1,5 +1,122 @@
 # Changelog
 
+## 2022-06-12T11:30:52Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14211` [Arma 3 - Zeus Games #5](https://sovietscloset.com/video/14211)
+- Modified `v6931` [Arma 3 - Zeus Games #6](https://sovietscloset.com/video/6931)
+  - Changed title from `Arma 3 - Zeus Games #5` to `Arma 3 - Zeus Games #6`
+  - Changed number from `5` to `6`
+- Modified `v6922` [Arma 3 - Zeus Games #7](https://sovietscloset.com/video/6922)
+  - Changed title from `Arma 3 - Zeus Games #6` to `Arma 3 - Zeus Games #7`
+  - Changed number from `6` to `7`
+- Added `v14212` [Arma 3 - Zeus Games #8](https://sovietscloset.com/video/14212)
+- Modified `v6921` [Arma 3 - Zeus Games #9](https://sovietscloset.com/video/6921)
+  - Changed title from `Arma 3 - Zeus Games #7` to `Arma 3 - Zeus Games #9`
+  - Changed number from `7` to `9`
+- Modified `v6923` [Arma 3 - Zeus Games #10](https://sovietscloset.com/video/6923)
+  - Changed title from `Arma 3 - Zeus Games #8` to `Arma 3 - Zeus Games #10`
+  - Changed number from `8` to `10`
+- Modified `v6928` [Arma 3 - Zeus Games #11](https://sovietscloset.com/video/6928)
+  - Changed title from `Arma 3 - Zeus Games #9` to `Arma 3 - Zeus Games #11`
+  - Changed number from `9` to `11`
+- Modified `v6925` [Arma 3 - Zeus Games #12](https://sovietscloset.com/video/6925)
+  - Changed title from `Arma 3 - Zeus Games #10` to `Arma 3 - Zeus Games #12`
+  - Changed number from `10` to `12`
+- Modified `v6927` [Arma 3 - Zeus Games #13](https://sovietscloset.com/video/6927)
+  - Changed title from `Arma 3 - Zeus Games #11` to `Arma 3 - Zeus Games #13`
+  - Changed number from `11` to `13`
+- Modified `v6924` [Arma 3 - Zeus Games #14](https://sovietscloset.com/video/6924)
+  - Changed title from `Arma 3 - Zeus Games #12` to `Arma 3 - Zeus Games #14`
+  - Changed number from `12` to `14`
+- Modified `v6926` [Arma 3 - Zeus Games #15](https://sovietscloset.com/video/6926)
+  - Changed title from `Arma 3 - Zeus Games #13` to `Arma 3 - Zeus Games #15`
+  - Changed number from `13` to `15`
+- Added `v14213` [Arma 3 - Zeus Games #16](https://sovietscloset.com/video/14213)
+- Added `v14210` [Arma 3 - Zeus Games #17](https://sovietscloset.com/video/14210)
+- Modified `v6914` [Arma 3 - Zeus Games #18](https://sovietscloset.com/video/6914)
+  - Changed title from `Arma 3 - Zeus Games #15` to `Arma 3 - Zeus Games #18`
+  - Changed number from `15` to `18`
+- Modified `v6915` [Arma 3 - Zeus Games #19](https://sovietscloset.com/video/6915)
+  - Changed title from `Arma 3 - Zeus Games #16` to `Arma 3 - Zeus Games #19`
+  - Changed number from `16` to `19`
+- Modified `v6916` [Arma 3 - Zeus Games #20](https://sovietscloset.com/video/6916)
+  - Changed title from `Arma 3 - Zeus Games #17` to `Arma 3 - Zeus Games #20`
+  - Changed number from `17` to `20`
+- Modified `v6930` [Arma 3 - Zeus Games #21](https://sovietscloset.com/video/6930)
+  - Changed title from `Arma 3 - Zeus Games #18` to `Arma 3 - Zeus Games #21`
+  - Changed number from `18` to `21`
+- Modified `v6918` [Arma 3 - Zeus Games #22](https://sovietscloset.com/video/6918)
+  - Changed title from `Arma 3 - Zeus Games #19` to `Arma 3 - Zeus Games #22`
+  - Changed number from `19` to `22`
+- Modified `v6917` [Arma 3 - Zeus Games #23](https://sovietscloset.com/video/6917)
+  - Changed title from `Arma 3 - Zeus Games #20` to `Arma 3 - Zeus Games #23`
+  - Changed number from `20` to `23`
+- Deleted `v6919` [Arma 3 - Zeus Games #21](https://sovietscloset.com/video/6919)
+
+#### Modified Playlist [Arma 3 - Antistasi Games](https://sovietscloset.com/Arma-3/Antistasi-Games)
+
+##### Videos
+
+- Added `v14209` [Arma 3 - Antistasi Games #25](https://sovietscloset.com/video/14209)
+- Modified `v1089` [Arma 3 - Antistasi Games #26](https://sovietscloset.com/video/1089)
+  - Changed title from `Arma 3 - Antistasi Games #25` to `Arma 3 - Antistasi Games #26`
+  - Changed number from `25` to `26`
+- Modified `v1080` [Arma 3 - Antistasi Games #27](https://sovietscloset.com/video/1080)
+  - Changed title from `Arma 3 - Antistasi Games #26` to `Arma 3 - Antistasi Games #27`
+  - Changed number from `26` to `27`
+- Modified `v1088` [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
+  - Changed title from `Arma 3 - Antistasi Games #27` to `Arma 3 - Antistasi Games #28`
+  - Changed number from `27` to `28`
+- Modified `v1086` [Arma 3 - Antistasi Games #29](https://sovietscloset.com/video/1086)
+  - Changed title from `Arma 3 - Antistasi Games #28` to `Arma 3 - Antistasi Games #29`
+  - Changed number from `28` to `29`
+- Deleted `v1085` [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085)
+- Deleted `v6920` [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920)
+- Modified `v1087` [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1087)
+  - Changed title from `Arma 3 - Antistasi Games #31` to `Arma 3 - Antistasi Games #30`
+  - Changed number from `31` to `30`
+
+### Added Game [Subnautica: Below Zero](https://sovietscloset.com/Subnautica-Below-Zero)
+
+#### Added Playlist [Subnautica: Below Zero](https://sovietscloset.com/Subnautica-Below-Zero)
+
+##### Videos
+
+- Added `v14194` [Subnautica: Below Zero #1](https://sovietscloset.com/video/14194)
+- Added `v14197` [Subnautica: Below Zero #2](https://sovietscloset.com/video/14197)
+- Added `v14198` [Subnautica: Below Zero #3](https://sovietscloset.com/video/14198)
+- Added `v14195` [Subnautica: Below Zero #4](https://sovietscloset.com/video/14195)
+- Added `v14196` [Subnautica: Below Zero #5](https://sovietscloset.com/video/14196)
+- Added `v14203` [Subnautica: Below Zero #6](https://sovietscloset.com/video/14203)
+- Added `v14201` [Subnautica: Below Zero #7](https://sovietscloset.com/video/14201)
+- Added `v14202` [Subnautica: Below Zero #8](https://sovietscloset.com/video/14202)
+- Added `v14200` [Subnautica: Below Zero #9](https://sovietscloset.com/video/14200)
+- Added `v14199` [Subnautica: Below Zero #10](https://sovietscloset.com/video/14199)
+- Added `v14204` [Subnautica: Below Zero #11](https://sovietscloset.com/video/14204)
+- Added `v14206` [Subnautica: Below Zero #12](https://sovietscloset.com/video/14206)
+- Added `v14205` [Subnautica: Below Zero #13](https://sovietscloset.com/video/14205)
+- Added `v14208` [Subnautica: Below Zero #14](https://sovietscloset.com/video/14208)
+- Added `v14207` [Subnautica: Below Zero #15](https://sovietscloset.com/video/14207)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14164` [Team Fortress 2 #90](https://sovietscloset.com/video/14164)
+  - Is no longer marked as new.
+
 ## 2022-05-28T15:29:19Z
 
 ### Modified Game [Prison Architect](https://sovietscloset.com/Prison-Architect)

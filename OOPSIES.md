@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-05-28T15:29:19Z.
+Last updated at 2022-06-12T11:30:52Z.
 
 ## Wrong Tags
 
@@ -35,7 +35,7 @@ This list includes all videos that are available on BunnyCDN but are tagged as t
 
 This list includes all videos that used to be available on Vimeo but are not available on BunnyCDN yet.
 
-- [Arma 3 - Antistasi Games #27](https://sovietscloset.com/video/1088)
+- [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
 - [Rimworld - Tundrafall #33](https://sovietscloset.com/video/1060)
 - [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
 - [Total War: Warhammer - Greenskins #6](https://sovietscloset.com/video/1520)
@@ -55,10 +55,6 @@ Missing videos are only detected if they are followed by a video that is already
   - 7 Days to Die #34
   - 7 Days to Die #36
   - 7 Days to Die #38
-- [Arma 3 - Antistasi Games](https://sovietscloset.com/Arma-3/Antistasi-Games)
-  - Arma 3 - Antistasi Games #29
-- [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
-  - Arma 3 - Zeus Games #14
 - [Blackwake](https://sovietscloset.com/Blackwake)
   - Blackwake #13
   - Blackwake #14
@@ -240,9 +236,6 @@ This list includes all videos that have the same date.
 - Date: 2019-01-30 11:40
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6881) (id: 6881)
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6952) (id: 6952)
-- Date: 2019-04-15 11:15
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085) (id: 1085)
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920) (id: 6920)
 - Date: 2019-07-18 22:03
   - [DayZ - Standalone #10](https://sovietscloset.com/video/1733) (id: 1733)
   - [DayZ - Standalone #10](https://sovietscloset.com/video/1757) (id: 1757)
@@ -607,8 +600,6 @@ This list includes all videos that have the same number.
   - [Space Engineers #29](https://sovietscloset.com/video/1221) (id: 1221)
   - [Space Engineers #29](https://sovietscloset.com/video/1680) (id: 1680)
 - Number: 30
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/1085) (id: 1085)
-  - [Arma 3 - Antistasi Games #30](https://sovietscloset.com/video/6920) (id: 6920)
   - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/10124) (id: 10124)
   - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/3764) (id: 3764)
 - Number: 31
