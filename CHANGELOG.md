@@ -1,5 +1,92 @@
 # Changelog
 
+## 2022-06-14T22:25:03Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14218` [Arma 3 - Zeus Games #3](https://sovietscloset.com/video/14218)
+- Added `v14219` [Arma 3 - Zeus Games #4](https://sovietscloset.com/video/14219)
+- Modified `v1105` [Arma 3 - Zeus Games #5](https://sovietscloset.com/video/1105)
+  - Changed title from `Arma 3 - Zeus Games #3` to `Arma 3 - Zeus Games #5`
+  - Changed number from `3` to `5`
+- Modified `v6929` [Arma 3 - Zeus Games #6](https://sovietscloset.com/video/6929)
+  - Changed title from `Arma 3 - Zeus Games #4` to `Arma 3 - Zeus Games #6`
+  - Changed number from `4` to `6`
+- Modified `v14211` [Arma 3 - Zeus Games #7](https://sovietscloset.com/video/14211)
+  - Changed title from `Arma 3 - Zeus Games #5` to `Arma 3 - Zeus Games #7`
+  - Changed number from `5` to `7`
+- Modified `v6931` [Arma 3 - Zeus Games #8](https://sovietscloset.com/video/6931)
+  - Changed title from `Arma 3 - Zeus Games #6` to `Arma 3 - Zeus Games #8`
+  - Changed number from `6` to `8`
+- Modified `v6922` [Arma 3 - Zeus Games #9](https://sovietscloset.com/video/6922)
+  - Changed title from `Arma 3 - Zeus Games #7` to `Arma 3 - Zeus Games #9`
+  - Changed number from `7` to `9`
+- Modified `v14212` [Arma 3 - Zeus Games #10](https://sovietscloset.com/video/14212)
+  - Changed title from `Arma 3 - Zeus Games #8` to `Arma 3 - Zeus Games #10`
+  - Changed number from `8` to `10`
+- Modified `v6921` [Arma 3 - Zeus Games #11](https://sovietscloset.com/video/6921)
+  - Changed title from `Arma 3 - Zeus Games #9` to `Arma 3 - Zeus Games #11`
+  - Changed number from `9` to `11`
+- Modified `v6923` [Arma 3 - Zeus Games #12](https://sovietscloset.com/video/6923)
+  - Changed title from `Arma 3 - Zeus Games #10` to `Arma 3 - Zeus Games #12`
+  - Changed number from `10` to `12`
+- Modified `v6928` [Arma 3 - Zeus Games #13](https://sovietscloset.com/video/6928)
+  - Changed title from `Arma 3 - Zeus Games #11` to `Arma 3 - Zeus Games #13`
+  - Changed number from `11` to `13`
+- Modified `v6925` [Arma 3 - Zeus Games #14](https://sovietscloset.com/video/6925)
+  - Changed title from `Arma 3 - Zeus Games #12` to `Arma 3 - Zeus Games #14`
+  - Changed number from `12` to `14`
+- Modified `v6927` [Arma 3 - Zeus Games #15](https://sovietscloset.com/video/6927)
+  - Changed title from `Arma 3 - Zeus Games #13` to `Arma 3 - Zeus Games #15`
+  - Changed number from `13` to `15`
+- Modified `v6924` [Arma 3 - Zeus Games #16](https://sovietscloset.com/video/6924)
+  - Changed title from `Arma 3 - Zeus Games #14` to `Arma 3 - Zeus Games #16`
+  - Changed number from `14` to `16`
+- Modified `v6926` [Arma 3 - Zeus Games #17](https://sovietscloset.com/video/6926)
+  - Changed title from `Arma 3 - Zeus Games #15` to `Arma 3 - Zeus Games #17`
+  - Changed number from `15` to `17`
+- Modified `v14213` [Arma 3 - Zeus Games #18](https://sovietscloset.com/video/14213)
+  - Changed title from `Arma 3 - Zeus Games #16` to `Arma 3 - Zeus Games #18`
+  - Changed number from `16` to `18`
+- Modified `v14210` [Arma 3 - Zeus Games #19](https://sovietscloset.com/video/14210)
+  - Changed title from `Arma 3 - Zeus Games #17` to `Arma 3 - Zeus Games #19`
+  - Changed number from `17` to `19`
+- Modified `v6914` [Arma 3 - Zeus Games #20](https://sovietscloset.com/video/6914)
+  - Changed title from `Arma 3 - Zeus Games #18` to `Arma 3 - Zeus Games #20`
+  - Changed number from `18` to `20`
+- Modified `v6915` [Arma 3 - Zeus Games #21](https://sovietscloset.com/video/6915)
+  - Changed title from `Arma 3 - Zeus Games #19` to `Arma 3 - Zeus Games #21`
+  - Changed number from `19` to `21`
+- Modified `v6916` [Arma 3 - Zeus Games #22](https://sovietscloset.com/video/6916)
+  - Changed title from `Arma 3 - Zeus Games #20` to `Arma 3 - Zeus Games #22`
+  - Changed number from `20` to `22`
+- Modified `v6930` [Arma 3 - Zeus Games #23](https://sovietscloset.com/video/6930)
+  - Changed title from `Arma 3 - Zeus Games #21` to `Arma 3 - Zeus Games #23`
+  - Changed number from `21` to `23`
+- Modified `v6918` [Arma 3 - Zeus Games #24](https://sovietscloset.com/video/6918)
+  - Changed title from `Arma 3 - Zeus Games #22` to `Arma 3 - Zeus Games #24`
+  - Changed number from `22` to `24`
+- Modified `v6917` [Arma 3 - Zeus Games #25](https://sovietscloset.com/video/6917)
+  - Changed title from `Arma 3 - Zeus Games #23` to `Arma 3 - Zeus Games #25`
+  - Changed number from `23` to `25`
+- Added `v14221` [Arma 3 - Zeus Games #26](https://sovietscloset.com/video/14221)
+- Added `v14220` [Arma 3 - Zeus Games #28](https://sovietscloset.com/video/14220)
+- Added `v14223` [Arma 3 - Zeus Games #29](https://sovietscloset.com/video/14223)
+- Added `v14224` [Arma 3 - Zeus Games #30](https://sovietscloset.com/video/14224)
+- Added `v14222` [Arma 3 - Zeus Games #32](https://sovietscloset.com/video/14222)
+
+#### Modified Playlist [Arma 3 - Antistasi Games](https://sovietscloset.com/Arma-3/Antistasi-Games)
+
+##### Videos
+
+- Added `v14216` [Arma 3 - Antistasi Games #31](https://sovietscloset.com/video/14216)
+- Added `v14215` [Arma 3 - Antistasi Games #32](https://sovietscloset.com/video/14215)
+- Added `v14217` [Arma 3 - Antistasi Games #33](https://sovietscloset.com/video/14217)
+
 ## 2022-06-12T11:30:52Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
