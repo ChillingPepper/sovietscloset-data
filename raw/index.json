@@ -1872,6 +1872,66 @@
             "useBunny": true
           },
           {
+            "id": 14261,
+            "date": "2022-04-11 10:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14260,
+            "date": "2022-04-11 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14258,
+            "date": "2022-04-12 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14259,
+            "date": "2022-04-12 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14257,
+            "date": "2022-04-13 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14253,
+            "date": "2022-04-14 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14254,
+            "date": "2022-04-15 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14252,
+            "date": "2022-04-15 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14255,
+            "date": "2022-04-15 21:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14256,
+            "date": "2022-04-16 15:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14150,
             "date": "2022-04-17 12:50",
             "new": false,
@@ -3977,6 +4037,42 @@
           {
             "id": 14102,
             "date": "2022-03-03 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14251,
+            "date": "2022-04-21 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14247,
+            "date": "2022-05-05 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14249,
+            "date": "2022-05-12 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14250,
+            "date": "2022-05-19 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14248,
+            "date": "2022-05-26 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14246,
+            "date": "2022-06-02 20:57",
             "new": false,
             "useBunny": true
           }
@@ -6805,7 +6901,7 @@
     "name": "Rising Storm 2: Vietnam",
     "slug": "Rising-Storm-2-Vietnam",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1007,
@@ -7279,10 +7375,28 @@
             "date": "2021-11-17 11:12",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14243,
+            "date": "2022-06-03 20:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14244,
+            "date": "2022-06-06 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14242,
+            "date": "2022-06-20 19:59",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7531,7 +7645,7 @@
     "name": "Silent Hunter 3",
     "slug": "Silent-Hunter-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1020,
@@ -7849,10 +7963,16 @@
             "date": "2022-02-28 11:35",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14241,
+            "date": "2022-06-20 10:57",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -9121,7 +9241,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -9649,10 +9769,22 @@
             "date": "2022-05-22 19:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14245,
+            "date": "2022-06-05 19:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14240,
+            "date": "2022-06-19 20:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
