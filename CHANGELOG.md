@@ -1,5 +1,109 @@
 # Changelog
 
+## 2022-06-21T21:36:58Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v14261` [DayZ - Standalone #71](https://sovietscloset.com/video/14261)
+- Added `v14260` [DayZ - Standalone #72](https://sovietscloset.com/video/14260)
+- Added `v14258` [DayZ - Standalone #73](https://sovietscloset.com/video/14258)
+- Added `v14259` [DayZ - Standalone #74](https://sovietscloset.com/video/14259)
+- Added `v14257` [DayZ - Standalone #75](https://sovietscloset.com/video/14257)
+- Added `v14253` [DayZ - Standalone #76](https://sovietscloset.com/video/14253)
+- Added `v14254` [DayZ - Standalone #77](https://sovietscloset.com/video/14254)
+- Added `v14252` [DayZ - Standalone #78](https://sovietscloset.com/video/14252)
+- Added `v14255` [DayZ - Standalone #79](https://sovietscloset.com/video/14255)
+- Added `v14256` [DayZ - Standalone #80](https://sovietscloset.com/video/14256)
+- Modified `v14150` [DayZ - Standalone #81](https://sovietscloset.com/video/14150)
+  - Changed title from `DayZ - Standalone #71` to `DayZ - Standalone #81`
+  - Changed number from `71` to `81`
+- Modified `v14149` [DayZ - Standalone #82](https://sovietscloset.com/video/14149)
+  - Changed title from `DayZ - Standalone #72` to `DayZ - Standalone #82`
+  - Changed number from `72` to `82`
+- Modified `v14148` [DayZ - Standalone #83](https://sovietscloset.com/video/14148)
+  - Changed title from `DayZ - Standalone #73` to `DayZ - Standalone #83`
+  - Changed number from `73` to `83`
+- Modified `v14146` [DayZ - Standalone #84](https://sovietscloset.com/video/14146)
+  - Changed title from `DayZ - Standalone #74` to `DayZ - Standalone #84`
+  - Changed number from `74` to `84`
+- Modified `v14147` [DayZ - Standalone #85](https://sovietscloset.com/video/14147)
+  - Changed title from `DayZ - Standalone #75` to `DayZ - Standalone #85`
+  - Changed number from `75` to `85`
+- Modified `v14145` [DayZ - Standalone #86](https://sovietscloset.com/video/14145)
+  - Changed title from `DayZ - Standalone #76` to `DayZ - Standalone #86`
+  - Changed number from `76` to `86`
+- Modified `v14143` [DayZ - Standalone #87](https://sovietscloset.com/video/14143)
+  - Changed title from `DayZ - Standalone #77` to `DayZ - Standalone #87`
+  - Changed number from `77` to `87`
+- Modified `v14144` [DayZ - Standalone #88](https://sovietscloset.com/video/14144)
+  - Changed title from `DayZ - Standalone #78` to `DayZ - Standalone #88`
+  - Changed number from `78` to `88`
+- Modified `v14142` [DayZ - Standalone #89](https://sovietscloset.com/video/14142)
+  - Changed title from `DayZ - Standalone #79` to `DayZ - Standalone #89`
+  - Changed number from `79` to `89`
+- Modified `v14140` [DayZ - Standalone #90](https://sovietscloset.com/video/14140)
+  - Changed title from `DayZ - Standalone #80` to `DayZ - Standalone #90`
+  - Changed number from `80` to `90`
+- Modified `v14141` [DayZ - Standalone #91](https://sovietscloset.com/video/14141)
+  - Changed title from `DayZ - Standalone #81` to `DayZ - Standalone #91`
+  - Changed number from `81` to `91`
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14251` [Holdfast: Nations at War #97](https://sovietscloset.com/video/14251)
+- Added `v14247` [Holdfast: Nations at War #98](https://sovietscloset.com/video/14247)
+- Added `v14249` [Holdfast: Nations at War #99](https://sovietscloset.com/video/14249)
+- Added `v14250` [Holdfast: Nations at War #100](https://sovietscloset.com/video/14250)
+- Added `v14248` [Holdfast: Nations at War #101](https://sovietscloset.com/video/14248)
+- Added `v14246` [Holdfast: Nations at War #102](https://sovietscloset.com/video/14246)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14243` [Rising Storm 2: Vietnam #81](https://sovietscloset.com/video/14243)
+- Added `v14244` [Rising Storm 2: Vietnam #82](https://sovietscloset.com/video/14244)
+- Added `v14242` [Rising Storm 2: Vietnam #83](https://sovietscloset.com/video/14242) (new)
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14241` [Silent Hunter 3 #55](https://sovietscloset.com/video/14241) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14245` [Team Fortress 2 #91](https://sovietscloset.com/video/14245)
+- Added `v14240` [Team Fortress 2 #92](https://sovietscloset.com/video/14240) (new)
+
 ## 2022-06-18T12:49:14Z
 
 ### Modified Game [Project Zomboid](https://sovietscloset.com/Project-Zomboid)
