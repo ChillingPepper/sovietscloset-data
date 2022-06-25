@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-06-21T21:36:58Z.
+Last updated at 2022-06-25T12:06:09Z.
 
 ## Wrong Tags
 
@@ -72,6 +72,8 @@ Missing videos are only detected if they are followed by a video that is already
   - DayZ - Standalone #49
   - DayZ - Standalone #51
   - DayZ - Standalone #53
+  - DayZ - Standalone #73
+  - DayZ - Standalone #76
 - [Divinity: Original Sin 2 - First Playthrough](https://sovietscloset.com/Divinity-Original-Sin-2/First-Playthrough)
   - Divinity: Original Sin 2 - First Playthrough #24
 - [Divinity: Original Sin 2 - Second Playthrough](https://sovietscloset.com/Divinity-Original-Sin-2/Second-Playthrough)
@@ -109,6 +111,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #78
   - Holdfast: Nations at War #81
   - Holdfast: Nations at War #83
+  - Holdfast: Nations at War #107
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -145,6 +148,13 @@ Missing videos are only detected if they are followed by a video that is already
   - Rising Storm 2: Vietnam #31
   - Rising Storm 2: Vietnam #33
   - Rising Storm 2: Vietnam #37
+  - Rising Storm 2: Vietnam #81
+  - Rising Storm 2: Vietnam #82
+  - Rising Storm 2: Vietnam #83
+  - Rising Storm 2: Vietnam #84
+  - Rising Storm 2: Vietnam #85
+  - Rising Storm 2: Vietnam #86
+  - Rising Storm 2: Vietnam #87
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
@@ -163,7 +173,6 @@ Missing videos are only detected if they are followed by a video that is already
 - [Subnautica](https://sovietscloset.com/Subnautica)
   - Subnautica #8
   - Subnautica #9
-  - Subnautica #15
 - [SWAT 4](https://sovietscloset.com/SWAT-4)
   - SWAT 4 #8
 - [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
@@ -481,6 +490,15 @@ This list includes all videos that have the same date.
 - Date: 2022-03-06 19:48
   - [Team Fortress 2 #79](https://sovietscloset.com/video/14098) (id: 14098)
   - [Team Fortress 2 #79](https://sovietscloset.com/video/14167) (id: 14167)
+- Date: 2022-04-12 11:08
+  - [DayZ - Standalone #74](https://sovietscloset.com/video/14258) (id: 14258)
+  - [DayZ - Standalone #74](https://sovietscloset.com/video/14275) (id: 14275)
+- Date: 2022-04-13 20:12
+  - [DayZ - Standalone #77](https://sovietscloset.com/video/14257) (id: 14257)
+  - [DayZ - Standalone #77](https://sovietscloset.com/video/14274) (id: 14274)
+- Date: 2022-05-12 20:53
+  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14249) (id: 14249)
+  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14277) (id: 14277)
 
 ### Dupes by Number
 
@@ -690,7 +708,12 @@ This list includes all videos that have the same number.
 - Number: 66
   - [Holdfast: Nations at War #66](https://sovietscloset.com/video/10088) (id: 10088)
   - [Holdfast: Nations at War #66](https://sovietscloset.com/video/6994) (id: 6994)
+- Number: 74
+  - [DayZ - Standalone #74](https://sovietscloset.com/video/14258) (id: 14258)
+  - [DayZ - Standalone #74](https://sovietscloset.com/video/14275) (id: 14275)
 - Number: 77
+  - [DayZ - Standalone #77](https://sovietscloset.com/video/14257) (id: 14257)
+  - [DayZ - Standalone #77](https://sovietscloset.com/video/14274) (id: 14274)
   - [Holdfast: Nations at War #77](https://sovietscloset.com/video/10094) (id: 10094)
   - [Holdfast: Nations at War #77](https://sovietscloset.com/video/6993) (id: 6993)
 - Number: 79
@@ -712,6 +735,9 @@ This list includes all videos that have the same number.
 - Number: 94
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778) (id: 1778)
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777) (id: 6777)
+- Number: 108
+  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14249) (id: 14249)
+  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14277) (id: 14277)
 
 ### Dupes by BunnyCDN ID
 
