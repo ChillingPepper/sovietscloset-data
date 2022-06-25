@@ -1890,6 +1890,12 @@
             "useBunny": true
           },
           {
+            "id": 14275,
+            "date": "2022-04-12 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14259,
             "date": "2022-04-12 19:57",
             "new": false,
@@ -1897,6 +1903,12 @@
           },
           {
             "id": 14257,
+            "date": "2022-04-13 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14274,
             "date": "2022-04-13 20:12",
             "new": false,
             "useBunny": true
@@ -2701,6 +2713,12 @@
             "date": "2021-06-11 11:28",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14273,
+            "date": "2022-05-26 11:10",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -3463,7 +3481,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -4035,14 +4053,62 @@
             "useBunny": true
           },
           {
+            "id": 14285,
+            "date": "2022-02-24 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14102,
             "date": "2022-03-03 20:51",
             "new": false,
             "useBunny": true
           },
           {
+            "id": 14284,
+            "date": "2022-03-10 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14283,
+            "date": "2022-03-17 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14282,
+            "date": "2022-03-24 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14281,
+            "date": "2022-03-31 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14280,
+            "date": "2022-04-07 20:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14278,
+            "date": "2022-04-14 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14251,
             "date": "2022-04-21 20:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14279,
+            "date": "2022-04-28 20:47",
             "new": false,
             "useBunny": true
           },
@@ -4054,6 +4120,12 @@
           },
           {
             "id": 14249,
+            "date": "2022-05-12 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14277,
             "date": "2022-05-12 20:53",
             "new": false,
             "useBunny": true
@@ -4075,10 +4147,16 @@
             "date": "2022-06-02 20:57",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14276,
+            "date": "2022-06-23 21:41",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4217,6 +4295,18 @@
           {
             "id": 12113,
             "date": "2022-01-21 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14271,
+            "date": "2022-03-25 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14272,
+            "date": "2022-05-27 11:24",
             "new": false,
             "useBunny": true
           }
@@ -9003,6 +9093,12 @@
             "useBunny": true
           },
           {
+            "id": 14262,
+            "date": "2020-11-05 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1473,
             "date": "2020-11-06 11:08",
             "new": false,
@@ -9767,6 +9863,12 @@
           {
             "id": 14164,
             "date": "2022-05-22 19:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14270,
+            "date": "2022-05-29 19:59",
             "new": false,
             "useBunny": true
           },

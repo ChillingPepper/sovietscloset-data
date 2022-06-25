@@ -1,0 +1,90 @@
+{
+  "streamId": 14262,
+  "date": "2020-11-05 11:24",
+  "game": {
+    "name": "Subnautica",
+    "slug": "Subnautica"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1459,
+        "date": "2020-10-28 11:20"
+      },
+      {
+        "streamId": 1460,
+        "date": "2020-10-28 20:28"
+      },
+      {
+        "streamId": 1458,
+        "date": "2020-10-29 11:18"
+      },
+      {
+        "streamId": 1461,
+        "date": "2020-10-30 11:14"
+      },
+      {
+        "streamId": 1464,
+        "date": "2020-10-31 16:25"
+      },
+      {
+        "streamId": 1462,
+        "date": "2020-10-31 22:51"
+      },
+      {
+        "streamId": 1465,
+        "date": "2020-11-01 15:32"
+      },
+      {
+        "streamId": 1463,
+        "date": "2020-11-02 11:07"
+      },
+      {
+        "streamId": 1470,
+        "date": "2020-11-02 11:07"
+      },
+      {
+        "streamId": 1487,
+        "date": "2020-11-02 11:07"
+      },
+      {
+        "streamId": 1486,
+        "date": "2020-11-03 11:28"
+      },
+      {
+        "streamId": 1468,
+        "date": "2020-11-03 20:09"
+      },
+      {
+        "streamId": 1469,
+        "date": "2020-11-03 21:01"
+      },
+      {
+        "streamId": 1471,
+        "date": "2020-11-04 11:02"
+      },
+      {
+        "streamId": 14262,
+        "date": "2020-11-05 11:24"
+      },
+      {
+        "streamId": 1473,
+        "date": "2020-11-06 11:08"
+      },
+      {
+        "streamId": 1489,
+        "date": "2020-11-07 12:05"
+      },
+      {
+        "streamId": 1488,
+        "date": "2020-11-07 21:45"
+      }
+    ]
+  },
+  "number": 15,
+  "bunnyId": "eacf85c2-e6d5-4042-afee-d26b0975ba9c",
+  "useBunny": true
+}
