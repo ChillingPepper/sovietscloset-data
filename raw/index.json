@@ -657,6 +657,12 @@
             "useBunny": true
           },
           {
+            "id": 14214,
+            "date": "2022-01-08 19:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14220,
             "date": "2022-02-05 19:46",
             "new": false,
@@ -6991,7 +6997,7 @@
     "name": "Rising Storm 2: Vietnam",
     "slug": "Rising-Storm-2-Vietnam",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1007,
@@ -7481,12 +7487,12 @@
           {
             "id": 14242,
             "date": "2022-06-20 19:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -7735,7 +7741,7 @@
     "name": "Silent Hunter 3",
     "slug": "Silent-Hunter-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1020,
@@ -8057,12 +8063,12 @@
           {
             "id": 14241,
             "date": "2022-06-20 10:57",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -9337,7 +9343,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -9881,12 +9887,12 @@
           {
             "id": 14240,
             "date": "2022-06-19 20:00",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
