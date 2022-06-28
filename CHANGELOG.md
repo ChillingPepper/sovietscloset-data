@@ -1,5 +1,54 @@
 # Changelog
 
+## 2022-06-28T19:10:27Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14214` [Arma 3 - Zeus Games #27](https://sovietscloset.com/video/14214)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14242` [Rising Storm 2: Vietnam #90](https://sovietscloset.com/video/14242)
+  - Is no longer marked as new.
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14241` [Silent Hunter 3 #55](https://sovietscloset.com/video/14241)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14240` [Team Fortress 2 #93](https://sovietscloset.com/video/14240)
+  - Is no longer marked as new.
+
 ## 2022-06-25T12:06:09Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
