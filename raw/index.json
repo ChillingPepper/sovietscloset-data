@@ -2995,6 +2995,66 @@
             "date": "2021-11-08 11:09",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14289,
+            "date": "2022-04-29 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14291,
+            "date": "2022-04-29 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14290,
+            "date": "2022-05-02 11:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9069,
+    "name": "Fallout Tactics",
+    "slug": "Fallout-Tactics",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9084,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14295,
+            "date": "2022-06-29 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14292,
+            "date": "2022-06-29 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14293,
+            "date": "2022-07-01 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14294,
+            "date": "2022-07-01 20:18",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -3487,7 +3547,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -4157,12 +4217,12 @@
           {
             "id": 14276,
             "date": "2022-06-23 21:41",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -5633,6 +5693,12 @@
           {
             "id": 1393,
             "date": "2020-07-07 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14288,
+            "date": "2022-06-23 10:57",
             "new": false,
             "useBunny": true
           }
@@ -9887,6 +9953,12 @@
           {
             "id": 14240,
             "date": "2022-06-19 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14287,
+            "date": "2022-06-26 20:45",
             "new": false,
             "useBunny": true
           }

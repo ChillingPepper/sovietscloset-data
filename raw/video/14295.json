@@ -1,0 +1,34 @@
+{
+  "streamId": 14295,
+  "date": "2022-06-29 11:08",
+  "game": {
+    "name": "Fallout Tactics",
+    "slug": "Fallout-Tactics"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14295,
+        "date": "2022-06-29 11:08"
+      },
+      {
+        "streamId": 14292,
+        "date": "2022-06-29 20:21"
+      },
+      {
+        "streamId": 14293,
+        "date": "2022-07-01 11:19"
+      },
+      {
+        "streamId": 14294,
+        "date": "2022-07-01 20:18"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "7a918d2c-d6dd-4dba-a475-768df80ab43a",
+  "useBunny": true
+}

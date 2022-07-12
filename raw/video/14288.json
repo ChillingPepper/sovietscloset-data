@@ -1,0 +1,38 @@
+{
+  "streamId": 14288,
+  "date": "2022-06-23 10:57",
+  "game": {
+    "name": "Raft",
+    "slug": "Raft"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1392,
+        "date": "2020-07-01 19:59"
+      },
+      {
+        "streamId": 1390,
+        "date": "2020-07-02 10:55"
+      },
+      {
+        "streamId": 1391,
+        "date": "2020-07-05 17:04"
+      },
+      {
+        "streamId": 1393,
+        "date": "2020-07-07 11:03"
+      },
+      {
+        "streamId": 14288,
+        "date": "2022-06-23 10:57"
+      }
+    ]
+  },
+  "number": 5,
+  "bunnyId": "66a541c7-02fe-4579-a490-94fff6bdf5b5",
+  "useBunny": true
+}
