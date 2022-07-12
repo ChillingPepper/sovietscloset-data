@@ -1,5 +1,57 @@
 # Changelog
 
+## 2022-07-12T17:48:00Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v14289` [Factorio #42](https://sovietscloset.com/video/14289)
+- Added `v14291` [Factorio #43](https://sovietscloset.com/video/14291)
+- Added `v14290` [Factorio #44](https://sovietscloset.com/video/14290)
+
+### Added Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+#### Added Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+##### Videos
+
+- Added `v14295` [Fallout Tactics #1](https://sovietscloset.com/video/14295)
+- Added `v14292` [Fallout Tactics #2](https://sovietscloset.com/video/14292)
+- Added `v14293` [Fallout Tactics #3](https://sovietscloset.com/video/14293)
+- Added `v14294` [Fallout Tactics #4](https://sovietscloset.com/video/14294)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14276` [Holdfast: Nations at War #112](https://sovietscloset.com/video/14276)
+  - Is no longer marked as new.
+
+### Modified Game [Raft](https://sovietscloset.com/Raft)
+
+#### Modified Playlist [Raft](https://sovietscloset.com/Raft)
+
+##### Videos
+
+- Added `v14288` [Raft #5](https://sovietscloset.com/video/14288)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14287` [Team Fortress 2 #94](https://sovietscloset.com/video/14287)
+
 ## 2022-06-28T19:10:27Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

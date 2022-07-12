@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-06-28T19:10:27Z.
+Last updated at 2022-07-12T17:48:00Z.
 
 ## Wrong Tags
 
@@ -87,6 +87,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Factorio #30
   - Factorio #34
   - Factorio #36
+  - Factorio #41
 - [Halo: The Master Chief Collection - Halo 3](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-3)
   - Halo: The Master Chief Collection - Halo 3 #9
 - [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)

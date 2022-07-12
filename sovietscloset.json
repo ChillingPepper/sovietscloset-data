@@ -1,5 +1,5 @@
 {
-  "timestamp": 1656443427,
+  "timestamp": 1657648080,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -4361,6 +4361,89 @@
               "number": 40,
               "bunnyId": "f9e38bee-b9f7-4044-a3f1-334d20ec33f2",
               "new": false
+            },
+            {
+              "title": "Factorio #42",
+              "url": "https://sovietscloset.com/video/14289",
+              "id": 14289,
+              "date": "2022-04-29 11:10",
+              "number": 42,
+              "bunnyId": "d55e4b4d-590d-44ed-88e7-89b3d90ef4be",
+              "new": false
+            },
+            {
+              "title": "Factorio #43",
+              "url": "https://sovietscloset.com/video/14291",
+              "id": 14291,
+              "date": "2022-04-29 20:19",
+              "number": 43,
+              "bunnyId": "c72c5aa4-9885-408e-82c6-5f39b03ec2a1",
+              "new": false
+            },
+            {
+              "title": "Factorio #44",
+              "url": "https://sovietscloset.com/video/14290",
+              "id": 14290,
+              "date": "2022-05-02 11:10",
+              "number": 44,
+              "bunnyId": "9d966a2e-3345-4f04-9502-3f43e4e84971",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fallout Tactics",
+      "url": "https://sovietscloset.com/Fallout-Tactics",
+      "name": "Fallout Tactics",
+      "slug": "Fallout-Tactics",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Fallout Tactics",
+          "url": "https://sovietscloset.com/Fallout-Tactics",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Fallout Tactics #1",
+              "url": "https://sovietscloset.com/video/14295",
+              "id": 14295,
+              "date": "2022-06-29 11:08",
+              "number": 1,
+              "bunnyId": "7a918d2c-d6dd-4dba-a475-768df80ab43a",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #2",
+              "url": "https://sovietscloset.com/video/14292",
+              "id": 14292,
+              "date": "2022-06-29 20:21",
+              "number": 2,
+              "bunnyId": "819f0d34-919f-4218-b5ba-890c4162e5c9",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #3",
+              "url": "https://sovietscloset.com/video/14293",
+              "id": 14293,
+              "date": "2022-07-01 11:19",
+              "number": 3,
+              "bunnyId": "0b1e13d1-a6bb-47dd-a5d6-88e09e5eb2a6",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #4",
+              "url": "https://sovietscloset.com/video/14294",
+              "id": 14294,
+              "date": "2022-07-01 20:18",
+              "number": 4,
+              "bunnyId": "79a52427-7a92-48dd-8600-25c2b4d76266",
+              "new": false
             }
           ]
         }
@@ -5029,7 +5112,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -5037,7 +5120,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -6036,7 +6119,7 @@
               "date": "2022-06-23 21:41",
               "number": 112,
               "bunnyId": "4b5e0543-262d-4ac4-96d6-adb2855a1171",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -8138,6 +8221,15 @@
               "date": "2020-07-07 11:03",
               "number": 4,
               "bunnyId": "9064c6f6-587c-4656-ae55-11d6806ee524",
+              "new": false
+            },
+            {
+              "title": "Raft #5",
+              "url": "https://sovietscloset.com/video/14288",
+              "id": 14288,
+              "date": "2022-06-23 10:57",
+              "number": 5,
+              "bunnyId": "66a541c7-02fe-4579-a490-94fff6bdf5b5",
               "new": false
             }
           ]
@@ -14407,6 +14499,15 @@
               "date": "2022-06-19 20:00",
               "number": 93,
               "bunnyId": "c62962fb-d1b9-4f34-aff0-88c88b324e35",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #94",
+              "url": "https://sovietscloset.com/video/14287",
+              "id": 14287,
+              "date": "2022-06-26 20:45",
+              "number": 94,
+              "bunnyId": "4fefbc3e-70e5-470b-9d1d-c37eabd23e79",
               "new": false
             }
           ]
