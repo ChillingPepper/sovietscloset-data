@@ -1,5 +1,18 @@
 # Changelog
 
+## 2022-07-22T19:11:57Z
+
+### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+#### Modified Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+##### Videos
+
+- Added `v14298` [Fallout Tactics #5](https://sovietscloset.com/video/14298)
+- Added `v14299` [Fallout Tactics #6](https://sovietscloset.com/video/14299)
+- Added `v14296` [Fallout Tactics #7](https://sovietscloset.com/video/14296)
+- Added `v14297` [Fallout Tactics #8](https://sovietscloset.com/video/14297)
+
 ## 2022-07-12T17:48:00Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)
