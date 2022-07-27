@@ -7087,7 +7087,7 @@
     "name": "Rising Storm 2: Vietnam",
     "slug": "Rising-Storm-2-Vietnam",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1007,
@@ -7563,6 +7563,18 @@
             "useBunny": true
           },
           {
+            "id": 14302,
+            "date": "2022-03-16 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14301,
+            "date": "2022-03-18 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14243,
             "date": "2022-06-03 20:44",
             "new": false,
@@ -7579,10 +7591,16 @@
             "date": "2022-06-20 19:59",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14300,
+            "date": "2022-07-25 20:06",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
