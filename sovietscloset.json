@@ -1,5 +1,5 @@
 {
-  "timestamp": 1658517117,
+  "timestamp": 1658897432,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -10282,7 +10282,7 @@
       "name": "Rising Storm 2: Vietnam",
       "slug": "Rising-Storm-2-Vietnam",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Rising Storm 2: Vietnam",
@@ -10290,7 +10290,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Rising Storm 2: Vietnam #1",
@@ -10995,31 +10995,58 @@
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #88",
-              "url": "https://sovietscloset.com/video/14243",
-              "id": 14243,
-              "date": "2022-06-03 20:44",
-              "number": 88,
-              "bunnyId": "c5ea5f0d-9aef-46cf-a912-04ecb42242ee",
+              "title": "Rising Storm 2: Vietnam #81",
+              "url": "https://sovietscloset.com/video/14302",
+              "id": 14302,
+              "date": "2022-03-16 20:04",
+              "number": 81,
+              "bunnyId": "8226aef4-118f-453c-b15f-afda29f87064",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #89",
-              "url": "https://sovietscloset.com/video/14244",
-              "id": 14244,
-              "date": "2022-06-06 20:04",
-              "number": 89,
-              "bunnyId": "cd9f0c88-3e93-47c1-a9f9-c58625c9040e",
+              "title": "Rising Storm 2: Vietnam #82",
+              "url": "https://sovietscloset.com/video/14301",
+              "id": 14301,
+              "date": "2022-03-18 20:01",
+              "number": 82,
+              "bunnyId": "4b739681-bfee-4e12-811c-918919f08842",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #90",
+              "url": "https://sovietscloset.com/video/14243",
+              "id": 14243,
+              "date": "2022-06-03 20:44",
+              "number": 90,
+              "bunnyId": "c5ea5f0d-9aef-46cf-a912-04ecb42242ee",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #91",
+              "url": "https://sovietscloset.com/video/14244",
+              "id": 14244,
+              "date": "2022-06-06 20:04",
+              "number": 91,
+              "bunnyId": "cd9f0c88-3e93-47c1-a9f9-c58625c9040e",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #92",
               "url": "https://sovietscloset.com/video/14242",
               "id": 14242,
               "date": "2022-06-20 19:59",
-              "number": 90,
+              "number": 92,
               "bunnyId": "be502814-745d-40b8-98a4-8fb74b7c93d7",
               "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #93",
+              "url": "https://sovietscloset.com/video/14300",
+              "id": 14300,
+              "date": "2022-07-25 20:06",
+              "number": 93,
+              "bunnyId": "f74f1ea6-4b64-46d4-9074-7b67e8180cf3",
+              "new": true
             }
           ]
         }

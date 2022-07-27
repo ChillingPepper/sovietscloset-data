@@ -1,5 +1,30 @@
 # Changelog
 
+## 2022-07-27T04:50:32Z
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14302` [Rising Storm 2: Vietnam #81](https://sovietscloset.com/video/14302)
+- Added `v14301` [Rising Storm 2: Vietnam #82](https://sovietscloset.com/video/14301)
+- Modified `v14243` [Rising Storm 2: Vietnam #90](https://sovietscloset.com/video/14243)
+  - Changed title from `Rising Storm 2: Vietnam #88` to `Rising Storm 2: Vietnam #90`
+  - Changed number from `88` to `90`
+- Modified `v14244` [Rising Storm 2: Vietnam #91](https://sovietscloset.com/video/14244)
+  - Changed title from `Rising Storm 2: Vietnam #89` to `Rising Storm 2: Vietnam #91`
+  - Changed number from `89` to `91`
+- Modified `v14242` [Rising Storm 2: Vietnam #92](https://sovietscloset.com/video/14242)
+  - Changed title from `Rising Storm 2: Vietnam #90` to `Rising Storm 2: Vietnam #92`
+  - Changed number from `90` to `92`
+- Added `v14300` [Rising Storm 2: Vietnam #93](https://sovietscloset.com/video/14300) (new)
+
 ## 2022-07-22T19:11:57Z
 
 ### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)

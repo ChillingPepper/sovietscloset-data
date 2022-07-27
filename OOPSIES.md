@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-07-22T19:11:57Z.
+Last updated at 2022-07-27T04:50:32Z.
 
 ## Wrong Tags
 
@@ -148,13 +148,13 @@ Missing videos are only detected if they are followed by a video that is already
   - Rising Storm 2: Vietnam #31
   - Rising Storm 2: Vietnam #33
   - Rising Storm 2: Vietnam #37
-  - Rising Storm 2: Vietnam #81
-  - Rising Storm 2: Vietnam #82
   - Rising Storm 2: Vietnam #83
   - Rising Storm 2: Vietnam #84
   - Rising Storm 2: Vietnam #85
   - Rising Storm 2: Vietnam #86
   - Rising Storm 2: Vietnam #87
+  - Rising Storm 2: Vietnam #88
+  - Rising Storm 2: Vietnam #89
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
