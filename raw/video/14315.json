@@ -1,0 +1,26 @@
+{
+  "streamId": 14315,
+  "date": "2022-03-09 20:00",
+  "game": {
+    "name": "Friday the 13th",
+    "slug": "Friday-the-13th"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14315,
+        "date": "2022-03-09 20:00"
+      },
+      {
+        "streamId": 14314,
+        "date": "2022-03-19 19:27"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "59fa9a79-d80a-449a-81c1-e266c83e6a67",
+  "useBunny": true
+}
