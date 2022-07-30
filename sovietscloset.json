@@ -1,5 +1,5 @@
 {
-  "timestamp": 1658897432,
+  "timestamp": 1659208147,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -4388,6 +4388,33 @@
               "number": 44,
               "bunnyId": "9d966a2e-3345-4f04-9502-3f43e4e84971",
               "new": false
+            },
+            {
+              "title": "Factorio #45",
+              "url": "https://sovietscloset.com/video/14306",
+              "id": 14306,
+              "date": "2022-06-27 11:18",
+              "number": 45,
+              "bunnyId": "dcd09a6c-f258-4b5d-9056-bdee2025a968",
+              "new": false
+            },
+            {
+              "title": "Factorio #46",
+              "url": "https://sovietscloset.com/video/14305",
+              "id": 14305,
+              "date": "2022-06-27 20:17",
+              "number": 46,
+              "bunnyId": "67454471-9474-4f22-9c5f-eed48bc63f3a",
+              "new": false
+            },
+            {
+              "title": "Factorio #47",
+              "url": "https://sovietscloset.com/video/14304",
+              "id": 14304,
+              "date": "2022-06-28 11:19",
+              "number": 47,
+              "bunnyId": "fbd4dc68-50f2-4248-b823-218b0125ecaf",
+              "new": false
             }
           ]
         }
@@ -4479,6 +4506,15 @@
               "date": "2022-07-05 11:08",
               "number": 8,
               "bunnyId": "a240d80a-6911-4c57-a69e-602bcb557949",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #9",
+              "url": "https://sovietscloset.com/video/14303",
+              "id": 14303,
+              "date": "2022-07-06 11:17",
+              "number": 9,
+              "bunnyId": "e338012e-9096-4f61-97b3-09de6ed84ab2",
               "new": false
             }
           ]
@@ -4755,6 +4791,44 @@
               "date": "2019-01-04 19:57",
               "number": 1,
               "bunnyId": "f44a21c4-9092-46c0-85d8-bffffaa8422b",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Friday the 13th",
+      "url": "https://sovietscloset.com/Friday-the-13th",
+      "name": "Friday the 13th",
+      "slug": "Friday-the-13th",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Friday the 13th",
+          "url": "https://sovietscloset.com/Friday-the-13th",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Friday the 13th #1",
+              "url": "https://sovietscloset.com/video/14315",
+              "id": 14315,
+              "date": "2022-03-09 20:00",
+              "number": 1,
+              "bunnyId": "59fa9a79-d80a-449a-81c1-e266c83e6a67",
+              "new": false
+            },
+            {
+              "title": "Friday the 13th #2",
+              "url": "https://sovietscloset.com/video/14314",
+              "id": 14314,
+              "date": "2022-03-19 19:27",
+              "number": 2,
+              "bunnyId": "51440d15-fff6-4c31-9276-7ac207b898bd",
               "new": false
             }
           ]
@@ -7716,6 +7790,89 @@
               "date": "2020-10-04 20:25",
               "number": 1,
               "bunnyId": "c2c47c4d-50bf-42be-903a-c3432cbfaea2",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Planet Zoo",
+      "url": "https://sovietscloset.com/Planet-Zoo",
+      "name": "Planet Zoo",
+      "slug": "Planet-Zoo",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Planet Zoo",
+          "url": "https://sovietscloset.com/Planet-Zoo",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Planet Zoo #1",
+              "url": "https://sovietscloset.com/video/14307",
+              "id": 14307,
+              "date": "2022-07-08 11:13",
+              "number": 1,
+              "bunnyId": "9e01674b-6196-45f4-bc9e-c3d8bdac6c6c",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #2",
+              "url": "https://sovietscloset.com/video/14308",
+              "id": 14308,
+              "date": "2022-07-08 20:25",
+              "number": 2,
+              "bunnyId": "a30c16d4-3eac-4a76-8ea1-92060de7285e",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #3",
+              "url": "https://sovietscloset.com/video/14310",
+              "id": 14310,
+              "date": "2022-07-09 20:21",
+              "number": 3,
+              "bunnyId": "009a212e-054a-4d82-b54d-879cbb290062",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #4",
+              "url": "https://sovietscloset.com/video/14309",
+              "id": 14309,
+              "date": "2022-07-10 11:21",
+              "number": 4,
+              "bunnyId": "a5a0548f-103a-4568-8e91-1de310ca0524",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #5",
+              "url": "https://sovietscloset.com/video/14313",
+              "id": 14313,
+              "date": "2022-07-11 11:18",
+              "number": 5,
+              "bunnyId": "4f07e6c8-5cda-4c23-8105-e4823475ae86",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #6",
+              "url": "https://sovietscloset.com/video/14311",
+              "id": 14311,
+              "date": "2022-07-11 20:05",
+              "number": 6,
+              "bunnyId": "f0a3647f-f1cd-4c40-8fff-3930b37fe794",
+              "new": false
+            },
+            {
+              "title": "Planet Zoo #7",
+              "url": "https://sovietscloset.com/video/14312",
+              "id": 14312,
+              "date": "2022-07-13 11:13",
+              "number": 7,
+              "bunnyId": "4daeafec-346e-4d1f-a211-ee8c867240ed",
               "new": false
             }
           ]

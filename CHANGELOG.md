@@ -1,5 +1,48 @@
 # Changelog
 
+## 2022-07-30T19:09:07Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v14306` [Factorio #45](https://sovietscloset.com/video/14306)
+- Added `v14305` [Factorio #46](https://sovietscloset.com/video/14305)
+- Added `v14304` [Factorio #47](https://sovietscloset.com/video/14304)
+
+### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+#### Modified Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+##### Videos
+
+- Added `v14303` [Fallout Tactics #9](https://sovietscloset.com/video/14303)
+
+### Added Game [Friday the 13th](https://sovietscloset.com/Friday-the-13th)
+
+#### Added Playlist [Friday the 13th](https://sovietscloset.com/Friday-the-13th)
+
+##### Videos
+
+- Added `v14315` [Friday the 13th #1](https://sovietscloset.com/video/14315)
+- Added `v14314` [Friday the 13th #2](https://sovietscloset.com/video/14314)
+
+### Added Game [Planet Zoo](https://sovietscloset.com/Planet-Zoo)
+
+#### Added Playlist [Planet Zoo](https://sovietscloset.com/Planet-Zoo)
+
+##### Videos
+
+- Added `v14307` [Planet Zoo #1](https://sovietscloset.com/video/14307)
+- Added `v14308` [Planet Zoo #2](https://sovietscloset.com/video/14308)
+- Added `v14310` [Planet Zoo #3](https://sovietscloset.com/video/14310)
+- Added `v14309` [Planet Zoo #4](https://sovietscloset.com/video/14309)
+- Added `v14313` [Planet Zoo #5](https://sovietscloset.com/video/14313)
+- Added `v14311` [Planet Zoo #6](https://sovietscloset.com/video/14311)
+- Added `v14312` [Planet Zoo #7](https://sovietscloset.com/video/14312)
+
 ## 2022-07-27T04:50:32Z
 
 ### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
