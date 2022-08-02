@@ -1,5 +1,34 @@
 # Changelog
 
+## 2022-08-02T12:30:29Z
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14300` [Rising Storm 2: Vietnam #93](https://sovietscloset.com/video/14300)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14316` [Team Fortress 2 #95](https://sovietscloset.com/video/14316)
+- Added `v14318` [Team Fortress 2 #96](https://sovietscloset.com/video/14318)
+- Added `v14317` [Team Fortress 2 #98](https://sovietscloset.com/video/14317) (new)
+
 ## 2022-07-30T19:09:07Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

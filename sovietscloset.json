@@ -1,5 +1,5 @@
 {
-  "timestamp": 1659208147,
+  "timestamp": 1659443429,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -10439,7 +10439,7 @@
       "name": "Rising Storm 2: Vietnam",
       "slug": "Rising-Storm-2-Vietnam",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rising Storm 2: Vietnam",
@@ -10447,7 +10447,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rising Storm 2: Vietnam #1",
@@ -11203,7 +11203,7 @@
               "date": "2022-07-25 20:06",
               "number": 93,
               "bunnyId": "f74f1ea6-4b64-46d4-9074-7b67e8180cf3",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -13901,7 +13901,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -13909,7 +13909,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -14729,6 +14729,33 @@
               "number": 94,
               "bunnyId": "4fefbc3e-70e5-470b-9d1d-c37eabd23e79",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #95",
+              "url": "https://sovietscloset.com/video/14316",
+              "id": 14316,
+              "date": "2022-07-10 19:58",
+              "number": 95,
+              "bunnyId": "db683499-0ca6-48f7-80ee-f447edd11414",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #96",
+              "url": "https://sovietscloset.com/video/14318",
+              "id": 14318,
+              "date": "2022-07-17 20:00",
+              "number": 96,
+              "bunnyId": "65256c14-2dc1-4184-a451-aee135815b9d",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #98",
+              "url": "https://sovietscloset.com/video/14317",
+              "id": 14317,
+              "date": "2022-07-31 19:58",
+              "number": 98,
+              "bunnyId": "0d4eaf75-c89f-4bd7-939c-7afe278203c2",
+              "new": true
             }
           ]
         }

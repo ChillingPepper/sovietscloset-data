@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-07-30T19:09:07Z.
+Last updated at 2022-08-02T12:30:29Z.
 
 ## Wrong Tags
 
@@ -184,6 +184,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #50
   - Team Fortress 2 #78
   - Team Fortress 2 #89
+  - Team Fortress 2 #97
 - [The Isle](https://sovietscloset.com/The-Isle)
   - The Isle #12
   - The Isle #18
