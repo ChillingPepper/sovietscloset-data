@@ -1,6 +1,6 @@
 {
-  "streamId": 1490,
-  "date": "2020-11-01 19:56",
+  "streamId": 14318,
+  "date": "2022-07-17 20:00",
   "game": {
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2"
@@ -388,7 +388,7 @@
       }
     ]
   },
-  "number": 5,
-  "bunnyId": "acd5d305-ac71-4562-9178-b54171c82d6c",
+  "number": 96,
+  "bunnyId": "65256c14-2dc1-4184-a451-aee135815b9d",
   "useBunny": true
 }

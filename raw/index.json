@@ -7201,7 +7201,7 @@
     "name": "Rising Storm 2: Vietnam",
     "slug": "Rising-Storm-2-Vietnam",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1007,
@@ -7709,12 +7709,12 @@
           {
             "id": 14300,
             "date": "2022-07-25 20:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -9565,7 +9565,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -10117,10 +10117,28 @@
             "date": "2022-06-26 20:45",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14316,
+            "date": "2022-07-10 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14318,
+            "date": "2022-07-17 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14317,
+            "date": "2022-07-31 19:58",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
