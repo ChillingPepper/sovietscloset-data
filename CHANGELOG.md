@@ -1,5 +1,30 @@
 # Changelog
 
+## 2022-08-09T16:34:24Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Modified `v14222` [Arma 3 - Zeus Games #31](https://sovietscloset.com/video/14222)
+  - Changed title from `Arma 3 - Zeus Games #32` to `Arma 3 - Zeus Games #31`
+  - Changed number from `32` to `31`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14317` [Team Fortress 2 #98](https://sovietscloset.com/video/14317)
+  - Is no longer marked as new.
+
 ## 2022-08-02T12:30:29Z
 
 ### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)

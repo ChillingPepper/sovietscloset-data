@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-08-02T12:30:29Z.
+Last updated at 2022-08-09T16:34:24Z.
 
 ## Wrong Tags
 
@@ -55,8 +55,6 @@ Missing videos are only detected if they are followed by a video that is already
   - 7 Days to Die #34
   - 7 Days to Die #36
   - 7 Days to Die #38
-- [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
-  - Arma 3 - Zeus Games #31
 - [Blackwake](https://sovietscloset.com/Blackwake)
   - Blackwake #13
   - Blackwake #14
