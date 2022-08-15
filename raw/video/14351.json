@@ -1,0 +1,106 @@
+{
+  "streamId": 14351,
+  "date": "2022-02-03 11:09",
+  "game": {
+    "name": "Stellaris",
+    "slug": "Stellaris"
+  },
+  "subcategory": {
+    "name": "The Gardener's Tended",
+    "slug": "The-Gardener-s-Tended",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 6801,
+        "date": "2021-09-08 11:06"
+      },
+      {
+        "streamId": 6805,
+        "date": "2021-09-09 11:06"
+      },
+      {
+        "streamId": 6804,
+        "date": "2021-09-10 11:07"
+      },
+      {
+        "streamId": 6806,
+        "date": "2021-09-10 20:15"
+      },
+      {
+        "streamId": 6811,
+        "date": "2021-09-11 11:20"
+      },
+      {
+        "streamId": 6810,
+        "date": "2021-09-11 21:06"
+      },
+      {
+        "streamId": 6815,
+        "date": "2021-09-12 13:25"
+      },
+      {
+        "streamId": 6816,
+        "date": "2021-09-13 11:08"
+      },
+      {
+        "streamId": 6817,
+        "date": "2021-09-13 20:16"
+      },
+      {
+        "streamId": 6818,
+        "date": "2021-09-14 10:39"
+      },
+      {
+        "streamId": 6820,
+        "date": "2021-09-14 19:59"
+      },
+      {
+        "streamId": 6823,
+        "date": "2021-09-15 20:12"
+      },
+      {
+        "streamId": 6824,
+        "date": "2021-09-16 11:11"
+      },
+      {
+        "streamId": 6867,
+        "date": "2021-09-17 11:18"
+      },
+      {
+        "streamId": 10147,
+        "date": "2021-09-17 11:18"
+      },
+      {
+        "streamId": 13080,
+        "date": "2022-01-31 11:22"
+      },
+      {
+        "streamId": 13088,
+        "date": "2022-02-01 11:16"
+      },
+      {
+        "streamId": 13087,
+        "date": "2022-02-01 11:21"
+      },
+      {
+        "streamId": 14350,
+        "date": "2022-02-02 11:15"
+      },
+      {
+        "streamId": 14352,
+        "date": "2022-02-02 20:10"
+      },
+      {
+        "streamId": 14351,
+        "date": "2022-02-03 11:09"
+      },
+      {
+        "streamId": 14104,
+        "date": "2022-02-04 11:17"
+      }
+    ]
+  },
+  "number": 21,
+  "bunnyId": "d7aae5ae-d854-4bd1-b877-43961fd8e4a5",
+  "useBunny": true
+}

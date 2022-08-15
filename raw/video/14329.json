@@ -1,0 +1,70 @@
+{
+  "streamId": 14329,
+  "date": "2022-07-19 11:21",
+  "game": {
+    "name": "Operation Flashpoint: Cold War Crisis",
+    "slug": "Operation-Flashpoint-Cold-War-Crisis"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14325,
+        "date": "2022-07-15 20:11"
+      },
+      {
+        "streamId": 14333,
+        "date": "2022-07-16 17:29"
+      },
+      {
+        "streamId": 14322,
+        "date": "2022-07-16 18:46"
+      },
+      {
+        "streamId": 14324,
+        "date": "2022-07-16 21:59"
+      },
+      {
+        "streamId": 14327,
+        "date": "2022-07-17 12:48"
+      },
+      {
+        "streamId": 14321,
+        "date": "2022-07-18 11:11"
+      },
+      {
+        "streamId": 14328,
+        "date": "2022-07-18 11:32"
+      },
+      {
+        "streamId": 14323,
+        "date": "2022-07-18 20:09"
+      },
+      {
+        "streamId": 14326,
+        "date": "2022-07-18 20:13"
+      },
+      {
+        "streamId": 14329,
+        "date": "2022-07-19 11:21"
+      },
+      {
+        "streamId": 14331,
+        "date": "2022-07-19 20:09"
+      },
+      {
+        "streamId": 14330,
+        "date": "2022-07-20 11:02"
+      },
+      {
+        "streamId": 14332,
+        "date": "2022-07-20 20:21"
+      }
+    ]
+  },
+  "number": 10,
+  "bunnyId": "611bee6b-816c-4795-88e7-c745464436e1",
+  "useBunny": true
+}

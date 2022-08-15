@@ -681,6 +681,12 @@
             "useBunny": true
           },
           {
+            "id": 14320,
+            "date": "2022-04-30 19:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14222,
             "date": "2022-05-28 19:54",
             "new": false,
@@ -1873,6 +1879,12 @@
           },
           {
             "id": 10177,
+            "date": "2021-12-17 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14343,
             "date": "2021-12-17 11:14",
             "new": false,
             "useBunny": true
@@ -3100,6 +3112,12 @@
           },
           {
             "id": 14303,
+            "date": "2022-07-06 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14349,
             "date": "2022-07-06 11:17",
             "new": false,
             "useBunny": true
@@ -4453,6 +4471,12 @@
             "date": "2022-05-27 11:24",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14353,
+            "date": "2022-07-12 20:06",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -4837,6 +4861,72 @@
             "date": "2022-04-10 11:59",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14335,
+            "date": "2022-07-26 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14337,
+            "date": "2022-07-26 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14334,
+            "date": "2022-07-27 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14336,
+            "date": "2022-07-28 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14338,
+            "date": "2022-07-29 10:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14341,
+            "date": "2022-07-29 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14340,
+            "date": "2022-08-01 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14339,
+            "date": "2022-08-02 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14342,
+            "date": "2022-08-03 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14358,
+            "date": "2022-08-04 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14357,
+            "date": "2022-08-05 11:32",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -5181,6 +5271,102 @@
     ]
   },
   {
+    "id": 9072,
+    "name": "Operation Flashpoint: Cold War Crisis",
+    "slug": "Operation-Flashpoint-Cold-War-Crisis",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9087,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14325,
+            "date": "2022-07-15 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14333,
+            "date": "2022-07-16 17:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14322,
+            "date": "2022-07-16 18:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14324,
+            "date": "2022-07-16 21:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14327,
+            "date": "2022-07-17 12:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14321,
+            "date": "2022-07-18 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14328,
+            "date": "2022-07-18 11:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14323,
+            "date": "2022-07-18 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14326,
+            "date": "2022-07-18 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14329,
+            "date": "2022-07-19 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14331,
+            "date": "2022-07-19 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14330,
+            "date": "2022-07-20 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14332,
+            "date": "2022-07-20 20:21",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 9066,
     "name": "Outer Wilds",
     "slug": "Outer-Wilds",
@@ -5393,6 +5579,42 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9073,
+    "name": "PHOGS",
+    "slug": "PHOGS",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9088,
+        "name": "Alasdair and Soviet",
+        "slug": "Alasdair-and-Soviet",
+        "streams": [
+          {
+            "id": 14359,
+            "date": "2022-07-07 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14360,
+            "date": "2022-07-28 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14361,
+            "date": "2022-08-12 19:54",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5885,6 +6107,12 @@
           {
             "id": 12104,
             "date": "2022-01-11 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14356,
+            "date": "2022-02-01 19:59",
             "new": false,
             "useBunny": true
           }
@@ -7689,6 +7917,48 @@
             "useBunny": true
           },
           {
+            "id": 14269,
+            "date": "2022-05-03 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14268,
+            "date": "2022-05-04 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14263,
+            "date": "2022-05-09 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14264,
+            "date": "2022-05-10 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14267,
+            "date": "2022-05-13 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14265,
+            "date": "2022-05-20 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14266,
+            "date": "2022-05-27 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14243,
             "date": "2022-06-03 20:44",
             "new": false,
@@ -8313,6 +8583,18 @@
             "useBunny": true
           },
           {
+            "id": 14344,
+            "date": "2021-12-22 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14345,
+            "date": "2021-12-23 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 10193,
             "date": "2021-12-24 11:29",
             "new": false,
@@ -8763,6 +9045,18 @@
             "useBunny": true
           },
           {
+            "id": 14354,
+            "date": "2022-02-09 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14355,
+            "date": "2022-02-10 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14115,
             "date": "2022-02-11 11:14",
             "new": false,
@@ -9209,6 +9503,24 @@
           {
             "id": 13087,
             "date": "2022-02-01 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14350,
+            "date": "2022-02-02 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14352,
+            "date": "2022-02-02 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14351,
+            "date": "2022-02-03 11:09",
             "new": false,
             "useBunny": true
           },
@@ -9969,6 +10281,12 @@
             "useBunny": true
           },
           {
+            "id": 14346,
+            "date": "2021-12-26 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 12097,
             "date": "2022-01-02 19:56",
             "new": false,
@@ -10089,6 +10407,12 @@
             "useBunny": true
           },
           {
+            "id": 14162,
+            "date": "2022-05-15 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14164,
             "date": "2022-05-22 19:51",
             "new": false,
@@ -10119,6 +10443,12 @@
             "useBunny": true
           },
           {
+            "id": 14348,
+            "date": "2022-07-03 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14316,
             "date": "2022-07-10 19:58",
             "new": false,
@@ -10133,6 +10463,12 @@
           {
             "id": 14317,
             "date": "2022-07-31 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14347,
+            "date": "2022-08-07 19:53",
             "new": false,
             "useBunny": true
           }

@@ -1,0 +1,46 @@
+{
+  "streamId": 14345,
+  "date": "2021-12-23 11:25",
+  "game": {
+    "name": "Source Filmmaker",
+    "slug": "Source-Filmmaker"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10178,
+        "date": "2021-12-21 11:29"
+      },
+      {
+        "streamId": 14344,
+        "date": "2021-12-22 11:09"
+      },
+      {
+        "streamId": 14345,
+        "date": "2021-12-23 11:25"
+      },
+      {
+        "streamId": 10193,
+        "date": "2021-12-24 11:29"
+      },
+      {
+        "streamId": 12089,
+        "date": "2022-01-05 11:14"
+      },
+      {
+        "streamId": 12088,
+        "date": "2022-01-05 11:57"
+      },
+      {
+        "streamId": 12090,
+        "date": "2022-01-05 12:00"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "16f4a287-56c6-4bdd-a994-219fd3c3e424",
+  "useBunny": true
+}

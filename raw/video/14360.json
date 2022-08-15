@@ -1,0 +1,30 @@
+{
+  "streamId": 14360,
+  "date": "2022-07-28 20:04",
+  "game": {
+    "name": "PHOGS",
+    "slug": "PHOGS"
+  },
+  "subcategory": {
+    "name": "Alasdair and Soviet",
+    "slug": "Alasdair-and-Soviet",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14359,
+        "date": "2022-07-07 20:00"
+      },
+      {
+        "streamId": 14360,
+        "date": "2022-07-28 20:04"
+      },
+      {
+        "streamId": 14361,
+        "date": "2022-08-12 19:54"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "cb7c66f5-8e8c-4882-97a8-82763d27e19c",
+  "useBunny": true
+}
