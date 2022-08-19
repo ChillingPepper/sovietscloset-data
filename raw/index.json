@@ -3631,6 +3631,18 @@
             "date": "2021-10-01 20:17",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14371,
+            "date": "2022-07-14 11:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14372,
+            "date": "2022-07-15 11:15",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -4215,6 +4227,12 @@
             "useBunny": true
           },
           {
+            "id": 14362,
+            "date": "2022-02-17 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14285,
             "date": "2022-02-24 20:55",
             "new": false,
@@ -4313,6 +4331,36 @@
           {
             "id": 14276,
             "date": "2022-06-23 21:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14364,
+            "date": "2022-06-30 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14365,
+            "date": "2022-07-14 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14363,
+            "date": "2022-07-21 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14366,
+            "date": "2022-08-04 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14367,
+            "date": "2022-08-11 20:48",
             "new": false,
             "useBunny": true
           }
@@ -4457,6 +4505,12 @@
           {
             "id": 12113,
             "date": "2022-01-21 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14370,
+            "date": "2022-03-17 11:12",
             "new": false,
             "useBunny": true
           },
@@ -5587,7 +5641,7 @@
     "name": "PHOGS",
     "slug": "PHOGS",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9088,
@@ -5609,12 +5663,12 @@
           {
             "id": 14361,
             "date": "2022-08-12 19:54",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6127,7 +6181,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1004,
@@ -7417,10 +7471,34 @@
             "date": "2022-05-06 20:28",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14368,
+            "date": "2022-08-16 11:32",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14369,
+            "date": "2022-08-17 11:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14374,
+            "date": "2022-08-17 20:21",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14373,
+            "date": "2022-08-18 11:02",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

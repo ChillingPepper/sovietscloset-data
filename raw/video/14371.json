@@ -1,0 +1,50 @@
+{
+  "streamId": 14371,
+  "date": "2022-07-14 11:44",
+  "game": {
+    "name": "Hardspace: Shipbreaker",
+    "slug": "Hardspace-Shipbreaker"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6886,
+        "date": "2021-09-28 11:10"
+      },
+      {
+        "streamId": 6890,
+        "date": "2021-09-28 20:21"
+      },
+      {
+        "streamId": 6888,
+        "date": "2021-09-29 11:14"
+      },
+      {
+        "streamId": 6889,
+        "date": "2021-09-29 20:27"
+      },
+      {
+        "streamId": 6885,
+        "date": "2021-09-30 11:17"
+      },
+      {
+        "streamId": 6887,
+        "date": "2021-10-01 20:17"
+      },
+      {
+        "streamId": 14371,
+        "date": "2022-07-14 11:44"
+      },
+      {
+        "streamId": 14372,
+        "date": "2022-07-15 11:15"
+      }
+    ]
+  },
+  "number": 7,
+  "bunnyId": "ec8c0259-ee47-4926-95b9-0f3e5ade83e7",
+  "useBunny": true
+}
