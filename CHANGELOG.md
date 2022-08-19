@@ -1,5 +1,125 @@
 # Changelog
 
+## 2022-08-19T20:04:07Z
+
+### Modified Game [Hardspace: Shipbreaker](https://sovietscloset.com/Hardspace-Shipbreaker)
+
+#### Modified Playlist [Hardspace: Shipbreaker](https://sovietscloset.com/Hardspace-Shipbreaker)
+
+##### Videos
+
+- Added `v14371` [Hardspace: Shipbreaker #7](https://sovietscloset.com/video/14371)
+- Added `v14372` [Hardspace: Shipbreaker #8](https://sovietscloset.com/video/14372)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14362` [Holdfast: Nations at War #96](https://sovietscloset.com/video/14362)
+- Modified `v14285` [Holdfast: Nations at War #97](https://sovietscloset.com/video/14285)
+  - Changed title from `Holdfast: Nations at War #96` to `Holdfast: Nations at War #97`
+  - Changed number from `96` to `97`
+- Modified `v14102` [Holdfast: Nations at War #98](https://sovietscloset.com/video/14102)
+  - Changed title from `Holdfast: Nations at War #97` to `Holdfast: Nations at War #98`
+  - Changed number from `97` to `98`
+- Modified `v14284` [Holdfast: Nations at War #99](https://sovietscloset.com/video/14284)
+  - Changed title from `Holdfast: Nations at War #98` to `Holdfast: Nations at War #99`
+  - Changed number from `98` to `99`
+- Modified `v14283` [Holdfast: Nations at War #100](https://sovietscloset.com/video/14283)
+  - Changed title from `Holdfast: Nations at War #99` to `Holdfast: Nations at War #100`
+  - Changed number from `99` to `100`
+- Modified `v14282` [Holdfast: Nations at War #101](https://sovietscloset.com/video/14282)
+  - Changed title from `Holdfast: Nations at War #100` to `Holdfast: Nations at War #101`
+  - Changed number from `100` to `101`
+- Modified `v14281` [Holdfast: Nations at War #102](https://sovietscloset.com/video/14281)
+  - Changed title from `Holdfast: Nations at War #101` to `Holdfast: Nations at War #102`
+  - Changed number from `101` to `102`
+- Modified `v14280` [Holdfast: Nations at War #103](https://sovietscloset.com/video/14280)
+  - Changed title from `Holdfast: Nations at War #102` to `Holdfast: Nations at War #103`
+  - Changed number from `102` to `103`
+- Modified `v14278` [Holdfast: Nations at War #104](https://sovietscloset.com/video/14278)
+  - Changed title from `Holdfast: Nations at War #103` to `Holdfast: Nations at War #104`
+  - Changed number from `103` to `104`
+- Modified `v14251` [Holdfast: Nations at War #105](https://sovietscloset.com/video/14251)
+  - Changed title from `Holdfast: Nations at War #104` to `Holdfast: Nations at War #105`
+  - Changed number from `104` to `105`
+- Modified `v14279` [Holdfast: Nations at War #106](https://sovietscloset.com/video/14279)
+  - Changed title from `Holdfast: Nations at War #105` to `Holdfast: Nations at War #106`
+  - Changed number from `105` to `106`
+- Modified `v14247` [Holdfast: Nations at War #107](https://sovietscloset.com/video/14247)
+  - Changed title from `Holdfast: Nations at War #106` to `Holdfast: Nations at War #107`
+  - Changed number from `106` to `107`
+- Modified `v14249` [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249)
+  - Changed title from `Holdfast: Nations at War #108` to `Holdfast: Nations at War #109`
+  - Changed number from `108` to `109`
+- Modified `v14277` [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277)
+  - Changed title from `Holdfast: Nations at War #108` to `Holdfast: Nations at War #109`
+  - Changed number from `108` to `109`
+- Modified `v14250` [Holdfast: Nations at War #110](https://sovietscloset.com/video/14250)
+  - Changed title from `Holdfast: Nations at War #109` to `Holdfast: Nations at War #110`
+  - Changed number from `109` to `110`
+- Modified `v14248` [Holdfast: Nations at War #111](https://sovietscloset.com/video/14248)
+  - Changed title from `Holdfast: Nations at War #110` to `Holdfast: Nations at War #111`
+  - Changed number from `110` to `111`
+- Modified `v14246` [Holdfast: Nations at War #112](https://sovietscloset.com/video/14246)
+  - Changed title from `Holdfast: Nations at War #111` to `Holdfast: Nations at War #112`
+  - Changed number from `111` to `112`
+- Modified `v14276` [Holdfast: Nations at War #113](https://sovietscloset.com/video/14276)
+  - Changed title from `Holdfast: Nations at War #112` to `Holdfast: Nations at War #113`
+  - Changed number from `112` to `113`
+- Added `v14364` [Holdfast: Nations at War #114](https://sovietscloset.com/video/14364)
+- Added `v14365` [Holdfast: Nations at War #115](https://sovietscloset.com/video/14365)
+- Added `v14363` [Holdfast: Nations at War #116](https://sovietscloset.com/video/14363)
+- Added `v14366` [Holdfast: Nations at War #117](https://sovietscloset.com/video/14366)
+- Added `v14367` [Holdfast: Nations at War #118](https://sovietscloset.com/video/14367)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14370` [Just Chatting #9](https://sovietscloset.com/video/14370)
+- Modified `v14271` [Just Chatting #10](https://sovietscloset.com/video/14271)
+  - Changed title from `Just Chatting #9` to `Just Chatting #10`
+  - Changed number from `9` to `10`
+- Modified `v14272` [Just Chatting #11](https://sovietscloset.com/video/14272)
+  - Changed title from `Just Chatting #10` to `Just Chatting #11`
+  - Changed number from `10` to `11`
+- Modified `v14353` [Just Chatting #12](https://sovietscloset.com/video/14353)
+  - Changed title from `Just Chatting #11` to `Just Chatting #12`
+  - Changed number from `11` to `12`
+
+### Modified Game [PHOGS](https://sovietscloset.com/PHOGS)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [PHOGS - Alasdair and Soviet](https://sovietscloset.com/PHOGS/Alasdair-and-Soviet)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14361` [PHOGS - Alasdair and Soviet #3](https://sovietscloset.com/video/14361)
+  - Is no longer marked as new.
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14368` [Rimworld - The Pale Ones #25](https://sovietscloset.com/video/14368) (new)
+- Added `v14369` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14369) (new)
+- Added `v14374` [Rimworld - The Pale Ones #27](https://sovietscloset.com/video/14374) (new)
+- Added `v14373` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14373) (new)
+
 ## 2022-08-15T00:44:10Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

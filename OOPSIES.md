@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-08-15T00:44:10Z.
+Last updated at 2022-08-19T20:04:07Z.
 
 ## Wrong Tags
 
@@ -112,7 +112,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #78
   - Holdfast: Nations at War #81
   - Holdfast: Nations at War #83
-  - Holdfast: Nations at War #107
+  - Holdfast: Nations at War #108
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -498,8 +498,8 @@ This list includes all videos that have the same date.
   - [DayZ - Standalone #78](https://sovietscloset.com/video/14257) (id: 14257)
   - [DayZ - Standalone #78](https://sovietscloset.com/video/14274) (id: 14274)
 - Date: 2022-05-12 20:53
-  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14249) (id: 14249)
-  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14277) (id: 14277)
+  - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249) (id: 14249)
+  - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277) (id: 14277)
 - Date: 2022-07-06 11:17
   - [Fallout Tactics #10](https://sovietscloset.com/video/14303) (id: 14303)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14349) (id: 14349)
@@ -748,9 +748,9 @@ This list includes all videos that have the same number.
 - Number: 94
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778) (id: 1778)
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777) (id: 6777)
-- Number: 108
-  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14249) (id: 14249)
-  - [Holdfast: Nations at War #108](https://sovietscloset.com/video/14277) (id: 14277)
+- Number: 109
+  - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249) (id: 14249)
+  - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277) (id: 14277)
 
 ### Dupes by BunnyCDN ID
 
