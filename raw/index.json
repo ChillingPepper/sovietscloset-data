@@ -7347,6 +7347,18 @@
         "slug": "The-Pale-Ones",
         "streams": [
           {
+            "id": 14377,
+            "date": "2021-10-04 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14376,
+            "date": "2021-10-05 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6895,
             "date": "2021-10-05 20:14",
             "new": false,
@@ -7361,6 +7373,12 @@
           {
             "id": 6897,
             "date": "2021-10-06 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14375,
+            "date": "2021-10-07 11:17",
             "new": false,
             "useBunny": true
           },
@@ -7475,7 +7493,7 @@
           {
             "id": 14368,
             "date": "2022-08-16 11:32",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -7493,6 +7511,24 @@
           {
             "id": 14373,
             "date": "2022-08-18 11:02",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14378,
+            "date": "2022-08-19 11:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14379,
+            "date": "2022-08-19 20:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14380,
+            "date": "2022-08-21 12:46",
             "new": true,
             "useBunny": true
           }
@@ -9955,7 +9991,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -10549,10 +10585,16 @@
             "date": "2022-08-07 19:53",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14381,
+            "date": "2022-08-21 19:54",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
