@@ -1,5 +1,5 @@
 {
-  "timestamp": 1660939447,
+  "timestamp": 1661254683,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -10650,6 +10650,24 @@
           "recentlyUpdated": true,
           "videos": [
             {
+              "title": "Rimworld - The Pale Ones #1",
+              "url": "https://sovietscloset.com/video/14377",
+              "id": 14377,
+              "date": "2021-10-04 11:08",
+              "number": 1,
+              "bunnyId": "0db45e33-1da9-450f-94e7-e2a954b04150",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #2",
+              "url": "https://sovietscloset.com/video/14376",
+              "id": 14376,
+              "date": "2021-10-05 11:16",
+              "number": 2,
+              "bunnyId": "b933dc9e-8b11-4e9e-8712-c3311f0f5532",
+              "new": false
+            },
+            {
               "title": "Rimworld - The Pale Ones #3",
               "url": "https://sovietscloset.com/video/6895",
               "id": 6895,
@@ -10674,6 +10692,15 @@
               "date": "2021-10-06 20:06",
               "number": 5,
               "bunnyId": "332a8297-a247-4909-aad7-5c8b7d116c2a",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #6",
+              "url": "https://sovietscloset.com/video/14375",
+              "id": 14375,
+              "date": "2021-10-07 11:17",
+              "number": 6,
+              "bunnyId": "d831a9a7-7a82-4bd4-b1ab-c392ef89f54a",
               "new": false
             },
             {
@@ -10845,7 +10872,7 @@
               "date": "2022-08-16 11:32",
               "number": 25,
               "bunnyId": "65cf2f74-04d3-43fa-b81b-33fb177bfe9d",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #26",
@@ -10872,6 +10899,33 @@
               "date": "2022-08-18 11:02",
               "number": 28,
               "bunnyId": "847a1aeb-3027-4d2d-9449-51598e824b92",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #29",
+              "url": "https://sovietscloset.com/video/14378",
+              "id": 14378,
+              "date": "2022-08-19 11:11",
+              "number": 29,
+              "bunnyId": "4193e6d7-003b-498a-97f0-5aa808a5c2b6",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #30",
+              "url": "https://sovietscloset.com/video/14379",
+              "id": 14379,
+              "date": "2022-08-19 20:15",
+              "number": 30,
+              "bunnyId": "0d739c9b-4999-4a34-9cd0-00ad0ea08f18",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #31",
+              "url": "https://sovietscloset.com/video/14380",
+              "id": 14380,
+              "date": "2022-08-21 12:46",
+              "number": 31,
+              "bunnyId": "13577cc0-b08c-4c5d-ab90-1c425430ad74",
               "new": true
             }
           ]
@@ -14472,7 +14526,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -14480,7 +14534,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -15363,6 +15417,15 @@
               "number": 101,
               "bunnyId": "1ff72ea6-c574-44d4-959a-de376ec0836e",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #102",
+              "url": "https://sovietscloset.com/video/14381",
+              "id": 14381,
+              "date": "2022-08-21 19:54",
+              "number": 102,
+              "bunnyId": "66a3000b-1ba3-4ac4-98d5-d598bb00c192",
+              "new": true
             }
           ]
         }

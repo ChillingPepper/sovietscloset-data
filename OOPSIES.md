@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-08-19T20:04:07Z.
+Last updated at 2022-08-23T11:38:03Z.
 
 ## Wrong Tags
 
@@ -133,10 +133,6 @@ Missing videos are only detected if they are followed by a video that is already
   - Rimworld - Caloma's Creek #83
   - Rimworld - Caloma's Creek #85
   - Rimworld - Caloma's Creek #93
-- [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
-  - Rimworld - The Pale Ones #1
-  - Rimworld - The Pale Ones #2
-  - Rimworld - The Pale Ones #6
 - [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
   - Rising Storm 2: Vietnam #8
   - Rising Storm 2: Vietnam #9

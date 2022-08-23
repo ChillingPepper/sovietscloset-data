@@ -1,5 +1,34 @@
 # Changelog
 
+## 2022-08-23T11:38:03Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14377` [Rimworld - The Pale Ones #1](https://sovietscloset.com/video/14377)
+- Added `v14376` [Rimworld - The Pale Ones #2](https://sovietscloset.com/video/14376)
+- Added `v14375` [Rimworld - The Pale Ones #6](https://sovietscloset.com/video/14375)
+- Modified `v14368` [Rimworld - The Pale Ones #25](https://sovietscloset.com/video/14368)
+  - Is no longer marked as new.
+- Added `v14378` [Rimworld - The Pale Ones #29](https://sovietscloset.com/video/14378) (new)
+- Added `v14379` [Rimworld - The Pale Ones #30](https://sovietscloset.com/video/14379) (new)
+- Added `v14380` [Rimworld - The Pale Ones #31](https://sovietscloset.com/video/14380) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14381` [Team Fortress 2 #102](https://sovietscloset.com/video/14381) (new)
+
 ## 2022-08-19T20:04:07Z
 
 ### Modified Game [Hardspace: Shipbreaker](https://sovietscloset.com/Hardspace-Shipbreaker)
