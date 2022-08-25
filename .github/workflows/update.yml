@@ -23,7 +23,7 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-          if [[ $(git status --porcelain) ]]; then
+          if [[ $(git status --porcelain sovietscloset.json CHANGELOG.md OOPSIES.md) ]]; then
             git add raw
             git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ") raw"
             git add sovietscloset.json CHANGELOG.md OOPSIES.md
