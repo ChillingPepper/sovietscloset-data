@@ -1,5 +1,41 @@
 # Changelog
 
+## 2022-08-25T01:21:11Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v14369` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14369)
+  - Is no longer marked as new.
+- Modified `v14374` [Rimworld - The Pale Ones #27](https://sovietscloset.com/video/14374)
+  - Is no longer marked as new.
+- Added `v14385` [Rimworld - The Pale Ones #32](https://sovietscloset.com/video/14385) (new)
+- Added `v14384` [Rimworld - The Pale Ones #33](https://sovietscloset.com/video/14384) (new)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14386` [Rising Storm 2: Vietnam #94](https://sovietscloset.com/video/14386) (new)
+
+### Added Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Added Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v14382` [Stormworks: Build and Rescue #1](https://sovietscloset.com/video/14382)
+- Added `v14383` [Stormworks: Build and Rescue #2](https://sovietscloset.com/video/14383)
+
 ## 2022-08-23T11:38:03Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)

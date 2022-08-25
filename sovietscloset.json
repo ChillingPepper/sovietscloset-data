@@ -1,5 +1,5 @@
 {
-  "timestamp": 1661254683,
+  "timestamp": 1661390471,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -10881,7 +10881,7 @@
               "date": "2022-08-17 11:13",
               "number": 26,
               "bunnyId": "9a6100a5-b701-4a24-b4c3-ca833e99ece3",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #27",
@@ -10890,7 +10890,7 @@
               "date": "2022-08-17 20:21",
               "number": 27,
               "bunnyId": "f05e30f1-b748-46ce-b5fb-e97ba526b122",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #28",
@@ -10927,6 +10927,24 @@
               "number": 31,
               "bunnyId": "13577cc0-b08c-4c5d-ab90-1c425430ad74",
               "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #32",
+              "url": "https://sovietscloset.com/video/14385",
+              "id": 14385,
+              "date": "2022-08-22 20:12",
+              "number": 32,
+              "bunnyId": "a134b4c2-e0a1-42fa-9b11-cc4d7c586f2f",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #33",
+              "url": "https://sovietscloset.com/video/14384",
+              "id": 14384,
+              "date": "2022-08-23 11:09",
+              "number": 33,
+              "bunnyId": "fed78920-29bf-41eb-b42d-468c0001ab0e",
+              "new": true
             }
           ]
         }
@@ -10938,7 +10956,7 @@
       "name": "Rising Storm 2: Vietnam",
       "slug": "Rising-Storm-2-Vietnam",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Rising Storm 2: Vietnam",
@@ -10946,7 +10964,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Rising Storm 2: Vietnam #1",
@@ -11766,6 +11784,15 @@
               "number": 93,
               "bunnyId": "f74f1ea6-4b64-46d4-9074-7b67e8180cf3",
               "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #94",
+              "url": "https://sovietscloset.com/video/14386",
+              "id": 14386,
+              "date": "2022-08-23 19:58",
+              "number": 94,
+              "bunnyId": "881f04eb-ecee-43be-8e2d-c017a584531d",
+              "new": true
             }
           ]
         }
@@ -14031,6 +14058,44 @@
               "date": "2022-02-04 11:17",
               "number": 22,
               "bunnyId": "fdb08ac0-1a8d-408e-9df9-09fd1af59f04",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stormworks: Build and Rescue",
+      "url": "https://sovietscloset.com/Stormworks-Build-and-Rescue",
+      "name": "Stormworks: Build and Rescue",
+      "slug": "Stormworks-Build-and-Rescue",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Stormworks: Build and Rescue",
+          "url": "https://sovietscloset.com/Stormworks-Build-and-Rescue",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Stormworks: Build and Rescue #1",
+              "url": "https://sovietscloset.com/video/14382",
+              "id": 14382,
+              "date": "2021-08-27 20:02",
+              "number": 1,
+              "bunnyId": "8dac58d8-3fc7-4e8c-b469-99af94839f4c",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #2",
+              "url": "https://sovietscloset.com/video/14383",
+              "id": 14383,
+              "date": "2021-08-28 15:04",
+              "number": 2,
+              "bunnyId": "0b606232-8030-4543-84ef-d4fd4728393f",
               "new": false
             }
           ]
