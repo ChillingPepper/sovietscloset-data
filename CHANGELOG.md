@@ -1,5 +1,59 @@
 # Changelog
 
+## 2022-08-28T20:39:08Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14388` [CSGO #18](https://sovietscloset.com/video/14388) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14387` [Holdfast: Nations at War #119](https://sovietscloset.com/video/14387) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v14373` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14373)
+  - Is no longer marked as new.
+- Modified `v14378` [Rimworld - The Pale Ones #29](https://sovietscloset.com/video/14378)
+  - Is no longer marked as new.
+- Modified `v14379` [Rimworld - The Pale Ones #30](https://sovietscloset.com/video/14379)
+  - Is no longer marked as new.
+- Modified `v14380` [Rimworld - The Pale Ones #31](https://sovietscloset.com/video/14380)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14381` [Team Fortress 2 #102](https://sovietscloset.com/video/14381)
+  - Is no longer marked as new.
+
 ## 2022-08-25T01:21:11Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
