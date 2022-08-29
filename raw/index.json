@@ -1270,7 +1270,7 @@
     "name": "CSGO",
     "slug": "CSGO",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 3061,
@@ -1378,10 +1378,16 @@
             "date": "2019-06-12 20:15",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14388,
+            "date": "2022-08-26 19:52",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3655,7 +3661,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -4363,10 +4369,16 @@
             "date": "2022-08-11 20:48",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14387,
+            "date": "2022-08-25 20:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7511,25 +7523,25 @@
           {
             "id": 14373,
             "date": "2022-08-18 11:02",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14378,
             "date": "2022-08-19 11:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14379,
             "date": "2022-08-19 20:15",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14380,
             "date": "2022-08-21 12:46",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -10039,7 +10051,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -10637,12 +10649,12 @@
           {
             "id": 14381,
             "date": "2022-08-21 19:54",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
