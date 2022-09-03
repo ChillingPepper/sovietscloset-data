@@ -1,5 +1,5 @@
 {
-  "timestamp": 1661719148,
+  "timestamp": 1662145381,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5276,7 +5276,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -5284,7 +5284,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -6340,13 +6340,22 @@
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #119",
+              "title": "Holdfast: Nations at War #120",
               "url": "https://sovietscloset.com/video/14387",
               "id": 14387,
               "date": "2022-08-25 20:51",
-              "number": 119,
+              "number": 120,
               "bunnyId": "05fa1e4f-af55-4248-bcc7-27fa4e08ec2b",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #120",
+              "url": "https://sovietscloset.com/video/14403",
+              "id": 14403,
+              "date": "2022-08-25 20:51",
+              "number": 120,
+              "bunnyId": "29b71761-9ab5-4cac-bcd2-756c4ce610fc",
+              "new": false
             }
           ]
         }
@@ -10884,84 +10893,192 @@
               "new": false
             },
             {
-              "title": "Rimworld - The Pale Ones #25",
+              "title": "Rimworld - The Pale Ones #26",
               "url": "https://sovietscloset.com/video/14368",
               "id": 14368,
               "date": "2022-08-16 11:32",
-              "number": 25,
+              "number": 26,
               "bunnyId": "65cf2f74-04d3-43fa-b81b-33fb177bfe9d",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #26",
-              "url": "https://sovietscloset.com/video/14369",
-              "id": 14369,
-              "date": "2022-08-17 11:13",
+              "url": "https://sovietscloset.com/video/14393",
+              "id": 14393,
+              "date": "2022-08-16 11:32",
               "number": 26,
-              "bunnyId": "9a6100a5-b701-4a24-b4c3-ca833e99ece3",
-              "new": false
-            },
-            {
-              "title": "Rimworld - The Pale Ones #27",
-              "url": "https://sovietscloset.com/video/14374",
-              "id": 14374,
-              "date": "2022-08-17 20:21",
-              "number": 27,
-              "bunnyId": "f05e30f1-b748-46ce-b5fb-e97ba526b122",
+              "bunnyId": "28a5cf4b-8c18-4986-9ffa-b8a39eeed2ad",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #28",
-              "url": "https://sovietscloset.com/video/14373",
-              "id": 14373,
-              "date": "2022-08-18 11:02",
+              "url": "https://sovietscloset.com/video/14369",
+              "id": 14369,
+              "date": "2022-08-17 11:13",
               "number": 28,
-              "bunnyId": "847a1aeb-3027-4d2d-9449-51598e824b92",
+              "bunnyId": "9a6100a5-b701-4a24-b4c3-ca833e99ece3",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #28",
+              "url": "https://sovietscloset.com/video/14392",
+              "id": 14392,
+              "date": "2022-08-17 11:13",
+              "number": 28,
+              "bunnyId": "2ae1385d-b221-42e2-b2bb-f74d8abe9b6d",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #29",
-              "url": "https://sovietscloset.com/video/14378",
-              "id": 14378,
-              "date": "2022-08-19 11:11",
+              "url": "https://sovietscloset.com/video/14374",
+              "id": 14374,
+              "date": "2022-08-17 20:21",
               "number": 29,
-              "bunnyId": "4193e6d7-003b-498a-97f0-5aa808a5c2b6",
+              "bunnyId": "f05e30f1-b748-46ce-b5fb-e97ba526b122",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #30",
-              "url": "https://sovietscloset.com/video/14379",
-              "id": 14379,
-              "date": "2022-08-19 20:15",
+              "url": "https://sovietscloset.com/video/14373",
+              "id": 14373,
+              "date": "2022-08-18 11:02",
               "number": 30,
-              "bunnyId": "0d739c9b-4999-4a34-9cd0-00ad0ea08f18",
+              "bunnyId": "847a1aeb-3027-4d2d-9449-51598e824b92",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #31",
-              "url": "https://sovietscloset.com/video/14380",
-              "id": 14380,
-              "date": "2022-08-21 12:46",
+              "url": "https://sovietscloset.com/video/14378",
+              "id": 14378,
+              "date": "2022-08-19 11:11",
               "number": 31,
-              "bunnyId": "13577cc0-b08c-4c5d-ab90-1c425430ad74",
+              "bunnyId": "4193e6d7-003b-498a-97f0-5aa808a5c2b6",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #32",
-              "url": "https://sovietscloset.com/video/14385",
-              "id": 14385,
-              "date": "2022-08-22 20:12",
+              "url": "https://sovietscloset.com/video/14379",
+              "id": 14379,
+              "date": "2022-08-19 20:15",
               "number": 32,
-              "bunnyId": "a134b4c2-e0a1-42fa-9b11-cc4d7c586f2f",
-              "new": true
+              "bunnyId": "0d739c9b-4999-4a34-9cd0-00ad0ea08f18",
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #33",
+              "url": "https://sovietscloset.com/video/14380",
+              "id": 14380,
+              "date": "2022-08-21 12:46",
+              "number": 33,
+              "bunnyId": "13577cc0-b08c-4c5d-ab90-1c425430ad74",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #34",
+              "url": "https://sovietscloset.com/video/14396",
+              "id": 14396,
+              "date": "2022-08-22 11:17",
+              "number": 34,
+              "bunnyId": "d8c3c785-1f34-4cc3-a8e5-63d8caada023",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #35",
+              "url": "https://sovietscloset.com/video/14385",
+              "id": 14385,
+              "date": "2022-08-22 20:12",
+              "number": 35,
+              "bunnyId": "a134b4c2-e0a1-42fa-9b11-cc4d7c586f2f",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #36",
               "url": "https://sovietscloset.com/video/14384",
               "id": 14384,
               "date": "2022-08-23 11:09",
-              "number": 33,
+              "number": 36,
               "bunnyId": "fed78920-29bf-41eb-b42d-468c0001ab0e",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #37",
+              "url": "https://sovietscloset.com/video/14395",
+              "id": 14395,
+              "date": "2022-08-24 20:08",
+              "number": 37,
+              "bunnyId": "43a7b032-fc70-4b5e-bcb9-2cd8b53a7afd",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #38",
+              "url": "https://sovietscloset.com/video/14394",
+              "id": 14394,
+              "date": "2022-08-26 11:16",
+              "number": 38,
+              "bunnyId": "444ef148-a738-41d9-8aaf-cf64a57fd130",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #39",
+              "url": "https://sovietscloset.com/video/14391",
+              "id": 14391,
+              "date": "2022-08-28 16:01",
+              "number": 39,
+              "bunnyId": "93bca4b7-616d-4bdf-b325-8867b40d40e8",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #40",
+              "url": "https://sovietscloset.com/video/14389",
+              "id": 14389,
+              "date": "2022-08-29 11:08",
+              "number": 40,
+              "bunnyId": "fdef117b-d388-492e-abb0-304eff723f64",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #41",
+              "url": "https://sovietscloset.com/video/14397",
+              "id": 14397,
+              "date": "2022-08-29 20:13",
+              "number": 41,
+              "bunnyId": "9eb246e5-9bac-493f-b20b-f1d431260fe9",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #42",
+              "url": "https://sovietscloset.com/video/14398",
+              "id": 14398,
+              "date": "2022-08-30 11:04",
+              "number": 42,
+              "bunnyId": "7086f790-e4fc-4481-abaa-a66f7f25e655",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #43",
+              "url": "https://sovietscloset.com/video/14399",
+              "id": 14399,
+              "date": "2022-08-31 11:15",
+              "number": 43,
+              "bunnyId": "3f02e3d7-6ad1-4ad9-8f18-10a9744f871f",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #44",
+              "url": "https://sovietscloset.com/video/14401",
+              "id": 14401,
+              "date": "2022-08-31 20:15",
+              "number": 44,
+              "bunnyId": "886d79ad-9df8-4441-b743-3d513998a78d",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #45",
+              "url": "https://sovietscloset.com/video/14402",
+              "id": 14402,
+              "date": "2022-09-01 11:21",
+              "number": 45,
+              "bunnyId": "e448fd3b-bce5-4ae6-8dd4-87defe92785e",
               "new": true
             }
           ]
@@ -11810,6 +11927,15 @@
               "date": "2022-08-23 19:58",
               "number": 94,
               "bunnyId": "881f04eb-ecee-43be-8e2d-c017a584531d",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #95",
+              "url": "https://sovietscloset.com/video/14400",
+              "id": 14400,
+              "date": "2022-08-30 20:03",
+              "number": 95,
+              "bunnyId": "0fb42f49-c852-4ad9-bacc-8e4246d86bd5",
               "new": true
             }
           ]
@@ -14609,7 +14735,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -14617,7 +14743,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -15509,6 +15635,15 @@
               "number": 102,
               "bunnyId": "66a3000b-1ba3-4ac4-98d5-d598bb00c192",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #103",
+              "url": "https://sovietscloset.com/video/14390",
+              "id": 14390,
+              "date": "2022-08-28 19:58",
+              "number": 103,
+              "bunnyId": "f49643f6-f8f0-455f-8e7d-9da7e483335e",
+              "new": true
             }
           ]
         }

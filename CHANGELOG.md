@@ -1,5 +1,93 @@
 # Changelog
 
+## 2022-09-02T19:03:01Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v14403` [Holdfast: Nations at War #120](https://sovietscloset.com/video/14403)
+- Modified `v14387` [Holdfast: Nations at War #120](https://sovietscloset.com/video/14387)
+  - Changed title from `Holdfast: Nations at War #119` to `Holdfast: Nations at War #120`
+  - Changed number from `119` to `120`
+  - Is no longer marked as new.
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14393` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14393)
+- Modified `v14368` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14368)
+  - Changed title from `Rimworld - The Pale Ones #25` to `Rimworld - The Pale Ones #26`
+  - Changed number from `25` to `26`
+- Added `v14392` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14392)
+- Modified `v14369` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14369)
+  - Changed title from `Rimworld - The Pale Ones #26` to `Rimworld - The Pale Ones #28`
+  - Changed number from `26` to `28`
+- Modified `v14374` [Rimworld - The Pale Ones #29](https://sovietscloset.com/video/14374)
+  - Changed title from `Rimworld - The Pale Ones #27` to `Rimworld - The Pale Ones #29`
+  - Changed number from `27` to `29`
+- Modified `v14373` [Rimworld - The Pale Ones #30](https://sovietscloset.com/video/14373)
+  - Changed title from `Rimworld - The Pale Ones #28` to `Rimworld - The Pale Ones #30`
+  - Changed number from `28` to `30`
+- Modified `v14378` [Rimworld - The Pale Ones #31](https://sovietscloset.com/video/14378)
+  - Changed title from `Rimworld - The Pale Ones #29` to `Rimworld - The Pale Ones #31`
+  - Changed number from `29` to `31`
+- Modified `v14379` [Rimworld - The Pale Ones #32](https://sovietscloset.com/video/14379)
+  - Changed title from `Rimworld - The Pale Ones #30` to `Rimworld - The Pale Ones #32`
+  - Changed number from `30` to `32`
+- Modified `v14380` [Rimworld - The Pale Ones #33](https://sovietscloset.com/video/14380)
+  - Changed title from `Rimworld - The Pale Ones #31` to `Rimworld - The Pale Ones #33`
+  - Changed number from `31` to `33`
+- Added `v14396` [Rimworld - The Pale Ones #34](https://sovietscloset.com/video/14396)
+- Modified `v14385` [Rimworld - The Pale Ones #35](https://sovietscloset.com/video/14385)
+  - Changed title from `Rimworld - The Pale Ones #32` to `Rimworld - The Pale Ones #35`
+  - Changed number from `32` to `35`
+  - Is no longer marked as new.
+- Modified `v14384` [Rimworld - The Pale Ones #36](https://sovietscloset.com/video/14384)
+  - Changed title from `Rimworld - The Pale Ones #33` to `Rimworld - The Pale Ones #36`
+  - Changed number from `33` to `36`
+  - Is no longer marked as new.
+- Added `v14395` [Rimworld - The Pale Ones #37](https://sovietscloset.com/video/14395)
+- Added `v14394` [Rimworld - The Pale Ones #38](https://sovietscloset.com/video/14394)
+- Added `v14391` [Rimworld - The Pale Ones #39](https://sovietscloset.com/video/14391) (new)
+- Added `v14389` [Rimworld - The Pale Ones #40](https://sovietscloset.com/video/14389) (new)
+- Added `v14397` [Rimworld - The Pale Ones #41](https://sovietscloset.com/video/14397) (new)
+- Added `v14398` [Rimworld - The Pale Ones #42](https://sovietscloset.com/video/14398) (new)
+- Added `v14399` [Rimworld - The Pale Ones #43](https://sovietscloset.com/video/14399) (new)
+- Added `v14401` [Rimworld - The Pale Ones #44](https://sovietscloset.com/video/14401) (new)
+- Added `v14402` [Rimworld - The Pale Ones #45](https://sovietscloset.com/video/14402) (new)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Modified `v14386` [Rising Storm 2: Vietnam #94](https://sovietscloset.com/video/14386)
+  - Is no longer marked as new.
+- Added `v14400` [Rising Storm 2: Vietnam #95](https://sovietscloset.com/video/14400) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14390` [Team Fortress 2 #103](https://sovietscloset.com/video/14390) (new)
+
 ## 2022-08-28T20:39:08Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)
