@@ -3661,7 +3661,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -4373,12 +4373,18 @@
           {
             "id": 14387,
             "date": "2022-08-25 20:51",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14403,
+            "date": "2022-08-25 20:51",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -7509,7 +7515,19 @@
             "useBunny": true
           },
           {
+            "id": 14393,
+            "date": "2022-08-16 11:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14369,
+            "date": "2022-08-17 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14392,
             "date": "2022-08-17 11:13",
             "new": false,
             "useBunny": true
@@ -7545,14 +7563,74 @@
             "useBunny": true
           },
           {
+            "id": 14396,
+            "date": "2022-08-22 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14385,
             "date": "2022-08-22 20:12",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14384,
             "date": "2022-08-23 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14395,
+            "date": "2022-08-24 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14394,
+            "date": "2022-08-26 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14391,
+            "date": "2022-08-28 16:01",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14389,
+            "date": "2022-08-29 11:08",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14397,
+            "date": "2022-08-29 20:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14398,
+            "date": "2022-08-30 11:04",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14399,
+            "date": "2022-08-31 11:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14401,
+            "date": "2022-08-31 20:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14402,
+            "date": "2022-09-01 11:21",
             "new": true,
             "useBunny": true
           }
@@ -8123,6 +8201,12 @@
           {
             "id": 14386,
             "date": "2022-08-23 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14400,
+            "date": "2022-08-30 20:03",
             "new": true,
             "useBunny": true
           }
@@ -10051,7 +10135,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -10651,10 +10735,16 @@
             "date": "2022-08-21 19:54",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14390,
+            "date": "2022-08-28 19:58",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
