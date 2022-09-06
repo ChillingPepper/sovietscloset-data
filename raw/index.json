@@ -1270,7 +1270,7 @@
     "name": "CSGO",
     "slug": "CSGO",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 3061,
@@ -1382,12 +1382,12 @@
           {
             "id": 14388,
             "date": "2022-08-26 19:52",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -5277,6 +5277,54 @@
         "slug": "misc",
         "streams": [
           {
+            "id": 14405,
+            "date": "2019-05-01 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14406,
+            "date": "2019-05-02 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14407,
+            "date": "2019-05-02 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14408,
+            "date": "2019-05-03 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14409,
+            "date": "2019-05-04 19:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14410,
+            "date": "2019-05-06 11:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14411,
+            "date": "2019-10-08 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14404,
+            "date": "2020-04-24 22:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1628,
             "date": "2020-11-27 20:03",
             "new": false,
@@ -7515,18 +7563,6 @@
             "useBunny": true
           },
           {
-            "id": 14393,
-            "date": "2022-08-16 11:32",
-            "new": false,
-            "useBunny": true
-          },
-          {
-            "id": 14369,
-            "date": "2022-08-17 11:13",
-            "new": false,
-            "useBunny": true
-          },
-          {
             "id": 14392,
             "date": "2022-08-17 11:13",
             "new": false,
@@ -7595,25 +7631,25 @@
           {
             "id": 14391,
             "date": "2022-08-28 16:01",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14389,
             "date": "2022-08-29 11:08",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14397,
             "date": "2022-08-29 20:13",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14398,
             "date": "2022-08-30 11:04",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -8221,7 +8257,7 @@
     "name": "Rust",
     "slug": "Rust",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1061,
@@ -8449,10 +8485,16 @@
             "date": "2022-03-04 11:19",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14412,
+            "date": "2022-09-05 10:24",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -10135,7 +10177,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -10739,12 +10781,12 @@
           {
             "id": 14390,
             "date": "2022-08-28 19:58",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },

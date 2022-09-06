@@ -1,6 +1,6 @@
 {
-  "streamId": 1628,
-  "date": "2020-11-27 20:03",
+  "streamId": 14408,
+  "date": "2019-05-03 20:10",
   "game": {
     "name": "Mordhau",
     "slug": "Mordhau"
@@ -48,7 +48,7 @@
       }
     ]
   },
-  "number": 9,
-  "bunnyId": "509c0d54-c0dd-446a-ba7c-be1b087f9f84",
+  "number": 4,
+  "bunnyId": "62d75108-3e1b-4fc6-a25a-b827e43e772f",
   "useBunny": true
 }
