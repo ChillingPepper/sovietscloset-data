@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-09-02T19:03:01Z.
+Last updated at 2022-09-06T15:37:09Z.
 
 ## Wrong Tags
 
@@ -134,9 +134,6 @@ Missing videos are only detected if they are followed by a video that is already
   - Rimworld - Caloma's Creek #83
   - Rimworld - Caloma's Creek #85
   - Rimworld - Caloma's Creek #93
-- [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
-  - Rimworld - The Pale Ones #25
-  - Rimworld - The Pale Ones #27
 - [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
   - Rising Storm 2: Vietnam #8
   - Rising Storm 2: Vietnam #9
@@ -503,12 +500,6 @@ This list includes all videos that have the same date.
 - Date: 2022-07-06 11:17
   - [Fallout Tactics #10](https://sovietscloset.com/video/14303) (id: 14303)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14349) (id: 14349)
-- Date: 2022-08-16 11:32
-  - [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14368) (id: 14368)
-  - [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14393) (id: 14393)
-- Date: 2022-08-17 11:13
-  - [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14369) (id: 14369)
-  - [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14392) (id: 14392)
 - Date: 2022-08-25 20:51
   - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14403) (id: 14403)
@@ -619,8 +610,6 @@ This list includes all videos that have the same number.
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1601) (id: 1601)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1643) (id: 1643)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/6896) (id: 6896)
-  - [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14368) (id: 14368)
-  - [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14393) (id: 14393)
 - Number: 27
   - [7 Days to Die #27](https://sovietscloset.com/video/1145) (id: 1145)
   - [7 Days to Die #27](https://sovietscloset.com/video/6847) (id: 6847)
@@ -628,9 +617,6 @@ This list includes all videos that have the same number.
   - [Minecraft #27](https://sovietscloset.com/video/3738) (id: 3738)
   - [Space Engineers #27](https://sovietscloset.com/video/1404) (id: 1404)
   - [Space Engineers #27](https://sovietscloset.com/video/1679) (id: 1679)
-- Number: 28
-  - [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14369) (id: 14369)
-  - [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14392) (id: 14392)
 - Number: 29
   - [7 Days to Die #29](https://sovietscloset.com/video/1146) (id: 1146)
   - [7 Days to Die #29](https://sovietscloset.com/video/6848) (id: 6848)

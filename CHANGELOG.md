@@ -1,5 +1,133 @@
 # Changelog
 
+## 2022-09-06T15:37:09Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14388` [CSGO #18](https://sovietscloset.com/video/14388)
+  - Is no longer marked as new.
+
+### Modified Game [Mordhau](https://sovietscloset.com/Mordhau)
+
+#### Modified Playlist [Mordhau - misc](https://sovietscloset.com/Mordhau/misc)
+
+##### Videos
+
+- Added `v14405` [Mordhau - misc #1](https://sovietscloset.com/video/14405)
+- Added `v14406` [Mordhau - misc #2](https://sovietscloset.com/video/14406)
+- Added `v14407` [Mordhau - misc #3](https://sovietscloset.com/video/14407)
+- Added `v14408` [Mordhau - misc #4](https://sovietscloset.com/video/14408)
+- Added `v14409` [Mordhau - misc #5](https://sovietscloset.com/video/14409)
+- Added `v14410` [Mordhau - misc #6](https://sovietscloset.com/video/14410)
+- Added `v14411` [Mordhau - misc #7](https://sovietscloset.com/video/14411)
+- Added `v14404` [Mordhau - misc #8](https://sovietscloset.com/video/14404)
+- Modified `v1628` [Mordhau - misc #9](https://sovietscloset.com/video/1628)
+  - Changed title from `Mordhau - misc #1` to `Mordhau - misc #9`
+  - Changed number from `1` to `9`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v14368` [Rimworld - The Pale Ones #25](https://sovietscloset.com/video/14368)
+  - Changed title from `Rimworld - The Pale Ones #26` to `Rimworld - The Pale Ones #25`
+  - Changed number from `26` to `25`
+- Deleted `v14393` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14393)
+- Deleted `v14369` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14369)
+- Modified `v14392` [Rimworld - The Pale Ones #26](https://sovietscloset.com/video/14392)
+  - Changed title from `Rimworld - The Pale Ones #28` to `Rimworld - The Pale Ones #26`
+  - Changed number from `28` to `26`
+- Modified `v14374` [Rimworld - The Pale Ones #27](https://sovietscloset.com/video/14374)
+  - Changed title from `Rimworld - The Pale Ones #29` to `Rimworld - The Pale Ones #27`
+  - Changed number from `29` to `27`
+- Modified `v14373` [Rimworld - The Pale Ones #28](https://sovietscloset.com/video/14373)
+  - Changed title from `Rimworld - The Pale Ones #30` to `Rimworld - The Pale Ones #28`
+  - Changed number from `30` to `28`
+- Modified `v14378` [Rimworld - The Pale Ones #29](https://sovietscloset.com/video/14378)
+  - Changed title from `Rimworld - The Pale Ones #31` to `Rimworld - The Pale Ones #29`
+  - Changed number from `31` to `29`
+- Modified `v14379` [Rimworld - The Pale Ones #30](https://sovietscloset.com/video/14379)
+  - Changed title from `Rimworld - The Pale Ones #32` to `Rimworld - The Pale Ones #30`
+  - Changed number from `32` to `30`
+- Modified `v14380` [Rimworld - The Pale Ones #31](https://sovietscloset.com/video/14380)
+  - Changed title from `Rimworld - The Pale Ones #33` to `Rimworld - The Pale Ones #31`
+  - Changed number from `33` to `31`
+- Modified `v14396` [Rimworld - The Pale Ones #32](https://sovietscloset.com/video/14396)
+  - Changed title from `Rimworld - The Pale Ones #34` to `Rimworld - The Pale Ones #32`
+  - Changed number from `34` to `32`
+- Modified `v14385` [Rimworld - The Pale Ones #33](https://sovietscloset.com/video/14385)
+  - Changed title from `Rimworld - The Pale Ones #35` to `Rimworld - The Pale Ones #33`
+  - Changed number from `35` to `33`
+- Modified `v14384` [Rimworld - The Pale Ones #34](https://sovietscloset.com/video/14384)
+  - Changed title from `Rimworld - The Pale Ones #36` to `Rimworld - The Pale Ones #34`
+  - Changed number from `36` to `34`
+- Modified `v14395` [Rimworld - The Pale Ones #35](https://sovietscloset.com/video/14395)
+  - Changed title from `Rimworld - The Pale Ones #37` to `Rimworld - The Pale Ones #35`
+  - Changed number from `37` to `35`
+- Modified `v14394` [Rimworld - The Pale Ones #36](https://sovietscloset.com/video/14394)
+  - Changed title from `Rimworld - The Pale Ones #38` to `Rimworld - The Pale Ones #36`
+  - Changed number from `38` to `36`
+- Modified `v14391` [Rimworld - The Pale Ones #37](https://sovietscloset.com/video/14391)
+  - Changed title from `Rimworld - The Pale Ones #39` to `Rimworld - The Pale Ones #37`
+  - Changed number from `39` to `37`
+  - Is no longer marked as new.
+- Modified `v14389` [Rimworld - The Pale Ones #38](https://sovietscloset.com/video/14389)
+  - Changed title from `Rimworld - The Pale Ones #40` to `Rimworld - The Pale Ones #38`
+  - Changed number from `40` to `38`
+  - Is no longer marked as new.
+- Modified `v14397` [Rimworld - The Pale Ones #39](https://sovietscloset.com/video/14397)
+  - Changed title from `Rimworld - The Pale Ones #41` to `Rimworld - The Pale Ones #39`
+  - Changed number from `41` to `39`
+  - Is no longer marked as new.
+- Modified `v14398` [Rimworld - The Pale Ones #40](https://sovietscloset.com/video/14398)
+  - Changed title from `Rimworld - The Pale Ones #42` to `Rimworld - The Pale Ones #40`
+  - Changed number from `42` to `40`
+  - Is no longer marked as new.
+- Modified `v14399` [Rimworld - The Pale Ones #41](https://sovietscloset.com/video/14399) (new)
+  - Changed title from `Rimworld - The Pale Ones #43` to `Rimworld - The Pale Ones #41`
+  - Changed number from `43` to `41`
+- Modified `v14401` [Rimworld - The Pale Ones #42](https://sovietscloset.com/video/14401) (new)
+  - Changed title from `Rimworld - The Pale Ones #44` to `Rimworld - The Pale Ones #42`
+  - Changed number from `44` to `42`
+- Modified `v14402` [Rimworld - The Pale Ones #43](https://sovietscloset.com/video/14402) (new)
+  - Changed title from `Rimworld - The Pale Ones #45` to `Rimworld - The Pale Ones #43`
+  - Changed number from `45` to `43`
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14412` [Rust #40](https://sovietscloset.com/video/14412) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14390` [Team Fortress 2 #103](https://sovietscloset.com/video/14390)
+  - Is no longer marked as new.
+
 ## 2022-09-02T19:03:01Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
