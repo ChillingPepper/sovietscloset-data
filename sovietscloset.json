@@ -1,5 +1,5 @@
 {
-  "timestamp": 1662478629,
+  "timestamp": 1662687942,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -7705,28 +7705,55 @@
             },
             {
               "title": "Mordhau - misc #7",
-              "url": "https://sovietscloset.com/video/14411",
-              "id": 14411,
-              "date": "2019-10-08 19:59",
+              "url": "https://sovietscloset.com/video/14416",
+              "id": 14416,
+              "date": "2019-05-13 10:32",
               "number": 7,
-              "bunnyId": "e6a1d4c6-ddcb-474a-bd4f-c01b18f99985",
+              "bunnyId": "16b37620-3e75-4f0d-b370-92b336efdea1",
               "new": false
             },
             {
               "title": "Mordhau - misc #8",
-              "url": "https://sovietscloset.com/video/14404",
-              "id": 14404,
-              "date": "2020-04-24 22:31",
+              "url": "https://sovietscloset.com/video/14415",
+              "id": 14415,
+              "date": "2019-05-20 20:35",
               "number": 8,
-              "bunnyId": "60563a92-f976-45c0-bbea-3b0084288b88",
+              "bunnyId": "1e9201fc-1ff6-40a1-acab-a8dd650443e7",
               "new": false
             },
             {
               "title": "Mordhau - misc #9",
+              "url": "https://sovietscloset.com/video/14411",
+              "id": 14411,
+              "date": "2019-10-08 19:59",
+              "number": 9,
+              "bunnyId": "e6a1d4c6-ddcb-474a-bd4f-c01b18f99985",
+              "new": false
+            },
+            {
+              "title": "Mordhau - misc #10",
+              "url": "https://sovietscloset.com/video/14417",
+              "id": 14417,
+              "date": "2019-10-10 20:44",
+              "number": 10,
+              "bunnyId": "2adb11a8-3fdc-4534-9876-e50cbd914152",
+              "new": false
+            },
+            {
+              "title": "Mordhau - misc #11",
+              "url": "https://sovietscloset.com/video/14404",
+              "id": 14404,
+              "date": "2020-04-24 22:31",
+              "number": 11,
+              "bunnyId": "60563a92-f976-45c0-bbea-3b0084288b88",
+              "new": false
+            },
+            {
+              "title": "Mordhau - misc #12",
               "url": "https://sovietscloset.com/video/1628",
               "id": 1628,
               "date": "2020-11-27 20:03",
-              "number": 9,
+              "number": 12,
               "bunnyId": "509c0d54-c0dd-446a-ba7c-be1b087f9f84",
               "new": false
             }
@@ -9008,7 +9035,7 @@
       "name": "Rimworld",
       "slug": "Rimworld",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rimworld - Tundrafall",
@@ -10746,7 +10773,7 @@
           "name": "The Pale Ones",
           "slug": "The-Pale-Ones",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rimworld - The Pale Ones #1",
@@ -11115,7 +11142,7 @@
               "date": "2022-08-31 11:15",
               "number": 41,
               "bunnyId": "3f02e3d7-6ad1-4ad9-8f18-10a9744f871f",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #42",
@@ -11124,7 +11151,7 @@
               "date": "2022-08-31 20:15",
               "number": 42,
               "bunnyId": "886d79ad-9df8-4441-b743-3d513998a78d",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #43",
@@ -11133,7 +11160,7 @@
               "date": "2022-09-01 11:21",
               "number": 43,
               "bunnyId": "e448fd3b-bce5-4ae6-8dd4-87defe92785e",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -11145,7 +11172,7 @@
       "name": "Rising Storm 2: Vietnam",
       "slug": "Rising-Storm-2-Vietnam",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rising Storm 2: Vietnam",
@@ -11153,7 +11180,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rising Storm 2: Vietnam #1",
@@ -11990,7 +12017,7 @@
               "date": "2022-08-30 20:03",
               "number": 95,
               "bunnyId": "0fb42f49-c852-4ad9-bacc-8e4246d86bd5",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -12352,6 +12379,51 @@
               "date": "2022-09-05 10:24",
               "number": 40,
               "bunnyId": "23b4b090-7134-41bc-a060-22d7d277322e",
+              "new": true
+            },
+            {
+              "title": "Rust #41",
+              "url": "https://sovietscloset.com/video/14414",
+              "id": 14414,
+              "date": "2022-09-05 20:10",
+              "number": 41,
+              "bunnyId": "5afcc717-0b09-42ce-97b7-87ca1c9c7828",
+              "new": true
+            },
+            {
+              "title": "Rust #42",
+              "url": "https://sovietscloset.com/video/14413",
+              "id": 14413,
+              "date": "2022-09-06 11:04",
+              "number": 42,
+              "bunnyId": "738a719f-5221-40c8-869f-f2e2eda44e32",
+              "new": true
+            },
+            {
+              "title": "Rust #43",
+              "url": "https://sovietscloset.com/video/14419",
+              "id": 14419,
+              "date": "2022-09-06 20:16",
+              "number": 43,
+              "bunnyId": "2dd93ac7-828a-4509-b4bc-ec6692ac219a",
+              "new": true
+            },
+            {
+              "title": "Rust #44",
+              "url": "https://sovietscloset.com/video/14418",
+              "id": 14418,
+              "date": "2022-09-07 11:30",
+              "number": 44,
+              "bunnyId": "ddd3b43b-972a-441e-a219-b8b27d929122",
+              "new": true
+            },
+            {
+              "title": "Rust #45",
+              "url": "https://sovietscloset.com/video/14420",
+              "id": 14420,
+              "date": "2022-09-07 20:11",
+              "number": 45,
+              "bunnyId": "0f0f2853-08dc-4d02-82f0-a37ec7e3519c",
               "new": true
             }
           ]

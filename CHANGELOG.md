@@ -1,5 +1,68 @@
 # Changelog
 
+## 2022-09-09T01:45:42Z
+
+### Modified Game [Mordhau](https://sovietscloset.com/Mordhau)
+
+#### Modified Playlist [Mordhau - misc](https://sovietscloset.com/Mordhau/misc)
+
+##### Videos
+
+- Added `v14416` [Mordhau - misc #7](https://sovietscloset.com/video/14416)
+- Added `v14415` [Mordhau - misc #8](https://sovietscloset.com/video/14415)
+- Modified `v14411` [Mordhau - misc #9](https://sovietscloset.com/video/14411)
+  - Changed title from `Mordhau - misc #7` to `Mordhau - misc #9`
+  - Changed number from `7` to `9`
+- Added `v14417` [Mordhau - misc #10](https://sovietscloset.com/video/14417)
+- Modified `v14404` [Mordhau - misc #11](https://sovietscloset.com/video/14404)
+  - Changed title from `Mordhau - misc #8` to `Mordhau - misc #11`
+  - Changed number from `8` to `11`
+- Modified `v1628` [Mordhau - misc #12](https://sovietscloset.com/video/1628)
+  - Changed title from `Mordhau - misc #9` to `Mordhau - misc #12`
+  - Changed number from `9` to `12`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14399` [Rimworld - The Pale Ones #41](https://sovietscloset.com/video/14399)
+  - Is no longer marked as new.
+- Modified `v14401` [Rimworld - The Pale Ones #42](https://sovietscloset.com/video/14401)
+  - Is no longer marked as new.
+- Modified `v14402` [Rimworld - The Pale Ones #43](https://sovietscloset.com/video/14402)
+  - Is no longer marked as new.
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14400` [Rising Storm 2: Vietnam #95](https://sovietscloset.com/video/14400)
+  - Is no longer marked as new.
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+##### Videos
+
+- Added `v14414` [Rust #41](https://sovietscloset.com/video/14414) (new)
+- Added `v14413` [Rust #42](https://sovietscloset.com/video/14413) (new)
+- Added `v14419` [Rust #43](https://sovietscloset.com/video/14419) (new)
+- Added `v14418` [Rust #44](https://sovietscloset.com/video/14418) (new)
+- Added `v14420` [Rust #45](https://sovietscloset.com/video/14420) (new)
+
 ## 2022-09-06T15:37:09Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)
