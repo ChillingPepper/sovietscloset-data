@@ -1270,7 +1270,7 @@
     "name": "CSGO",
     "slug": "CSGO",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 3061,
@@ -1384,10 +1384,16 @@
             "date": "2022-08-26 19:52",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14425,
+            "date": "2022-09-09 20:03",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -8507,25 +8513,25 @@
           {
             "id": 14412,
             "date": "2022-09-05 10:24",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14414,
             "date": "2022-09-05 20:10",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14413,
             "date": "2022-09-06 11:04",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14419,
             "date": "2022-09-06 20:16",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -8537,6 +8543,18 @@
           {
             "id": 14420,
             "date": "2022-09-07 20:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14424,
+            "date": "2022-09-10 20:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14421,
+            "date": "2022-09-12 11:26",
             "new": true,
             "useBunny": true
           }
@@ -10225,7 +10243,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -10831,10 +10849,22 @@
             "date": "2022-08-28 19:58",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14422,
+            "date": "2022-09-04 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14423,
+            "date": "2022-09-11 19:57",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
