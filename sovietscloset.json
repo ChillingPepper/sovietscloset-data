@@ -1,5 +1,5 @@
 {
-  "timestamp": 1662687942,
+  "timestamp": 1663105535,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1826,7 +1826,7 @@
       "name": "CSGO",
       "slug": "CSGO",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "CSGO",
@@ -1834,7 +1834,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "CSGO #1",
@@ -1997,6 +1997,15 @@
               "number": 18,
               "bunnyId": "de4f356c-51fc-45d2-9856-e1a83e798c5e",
               "new": false
+            },
+            {
+              "title": "CSGO #19",
+              "url": "https://sovietscloset.com/video/14425",
+              "id": 14425,
+              "date": "2022-09-09 20:03",
+              "number": 19,
+              "bunnyId": "ac3d9d09-3b18-4df3-878d-dfc8376d90b7",
+              "new": true
             }
           ]
         }
@@ -12379,7 +12388,7 @@
               "date": "2022-09-05 10:24",
               "number": 40,
               "bunnyId": "23b4b090-7134-41bc-a060-22d7d277322e",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #41",
@@ -12388,7 +12397,7 @@
               "date": "2022-09-05 20:10",
               "number": 41,
               "bunnyId": "5afcc717-0b09-42ce-97b7-87ca1c9c7828",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #42",
@@ -12397,7 +12406,7 @@
               "date": "2022-09-06 11:04",
               "number": 42,
               "bunnyId": "738a719f-5221-40c8-869f-f2e2eda44e32",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #43",
@@ -12406,7 +12415,7 @@
               "date": "2022-09-06 20:16",
               "number": 43,
               "bunnyId": "2dd93ac7-828a-4509-b4bc-ec6692ac219a",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #44",
@@ -12424,6 +12433,24 @@
               "date": "2022-09-07 20:11",
               "number": 45,
               "bunnyId": "0f0f2853-08dc-4d02-82f0-a37ec7e3519c",
+              "new": true
+            },
+            {
+              "title": "Rust #46",
+              "url": "https://sovietscloset.com/video/14424",
+              "id": 14424,
+              "date": "2022-09-10 20:14",
+              "number": 46,
+              "bunnyId": "00f506b3-ec60-49dc-aa1d-91548be8d722",
+              "new": true
+            },
+            {
+              "title": "Rust #47",
+              "url": "https://sovietscloset.com/video/14421",
+              "id": 14421,
+              "date": "2022-09-12 11:26",
+              "number": 47,
+              "bunnyId": "436ed082-e470-4e7c-a05c-353ff96a475c",
               "new": true
             }
           ]
@@ -14870,7 +14897,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -14878,7 +14905,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -15779,6 +15806,24 @@
               "number": 103,
               "bunnyId": "f49643f6-f8f0-455f-8e7d-9da7e483335e",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #104",
+              "url": "https://sovietscloset.com/video/14422",
+              "id": 14422,
+              "date": "2022-09-04 20:00",
+              "number": 104,
+              "bunnyId": "2877470a-8484-461f-8b62-6be314b142f0",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #105",
+              "url": "https://sovietscloset.com/video/14423",
+              "id": 14423,
+              "date": "2022-09-11 19:57",
+              "number": 105,
+              "bunnyId": "e1db08be-a110-41d5-aa94-2a919f4932e6",
+              "new": true
             }
           ]
         }

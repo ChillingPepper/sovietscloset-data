@@ -1,5 +1,49 @@
 # Changelog
 
+## 2022-09-13T21:45:35Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14425` [CSGO #19](https://sovietscloset.com/video/14425) (new)
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+##### Videos
+
+- Modified `v14412` [Rust #40](https://sovietscloset.com/video/14412)
+  - Is no longer marked as new.
+- Modified `v14414` [Rust #41](https://sovietscloset.com/video/14414)
+  - Is no longer marked as new.
+- Modified `v14413` [Rust #42](https://sovietscloset.com/video/14413)
+  - Is no longer marked as new.
+- Modified `v14419` [Rust #43](https://sovietscloset.com/video/14419)
+  - Is no longer marked as new.
+- Added `v14424` [Rust #46](https://sovietscloset.com/video/14424) (new)
+- Added `v14421` [Rust #47](https://sovietscloset.com/video/14421) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14422` [Team Fortress 2 #104](https://sovietscloset.com/video/14422)
+- Added `v14423` [Team Fortress 2 #105](https://sovietscloset.com/video/14423) (new)
+
 ## 2022-09-09T01:45:42Z
 
 ### Modified Game [Mordhau](https://sovietscloset.com/Mordhau)
