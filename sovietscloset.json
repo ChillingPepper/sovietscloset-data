@@ -1,5 +1,5 @@
 {
-  "timestamp": 1663105535,
+  "timestamp": 1663299486,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -12424,7 +12424,7 @@
               "date": "2022-09-07 11:30",
               "number": 44,
               "bunnyId": "ddd3b43b-972a-441e-a219-b8b27d929122",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #45",
@@ -12433,7 +12433,7 @@
               "date": "2022-09-07 20:11",
               "number": 45,
               "bunnyId": "0f0f2853-08dc-4d02-82f0-a37ec7e3519c",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #46",
@@ -12451,6 +12451,42 @@
               "date": "2022-09-12 11:26",
               "number": 47,
               "bunnyId": "436ed082-e470-4e7c-a05c-353ff96a475c",
+              "new": true
+            },
+            {
+              "title": "Rust #48",
+              "url": "https://sovietscloset.com/video/14427",
+              "id": 14427,
+              "date": "2022-09-12 20:21",
+              "number": 48,
+              "bunnyId": "748b8908-aa94-42bf-a380-3694341ee643",
+              "new": true
+            },
+            {
+              "title": "Rust #49",
+              "url": "https://sovietscloset.com/video/14428",
+              "id": 14428,
+              "date": "2022-09-13 11:07",
+              "number": 49,
+              "bunnyId": "8b7a01d9-e5c4-4582-a0ee-c33b09f5d9bc",
+              "new": true
+            },
+            {
+              "title": "Rust #50",
+              "url": "https://sovietscloset.com/video/14426",
+              "id": 14426,
+              "date": "2022-09-14 10:26",
+              "number": 50,
+              "bunnyId": "a95ccacd-ab8e-4c03-9a79-54deab35dfe1",
+              "new": true
+            },
+            {
+              "title": "Rust #51",
+              "url": "https://sovietscloset.com/video/14429",
+              "id": 14429,
+              "date": "2022-09-14 20:12",
+              "number": 51,
+              "bunnyId": "ae6b965a-f5d0-44a2-bed1-5c1918ba4ed2",
               "new": true
             }
           ]

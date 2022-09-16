@@ -1,5 +1,22 @@
 # Changelog
 
+## 2022-09-16T03:38:06Z
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+##### Videos
+
+- Modified `v14418` [Rust #44](https://sovietscloset.com/video/14418)
+  - Is no longer marked as new.
+- Modified `v14420` [Rust #45](https://sovietscloset.com/video/14420)
+  - Is no longer marked as new.
+- Added `v14427` [Rust #48](https://sovietscloset.com/video/14427) (new)
+- Added `v14428` [Rust #49](https://sovietscloset.com/video/14428) (new)
+- Added `v14426` [Rust #50](https://sovietscloset.com/video/14426) (new)
+- Added `v14429` [Rust #51](https://sovietscloset.com/video/14429) (new)
+
 ## 2022-09-13T21:45:35Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)
