@@ -1,0 +1,30 @@
+{
+  "streamId": 14431,
+  "date": "2022-09-20 20:15",
+  "game": {
+    "name": "European Air War",
+    "slug": "European-Air-War"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14430,
+        "date": "2022-09-20 11:15"
+      },
+      {
+        "streamId": 14431,
+        "date": "2022-09-20 20:15"
+      },
+      {
+        "streamId": 14432,
+        "date": "2022-09-21 12:01"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "6e1fd929-7f1b-4705-b912-88c4762cef56",
+  "useBunny": true
+}

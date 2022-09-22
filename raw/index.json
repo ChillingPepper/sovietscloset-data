@@ -1270,7 +1270,7 @@
     "name": "CSGO",
     "slug": "CSGO",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 3061,
@@ -1388,12 +1388,12 @@
           {
             "id": 14425,
             "date": "2022-09-09 20:03",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -2777,6 +2777,42 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9074,
+    "name": "European Air War",
+    "slug": "European-Air-War",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9091,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14430,
+            "date": "2022-09-20 11:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14431,
+            "date": "2022-09-20 20:15",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14432,
+            "date": "2022-09-21 12:01",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -8281,7 +8317,7 @@
     "name": "Rust",
     "slug": "Rust",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1061,
@@ -8549,42 +8585,42 @@
           {
             "id": 14424,
             "date": "2022-09-10 20:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14421,
             "date": "2022-09-12 11:26",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14427,
             "date": "2022-09-12 20:21",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14428,
             "date": "2022-09-13 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14426,
             "date": "2022-09-14 10:26",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14429,
             "date": "2022-09-14 20:12",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -10267,7 +10303,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -10883,12 +10919,12 @@
           {
             "id": 14423,
             "date": "2022-09-11 19:57",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
