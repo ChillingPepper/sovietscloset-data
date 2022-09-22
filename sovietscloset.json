@@ -1,5 +1,5 @@
 {
-  "timestamp": 1663299486,
+  "timestamp": 1663858787,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1826,7 +1826,7 @@
       "name": "CSGO",
       "slug": "CSGO",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "CSGO",
@@ -1834,7 +1834,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "CSGO #1",
@@ -2005,7 +2005,7 @@
               "date": "2022-09-09 20:03",
               "number": 19,
               "bunnyId": "ac3d9d09-3b18-4df3-878d-dfc8376d90b7",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4035,6 +4035,53 @@
               "number": 1,
               "bunnyId": "bd4e9acb-ff97-4632-a482-501a900eec4f",
               "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "European Air War",
+      "url": "https://sovietscloset.com/European-Air-War",
+      "name": "European Air War",
+      "slug": "European-Air-War",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "European Air War",
+          "url": "https://sovietscloset.com/European-Air-War",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "European Air War #1",
+              "url": "https://sovietscloset.com/video/14430",
+              "id": 14430,
+              "date": "2022-09-20 11:15",
+              "number": 1,
+              "bunnyId": "0bc78a3c-8241-4203-896e-40de3e4de68d",
+              "new": true
+            },
+            {
+              "title": "European Air War #2",
+              "url": "https://sovietscloset.com/video/14431",
+              "id": 14431,
+              "date": "2022-09-20 20:15",
+              "number": 2,
+              "bunnyId": "6e1fd929-7f1b-4705-b912-88c4762cef56",
+              "new": true
+            },
+            {
+              "title": "European Air War #3",
+              "url": "https://sovietscloset.com/video/14432",
+              "id": 14432,
+              "date": "2022-09-21 12:01",
+              "number": 3,
+              "bunnyId": "c5bf6258-8899-4f89-8375-98d8f1c164d4",
+              "new": true
             }
           ]
         }
@@ -12038,7 +12085,7 @@
       "name": "Rust",
       "slug": "Rust",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rust",
@@ -12046,7 +12093,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rust #1",
@@ -12442,7 +12489,7 @@
               "date": "2022-09-10 20:14",
               "number": 46,
               "bunnyId": "00f506b3-ec60-49dc-aa1d-91548be8d722",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #47",
@@ -12451,7 +12498,7 @@
               "date": "2022-09-12 11:26",
               "number": 47,
               "bunnyId": "436ed082-e470-4e7c-a05c-353ff96a475c",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #48",
@@ -12460,7 +12507,7 @@
               "date": "2022-09-12 20:21",
               "number": 48,
               "bunnyId": "748b8908-aa94-42bf-a380-3694341ee643",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #49",
@@ -12469,7 +12516,7 @@
               "date": "2022-09-13 11:07",
               "number": 49,
               "bunnyId": "8b7a01d9-e5c4-4582-a0ee-c33b09f5d9bc",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #50",
@@ -12478,7 +12525,7 @@
               "date": "2022-09-14 10:26",
               "number": 50,
               "bunnyId": "a95ccacd-ab8e-4c03-9a79-54deab35dfe1",
-              "new": true
+              "new": false
             },
             {
               "title": "Rust #51",
@@ -12487,7 +12534,7 @@
               "date": "2022-09-14 20:12",
               "number": 51,
               "bunnyId": "ae6b965a-f5d0-44a2-bed1-5c1918ba4ed2",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -14933,7 +14980,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -14941,7 +14988,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -15859,7 +15906,7 @@
               "date": "2022-09-11 19:57",
               "number": 105,
               "bunnyId": "e1db08be-a110-41d5-aa94-2a919f4932e6",
-              "new": true
+              "new": false
             }
           ]
         }

@@ -1,5 +1,66 @@
 # Changelog
 
+## 2022-09-22T14:59:47Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14425` [CSGO #19](https://sovietscloset.com/video/14425)
+  - Is no longer marked as new.
+
+### Added Game [European Air War](https://sovietscloset.com/European-Air-War)
+
+#### Added Playlist [European Air War](https://sovietscloset.com/European-Air-War)
+
+##### Videos
+
+- Added `v14430` [European Air War #1](https://sovietscloset.com/video/14430) (new)
+- Added `v14431` [European Air War #2](https://sovietscloset.com/video/14431) (new)
+- Added `v14432` [European Air War #3](https://sovietscloset.com/video/14432) (new)
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14424` [Rust #46](https://sovietscloset.com/video/14424)
+  - Is no longer marked as new.
+- Modified `v14421` [Rust #47](https://sovietscloset.com/video/14421)
+  - Is no longer marked as new.
+- Modified `v14427` [Rust #48](https://sovietscloset.com/video/14427)
+  - Is no longer marked as new.
+- Modified `v14428` [Rust #49](https://sovietscloset.com/video/14428)
+  - Is no longer marked as new.
+- Modified `v14426` [Rust #50](https://sovietscloset.com/video/14426)
+  - Is no longer marked as new.
+- Modified `v14429` [Rust #51](https://sovietscloset.com/video/14429)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14423` [Team Fortress 2 #105](https://sovietscloset.com/video/14423)
+  - Is no longer marked as new.
+
 ## 2022-09-16T03:38:06Z
 
 ### Modified Game [Rust](https://sovietscloset.com/Rust)
