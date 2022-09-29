@@ -2785,7 +2785,7 @@
     "name": "European Air War",
     "slug": "European-Air-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9091,
@@ -2795,24 +2795,24 @@
           {
             "id": 14430,
             "date": "2022-09-20 11:15",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14431,
             "date": "2022-09-20 20:15",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14432,
             "date": "2022-09-21 12:01",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4413,6 +4413,12 @@
             "useBunny": true
           },
           {
+            "id": 14433,
+            "date": "2022-08-18 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14387,
             "date": "2022-08-25 20:51",
             "new": false,
@@ -4589,6 +4595,12 @@
           {
             "id": 14353,
             "date": "2022-07-12 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14436,
+            "date": "2022-07-25 11:06",
             "new": false,
             "useBunny": true
           }
@@ -5297,6 +5309,12 @@
           {
             "id": 10096,
             "date": "2021-12-10 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14437,
+            "date": "2022-08-08 13:21",
             "new": false,
             "useBunny": true
           }
@@ -6293,6 +6311,12 @@
           {
             "id": 14356,
             "date": "2022-02-01 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14435,
+            "date": "2022-07-05 20:00",
             "new": false,
             "useBunny": true
           }
@@ -8291,6 +8315,12 @@
           {
             "id": 14300,
             "date": "2022-07-25 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14434,
+            "date": "2022-07-27 20:14",
             "new": false,
             "useBunny": true
           },
