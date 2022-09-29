@@ -1,5 +1,76 @@
 # Changelog
 
+## 2022-09-29T16:46:10Z
+
+### Modified Game [European Air War](https://sovietscloset.com/European-Air-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [European Air War](https://sovietscloset.com/European-Air-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14430` [European Air War #1](https://sovietscloset.com/video/14430)
+  - Is no longer marked as new.
+- Modified `v14431` [European Air War #2](https://sovietscloset.com/video/14431)
+  - Is no longer marked as new.
+- Modified `v14432` [European Air War #3](https://sovietscloset.com/video/14432)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14433` [Holdfast: Nations at War #119](https://sovietscloset.com/video/14433)
+- Modified `v14387` [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387)
+  - Changed title from `Holdfast: Nations at War #120` to `Holdfast: Nations at War #121`
+  - Changed number from `120` to `121`
+- Modified `v14403` [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403)
+  - Changed title from `Holdfast: Nations at War #120` to `Holdfast: Nations at War #121`
+  - Changed number from `120` to `121`
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14436` [Just Chatting #13](https://sovietscloset.com/video/14436)
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+##### Videos
+
+- Added `v14437` [Minecraft #38](https://sovietscloset.com/video/14437)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v14435` [Ready or Not #7](https://sovietscloset.com/video/14435)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v14434` [Rising Storm 2: Vietnam #94](https://sovietscloset.com/video/14434)
+- Modified `v14386` [Rising Storm 2: Vietnam #95](https://sovietscloset.com/video/14386)
+  - Changed title from `Rising Storm 2: Vietnam #94` to `Rising Storm 2: Vietnam #95`
+  - Changed number from `94` to `95`
+- Modified `v14400` [Rising Storm 2: Vietnam #96](https://sovietscloset.com/video/14400)
+  - Changed title from `Rising Storm 2: Vietnam #95` to `Rising Storm 2: Vietnam #96`
+  - Changed number from `95` to `96`
+
 ## 2022-09-22T14:59:47Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)

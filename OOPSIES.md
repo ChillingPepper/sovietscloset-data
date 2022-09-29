@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-09-22T14:59:47Z.
+Last updated at 2022-09-29T16:46:10Z.
 
 ## Wrong Tags
 
@@ -113,7 +113,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #81
   - Holdfast: Nations at War #83
   - Holdfast: Nations at War #108
-  - Holdfast: Nations at War #119
+  - Holdfast: Nations at War #120
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -501,8 +501,8 @@ This list includes all videos that have the same date.
   - [Fallout Tactics #10](https://sovietscloset.com/video/14303) (id: 14303)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14349) (id: 14349)
 - Date: 2022-08-25 20:51
-  - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14387) (id: 14387)
-  - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14403) (id: 14403)
+  - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
+  - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
 
 ### Dupes by Number
 
@@ -751,9 +751,9 @@ This list includes all videos that have the same number.
 - Number: 109
   - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249) (id: 14249)
   - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277) (id: 14277)
-- Number: 120
-  - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14387) (id: 14387)
-  - [Holdfast: Nations at War #120](https://sovietscloset.com/video/14403) (id: 14403)
+- Number: 121
+  - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
+  - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
 
 ### Dupes by BunnyCDN ID
 
