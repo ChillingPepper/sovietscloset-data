@@ -1,5 +1,25 @@
 # Changelog
 
+## 2022-10-03T12:23:55Z
+
+### Modified Game [European Air War](https://sovietscloset.com/European-Air-War)
+
+#### Modified Playlist [European Air War](https://sovietscloset.com/European-Air-War)
+
+##### Videos
+
+- Added `v14441` [European Air War #4](https://sovietscloset.com/video/14441)
+- Added `v14440` [European Air War #5](https://sovietscloset.com/video/14440)
+- Added `v14439` [European Air War #6](https://sovietscloset.com/video/14439)
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+##### Videos
+
+- Added `v14438` [Minecraft #39](https://sovietscloset.com/video/14438)
+
 ## 2022-09-29T16:46:10Z
 
 ### Modified Game [European Air War](https://sovietscloset.com/European-Air-War)
