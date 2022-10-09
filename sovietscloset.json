@@ -1,5 +1,5 @@
 {
-  "timestamp": 1664799835,
+  "timestamp": 1665344592,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -420,7 +420,7 @@
       "name": "Arma 3",
       "slug": "Arma-3",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Arma 3 - Antistasi Games",
@@ -1278,6 +1278,43 @@
               "number": 20,
               "bunnyId": "785fb1aa-5378-47cd-856f-aae97efd9c79",
               "new": false
+            }
+          ]
+        },
+        {
+          "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn",
+          "url": "https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn",
+          "name": "Prairie Fire Mike Force - Khe Sahn",
+          "slug": "Prairie-Fire-Mike-Force---Khe-Sahn",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #1",
+              "url": "https://sovietscloset.com/video/14452",
+              "id": 14452,
+              "date": "2022-09-30 20:01",
+              "number": 1,
+              "bunnyId": "9197d432-5ce5-48a8-8022-7cfe123c4e26",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #2",
+              "url": "https://sovietscloset.com/video/14451",
+              "id": 14451,
+              "date": "2022-10-03 19:32",
+              "number": 2,
+              "bunnyId": "e8389153-055d-4e86-81ff-fc2132fc8f26",
+              "new": true
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #3",
+              "url": "https://sovietscloset.com/video/14453",
+              "id": 14453,
+              "date": "2022-10-07 19:33",
+              "number": 3,
+              "bunnyId": "657bed6b-c3b1-4095-97d8-d2527aedca91",
+              "new": true
             }
           ]
         }
@@ -4888,6 +4925,53 @@
       ]
     },
     {
+      "title": "Firewatch",
+      "url": "https://sovietscloset.com/Firewatch",
+      "name": "Firewatch",
+      "slug": "Firewatch",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Firewatch",
+          "url": "https://sovietscloset.com/Firewatch",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Firewatch #1",
+              "url": "https://sovietscloset.com/video/14442",
+              "id": 14442,
+              "date": "2022-10-04 11:17",
+              "number": 1,
+              "bunnyId": "b75eaac6-21bd-4168-b3ac-b2b5fa46fcf6",
+              "new": true
+            },
+            {
+              "title": "Firewatch #2",
+              "url": "https://sovietscloset.com/video/14443",
+              "id": 14443,
+              "date": "2022-10-04 20:27",
+              "number": 2,
+              "bunnyId": "e0d59630-da51-4787-b074-af23915a4704",
+              "new": true
+            },
+            {
+              "title": "Firewatch #3",
+              "url": "https://sovietscloset.com/video/14444",
+              "id": 14444,
+              "date": "2022-10-07 11:26",
+              "number": 3,
+              "bunnyId": "278193b1-4573-4c90-bdf3-f71522744061",
+              "new": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Foxhole",
       "url": "https://sovietscloset.com/Foxhole",
       "name": "Foxhole",
@@ -5359,7 +5443,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -5367,7 +5451,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -6448,6 +6532,51 @@
               "number": 121,
               "bunnyId": "29b71761-9ab5-4cac-bcd2-756c4ce610fc",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #122",
+              "url": "https://sovietscloset.com/video/14445",
+              "id": 14445,
+              "date": "2022-09-08 20:51",
+              "number": 122,
+              "bunnyId": "661d0637-0665-43db-9eca-36982c866943",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #123",
+              "url": "https://sovietscloset.com/video/14449",
+              "id": 14449,
+              "date": "2022-09-15 20:51",
+              "number": 123,
+              "bunnyId": "8dd34ba1-3465-4b9d-b503-e8d7e3958e2e",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #124",
+              "url": "https://sovietscloset.com/video/14446",
+              "id": 14446,
+              "date": "2022-09-22 20:54",
+              "number": 124,
+              "bunnyId": "800095ed-29db-407c-824a-f34e1bc58719",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #125",
+              "url": "https://sovietscloset.com/video/14447",
+              "id": 14447,
+              "date": "2022-09-29 20:52",
+              "number": 125,
+              "bunnyId": "b31f0b02-6de4-4013-b5d5-4562d15a2afb",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #126",
+              "url": "https://sovietscloset.com/video/14448",
+              "id": 14448,
+              "date": "2022-10-06 20:50",
+              "number": 126,
+              "bunnyId": "f6d3c112-de03-4dc4-8f33-fba4e2d6ba2a",
+              "new": true
             }
           ]
         }
@@ -15955,37 +16084,46 @@
             },
             {
               "title": "Team Fortress 2 #102",
-              "url": "https://sovietscloset.com/video/14381",
-              "id": 14381,
-              "date": "2022-08-21 19:54",
+              "url": "https://sovietscloset.com/video/14450",
+              "id": 14450,
+              "date": "2022-08-14 19:57",
               "number": 102,
-              "bunnyId": "66a3000b-1ba3-4ac4-98d5-d598bb00c192",
+              "bunnyId": "972a2419-4b20-4f72-a2e5-19de201cdcd2",
               "new": false
             },
             {
               "title": "Team Fortress 2 #103",
-              "url": "https://sovietscloset.com/video/14390",
-              "id": 14390,
-              "date": "2022-08-28 19:58",
+              "url": "https://sovietscloset.com/video/14381",
+              "id": 14381,
+              "date": "2022-08-21 19:54",
               "number": 103,
-              "bunnyId": "f49643f6-f8f0-455f-8e7d-9da7e483335e",
+              "bunnyId": "66a3000b-1ba3-4ac4-98d5-d598bb00c192",
               "new": false
             },
             {
               "title": "Team Fortress 2 #104",
-              "url": "https://sovietscloset.com/video/14422",
-              "id": 14422,
-              "date": "2022-09-04 20:00",
+              "url": "https://sovietscloset.com/video/14390",
+              "id": 14390,
+              "date": "2022-08-28 19:58",
               "number": 104,
-              "bunnyId": "2877470a-8484-461f-8b62-6be314b142f0",
+              "bunnyId": "f49643f6-f8f0-455f-8e7d-9da7e483335e",
               "new": false
             },
             {
               "title": "Team Fortress 2 #105",
+              "url": "https://sovietscloset.com/video/14422",
+              "id": 14422,
+              "date": "2022-09-04 20:00",
+              "number": 105,
+              "bunnyId": "2877470a-8484-461f-8b62-6be314b142f0",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #106",
               "url": "https://sovietscloset.com/video/14423",
               "id": 14423,
               "date": "2022-09-11 19:57",
-              "number": 105,
+              "number": 106,
               "bunnyId": "e1db08be-a110-41d5-aa94-2a919f4932e6",
               "new": false
             }

@@ -1,5 +1,65 @@
 # Changelog
 
+## 2022-10-09T19:43:12Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is now marked as recently updated.
+
+#### Added Playlist [Arma 3 - Prairie Fire Mike Force - Khe Sahn](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn)
+
+##### Videos
+
+- Added `v14452` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #1](https://sovietscloset.com/video/14452)
+- Added `v14451` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #2](https://sovietscloset.com/video/14451) (new)
+- Added `v14453` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #3](https://sovietscloset.com/video/14453) (new)
+
+### Added Game [Firewatch](https://sovietscloset.com/Firewatch)
+
+#### Added Playlist [Firewatch](https://sovietscloset.com/Firewatch)
+
+##### Videos
+
+- Added `v14442` [Firewatch #1](https://sovietscloset.com/video/14442) (new)
+- Added `v14443` [Firewatch #2](https://sovietscloset.com/video/14443) (new)
+- Added `v14444` [Firewatch #3](https://sovietscloset.com/video/14444) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14445` [Holdfast: Nations at War #122](https://sovietscloset.com/video/14445)
+- Added `v14449` [Holdfast: Nations at War #123](https://sovietscloset.com/video/14449)
+- Added `v14446` [Holdfast: Nations at War #124](https://sovietscloset.com/video/14446)
+- Added `v14447` [Holdfast: Nations at War #125](https://sovietscloset.com/video/14447)
+- Added `v14448` [Holdfast: Nations at War #126](https://sovietscloset.com/video/14448) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14450` [Team Fortress 2 #102](https://sovietscloset.com/video/14450)
+- Modified `v14381` [Team Fortress 2 #103](https://sovietscloset.com/video/14381)
+  - Changed title from `Team Fortress 2 #102` to `Team Fortress 2 #103`
+  - Changed number from `102` to `103`
+- Modified `v14390` [Team Fortress 2 #104](https://sovietscloset.com/video/14390)
+  - Changed title from `Team Fortress 2 #103` to `Team Fortress 2 #104`
+  - Changed number from `103` to `104`
+- Modified `v14422` [Team Fortress 2 #105](https://sovietscloset.com/video/14422)
+  - Changed title from `Team Fortress 2 #104` to `Team Fortress 2 #105`
+  - Changed number from `104` to `105`
+- Modified `v14423` [Team Fortress 2 #106](https://sovietscloset.com/video/14423)
+  - Changed title from `Team Fortress 2 #105` to `Team Fortress 2 #106`
+  - Changed number from `105` to `106`
+
 ## 2022-10-03T12:23:55Z
 
 ### Modified Game [European Air War](https://sovietscloset.com/European-Air-War)
