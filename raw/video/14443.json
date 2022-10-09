@@ -1,0 +1,30 @@
+{
+  "streamId": 14443,
+  "date": "2022-10-04 20:27",
+  "game": {
+    "name": "Firewatch",
+    "slug": "Firewatch"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14442,
+        "date": "2022-10-04 11:17"
+      },
+      {
+        "streamId": 14443,
+        "date": "2022-10-04 20:27"
+      },
+      {
+        "streamId": 14444,
+        "date": "2022-10-07 11:26"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "e0d59630-da51-4787-b074-af23915a4704",
+  "useBunny": true
+}

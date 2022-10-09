@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1016,
@@ -869,6 +869,33 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9093,
+        "name": "Prairie Fire Mike Force - Khe Sahn",
+        "slug": "Prairie-Fire-Mike-Force---Khe-Sahn",
+        "streams": [
+          {
+            "id": 14452,
+            "date": "2022-09-30 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14451,
+            "date": "2022-10-03 19:32",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14453,
+            "date": "2022-10-07 19:33",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -3369,6 +3396,42 @@
     ]
   },
   {
+    "id": 9075,
+    "name": "Firewatch",
+    "slug": "Firewatch",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9092,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14442,
+            "date": "2022-10-04 11:17",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14443,
+            "date": "2022-10-04 20:27",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14444,
+            "date": "2022-10-07 11:26",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 7066,
     "name": "Foxhole",
     "slug": "Foxhole",
@@ -3721,7 +3784,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -4447,10 +4510,40 @@
             "date": "2022-08-25 20:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14445,
+            "date": "2022-09-08 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14449,
+            "date": "2022-09-15 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14446,
+            "date": "2022-09-22 20:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14447,
+            "date": "2022-09-29 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14448,
+            "date": "2022-10-06 20:50",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -10949,6 +11042,12 @@
           {
             "id": 14347,
             "date": "2022-08-07 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14450,
+            "date": "2022-08-14 19:57",
             "new": false,
             "useBunny": true
           },
