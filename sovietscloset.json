@@ -1,5 +1,5 @@
 {
-  "timestamp": 1665344592,
+  "timestamp": 1666010357,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -420,7 +420,7 @@
       "name": "Arma 3",
       "slug": "Arma-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Arma 3 - Antistasi Games",
@@ -1287,7 +1287,7 @@
           "name": "Prairie Fire Mike Force - Khe Sahn",
           "slug": "Prairie-Fire-Mike-Force---Khe-Sahn",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #1",
@@ -1305,7 +1305,7 @@
               "date": "2022-10-03 19:32",
               "number": 2,
               "bunnyId": "e8389153-055d-4e86-81ff-fc2132fc8f26",
-              "new": true
+              "new": false
             },
             {
               "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #3",
@@ -1314,7 +1314,7 @@
               "date": "2022-10-07 19:33",
               "number": 3,
               "bunnyId": "657bed6b-c3b1-4095-97d8-d2527aedca91",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4930,7 +4930,7 @@
       "name": "Firewatch",
       "slug": "Firewatch",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Firewatch",
@@ -4938,7 +4938,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Firewatch #1",
@@ -4947,7 +4947,7 @@
               "date": "2022-10-04 11:17",
               "number": 1,
               "bunnyId": "b75eaac6-21bd-4168-b3ac-b2b5fa46fcf6",
-              "new": true
+              "new": false
             },
             {
               "title": "Firewatch #2",
@@ -4956,7 +4956,7 @@
               "date": "2022-10-04 20:27",
               "number": 2,
               "bunnyId": "e0d59630-da51-4787-b074-af23915a4704",
-              "new": true
+              "new": false
             },
             {
               "title": "Firewatch #3",
@@ -4965,7 +4965,7 @@
               "date": "2022-10-07 11:26",
               "number": 3,
               "bunnyId": "278193b1-4573-4c90-bdf3-f71522744061",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -5443,7 +5443,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -5451,7 +5451,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -6576,7 +6576,7 @@
               "date": "2022-10-06 20:50",
               "number": 126,
               "bunnyId": "f6d3c112-de03-4dc4-8f33-fba4e2d6ba2a",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -18552,6 +18552,51 @@
               "date": "2021-10-28 11:21",
               "number": 45,
               "bunnyId": "dbd14203-74da-4a97-811d-1d4faad09dbb",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #46",
+              "url": "https://sovietscloset.com/video/14458",
+              "id": 14458,
+              "date": "2022-09-26 12:04",
+              "number": 46,
+              "bunnyId": "43e1a1a6-2fcc-4ebf-aaa8-1c8926c40cac",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #47",
+              "url": "https://sovietscloset.com/video/14457",
+              "id": 14457,
+              "date": "2022-09-26 20:13",
+              "number": 47,
+              "bunnyId": "13fc8e72-1ff4-47a1-bc59-4b6f0c3ffdb0",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #48",
+              "url": "https://sovietscloset.com/video/14456",
+              "id": 14456,
+              "date": "2022-09-27 11:16",
+              "number": 48,
+              "bunnyId": "4fb4be0f-a83c-4696-b661-9380f80bb953",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #49",
+              "url": "https://sovietscloset.com/video/14455",
+              "id": 14455,
+              "date": "2022-09-27 20:21",
+              "number": 49,
+              "bunnyId": "8cf6399e-3f34-419c-9d6e-c30c7ae69386",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #50",
+              "url": "https://sovietscloset.com/video/14454",
+              "id": 14454,
+              "date": "2022-09-30 11:26",
+              "number": 50,
+              "bunnyId": "bb56e5b7-f0c7-45d6-a265-e189eff4d01f",
               "new": false
             }
           ]

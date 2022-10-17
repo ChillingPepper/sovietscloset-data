@@ -1,5 +1,64 @@
 # Changelog
 
+## 2022-10-17T12:39:17Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force - Khe Sahn](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14451` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #2](https://sovietscloset.com/video/14451)
+  - Is no longer marked as new.
+- Modified `v14453` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #3](https://sovietscloset.com/video/14453)
+  - Is no longer marked as new.
+
+### Modified Game [Firewatch](https://sovietscloset.com/Firewatch)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Firewatch](https://sovietscloset.com/Firewatch)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14442` [Firewatch #1](https://sovietscloset.com/video/14442)
+  - Is no longer marked as new.
+- Modified `v14443` [Firewatch #2](https://sovietscloset.com/video/14443)
+  - Is no longer marked as new.
+- Modified `v14444` [Firewatch #3](https://sovietscloset.com/video/14444)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14448` [Holdfast: Nations at War #126](https://sovietscloset.com/video/14448)
+  - Is no longer marked as new.
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Added `v14458` [VR Blade & Sorcery #46](https://sovietscloset.com/video/14458)
+- Added `v14457` [VR Blade & Sorcery #47](https://sovietscloset.com/video/14457)
+- Added `v14456` [VR Blade & Sorcery #48](https://sovietscloset.com/video/14456)
+- Added `v14455` [VR Blade & Sorcery #49](https://sovietscloset.com/video/14455)
+- Added `v14454` [VR Blade & Sorcery #50](https://sovietscloset.com/video/14454)
+
 ## 2022-10-09T19:43:12Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
