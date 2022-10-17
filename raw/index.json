@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1016,
@@ -884,18 +884,18 @@
           {
             "id": 14451,
             "date": "2022-10-03 19:32",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14453,
             "date": "2022-10-07 19:33",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3400,7 +3400,7 @@
     "name": "Firewatch",
     "slug": "Firewatch",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9092,
@@ -3410,24 +3410,24 @@
           {
             "id": 14442,
             "date": "2022-10-04 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14443,
             "date": "2022-10-04 20:27",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14444,
             "date": "2022-10-07 11:26",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3784,7 +3784,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -4538,12 +4538,12 @@
           {
             "id": 14448,
             "date": "2022-10-06 20:50",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -12746,6 +12746,36 @@
           {
             "id": 10139,
             "date": "2021-10-28 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14458,
+            "date": "2022-09-26 12:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14457,
+            "date": "2022-09-26 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14456,
+            "date": "2022-09-27 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14455,
+            "date": "2022-09-27 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14454,
+            "date": "2022-09-30 11:26",
             "new": false,
             "useBunny": true
           }
