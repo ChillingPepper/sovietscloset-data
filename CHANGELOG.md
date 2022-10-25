@@ -1,5 +1,56 @@
 # Changelog
 
+## 2022-10-25T16:37:32Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+##### Videos
+
+- Modified `v14388` [CSGO #19](https://sovietscloset.com/video/14388)
+  - Changed title from `CSGO #18` to `CSGO #19`
+  - Changed number from `18` to `19`
+- Modified `v14425` [CSGO #20](https://sovietscloset.com/video/14425)
+  - Changed title from `CSGO #19` to `CSGO #20`
+  - Changed number from `19` to `20`
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Modified `v14386` [Rising Storm 2: Vietnam #96](https://sovietscloset.com/video/14386)
+  - Changed title from `Rising Storm 2: Vietnam #95` to `Rising Storm 2: Vietnam #96`
+  - Changed number from `95` to `96`
+- Modified `v14400` [Rising Storm 2: Vietnam #97](https://sovietscloset.com/video/14400)
+  - Changed title from `Rising Storm 2: Vietnam #96` to `Rising Storm 2: Vietnam #97`
+  - Changed number from `96` to `97`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14459` [Team Fortress 2 #103](https://sovietscloset.com/video/14459)
+- Modified `v14450` [Team Fortress 2 #103](https://sovietscloset.com/video/14450)
+  - Changed title from `Team Fortress 2 #102` to `Team Fortress 2 #103`
+  - Changed number from `102` to `103`
+- Modified `v14381` [Team Fortress 2 #104](https://sovietscloset.com/video/14381)
+  - Changed title from `Team Fortress 2 #103` to `Team Fortress 2 #104`
+  - Changed number from `103` to `104`
+- Modified `v14390` [Team Fortress 2 #105](https://sovietscloset.com/video/14390)
+  - Changed title from `Team Fortress 2 #104` to `Team Fortress 2 #105`
+  - Changed number from `104` to `105`
+- Modified `v14422` [Team Fortress 2 #106](https://sovietscloset.com/video/14422)
+  - Changed title from `Team Fortress 2 #105` to `Team Fortress 2 #106`
+  - Changed number from `105` to `106`
+- Modified `v14423` [Team Fortress 2 #107](https://sovietscloset.com/video/14423)
+  - Changed title from `Team Fortress 2 #106` to `Team Fortress 2 #107`
+  - Changed number from `106` to `107`
+
 ## 2022-10-17T12:39:17Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

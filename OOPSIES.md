@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-10-17T12:39:17Z.
+Last updated at 2022-10-25T16:37:32Z.
 
 ## Wrong Tags
 
@@ -58,6 +58,8 @@ Missing videos are only detected if they are followed by a video that is already
 - [Blackwake](https://sovietscloset.com/Blackwake)
   - Blackwake #13
   - Blackwake #14
+- [CSGO](https://sovietscloset.com/CSGO)
+  - CSGO #18
 - [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
   - DayZ - Standalone #1
   - DayZ - Standalone #4
@@ -146,6 +148,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Rising Storm 2: Vietnam #31
   - Rising Storm 2: Vietnam #33
   - Rising Storm 2: Vietnam #37
+  - Rising Storm 2: Vietnam #95
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
@@ -176,6 +179,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #68
   - Team Fortress 2 #79
   - Team Fortress 2 #99
+  - Team Fortress 2 #102
 - [The Isle](https://sovietscloset.com/The-Isle)
   - The Isle #12
   - The Isle #18
@@ -500,6 +504,9 @@ This list includes all videos that have the same date.
 - Date: 2022-07-06 11:17
   - [Fallout Tactics #10](https://sovietscloset.com/video/14303) (id: 14303)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14349) (id: 14349)
+- Date: 2022-08-14 19:57
+  - [Team Fortress 2 #103](https://sovietscloset.com/video/14450) (id: 14450)
+  - [Team Fortress 2 #103](https://sovietscloset.com/video/14459) (id: 14459)
 - Date: 2022-08-25 20:51
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
@@ -748,6 +755,9 @@ This list includes all videos that have the same number.
 - Number: 94
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778) (id: 1778)
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777) (id: 6777)
+- Number: 103
+  - [Team Fortress 2 #103](https://sovietscloset.com/video/14450) (id: 14450)
+  - [Team Fortress 2 #103](https://sovietscloset.com/video/14459) (id: 14459)
 - Number: 109
   - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249) (id: 14249)
   - [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277) (id: 14277)
