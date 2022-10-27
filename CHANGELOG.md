@@ -1,5 +1,73 @@
 # Changelog
 
+## 2022-10-27T17:58:08Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14465` [Holdfast: Nations at War #122](https://sovietscloset.com/video/14465)
+- Modified `v14445` [Holdfast: Nations at War #123](https://sovietscloset.com/video/14445)
+  - Changed title from `Holdfast: Nations at War #122` to `Holdfast: Nations at War #123`
+  - Changed number from `122` to `123`
+- Modified `v14449` [Holdfast: Nations at War #124](https://sovietscloset.com/video/14449)
+  - Changed title from `Holdfast: Nations at War #123` to `Holdfast: Nations at War #124`
+  - Changed number from `123` to `124`
+- Modified `v14446` [Holdfast: Nations at War #125](https://sovietscloset.com/video/14446)
+  - Changed title from `Holdfast: Nations at War #124` to `Holdfast: Nations at War #125`
+  - Changed number from `124` to `125`
+- Modified `v14447` [Holdfast: Nations at War #126](https://sovietscloset.com/video/14447)
+  - Changed title from `Holdfast: Nations at War #125` to `Holdfast: Nations at War #126`
+  - Changed number from `125` to `126`
+- Modified `v14448` [Holdfast: Nations at War #127](https://sovietscloset.com/video/14448)
+  - Changed title from `Holdfast: Nations at War #126` to `Holdfast: Nations at War #127`
+  - Changed number from `126` to `127`
+
+### Modified Game [PHOGS](https://sovietscloset.com/PHOGS)
+
+#### Modified Playlist [PHOGS - Alasdair and Soviet](https://sovietscloset.com/PHOGS/Alasdair-and-Soviet)
+
+##### Videos
+
+- Added `v14463` [PHOGS - Alasdair and Soviet #4](https://sovietscloset.com/video/14463)
+- Added `v14462` [PHOGS - Alasdair and Soviet #5](https://sovietscloset.com/video/14462)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v14395` [Rimworld - The Pale Ones #36](https://sovietscloset.com/video/14395)
+  - Changed title from `Rimworld - The Pale Ones #35` to `Rimworld - The Pale Ones #36`
+  - Changed number from `35` to `36`
+- Modified `v14394` [Rimworld - The Pale Ones #37](https://sovietscloset.com/video/14394)
+  - Changed title from `Rimworld - The Pale Ones #36` to `Rimworld - The Pale Ones #37`
+  - Changed number from `36` to `37`
+- Modified `v14391` [Rimworld - The Pale Ones #38](https://sovietscloset.com/video/14391)
+  - Changed title from `Rimworld - The Pale Ones #37` to `Rimworld - The Pale Ones #38`
+  - Changed number from `37` to `38`
+- Modified `v14389` [Rimworld - The Pale Ones #39](https://sovietscloset.com/video/14389)
+  - Changed title from `Rimworld - The Pale Ones #38` to `Rimworld - The Pale Ones #39`
+  - Changed number from `38` to `39`
+- Modified `v14397` [Rimworld - The Pale Ones #40](https://sovietscloset.com/video/14397)
+  - Changed title from `Rimworld - The Pale Ones #39` to `Rimworld - The Pale Ones #40`
+  - Changed number from `39` to `40`
+- Modified `v14398` [Rimworld - The Pale Ones #41](https://sovietscloset.com/video/14398)
+  - Changed title from `Rimworld - The Pale Ones #40` to `Rimworld - The Pale Ones #41`
+  - Changed number from `40` to `41`
+- Modified `v14399` [Rimworld - The Pale Ones #42](https://sovietscloset.com/video/14399)
+  - Changed title from `Rimworld - The Pale Ones #41` to `Rimworld - The Pale Ones #42`
+  - Changed number from `41` to `42`
+- Modified `v14401` [Rimworld - The Pale Ones #43](https://sovietscloset.com/video/14401)
+  - Changed title from `Rimworld - The Pale Ones #42` to `Rimworld - The Pale Ones #43`
+  - Changed number from `42` to `43`
+- Modified `v14402` [Rimworld - The Pale Ones #44](https://sovietscloset.com/video/14402)
+  - Changed title from `Rimworld - The Pale Ones #43` to `Rimworld - The Pale Ones #44`
+  - Changed number from `43` to `44`
+
 ## 2022-10-25T16:37:32Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)
