@@ -1,5 +1,19 @@
 # Changelog
 
+## 2022-11-08T21:04:31Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+##### Videos
+
+- Added `v14467` [CSGO #20](https://sovietscloset.com/video/14467)
+- Modified `v14425` [CSGO #21](https://sovietscloset.com/video/14425)
+  - Changed title from `CSGO #20` to `CSGO #21`
+  - Changed number from `20` to `21`
+- Added `v14466` [CSGO #22](https://sovietscloset.com/video/14466)
+
 ## 2022-10-27T17:58:08Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
