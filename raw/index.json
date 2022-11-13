@@ -6208,6 +6208,30 @@
             "date": "2022-04-01 20:31",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14477,
+            "date": "2022-10-10 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14478,
+            "date": "2022-10-11 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14476,
+            "date": "2022-10-17 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14474,
+            "date": "2022-10-18 11:11",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -8760,6 +8784,24 @@
             "useBunny": true
           },
           {
+            "id": 14471,
+            "date": "2022-09-07 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14472,
+            "date": "2022-09-08 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14469,
+            "date": "2022-09-09 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14424,
             "date": "2022-09-10 20:14",
             "new": false,
@@ -8792,6 +8834,42 @@
           {
             "id": 14429,
             "date": "2022-09-14 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14470,
+            "date": "2022-09-15 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14468,
+            "date": "2022-09-16 11:24",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9076,
+    "name": "Sea of Thieves",
+    "slug": "Sea-of-Thieves",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9094,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14473,
+            "date": "2022-10-03 11:18",
             "new": false,
             "useBunny": true
           }

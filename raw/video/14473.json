@@ -1,0 +1,22 @@
+{
+  "streamId": 14473,
+  "date": "2022-10-03 11:18",
+  "game": {
+    "name": "Sea of Thieves",
+    "slug": "Sea-of-Thieves"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14473,
+        "date": "2022-10-03 11:18"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "2b92ba98-fcb4-4e98-8aa5-3b8ce28dc621",
+  "useBunny": true
+}
