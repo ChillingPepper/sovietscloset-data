@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-11-08T21:04:31Z.
+Last updated at 2022-11-12T21:36:13Z.
 
 ## Wrong Tags
 
@@ -131,6 +131,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Prison Architect #5
   - Prison Architect #6
   - Prison Architect #13
+  - Prison Architect #26
 - [Rimworld - Caloma's Creek](https://sovietscloset.com/Rimworld/Caloma-s-Creek)
   - Rimworld - Caloma's Creek #79
   - Rimworld - Caloma's Creek #83
@@ -154,6 +155,7 @@ Missing videos are only detected if they are followed by a video that is already
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
+  - Rust #45
 - [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
   - Silent Hunter 3 #4
   - Silent Hunter 3 #33
@@ -512,6 +514,9 @@ This list includes all videos that have the same date.
 - Date: 2022-08-25 20:51
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
+- Date: 2022-09-07 20:11
+  - [Rust #46](https://sovietscloset.com/video/14420) (id: 14420)
+  - [Rust #46](https://sovietscloset.com/video/14471) (id: 14471)
 
 ### Dupes by Number
 
@@ -690,6 +695,9 @@ This list includes all videos that have the same number.
 - Number: 42
   - [Team Fortress 2 #42](https://sovietscloset.com/video/6693) (id: 6693)
   - [Team Fortress 2 #42](https://sovietscloset.com/video/9011) (id: 9011)
+- Number: 46
+  - [Rust #46](https://sovietscloset.com/video/14420) (id: 14420)
+  - [Rust #46](https://sovietscloset.com/video/14471) (id: 14471)
 - Number: 49
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092) (id: 10092)
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999) (id: 6999)

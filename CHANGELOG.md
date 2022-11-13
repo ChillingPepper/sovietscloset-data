@@ -1,5 +1,59 @@
 # Changelog
 
+## 2022-11-12T21:36:13Z
+
+### Modified Game [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+#### Modified Playlist [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+##### Videos
+
+- Added `v14477` [Prison Architect #24](https://sovietscloset.com/video/14477)
+- Added `v14478` [Prison Architect #25](https://sovietscloset.com/video/14478)
+- Added `v14476` [Prison Architect #27](https://sovietscloset.com/video/14476)
+- Added `v14474` [Prison Architect #28](https://sovietscloset.com/video/14474)
+
+### Modified Game [Rust](https://sovietscloset.com/Rust)
+
+#### Modified Playlist [Rust](https://sovietscloset.com/Rust)
+
+##### Videos
+
+- Added `v14471` [Rust #46](https://sovietscloset.com/video/14471)
+- Modified `v14420` [Rust #46](https://sovietscloset.com/video/14420)
+  - Changed title from `Rust #45` to `Rust #46`
+  - Changed number from `45` to `46`
+- Added `v14472` [Rust #47](https://sovietscloset.com/video/14472)
+- Added `v14469` [Rust #48](https://sovietscloset.com/video/14469)
+- Modified `v14424` [Rust #49](https://sovietscloset.com/video/14424)
+  - Changed title from `Rust #46` to `Rust #49`
+  - Changed number from `46` to `49`
+- Modified `v14421` [Rust #50](https://sovietscloset.com/video/14421)
+  - Changed title from `Rust #47` to `Rust #50`
+  - Changed number from `47` to `50`
+- Modified `v14427` [Rust #51](https://sovietscloset.com/video/14427)
+  - Changed title from `Rust #48` to `Rust #51`
+  - Changed number from `48` to `51`
+- Modified `v14428` [Rust #52](https://sovietscloset.com/video/14428)
+  - Changed title from `Rust #49` to `Rust #52`
+  - Changed number from `49` to `52`
+- Modified `v14426` [Rust #53](https://sovietscloset.com/video/14426)
+  - Changed title from `Rust #50` to `Rust #53`
+  - Changed number from `50` to `53`
+- Modified `v14429` [Rust #54](https://sovietscloset.com/video/14429)
+  - Changed title from `Rust #51` to `Rust #54`
+  - Changed number from `51` to `54`
+- Added `v14470` [Rust #55](https://sovietscloset.com/video/14470)
+- Added `v14468` [Rust #56](https://sovietscloset.com/video/14468)
+
+### Added Game [Sea of Thieves](https://sovietscloset.com/Sea-of-Thieves)
+
+#### Added Playlist [Sea of Thieves](https://sovietscloset.com/Sea-of-Thieves)
+
+##### Videos
+
+- Added `v14473` [Sea of Thieves #1](https://sovietscloset.com/video/14473)
+
 ## 2022-11-08T21:04:31Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1667941471,
+  "timestamp": 1668288973,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -8960,6 +8960,42 @@
               "number": 23,
               "bunnyId": "3fe234ab-647c-4056-8bea-8d9e98a8b3e4",
               "new": false
+            },
+            {
+              "title": "Prison Architect #24",
+              "url": "https://sovietscloset.com/video/14477",
+              "id": 14477,
+              "date": "2022-10-10 11:24",
+              "number": 24,
+              "bunnyId": "02302cca-c8a5-427e-8bd5-459b4841e860",
+              "new": false
+            },
+            {
+              "title": "Prison Architect #25",
+              "url": "https://sovietscloset.com/video/14478",
+              "id": 14478,
+              "date": "2022-10-11 11:07",
+              "number": 25,
+              "bunnyId": "ff934dab-8730-43fa-96a3-b7a329829ef6",
+              "new": false
+            },
+            {
+              "title": "Prison Architect #27",
+              "url": "https://sovietscloset.com/video/14476",
+              "id": 14476,
+              "date": "2022-10-17 11:19",
+              "number": 27,
+              "bunnyId": "37206fbd-2de7-4a2e-9a6a-625b1c00fadd",
+              "new": false
+            },
+            {
+              "title": "Prison Architect #28",
+              "url": "https://sovietscloset.com/video/14474",
+              "id": 14474,
+              "date": "2022-10-18 11:11",
+              "number": 28,
+              "bunnyId": "374cd0ef-30f7-49e2-be5a-28b270175b41",
+              "new": false
             }
           ]
         }
@@ -12729,66 +12765,140 @@
               "new": false
             },
             {
-              "title": "Rust #45",
+              "title": "Rust #46",
               "url": "https://sovietscloset.com/video/14420",
               "id": 14420,
               "date": "2022-09-07 20:11",
-              "number": 45,
+              "number": 46,
               "bunnyId": "0f0f2853-08dc-4d02-82f0-a37ec7e3519c",
               "new": false
             },
             {
               "title": "Rust #46",
-              "url": "https://sovietscloset.com/video/14424",
-              "id": 14424,
-              "date": "2022-09-10 20:14",
+              "url": "https://sovietscloset.com/video/14471",
+              "id": 14471,
+              "date": "2022-09-07 20:11",
               "number": 46,
-              "bunnyId": "00f506b3-ec60-49dc-aa1d-91548be8d722",
+              "bunnyId": "05e50043-d4ad-4d08-8d61-39e45be7a96d",
               "new": false
             },
             {
               "title": "Rust #47",
-              "url": "https://sovietscloset.com/video/14421",
-              "id": 14421,
-              "date": "2022-09-12 11:26",
+              "url": "https://sovietscloset.com/video/14472",
+              "id": 14472,
+              "date": "2022-09-08 11:04",
               "number": 47,
-              "bunnyId": "436ed082-e470-4e7c-a05c-353ff96a475c",
+              "bunnyId": "3ddb009c-96e7-40d2-a7d5-87026cacfac8",
               "new": false
             },
             {
               "title": "Rust #48",
-              "url": "https://sovietscloset.com/video/14427",
-              "id": 14427,
-              "date": "2022-09-12 20:21",
+              "url": "https://sovietscloset.com/video/14469",
+              "id": 14469,
+              "date": "2022-09-09 11:14",
               "number": 48,
-              "bunnyId": "748b8908-aa94-42bf-a380-3694341ee643",
+              "bunnyId": "118bb359-2091-4b65-95f0-04d7f1ca31e5",
               "new": false
             },
             {
               "title": "Rust #49",
-              "url": "https://sovietscloset.com/video/14428",
-              "id": 14428,
-              "date": "2022-09-13 11:07",
+              "url": "https://sovietscloset.com/video/14424",
+              "id": 14424,
+              "date": "2022-09-10 20:14",
               "number": 49,
-              "bunnyId": "8b7a01d9-e5c4-4582-a0ee-c33b09f5d9bc",
+              "bunnyId": "00f506b3-ec60-49dc-aa1d-91548be8d722",
               "new": false
             },
             {
               "title": "Rust #50",
-              "url": "https://sovietscloset.com/video/14426",
-              "id": 14426,
-              "date": "2022-09-14 10:26",
+              "url": "https://sovietscloset.com/video/14421",
+              "id": 14421,
+              "date": "2022-09-12 11:26",
               "number": 50,
-              "bunnyId": "a95ccacd-ab8e-4c03-9a79-54deab35dfe1",
+              "bunnyId": "436ed082-e470-4e7c-a05c-353ff96a475c",
               "new": false
             },
             {
               "title": "Rust #51",
+              "url": "https://sovietscloset.com/video/14427",
+              "id": 14427,
+              "date": "2022-09-12 20:21",
+              "number": 51,
+              "bunnyId": "748b8908-aa94-42bf-a380-3694341ee643",
+              "new": false
+            },
+            {
+              "title": "Rust #52",
+              "url": "https://sovietscloset.com/video/14428",
+              "id": 14428,
+              "date": "2022-09-13 11:07",
+              "number": 52,
+              "bunnyId": "8b7a01d9-e5c4-4582-a0ee-c33b09f5d9bc",
+              "new": false
+            },
+            {
+              "title": "Rust #53",
+              "url": "https://sovietscloset.com/video/14426",
+              "id": 14426,
+              "date": "2022-09-14 10:26",
+              "number": 53,
+              "bunnyId": "a95ccacd-ab8e-4c03-9a79-54deab35dfe1",
+              "new": false
+            },
+            {
+              "title": "Rust #54",
               "url": "https://sovietscloset.com/video/14429",
               "id": 14429,
               "date": "2022-09-14 20:12",
-              "number": 51,
+              "number": 54,
               "bunnyId": "ae6b965a-f5d0-44a2-bed1-5c1918ba4ed2",
+              "new": false
+            },
+            {
+              "title": "Rust #55",
+              "url": "https://sovietscloset.com/video/14470",
+              "id": 14470,
+              "date": "2022-09-15 11:17",
+              "number": 55,
+              "bunnyId": "fb06e32f-ae4b-4e2e-adc2-bdbdf5b67b06",
+              "new": false
+            },
+            {
+              "title": "Rust #56",
+              "url": "https://sovietscloset.com/video/14468",
+              "id": 14468,
+              "date": "2022-09-16 11:24",
+              "number": 56,
+              "bunnyId": "191ed166-9391-4a3b-a3dd-c1b38e3db292",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sea of Thieves",
+      "url": "https://sovietscloset.com/Sea-of-Thieves",
+      "name": "Sea of Thieves",
+      "slug": "Sea-of-Thieves",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Sea of Thieves",
+          "url": "https://sovietscloset.com/Sea-of-Thieves",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Sea of Thieves #1",
+              "url": "https://sovietscloset.com/video/14473",
+              "id": 14473,
+              "date": "2022-10-03 11:18",
+              "number": 1,
+              "bunnyId": "2b92ba98-fcb4-4e98-8aa5-3b8ce28dc621",
               "new": false
             }
           ]
