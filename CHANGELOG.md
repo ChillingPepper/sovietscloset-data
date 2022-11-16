@@ -1,5 +1,19 @@
 # Changelog
 
+## 2022-11-16T13:23:20Z
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+##### Videos
+
+- Added `v14480` [CSGO #22](https://sovietscloset.com/video/14480)
+- Added `v14479` [CSGO #23](https://sovietscloset.com/video/14479)
+- Modified `v14466` [CSGO #24](https://sovietscloset.com/video/14466)
+  - Changed title from `CSGO #22` to `CSGO #24`
+  - Changed number from `22` to `24`
+
 ## 2022-11-12T21:36:13Z
 
 ### Modified Game [Prison Architect](https://sovietscloset.com/Prison-Architect)

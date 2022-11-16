@@ -1,5 +1,5 @@
 {
-  "timestamp": 1668288973,
+  "timestamp": 1668605000,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2055,10 +2055,28 @@
             },
             {
               "title": "CSGO #22",
+              "url": "https://sovietscloset.com/video/14480",
+              "id": 14480,
+              "date": "2022-09-16 20:01",
+              "number": 22,
+              "bunnyId": "adb2e862-f77b-41f3-a3da-0810ee161631",
+              "new": false
+            },
+            {
+              "title": "CSGO #23",
+              "url": "https://sovietscloset.com/video/14479",
+              "id": 14479,
+              "date": "2022-09-23 20:05",
+              "number": 23,
+              "bunnyId": "176f9648-a64a-4b00-8970-567ac6db6df6",
+              "new": false
+            },
+            {
+              "title": "CSGO #24",
               "url": "https://sovietscloset.com/video/14466",
               "id": 14466,
               "date": "2022-10-01 19:55",
-              "number": 22,
+              "number": 24,
               "bunnyId": "1b7020bf-e056-4bf0-9dce-1a9f383c5940",
               "new": false
             }
