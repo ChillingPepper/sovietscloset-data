@@ -1,6 +1,6 @@
 {
-  "streamId": 3706,
-  "date": "2018-10-15 19:50",
+  "streamId": 14480,
+  "date": "2022-09-16 20:01",
   "game": {
     "name": "CSGO",
     "slug": "CSGO"
@@ -104,7 +104,7 @@
       }
     ]
   },
-  "number": 12,
-  "bunnyId": "52ec10b2-d3b9-49cc-b3bc-42b7e338b505",
+  "number": 22,
+  "bunnyId": "adb2e862-f77b-41f3-a3da-0810ee161631",
   "useBunny": true
 }
