@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-11-16T13:23:20Z.
+Last updated at 2022-11-21T01:56:04Z.
 
 ## Wrong Tags
 
@@ -56,10 +56,7 @@ Missing videos are only detected if they are followed by a video that is already
   - 7 Days to Die #36
   - 7 Days to Die #38
 - [Blackwake](https://sovietscloset.com/Blackwake)
-  - Blackwake #13
   - Blackwake #14
-- [CSGO](https://sovietscloset.com/CSGO)
-  - CSGO #18
 - [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
   - DayZ - Standalone #1
   - DayZ - Standalone #4
@@ -76,8 +73,6 @@ Missing videos are only detected if they are followed by a video that is already
   - DayZ - Standalone #77
 - [Divinity: Original Sin 2 - First Playthrough](https://sovietscloset.com/Divinity-Original-Sin-2/First-Playthrough)
   - Divinity: Original Sin 2 - First Playthrough #24
-- [Divinity: Original Sin 2 - Second Playthrough](https://sovietscloset.com/Divinity-Original-Sin-2/Second-Playthrough)
-  - Divinity: Original Sin 2 - Second Playthrough #40
 - [Factorio](https://sovietscloset.com/Factorio)
   - Factorio #1
   - Factorio #3
@@ -137,8 +132,6 @@ Missing videos are only detected if they are followed by a video that is already
   - Rimworld - Caloma's Creek #83
   - Rimworld - Caloma's Creek #85
   - Rimworld - Caloma's Creek #93
-- [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
-  - Rimworld - The Pale Ones #35
 - [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
   - Rising Storm 2: Vietnam #8
   - Rising Storm 2: Vietnam #9
@@ -376,6 +369,9 @@ This list includes all videos that have the same date.
 - Date: 2020-12-16 11:02
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1720) (id: 1720)
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1748) (id: 1748)
+- Date: 2020-12-17 11:08
+  - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/14493) (id: 14493)
+  - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/6776) (id: 6776)
 - Date: 2020-12-18 20:02
   - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/13085) (id: 13085)
   - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/4686) (id: 4686)
@@ -762,6 +758,9 @@ This list includes all videos that have the same number.
   - [Holdfast: Nations at War #84](https://sovietscloset.com/video/9012) (id: 9012)
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1720) (id: 1720)
   - [Rimworld - Caloma's Creek #84](https://sovietscloset.com/video/1748) (id: 1748)
+- Number: 86
+  - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/14493) (id: 14493)
+  - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/6776) (id: 6776)
 - Number: 94
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778) (id: 1778)
   - [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777) (id: 6777)

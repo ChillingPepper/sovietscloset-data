@@ -1,5 +1,5 @@
 {
-  "timestamp": 1668605000,
+  "timestamp": 1668995764,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1315,6 +1315,60 @@
               "number": 3,
               "bunnyId": "657bed6b-c3b1-4095-97d8-d2527aedca91",
               "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #4",
+              "url": "https://sovietscloset.com/video/14485",
+              "id": 14485,
+              "date": "2022-10-10 19:31",
+              "number": 4,
+              "bunnyId": "bf3d863c-7ee4-4021-8c01-00d83d18ef43",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #5",
+              "url": "https://sovietscloset.com/video/14486",
+              "id": 14486,
+              "date": "2022-10-10 20:20",
+              "number": 5,
+              "bunnyId": "6a5f5903-0f1c-4612-acfa-9f81c30f3bc7",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #6",
+              "url": "https://sovietscloset.com/video/14489",
+              "id": 14489,
+              "date": "2022-10-14 19:28",
+              "number": 6,
+              "bunnyId": "071affca-c916-4d59-989b-7a95e7c45546",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #7",
+              "url": "https://sovietscloset.com/video/14488",
+              "id": 14488,
+              "date": "2022-10-17 19:33",
+              "number": 7,
+              "bunnyId": "8d8c316c-1141-4729-b9dd-d0e161666a69",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #8",
+              "url": "https://sovietscloset.com/video/14487",
+              "id": 14487,
+              "date": "2022-10-21 19:30",
+              "number": 8,
+              "bunnyId": "bd3362d4-0fa1-4af8-8ccb-434b9da0802b",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #9",
+              "url": "https://sovietscloset.com/video/14490",
+              "id": 14490,
+              "date": "2022-10-24 19:36",
+              "number": 9,
+              "bunnyId": "b683b24d-aa37-4e1c-94c5-e8c6fdd74b49",
+              "new": false
             }
           ]
         }
@@ -1619,6 +1673,15 @@
               "date": "2021-05-18 20:06",
               "number": 12,
               "bunnyId": "5eafd700-7ecf-4898-9477-5d1166aba653",
+              "new": false
+            },
+            {
+              "title": "Blackwake #13",
+              "url": "https://sovietscloset.com/video/14491",
+              "id": 14491,
+              "date": "2021-06-01 20:05",
+              "number": 13,
+              "bunnyId": "69d72919-bda6-4f52-8b50-cb8720b1754e",
               "new": false
             },
             {
@@ -2024,6 +2087,15 @@
               "date": "2019-06-12 20:15",
               "number": 17,
               "bunnyId": "e81eb6bc-7194-4abc-9c18-ab5997e7eb31",
+              "new": false
+            },
+            {
+              "title": "CSGO #18",
+              "url": "https://sovietscloset.com/video/14492",
+              "id": 14492,
+              "date": "2022-08-16 20:05",
+              "number": 18,
+              "bunnyId": "48b27bfd-ec3a-4ef4-b5b8-9fa5c5caf153",
               "new": false
             },
             {
@@ -3909,74 +3981,74 @@
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #41",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #40",
               "url": "https://sovietscloset.com/video/1475",
               "id": 1475,
               "date": "2019-02-12 20:00",
-              "number": 41,
+              "number": 40,
               "bunnyId": "f3b648e2-f505-4e65-8215-4989368b2776",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #42",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #41",
               "url": "https://sovietscloset.com/video/1476",
               "id": 1476,
               "date": "2019-02-17 19:59",
-              "number": 42,
+              "number": 41,
               "bunnyId": "c94b2531-be9e-4f14-84fe-c9a3d68150bb",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #43",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #42",
               "url": "https://sovietscloset.com/video/1478",
               "id": 1478,
               "date": "2019-02-19 19:58",
-              "number": 43,
+              "number": 42,
               "bunnyId": "c269c509-4537-4a8a-bb3e-1c80fc60e745",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #44",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #43",
               "url": "https://sovietscloset.com/video/1474",
               "id": 1474,
               "date": "2019-02-24 19:59",
-              "number": 44,
+              "number": 43,
               "bunnyId": "2c29ec76-8c96-4cea-a5b0-5e084dccce22",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #45",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #44",
               "url": "https://sovietscloset.com/video/1477",
               "id": 1477,
               "date": "2019-02-27 20:00",
-              "number": 45,
+              "number": 44,
               "bunnyId": "e8fed985-5ed4-48f2-87db-6e1e8f7a81ce",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #46",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #45",
               "url": "https://sovietscloset.com/video/1482",
               "id": 1482,
               "date": "2019-03-03 19:57",
-              "number": 46,
+              "number": 45,
               "bunnyId": "0699a665-af03-4f5d-9430-340aa587662b",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #47",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #46",
               "url": "https://sovietscloset.com/video/1480",
               "id": 1480,
               "date": "2019-03-05 20:05",
-              "number": 47,
+              "number": 46,
               "bunnyId": "25f7f998-d941-4fc5-8161-b1e59728aef1",
               "new": false
             },
             {
-              "title": "Divinity: Original Sin 2 - Second Playthrough #48",
+              "title": "Divinity: Original Sin 2 - Second Playthrough #47",
               "url": "https://sovietscloset.com/video/1483",
               "id": 1483,
               "date": "2019-03-12 19:48",
-              "number": 48,
+              "number": 47,
               "bunnyId": "f44f9276-ba7c-454f-8429-228d21240dad",
               "new": false
             }
@@ -10978,6 +11050,15 @@
               "new": false
             },
             {
+              "title": "Rimworld - Caloma's Creek #86",
+              "url": "https://sovietscloset.com/video/14493",
+              "id": 14493,
+              "date": "2020-12-17 11:08",
+              "number": 86,
+              "bunnyId": "e6f5797c-690c-4371-86e7-4b195c350e74",
+              "new": false
+            },
+            {
               "title": "Rimworld - Caloma's Creek #87",
               "url": "https://sovietscloset.com/video/6775",
               "id": 6775,
@@ -11435,6 +11516,15 @@
               "date": "2022-08-23 11:09",
               "number": 34,
               "bunnyId": "fed78920-29bf-41eb-b42d-468c0001ab0e",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #35",
+              "url": "https://sovietscloset.com/video/14494",
+              "id": 14494,
+              "date": "2022-08-24 11:10",
+              "number": 35,
+              "bunnyId": "885cd9b8-9e8f-488f-bb79-95bf2f62eb37",
               "new": false
             },
             {
@@ -16308,6 +16398,42 @@
               "number": 107,
               "bunnyId": "e1db08be-a110-41d5-aa94-2a919f4932e6",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #108",
+              "url": "https://sovietscloset.com/video/14482",
+              "id": 14482,
+              "date": "2022-09-18 20:00",
+              "number": 108,
+              "bunnyId": "47ab922a-8cdb-4b10-b683-d70ac3f68825",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #109",
+              "url": "https://sovietscloset.com/video/14481",
+              "id": 14481,
+              "date": "2022-09-25 19:56",
+              "number": 109,
+              "bunnyId": "27f1d417-0066-4879-ab24-99158a9f9e9a",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #110",
+              "url": "https://sovietscloset.com/video/14484",
+              "id": 14484,
+              "date": "2022-10-02 19:56",
+              "number": 110,
+              "bunnyId": "efe6662d-445a-4b91-9add-5d3aa684b7cb",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #111",
+              "url": "https://sovietscloset.com/video/14483",
+              "id": 14483,
+              "date": "2022-10-09 19:56",
+              "number": 111,
+              "bunnyId": "c28af4b0-5081-4530-8a70-e07f87781265",
+              "new": false
             }
           ]
         }
@@ -19849,6 +19975,60 @@
               "date": "2022-01-20 11:15",
               "number": 30,
               "bunnyId": "dbadc25c-135a-46d4-8dcb-02d69a1d6099",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #31",
+              "url": "https://sovietscloset.com/video/14496",
+              "id": 14496,
+              "date": "2022-10-20 11:14",
+              "number": 31,
+              "bunnyId": "d27711fc-d3f0-476a-9e23-519506da2402",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #32",
+              "url": "https://sovietscloset.com/video/14495",
+              "id": 14495,
+              "date": "2022-10-20 22:02",
+              "number": 32,
+              "bunnyId": "d7e99d3c-b1de-4993-aa73-b69aaa9afc09",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #33",
+              "url": "https://sovietscloset.com/video/14499",
+              "id": 14499,
+              "date": "2022-10-21 11:20",
+              "number": 33,
+              "bunnyId": "213f4aa5-d955-48d6-99b4-dbb2e259e947",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #34",
+              "url": "https://sovietscloset.com/video/14498",
+              "id": 14498,
+              "date": "2022-10-24 11:05",
+              "number": 34,
+              "bunnyId": "e3cc0d57-b607-44ec-9a29-764e95b0a716",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #35",
+              "url": "https://sovietscloset.com/video/14497",
+              "id": 14497,
+              "date": "2022-10-25 11:09",
+              "number": 35,
+              "bunnyId": "fd3b772d-9c18-4d4a-b7a9-21510547b2f5",
+              "new": false
+            },
+            {
+              "title": "X3-Albion Prelude - Litcube's Universe Mod #36",
+              "url": "https://sovietscloset.com/video/14500",
+              "id": 14500,
+              "date": "2022-10-25 20:14",
+              "number": 36,
+              "bunnyId": "06f86792-3b24-40ea-94e4-886137f2450b",
               "new": false
             }
           ]

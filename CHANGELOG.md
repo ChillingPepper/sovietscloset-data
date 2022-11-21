@@ -1,5 +1,105 @@
 # Changelog
 
+## 2022-11-21T01:56:04Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force - Khe Sahn](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn)
+
+##### Videos
+
+- Added `v14485` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #4](https://sovietscloset.com/video/14485)
+- Added `v14486` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #5](https://sovietscloset.com/video/14486)
+- Added `v14489` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #6](https://sovietscloset.com/video/14489)
+- Added `v14488` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #7](https://sovietscloset.com/video/14488)
+- Added `v14487` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #8](https://sovietscloset.com/video/14487)
+- Added `v14490` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #9](https://sovietscloset.com/video/14490)
+
+### Modified Game [Blackwake](https://sovietscloset.com/Blackwake)
+
+#### Modified Playlist [Blackwake](https://sovietscloset.com/Blackwake)
+
+##### Videos
+
+- Added `v14491` [Blackwake #13](https://sovietscloset.com/video/14491)
+
+### Modified Game [CSGO](https://sovietscloset.com/CSGO)
+
+#### Modified Playlist [CSGO](https://sovietscloset.com/CSGO)
+
+##### Videos
+
+- Added `v14492` [CSGO #18](https://sovietscloset.com/video/14492)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Second Playthrough](https://sovietscloset.com/Divinity-Original-Sin-2/Second-Playthrough)
+
+##### Videos
+
+- Modified `v1475` [Divinity: Original Sin 2 - Second Playthrough #40](https://sovietscloset.com/video/1475)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #41` to `Divinity: Original Sin 2 - Second Playthrough #40`
+  - Changed number from `41` to `40`
+- Modified `v1476` [Divinity: Original Sin 2 - Second Playthrough #41](https://sovietscloset.com/video/1476)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #42` to `Divinity: Original Sin 2 - Second Playthrough #41`
+  - Changed number from `42` to `41`
+- Modified `v1478` [Divinity: Original Sin 2 - Second Playthrough #42](https://sovietscloset.com/video/1478)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #43` to `Divinity: Original Sin 2 - Second Playthrough #42`
+  - Changed number from `43` to `42`
+- Modified `v1474` [Divinity: Original Sin 2 - Second Playthrough #43](https://sovietscloset.com/video/1474)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #44` to `Divinity: Original Sin 2 - Second Playthrough #43`
+  - Changed number from `44` to `43`
+- Modified `v1477` [Divinity: Original Sin 2 - Second Playthrough #44](https://sovietscloset.com/video/1477)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #45` to `Divinity: Original Sin 2 - Second Playthrough #44`
+  - Changed number from `45` to `44`
+- Modified `v1482` [Divinity: Original Sin 2 - Second Playthrough #45](https://sovietscloset.com/video/1482)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #46` to `Divinity: Original Sin 2 - Second Playthrough #45`
+  - Changed number from `46` to `45`
+- Modified `v1480` [Divinity: Original Sin 2 - Second Playthrough #46](https://sovietscloset.com/video/1480)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #47` to `Divinity: Original Sin 2 - Second Playthrough #46`
+  - Changed number from `47` to `46`
+- Modified `v1483` [Divinity: Original Sin 2 - Second Playthrough #47](https://sovietscloset.com/video/1483)
+  - Changed title from `Divinity: Original Sin 2 - Second Playthrough #48` to `Divinity: Original Sin 2 - Second Playthrough #47`
+  - Changed number from `48` to `47`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - Caloma's Creek](https://sovietscloset.com/Rimworld/Caloma-s-Creek)
+
+##### Videos
+
+- Added `v14493` [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/14493)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14494` [Rimworld - The Pale Ones #35](https://sovietscloset.com/video/14494)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14482` [Team Fortress 2 #108](https://sovietscloset.com/video/14482)
+- Added `v14481` [Team Fortress 2 #109](https://sovietscloset.com/video/14481)
+- Added `v14484` [Team Fortress 2 #110](https://sovietscloset.com/video/14484)
+- Added `v14483` [Team Fortress 2 #111](https://sovietscloset.com/video/14483)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Added `v14496` [X3-Albion Prelude - Litcube's Universe Mod #31](https://sovietscloset.com/video/14496)
+- Added `v14495` [X3-Albion Prelude - Litcube's Universe Mod #32](https://sovietscloset.com/video/14495)
+- Added `v14499` [X3-Albion Prelude - Litcube's Universe Mod #33](https://sovietscloset.com/video/14499)
+- Added `v14498` [X3-Albion Prelude - Litcube's Universe Mod #34](https://sovietscloset.com/video/14498)
+- Added `v14497` [X3-Albion Prelude - Litcube's Universe Mod #35](https://sovietscloset.com/video/14497)
+- Added `v14500` [X3-Albion Prelude - Litcube's Universe Mod #36](https://sovietscloset.com/video/14500)
+
 ## 2022-11-16T13:23:20Z
 
 ### Modified Game [CSGO](https://sovietscloset.com/CSGO)
