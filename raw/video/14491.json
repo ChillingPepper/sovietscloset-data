@@ -1,0 +1,86 @@
+{
+  "streamId": 14491,
+  "date": "2021-06-01 20:05",
+  "game": {
+    "name": "Blackwake",
+    "slug": "Blackwake"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 6939,
+        "date": "2017-04-01 11:54"
+      },
+      {
+        "streamId": 6943,
+        "date": "2017-10-30 20:41"
+      },
+      {
+        "streamId": 6941,
+        "date": "2017-10-31 11:19"
+      },
+      {
+        "streamId": 6942,
+        "date": "2017-11-02 20:12"
+      },
+      {
+        "streamId": 6940,
+        "date": "2017-11-07 20:25"
+      },
+      {
+        "streamId": 6944,
+        "date": "2017-11-14 19:59"
+      },
+      {
+        "streamId": 6947,
+        "date": "2020-06-02 20:10"
+      },
+      {
+        "streamId": 6946,
+        "date": "2020-06-23 19:06"
+      },
+      {
+        "streamId": 6945,
+        "date": "2020-06-30 20:08"
+      },
+      {
+        "streamId": 6948,
+        "date": "2020-07-03 20:00"
+      },
+      {
+        "streamId": 9061,
+        "date": "2021-05-11 19:37"
+      },
+      {
+        "streamId": 9105,
+        "date": "2021-05-18 20:06"
+      },
+      {
+        "streamId": 14491,
+        "date": "2021-06-01 20:05"
+      },
+      {
+        "streamId": 6748,
+        "date": "2021-06-08 20:04"
+      },
+      {
+        "streamId": 6949,
+        "date": "2021-06-08 20:04"
+      },
+      {
+        "streamId": 10122,
+        "date": "2021-06-15 20:00"
+      },
+      {
+        "streamId": 10179,
+        "date": "2021-12-22 19:56"
+      }
+    ]
+  },
+  "number": 13,
+  "bunnyId": "69d72919-bda6-4f52-8b50-cb8720b1754e",
+  "useBunny": true
+}

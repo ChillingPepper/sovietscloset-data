@@ -1,0 +1,54 @@
+{
+  "streamId": 14487,
+  "date": "2022-10-21 19:30",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Prairie Fire Mike Force - Khe Sahn",
+    "slug": "Prairie-Fire-Mike-Force---Khe-Sahn",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14452,
+        "date": "2022-09-30 20:01"
+      },
+      {
+        "streamId": 14451,
+        "date": "2022-10-03 19:32"
+      },
+      {
+        "streamId": 14453,
+        "date": "2022-10-07 19:33"
+      },
+      {
+        "streamId": 14485,
+        "date": "2022-10-10 19:31"
+      },
+      {
+        "streamId": 14486,
+        "date": "2022-10-10 20:20"
+      },
+      {
+        "streamId": 14489,
+        "date": "2022-10-14 19:28"
+      },
+      {
+        "streamId": 14488,
+        "date": "2022-10-17 19:33"
+      },
+      {
+        "streamId": 14487,
+        "date": "2022-10-21 19:30"
+      },
+      {
+        "streamId": 14490,
+        "date": "2022-10-24 19:36"
+      }
+    ]
+  },
+  "number": 8,
+  "bunnyId": "bd3362d4-0fa1-4af8-8ccb-434b9da0802b",
+  "useBunny": true
+}
