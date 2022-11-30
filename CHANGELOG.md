@@ -1,5 +1,18 @@
 # Changelog
 
+## 2022-11-30T20:28:03Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v14504` [DayZ - Standalone #95](https://sovietscloset.com/video/14504)
+- Added `v14502` [DayZ - Standalone #96](https://sovietscloset.com/video/14502)
+- Added `v14501` [DayZ - Standalone #97](https://sovietscloset.com/video/14501)
+- Added `v14503` [DayZ - Standalone #98](https://sovietscloset.com/video/14503)
+
 ## 2022-11-21T01:56:04Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
