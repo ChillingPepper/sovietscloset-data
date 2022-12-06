@@ -1,5 +1,22 @@
 # Changelog
 
+## 2022-12-06T20:01:57Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14505` [Rimworld - The Pale Ones #45](https://sovietscloset.com/video/14505)
+- Added `v14508` [Rimworld - The Pale Ones #46](https://sovietscloset.com/video/14508)
+- Added `v14509` [Rimworld - The Pale Ones #47](https://sovietscloset.com/video/14509)
+- Added `v14507` [Rimworld - The Pale Ones #48](https://sovietscloset.com/video/14507)
+- Added `v14506` [Rimworld - The Pale Ones #49](https://sovietscloset.com/video/14506)
+- Added `v14510` [Rimworld - The Pale Ones #50](https://sovietscloset.com/video/14510)
+- Added `v14512` [Rimworld - The Pale Ones #51](https://sovietscloset.com/video/14512)
+- Added `v14511` [Rimworld - The Pale Ones #52](https://sovietscloset.com/video/14511)
+
 ## 2022-11-30T20:28:03Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
