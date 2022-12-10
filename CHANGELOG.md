@@ -1,5 +1,23 @@
 # Changelog
 
+## 2022-12-10T19:52:39Z
+
+### Added Game [Valley](https://sovietscloset.com/Valley)
+
+#### Added Playlist [Valley - First playthrough](https://sovietscloset.com/Valley/First-playthrough)
+
+##### Videos
+
+- Added `v14513` [Valley - First playthrough #1](https://sovietscloset.com/video/14513)
+- Added `v14514` [Valley - First playthrough #2](https://sovietscloset.com/video/14514)
+- Added `v14515` [Valley - First playthrough #3](https://sovietscloset.com/video/14515)
+
+#### Added Playlist [Valley - Audio gathering](https://sovietscloset.com/Valley/Audio-gathering)
+
+##### Videos
+
+- Added `v14516` [Valley - Audio gathering #1](https://sovietscloset.com/video/14516) (new)
+
 ## 2022-12-06T20:01:57Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)

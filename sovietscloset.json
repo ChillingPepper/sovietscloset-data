@@ -1,5 +1,5 @@
 {
-  "timestamp": 1670356917,
+  "timestamp": 1670701959,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -18562,6 +18562,72 @@
               "number": 6,
               "bunnyId": "20c7201c-d6b4-4c42-a68b-7f096bb07394",
               "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Valley",
+      "url": "https://sovietscloset.com/Valley",
+      "name": "Valley",
+      "slug": "Valley",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Valley - First playthrough",
+          "url": "https://sovietscloset.com/Valley/First-playthrough",
+          "name": "First playthrough",
+          "slug": "First-playthrough",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Valley - First playthrough #1",
+              "url": "https://sovietscloset.com/video/14513",
+              "id": 14513,
+              "date": "2016-08-26 22:38",
+              "number": 1,
+              "bunnyId": "c8f9470a-da41-4fdf-ab0c-1c4403a5cd7c",
+              "new": false
+            },
+            {
+              "title": "Valley - First playthrough #2",
+              "url": "https://sovietscloset.com/video/14514",
+              "id": 14514,
+              "date": "2016-09-01 22:13",
+              "number": 2,
+              "bunnyId": "b4a95ec7-0ab1-4f37-8e64-168d7d70ef96",
+              "new": false
+            },
+            {
+              "title": "Valley - First playthrough #3",
+              "url": "https://sovietscloset.com/video/14515",
+              "id": 14515,
+              "date": "2016-09-02 22:30",
+              "number": 3,
+              "bunnyId": "c1fc6ab9-89d3-4a78-b1f8-6201fd843af5",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Valley - Audio gathering",
+          "url": "https://sovietscloset.com/Valley/Audio-gathering",
+          "name": "Audio gathering",
+          "slug": "Audio-gathering",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Valley - Audio gathering #1",
+              "url": "https://sovietscloset.com/video/14516",
+              "id": 14516,
+              "date": "2022-12-09 11:00",
+              "number": 1,
+              "bunnyId": "8d832535-4343-4971-9d71-f06ba2edd187",
+              "new": true
             }
           ]
         }
