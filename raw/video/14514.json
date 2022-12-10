@@ -1,0 +1,30 @@
+{
+  "streamId": 14514,
+  "date": "2016-09-01 22:13",
+  "game": {
+    "name": "Valley",
+    "slug": "Valley"
+  },
+  "subcategory": {
+    "name": "First playthrough",
+    "slug": "First-playthrough",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14513,
+        "date": "2016-08-26 22:38"
+      },
+      {
+        "streamId": 14514,
+        "date": "2016-09-01 22:13"
+      },
+      {
+        "streamId": 14515,
+        "date": "2016-09-02 22:30"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "b4a95ec7-0ab1-4f37-8e64-168d7d70ef96",
+  "useBunny": true
+}

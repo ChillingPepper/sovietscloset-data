@@ -12762,6 +12762,57 @@
     ]
   },
   {
+    "id": 9077,
+    "name": "Valley",
+    "slug": "Valley",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9095,
+        "name": "First playthrough",
+        "slug": "First-playthrough",
+        "streams": [
+          {
+            "id": 14513,
+            "date": "2016-08-26 22:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14514,
+            "date": "2016-09-01 22:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14515,
+            "date": "2016-09-02 22:30",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9096,
+        "name": "Audio gathering",
+        "slug": "Audio-gathering",
+        "streams": [
+          {
+            "id": 14516,
+            "date": "2022-12-09 11:00",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 1016,
     "name": "VR Blade & Sorcery",
     "slug": "VR-Blade-Sorcery",

@@ -1,0 +1,22 @@
+{
+  "streamId": 14516,
+  "date": "2022-12-09 11:00",
+  "game": {
+    "name": "Valley",
+    "slug": "Valley"
+  },
+  "subcategory": {
+    "name": "Audio gathering",
+    "slug": "Audio-gathering",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14516,
+        "date": "2022-12-09 11:00"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "8d832535-4343-4971-9d71-f06ba2edd187",
+  "useBunny": true
+}
