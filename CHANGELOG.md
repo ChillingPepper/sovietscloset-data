@@ -1,5 +1,34 @@
 # Changelog
 
+## 2022-12-14T20:14:30Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14518` [Rimworld - The Pale Ones #53](https://sovietscloset.com/video/14518)
+- Added `v14519` [Rimworld - The Pale Ones #54](https://sovietscloset.com/video/14519)
+- Added `v14517` [Rimworld - The Pale Ones #55](https://sovietscloset.com/video/14517)
+- Added `v14520` [Rimworld - The Pale Ones #56](https://sovietscloset.com/video/14520)
+- Added `v14521` [Rimworld - The Pale Ones #57](https://sovietscloset.com/video/14521)
+- Added `v14522` [Rimworld - The Pale Ones #58](https://sovietscloset.com/video/14522)
+
+### Modified Game [Stellaris](https://sovietscloset.com/Stellaris)
+
+#### Modified Playlist [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
+
+##### Videos
+
+- Added `v14523` [Stellaris - The Gardener's Tended #23](https://sovietscloset.com/video/14523)
+- Added `v14525` [Stellaris - The Gardener's Tended #24](https://sovietscloset.com/video/14525)
+- Added `v14526` [Stellaris - The Gardener's Tended #25](https://sovietscloset.com/video/14526)
+- Added `v14524` [Stellaris - The Gardener's Tended #26](https://sovietscloset.com/video/14524)
+- Added `v14527` [Stellaris - The Gardener's Tended #27](https://sovietscloset.com/video/14527)
+- Added `v14528` [Stellaris - The Gardener's Tended #28](https://sovietscloset.com/video/14528)
+- Added `v14529` [Stellaris - The Gardener's Tended #29](https://sovietscloset.com/video/14529)
+
 ## 2022-12-10T19:52:39Z
 
 ### Added Game [Valley](https://sovietscloset.com/Valley)
