@@ -691,6 +691,12 @@
             "date": "2022-05-28 19:54",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14535,
+            "date": "2022-09-17 19:50",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -2894,6 +2900,42 @@
           {
             "id": 3779,
             "date": "2021-03-29 11:12",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9079,
+    "name": "Escape from Tarkov",
+    "slug": "Escape-from-Tarkov",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9098,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14550,
+            "date": "2019-09-02 10:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14548,
+            "date": "2019-09-02 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14549,
+            "date": "2019-09-03 11:07",
             "new": false,
             "useBunny": true
           }
@@ -6572,6 +6614,96 @@
           {
             "id": 14435,
             "date": "2022-07-05 20:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9078,
+    "name": "Red Dead Redemption",
+    "slug": "Red-Dead-Redemption",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9097,
+        "name": "Xbox Live",
+        "slug": "Xbox-Live",
+        "streams": [
+          {
+            "id": 14538,
+            "date": "2017-02-02 13:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14541,
+            "date": "2017-02-02 15:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14539,
+            "date": "2017-02-05 21:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14536,
+            "date": "2017-02-07 13:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14537,
+            "date": "2017-02-11 15:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14542,
+            "date": "2017-02-22 13:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14543,
+            "date": "2017-02-23 01:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14545,
+            "date": "2017-02-23 13:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14540,
+            "date": "2017-07-02 22:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14544,
+            "date": "2017-07-02 22:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14546,
+            "date": "2017-07-02 23:42",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14547,
+            "date": "2017-07-03 00:00",
             "new": false,
             "useBunny": true
           }
@@ -12844,7 +12976,7 @@
     "name": "Valley",
     "slug": "Valley",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9095,
@@ -12881,12 +13013,12 @@
           {
             "id": 14516,
             "date": "2022-12-09 11:00",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -13167,7 +13299,19 @@
             "useBunny": true
           },
           {
+            "id": 14533,
+            "date": "2022-09-26 12:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14457,
+            "date": "2022-09-26 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14534,
             "date": "2022-09-26 20:13",
             "new": false,
             "useBunny": true
@@ -13179,13 +13323,31 @@
             "useBunny": true
           },
           {
+            "id": 14532,
+            "date": "2022-09-27 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14455,
             "date": "2022-09-27 20:21",
             "new": false,
             "useBunny": true
           },
           {
+            "id": 14531,
+            "date": "2022-09-27 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14454,
+            "date": "2022-09-30 11:26",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14530,
             "date": "2022-09-30 11:26",
             "new": false,
             "useBunny": true

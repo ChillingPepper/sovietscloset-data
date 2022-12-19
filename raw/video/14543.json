@@ -1,0 +1,66 @@
+{
+  "streamId": 14543,
+  "date": "2017-02-23 01:14",
+  "game": {
+    "name": "Red Dead Redemption",
+    "slug": "Red-Dead-Redemption"
+  },
+  "subcategory": {
+    "name": "Xbox Live",
+    "slug": "Xbox-Live",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14538,
+        "date": "2017-02-02 13:28"
+      },
+      {
+        "streamId": 14541,
+        "date": "2017-02-02 15:12"
+      },
+      {
+        "streamId": 14539,
+        "date": "2017-02-05 21:01"
+      },
+      {
+        "streamId": 14536,
+        "date": "2017-02-07 13:18"
+      },
+      {
+        "streamId": 14537,
+        "date": "2017-02-11 15:03"
+      },
+      {
+        "streamId": 14542,
+        "date": "2017-02-22 13:05"
+      },
+      {
+        "streamId": 14543,
+        "date": "2017-02-23 01:14"
+      },
+      {
+        "streamId": 14545,
+        "date": "2017-02-23 13:48"
+      },
+      {
+        "streamId": 14540,
+        "date": "2017-07-02 22:18"
+      },
+      {
+        "streamId": 14544,
+        "date": "2017-07-02 22:34"
+      },
+      {
+        "streamId": 14546,
+        "date": "2017-07-02 23:42"
+      },
+      {
+        "streamId": 14547,
+        "date": "2017-07-03 00:00"
+      }
+    ]
+  },
+  "number": 7,
+  "bunnyId": "74d03a3b-ac95-48fa-8fa4-618ec1f35f51",
+  "useBunny": true
+}

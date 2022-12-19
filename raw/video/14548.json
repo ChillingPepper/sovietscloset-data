@@ -1,0 +1,30 @@
+{
+  "streamId": 14548,
+  "date": "2019-09-02 20:05",
+  "game": {
+    "name": "Escape from Tarkov",
+    "slug": "Escape-from-Tarkov"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14550,
+        "date": "2019-09-02 10:59"
+      },
+      {
+        "streamId": 14548,
+        "date": "2019-09-02 20:05"
+      },
+      {
+        "streamId": 14549,
+        "date": "2019-09-03 11:07"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "0b7f69e5-417d-4587-8da7-648c03f91a27",
+  "useBunny": true
+}
