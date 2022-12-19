@@ -1,5 +1,84 @@
 # Changelog
 
+## 2022-12-19T16:34:00Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14535` [Arma 3 - Zeus Games #33](https://sovietscloset.com/video/14535)
+
+### Added Game [Escape from Tarkov](https://sovietscloset.com/Escape-from-Tarkov)
+
+#### Added Playlist [Escape from Tarkov](https://sovietscloset.com/Escape-from-Tarkov)
+
+##### Videos
+
+- Added `v14550` [Escape from Tarkov #1](https://sovietscloset.com/video/14550)
+- Added `v14548` [Escape from Tarkov #2](https://sovietscloset.com/video/14548)
+- Added `v14549` [Escape from Tarkov #3](https://sovietscloset.com/video/14549)
+
+### Added Game [Red Dead Redemption](https://sovietscloset.com/Red-Dead-Redemption)
+
+#### Added Playlist [Red Dead Redemption - Xbox Live](https://sovietscloset.com/Red-Dead-Redemption/Xbox-Live)
+
+##### Videos
+
+- Added `v14538` [Red Dead Redemption - Xbox Live #1](https://sovietscloset.com/video/14538)
+- Added `v14541` [Red Dead Redemption - Xbox Live #2](https://sovietscloset.com/video/14541)
+- Added `v14539` [Red Dead Redemption - Xbox Live #3](https://sovietscloset.com/video/14539)
+- Added `v14536` [Red Dead Redemption - Xbox Live #4](https://sovietscloset.com/video/14536)
+- Added `v14537` [Red Dead Redemption - Xbox Live #5](https://sovietscloset.com/video/14537)
+- Added `v14542` [Red Dead Redemption - Xbox Live #6](https://sovietscloset.com/video/14542)
+- Added `v14543` [Red Dead Redemption - Xbox Live #7](https://sovietscloset.com/video/14543)
+- Added `v14545` [Red Dead Redemption - Xbox Live #8](https://sovietscloset.com/video/14545)
+- Added `v14540` [Red Dead Redemption - Xbox Live #9](https://sovietscloset.com/video/14540)
+- Added `v14544` [Red Dead Redemption - Xbox Live #10](https://sovietscloset.com/video/14544)
+- Added `v14546` [Red Dead Redemption - Xbox Live #11](https://sovietscloset.com/video/14546)
+- Added `v14547` [Red Dead Redemption - Xbox Live #12](https://sovietscloset.com/video/14547)
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Added `v14533` [VR Blade & Sorcery #47](https://sovietscloset.com/video/14533)
+- Modified `v14458` [VR Blade & Sorcery #47](https://sovietscloset.com/video/14458)
+  - Changed title from `VR Blade & Sorcery #46` to `VR Blade & Sorcery #47`
+  - Changed number from `46` to `47`
+- Added `v14534` [VR Blade & Sorcery #49](https://sovietscloset.com/video/14534)
+- Modified `v14457` [VR Blade & Sorcery #49](https://sovietscloset.com/video/14457)
+  - Changed title from `VR Blade & Sorcery #47` to `VR Blade & Sorcery #49`
+  - Changed number from `47` to `49`
+- Added `v14532` [VR Blade & Sorcery #51](https://sovietscloset.com/video/14532)
+- Modified `v14456` [VR Blade & Sorcery #51](https://sovietscloset.com/video/14456)
+  - Changed title from `VR Blade & Sorcery #48` to `VR Blade & Sorcery #51`
+  - Changed number from `48` to `51`
+- Added `v14531` [VR Blade & Sorcery #53](https://sovietscloset.com/video/14531)
+- Modified `v14455` [VR Blade & Sorcery #53](https://sovietscloset.com/video/14455)
+  - Changed title from `VR Blade & Sorcery #49` to `VR Blade & Sorcery #53`
+  - Changed number from `49` to `53`
+- Added `v14530` [VR Blade & Sorcery #55](https://sovietscloset.com/video/14530)
+- Modified `v14454` [VR Blade & Sorcery #55](https://sovietscloset.com/video/14454)
+  - Changed title from `VR Blade & Sorcery #50` to `VR Blade & Sorcery #55`
+  - Changed number from `50` to `55`
+
+### Modified Game [Valley](https://sovietscloset.com/Valley)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Valley - Audio gathering](https://sovietscloset.com/Valley/Audio-gathering)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14516` [Valley - Audio gathering #1](https://sovietscloset.com/video/14516)
+  - Is no longer marked as new.
+
 ## 2022-12-14T20:14:30Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)

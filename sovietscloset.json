@@ -1,5 +1,5 @@
 {
-  "timestamp": 1671048870,
+  "timestamp": 1671467640,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1023,6 +1023,15 @@
               "date": "2022-05-28 19:54",
               "number": 32,
               "bunnyId": "c2d4d590-5acf-45fb-bc0d-2f46f96a6e78",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #33",
+              "url": "https://sovietscloset.com/video/14535",
+              "id": 14535,
+              "date": "2022-09-17 19:50",
+              "number": 33,
+              "bunnyId": "f69af4c4-b810-4d73-a299-9f45c3b92063",
               "new": false
             }
           ]
@@ -4215,6 +4224,53 @@
               "date": "2021-03-29 11:12",
               "number": 1,
               "bunnyId": "bd4e9acb-ff97-4632-a482-501a900eec4f",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Escape from Tarkov",
+      "url": "https://sovietscloset.com/Escape-from-Tarkov",
+      "name": "Escape from Tarkov",
+      "slug": "Escape-from-Tarkov",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Escape from Tarkov",
+          "url": "https://sovietscloset.com/Escape-from-Tarkov",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Escape from Tarkov #1",
+              "url": "https://sovietscloset.com/video/14550",
+              "id": 14550,
+              "date": "2019-09-02 10:59",
+              "number": 1,
+              "bunnyId": "5665f04d-982c-4071-8b3e-982d1d34e644",
+              "new": false
+            },
+            {
+              "title": "Escape from Tarkov #2",
+              "url": "https://sovietscloset.com/video/14548",
+              "id": 14548,
+              "date": "2019-09-02 20:05",
+              "number": 2,
+              "bunnyId": "0b7f69e5-417d-4587-8da7-648c03f91a27",
+              "new": false
+            },
+            {
+              "title": "Escape from Tarkov #3",
+              "url": "https://sovietscloset.com/video/14549",
+              "id": 14549,
+              "date": "2019-09-03 11:07",
+              "number": 3,
+              "bunnyId": "868d9fdb-ab11-411c-a74c-de51d1a247a4",
               "new": false
             }
           ]
@@ -9487,6 +9543,134 @@
               "date": "2022-07-05 20:00",
               "number": 7,
               "bunnyId": "b3129e65-e6c0-4028-8f06-be0f1c8725ed",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Red Dead Redemption",
+      "url": "https://sovietscloset.com/Red-Dead-Redemption",
+      "name": "Red Dead Redemption",
+      "slug": "Red-Dead-Redemption",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Red Dead Redemption - Xbox Live",
+          "url": "https://sovietscloset.com/Red-Dead-Redemption/Xbox-Live",
+          "name": "Xbox Live",
+          "slug": "Xbox-Live",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Red Dead Redemption - Xbox Live #1",
+              "url": "https://sovietscloset.com/video/14538",
+              "id": 14538,
+              "date": "2017-02-02 13:28",
+              "number": 1,
+              "bunnyId": "119f8843-32cf-407a-b929-b4c9347822c7",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #2",
+              "url": "https://sovietscloset.com/video/14541",
+              "id": 14541,
+              "date": "2017-02-02 15:12",
+              "number": 2,
+              "bunnyId": "5777b6b0-b756-4799-ab85-a2fa0544a7d0",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #3",
+              "url": "https://sovietscloset.com/video/14539",
+              "id": 14539,
+              "date": "2017-02-05 21:01",
+              "number": 3,
+              "bunnyId": "ee8e4b92-7837-458c-98a6-d26e64bc8b03",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #4",
+              "url": "https://sovietscloset.com/video/14536",
+              "id": 14536,
+              "date": "2017-02-07 13:18",
+              "number": 4,
+              "bunnyId": "4f10d67e-bc11-4d76-a036-b867b4eae576",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #5",
+              "url": "https://sovietscloset.com/video/14537",
+              "id": 14537,
+              "date": "2017-02-11 15:03",
+              "number": 5,
+              "bunnyId": "12a7b88c-2dfc-41ce-ac6f-834041544fc1",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #6",
+              "url": "https://sovietscloset.com/video/14542",
+              "id": 14542,
+              "date": "2017-02-22 13:05",
+              "number": 6,
+              "bunnyId": "a6d35e37-1286-4504-9561-b30f2ef2df52",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #7",
+              "url": "https://sovietscloset.com/video/14543",
+              "id": 14543,
+              "date": "2017-02-23 01:14",
+              "number": 7,
+              "bunnyId": "74d03a3b-ac95-48fa-8fa4-618ec1f35f51",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #8",
+              "url": "https://sovietscloset.com/video/14545",
+              "id": 14545,
+              "date": "2017-02-23 13:48",
+              "number": 8,
+              "bunnyId": "a6291320-1921-4909-b4da-e882bcd07b8e",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #9",
+              "url": "https://sovietscloset.com/video/14540",
+              "id": 14540,
+              "date": "2017-07-02 22:18",
+              "number": 9,
+              "bunnyId": "a8eee3db-3607-4ec8-ac49-07f7407284c3",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #10",
+              "url": "https://sovietscloset.com/video/14544",
+              "id": 14544,
+              "date": "2017-07-02 22:34",
+              "number": 10,
+              "bunnyId": "fda5a701-d692-42e8-890f-4b32eeb93be7",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #11",
+              "url": "https://sovietscloset.com/video/14546",
+              "id": 14546,
+              "date": "2017-07-02 23:42",
+              "number": 11,
+              "bunnyId": "0b45c06f-59e9-4091-86b6-ff6842421f4f",
+              "new": false
+            },
+            {
+              "title": "Red Dead Redemption - Xbox Live #12",
+              "url": "https://sovietscloset.com/video/14547",
+              "id": 14547,
+              "date": "2017-07-03 00:00",
+              "number": 12,
+              "bunnyId": "b53e1e46-864e-47f3-a665-764b16d206f5",
               "new": false
             }
           ]
@@ -18690,7 +18874,7 @@
       "name": "Valley",
       "slug": "Valley",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Valley - First playthrough",
@@ -18735,7 +18919,7 @@
           "name": "Audio gathering",
           "slug": "Audio-gathering",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Valley - Audio gathering #1",
@@ -18744,7 +18928,7 @@
               "date": "2022-12-09 11:00",
               "number": 1,
               "bunnyId": "8d832535-4343-4971-9d71-f06ba2edd187",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -19154,48 +19338,93 @@
               "new": false
             },
             {
-              "title": "VR Blade & Sorcery #46",
+              "title": "VR Blade & Sorcery #47",
               "url": "https://sovietscloset.com/video/14458",
               "id": 14458,
               "date": "2022-09-26 12:04",
-              "number": 46,
+              "number": 47,
               "bunnyId": "43e1a1a6-2fcc-4ebf-aaa8-1c8926c40cac",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #47",
-              "url": "https://sovietscloset.com/video/14457",
-              "id": 14457,
-              "date": "2022-09-26 20:13",
+              "url": "https://sovietscloset.com/video/14533",
+              "id": 14533,
+              "date": "2022-09-26 12:04",
               "number": 47,
-              "bunnyId": "13fc8e72-1ff4-47a1-bc59-4b6f0c3ffdb0",
-              "new": false
-            },
-            {
-              "title": "VR Blade & Sorcery #48",
-              "url": "https://sovietscloset.com/video/14456",
-              "id": 14456,
-              "date": "2022-09-27 11:16",
-              "number": 48,
-              "bunnyId": "4fb4be0f-a83c-4696-b661-9380f80bb953",
+              "bunnyId": "65522ec9-184b-49a4-808f-9f1be8a82bb4",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #49",
+              "url": "https://sovietscloset.com/video/14457",
+              "id": 14457,
+              "date": "2022-09-26 20:13",
+              "number": 49,
+              "bunnyId": "13fc8e72-1ff4-47a1-bc59-4b6f0c3ffdb0",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #49",
+              "url": "https://sovietscloset.com/video/14534",
+              "id": 14534,
+              "date": "2022-09-26 20:13",
+              "number": 49,
+              "bunnyId": "fd3c8c53-49ba-4d52-a2c9-b2199f806196",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #51",
+              "url": "https://sovietscloset.com/video/14456",
+              "id": 14456,
+              "date": "2022-09-27 11:16",
+              "number": 51,
+              "bunnyId": "4fb4be0f-a83c-4696-b661-9380f80bb953",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #51",
+              "url": "https://sovietscloset.com/video/14532",
+              "id": 14532,
+              "date": "2022-09-27 11:16",
+              "number": 51,
+              "bunnyId": "81a80919-e813-4e5e-8101-092717df957f",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #53",
               "url": "https://sovietscloset.com/video/14455",
               "id": 14455,
               "date": "2022-09-27 20:21",
-              "number": 49,
+              "number": 53,
               "bunnyId": "8cf6399e-3f34-419c-9d6e-c30c7ae69386",
               "new": false
             },
             {
-              "title": "VR Blade & Sorcery #50",
+              "title": "VR Blade & Sorcery #53",
+              "url": "https://sovietscloset.com/video/14531",
+              "id": 14531,
+              "date": "2022-09-27 20:21",
+              "number": 53,
+              "bunnyId": "778eaddf-e95e-4f92-bc68-f826425df388",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #55",
               "url": "https://sovietscloset.com/video/14454",
               "id": 14454,
               "date": "2022-09-30 11:26",
-              "number": 50,
+              "number": 55,
               "bunnyId": "bb56e5b7-f0c7-45d6-a265-e189eff4d01f",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #55",
+              "url": "https://sovietscloset.com/video/14530",
+              "id": 14530,
+              "date": "2022-09-30 11:26",
+              "number": 55,
+              "bunnyId": "804e3544-1723-4d43-8a79-c2f41be91efb",
               "new": false
             }
           ]

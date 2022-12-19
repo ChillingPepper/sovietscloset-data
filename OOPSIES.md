@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2022-12-14T20:14:30Z.
+Last updated at 2022-12-19T16:34:00Z.
 
 ## Wrong Tags
 
@@ -193,6 +193,11 @@ Missing videos are only detected if they are followed by a video that is already
   - VR Blade & Sorcery #34
   - VR Blade & Sorcery #36
   - VR Blade & Sorcery #38
+  - VR Blade & Sorcery #46
+  - VR Blade & Sorcery #48
+  - VR Blade & Sorcery #50
+  - VR Blade & Sorcery #52
+  - VR Blade & Sorcery #54
 - [VR Onward](https://sovietscloset.com/VR-Onward)
   - VR Onward #3
   - VR Onward #7
@@ -513,6 +518,21 @@ This list includes all videos that have the same date.
 - Date: 2022-09-07 20:11
   - [Rust #46](https://sovietscloset.com/video/14420) (id: 14420)
   - [Rust #46](https://sovietscloset.com/video/14471) (id: 14471)
+- Date: 2022-09-26 12:04
+  - [VR Blade & Sorcery #47](https://sovietscloset.com/video/14458) (id: 14458)
+  - [VR Blade & Sorcery #47](https://sovietscloset.com/video/14533) (id: 14533)
+- Date: 2022-09-26 20:13
+  - [VR Blade & Sorcery #49](https://sovietscloset.com/video/14457) (id: 14457)
+  - [VR Blade & Sorcery #49](https://sovietscloset.com/video/14534) (id: 14534)
+- Date: 2022-09-27 11:16
+  - [VR Blade & Sorcery #51](https://sovietscloset.com/video/14456) (id: 14456)
+  - [VR Blade & Sorcery #51](https://sovietscloset.com/video/14532) (id: 14532)
+- Date: 2022-09-27 20:21
+  - [VR Blade & Sorcery #53](https://sovietscloset.com/video/14455) (id: 14455)
+  - [VR Blade & Sorcery #53](https://sovietscloset.com/video/14531) (id: 14531)
+- Date: 2022-09-30 11:26
+  - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14454) (id: 14454)
+  - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14530) (id: 14530)
 
 ### Dupes by Number
 
@@ -694,27 +714,38 @@ This list includes all videos that have the same number.
 - Number: 46
   - [Rust #46](https://sovietscloset.com/video/14420) (id: 14420)
   - [Rust #46](https://sovietscloset.com/video/14471) (id: 14471)
+- Number: 47
+  - [VR Blade & Sorcery #47](https://sovietscloset.com/video/14458) (id: 14458)
+  - [VR Blade & Sorcery #47](https://sovietscloset.com/video/14533) (id: 14533)
 - Number: 49
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092) (id: 10092)
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999) (id: 6999)
+  - [VR Blade & Sorcery #49](https://sovietscloset.com/video/14457) (id: 14457)
+  - [VR Blade & Sorcery #49](https://sovietscloset.com/video/14534) (id: 14534)
 - Number: 50
   - [DayZ - Standalone #50](https://sovietscloset.com/video/1742) (id: 1742)
   - [DayZ - Standalone #50](https://sovietscloset.com/video/1763) (id: 1763)
 - Number: 51
   - [Team Fortress 2 #51](https://sovietscloset.com/video/6869) (id: 6869)
   - [Team Fortress 2 #51](https://sovietscloset.com/video/9007) (id: 9007)
+  - [VR Blade & Sorcery #51](https://sovietscloset.com/video/14456) (id: 14456)
+  - [VR Blade & Sorcery #51](https://sovietscloset.com/video/14532) (id: 14532)
 - Number: 52
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1738) (id: 1738)
   - [DayZ - Standalone #52](https://sovietscloset.com/video/1761) (id: 1761)
 - Number: 53
   - [Holdfast: Nations at War #53](https://sovietscloset.com/video/10090) (id: 10090)
   - [Holdfast: Nations at War #53](https://sovietscloset.com/video/6998) (id: 6998)
+  - [VR Blade & Sorcery #53](https://sovietscloset.com/video/14455) (id: 14455)
+  - [VR Blade & Sorcery #53](https://sovietscloset.com/video/14531) (id: 14531)
 - Number: 54
   - [DayZ - Standalone #54](https://sovietscloset.com/video/1739) (id: 1739)
   - [DayZ - Standalone #54](https://sovietscloset.com/video/1762) (id: 1762)
 - Number: 55
   - [Holdfast: Nations at War #55](https://sovietscloset.com/video/10085) (id: 10085)
   - [Holdfast: Nations at War #55](https://sovietscloset.com/video/6996) (id: 6996)
+  - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14454) (id: 14454)
+  - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14530) (id: 14530)
 - Number: 59
   - [Holdfast: Nations at War #59](https://sovietscloset.com/video/10086) (id: 10086)
   - [Holdfast: Nations at War #59](https://sovietscloset.com/video/6997) (id: 6997)
