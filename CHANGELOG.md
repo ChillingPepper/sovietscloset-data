@@ -1,5 +1,26 @@
 # Changelog
 
+## 2022-12-27T21:00:10Z
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14554` [Team Fortress 2 #112](https://sovietscloset.com/video/14554)
+- Added `v14555` [Team Fortress 2 #113](https://sovietscloset.com/video/14555)
+- Added `v14553` [Team Fortress 2 #114](https://sovietscloset.com/video/14553)
+
+### Modified Game [X3-Albion Prelude](https://sovietscloset.com/X3-Albion-Prelude)
+
+#### Modified Playlist [X3-Albion Prelude - Litcube's Universe Mod](https://sovietscloset.com/X3-Albion-Prelude/Litcube-s-Universe-Mod)
+
+##### Videos
+
+- Added `v14552` [X3-Albion Prelude - Litcube's Universe Mod #37](https://sovietscloset.com/video/14552)
+- Added `v14551` [X3-Albion Prelude - Litcube's Universe Mod #38](https://sovietscloset.com/video/14551)
+
 ## 2022-12-19T16:34:00Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
