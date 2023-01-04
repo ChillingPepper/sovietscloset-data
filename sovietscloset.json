@@ -1,5 +1,5 @@
 {
-  "timestamp": 1672174810,
+  "timestamp": 1672829002,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6785,6 +6785,33 @@
               "date": "2022-10-06 20:50",
               "number": 127,
               "bunnyId": "f6d3c112-de03-4dc4-8f33-fba4e2d6ba2a",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #128",
+              "url": "https://sovietscloset.com/video/14556",
+              "id": 14556,
+              "date": "2022-10-20 20:54",
+              "number": 128,
+              "bunnyId": "3e9c9517-e7be-4f44-b8b9-da9b93f9275c",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #129",
+              "url": "https://sovietscloset.com/video/14558",
+              "id": 14558,
+              "date": "2022-10-27 20:53",
+              "number": 129,
+              "bunnyId": "8ef2fdc0-0908-4e34-a7b8-0862e82fbeb4",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #130",
+              "url": "https://sovietscloset.com/video/14557",
+              "id": 14557,
+              "date": "2022-11-03 20:53",
+              "number": 130,
+              "bunnyId": "b24b4f2b-c535-4187-ac43-078e4a11f5f9",
               "new": false
             }
           ]

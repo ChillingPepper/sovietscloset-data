@@ -1,5 +1,17 @@
 # Changelog
 
+## 2023-01-04T10:43:22Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14556` [Holdfast: Nations at War #128](https://sovietscloset.com/video/14556)
+- Added `v14558` [Holdfast: Nations at War #129](https://sovietscloset.com/video/14558)
+- Added `v14557` [Holdfast: Nations at War #130](https://sovietscloset.com/video/14557)
+
 ## 2022-12-27T21:00:10Z
 
 ### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
