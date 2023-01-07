@@ -1,5 +1,32 @@
 # Changelog
 
+## 2023-01-07T21:43:25Z
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v14568` [Silent Hunter 3 #56](https://sovietscloset.com/video/14568)
+- Added `v14569` [Silent Hunter 3 #57](https://sovietscloset.com/video/14569)
+- Added `v14566` [Silent Hunter 3 #58](https://sovietscloset.com/video/14566)
+- Added `v14567` [Silent Hunter 3 #59](https://sovietscloset.com/video/14567)
+- Added `v14565` [Silent Hunter 3 #60](https://sovietscloset.com/video/14565)
+
+### Modified Game [Stellaris](https://sovietscloset.com/Stellaris)
+
+#### Modified Playlist [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
+
+##### Videos
+
+- Added `v14560` [Stellaris - The Gardener's Tended #30](https://sovietscloset.com/video/14560)
+- Added `v14562` [Stellaris - The Gardener's Tended #31](https://sovietscloset.com/video/14562)
+- Added `v14559` [Stellaris - The Gardener's Tended #32](https://sovietscloset.com/video/14559)
+- Added `v14563` [Stellaris - The Gardener's Tended #33](https://sovietscloset.com/video/14563)
+- Added `v14561` [Stellaris - The Gardener's Tended #34](https://sovietscloset.com/video/14561)
+- Added `v14564` [Stellaris - The Gardener's Tended #35](https://sovietscloset.com/video/14564)
+
 ## 2023-01-04T10:43:22Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
