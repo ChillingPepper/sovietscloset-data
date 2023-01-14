@@ -1,5 +1,20 @@
 # Changelog
 
+## 2023-01-14T21:02:25Z
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v14571` [Space Engineers #73](https://sovietscloset.com/video/14571)
+- Added `v14574` [Space Engineers #74](https://sovietscloset.com/video/14574)
+- Added `v14573` [Space Engineers #75](https://sovietscloset.com/video/14573)
+- Added `v14572` [Space Engineers #76](https://sovietscloset.com/video/14572)
+- Added `v14570` [Space Engineers #77](https://sovietscloset.com/video/14570)
+- Added `v14575` [Space Engineers #78](https://sovietscloset.com/video/14575)
+
 ## 2023-01-07T21:43:25Z
 
 ### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
