@@ -1,5 +1,20 @@
 # Changelog
 
+## 2023-01-20T23:46:08Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14578` [Kerbal Space Program #75](https://sovietscloset.com/video/14578)
+- Added `v14576` [Kerbal Space Program #76](https://sovietscloset.com/video/14576)
+- Added `v14577` [Kerbal Space Program #77](https://sovietscloset.com/video/14577)
+- Added `v14580` [Kerbal Space Program #78](https://sovietscloset.com/video/14580)
+- Added `v14579` [Kerbal Space Program #79](https://sovietscloset.com/video/14579)
+- Added `v14581` [Kerbal Space Program #80](https://sovietscloset.com/video/14581)
+
 ## 2023-01-14T21:02:25Z
 
 ### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
