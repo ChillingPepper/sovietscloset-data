@@ -1,5 +1,20 @@
 # Changelog
 
+## 2023-01-24T05:26:30Z
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14586` [Team Fortress 2 #115](https://sovietscloset.com/video/14586)
+- Added `v14582` [Team Fortress 2 #116](https://sovietscloset.com/video/14582)
+- Added `v14585` [Team Fortress 2 #117](https://sovietscloset.com/video/14585)
+- Added `v14584` [Team Fortress 2 #118](https://sovietscloset.com/video/14584)
+- Added `v14583` [Team Fortress 2 #119](https://sovietscloset.com/video/14583)
+- Added `v14587` [Team Fortress 2 #120](https://sovietscloset.com/video/14587)
+
 ## 2023-01-20T23:46:08Z
 
 ### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
