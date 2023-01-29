@@ -1,5 +1,32 @@
 # Changelog
 
+## 2023-01-29T06:23:15Z
+
+### Added Game [Kingpin: Life of Crime](https://sovietscloset.com/Kingpin-Life-of-Crime)
+
+#### Added Playlist [Kingpin: Life of Crime](https://sovietscloset.com/Kingpin-Life-of-Crime)
+
+##### Videos
+
+- Added `v14588` [Kingpin: Life of Crime #1](https://sovietscloset.com/video/14588)
+- Added `v14592` [Kingpin: Life of Crime #2](https://sovietscloset.com/video/14592)
+- Added `v14589` [Kingpin: Life of Crime #3](https://sovietscloset.com/video/14589)
+- Added `v14591` [Kingpin: Life of Crime #4](https://sovietscloset.com/video/14591)
+- Added `v14590` [Kingpin: Life of Crime #5](https://sovietscloset.com/video/14590)
+- Added `v14593` [Kingpin: Life of Crime #6](https://sovietscloset.com/video/14593)
+
+### Added Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Added Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v14597` [VR Walkabout Mini Golf #1](https://sovietscloset.com/video/14597)
+- Added `v14594` [VR Walkabout Mini Golf #2](https://sovietscloset.com/video/14594)
+- Added `v14596` [VR Walkabout Mini Golf #3](https://sovietscloset.com/video/14596)
+- Added `v14598` [VR Walkabout Mini Golf #4](https://sovietscloset.com/video/14598)
+- Added `v14595` [VR Walkabout Mini Golf #5](https://sovietscloset.com/video/14595)
+
 ## 2023-01-24T05:26:30Z
 
 ### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)

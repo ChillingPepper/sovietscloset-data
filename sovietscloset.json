@@ -1,5 +1,5 @@
 {
-  "timestamp": 1674537990,
+  "timestamp": 1674973395,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -7774,6 +7774,80 @@
               "date": "2023-01-02 20:29",
               "number": 80,
               "bunnyId": "aa7fd509-3e83-466b-bf9e-c8d63484e35c",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kingpin: Life of Crime",
+      "url": "https://sovietscloset.com/Kingpin-Life-of-Crime",
+      "name": "Kingpin: Life of Crime",
+      "slug": "Kingpin-Life-of-Crime",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Kingpin: Life of Crime",
+          "url": "https://sovietscloset.com/Kingpin-Life-of-Crime",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Kingpin: Life of Crime #1",
+              "url": "https://sovietscloset.com/video/14588",
+              "id": 14588,
+              "date": "2023-01-16 11:23",
+              "number": 1,
+              "bunnyId": "b1fac529-008f-46d5-9f78-156912751781",
+              "new": false
+            },
+            {
+              "title": "Kingpin: Life of Crime #2",
+              "url": "https://sovietscloset.com/video/14592",
+              "id": 14592,
+              "date": "2023-01-16 20:18",
+              "number": 2,
+              "bunnyId": "bf08516d-abd4-4b49-9d44-7de3b8801ef7",
+              "new": false
+            },
+            {
+              "title": "Kingpin: Life of Crime #3",
+              "url": "https://sovietscloset.com/video/14589",
+              "id": 14589,
+              "date": "2023-01-17 11:26",
+              "number": 3,
+              "bunnyId": "a299eb84-63b8-46ce-bf4c-af569a271513",
+              "new": false
+            },
+            {
+              "title": "Kingpin: Life of Crime #4",
+              "url": "https://sovietscloset.com/video/14591",
+              "id": 14591,
+              "date": "2023-01-17 20:18",
+              "number": 4,
+              "bunnyId": "1d2a8911-f8fc-474a-98b7-1ef014c39320",
+              "new": false
+            },
+            {
+              "title": "Kingpin: Life of Crime #5",
+              "url": "https://sovietscloset.com/video/14590",
+              "id": 14590,
+              "date": "2023-01-19 11:17",
+              "number": 5,
+              "bunnyId": "403171c8-d2b0-48f0-bf6d-35146dc7afc9",
+              "new": false
+            },
+            {
+              "title": "Kingpin: Life of Crime #6",
+              "url": "https://sovietscloset.com/video/14593",
+              "id": 14593,
+              "date": "2023-01-20 11:22",
+              "number": 6,
+              "bunnyId": "24dc6835-5368-4bcd-b443-d177d420d584",
               "new": false
             }
           ]
@@ -20397,6 +20471,71 @@
               "date": "2021-05-28 11:28",
               "number": 8,
               "bunnyId": "5935377d-3250-4c9e-bee7-636a41081fb4",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VR Walkabout Mini Golf",
+      "url": "https://sovietscloset.com/VR-Walkabout-Mini-Golf",
+      "name": "VR Walkabout Mini Golf",
+      "slug": "VR-Walkabout-Mini-Golf",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "VR Walkabout Mini Golf",
+          "url": "https://sovietscloset.com/VR-Walkabout-Mini-Golf",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "VR Walkabout Mini Golf #1",
+              "url": "https://sovietscloset.com/video/14597",
+              "id": 14597,
+              "date": "2022-09-28 10:57",
+              "number": 1,
+              "bunnyId": "f2720418-bf69-4235-ad0f-35d044e4dd8b",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #2",
+              "url": "https://sovietscloset.com/video/14594",
+              "id": 14594,
+              "date": "2022-10-05 10:55",
+              "number": 2,
+              "bunnyId": "7995af99-c51f-4191-b1b4-5d154220215b",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #3",
+              "url": "https://sovietscloset.com/video/14596",
+              "id": 14596,
+              "date": "2022-10-12 10:53",
+              "number": 3,
+              "bunnyId": "c2ad6ce7-ace3-4277-a54d-fb7f03dd9853",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #4",
+              "url": "https://sovietscloset.com/video/14598",
+              "id": 14598,
+              "date": "2022-10-19 10:53",
+              "number": 4,
+              "bunnyId": "9ae64c5a-0a3d-4b42-b6fb-f400611d21a9",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #5",
+              "url": "https://sovietscloset.com/video/14595",
+              "id": 14595,
+              "date": "2022-10-26 11:05",
+              "number": 5,
+              "bunnyId": "00e0936e-0569-4f93-8b18-43f0329d1e59",
               "new": false
             }
           ]
