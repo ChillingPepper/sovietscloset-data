@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-02-03T19:53:19Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v14599` [DayZ - Standalone #99](https://sovietscloset.com/video/14599)
+- Added `v14602` [DayZ - Standalone #100](https://sovietscloset.com/video/14602)
+- Added `v14603` [DayZ - Standalone #101](https://sovietscloset.com/video/14603)
+- Added `v14600` [DayZ - Standalone #102](https://sovietscloset.com/video/14600)
+- Added `v14601` [DayZ - Standalone #103](https://sovietscloset.com/video/14601)
+
 ## 2023-01-29T06:23:15Z
 
 ### Added Game [Kingpin: Life of Crime](https://sovietscloset.com/Kingpin-Life-of-Crime)
