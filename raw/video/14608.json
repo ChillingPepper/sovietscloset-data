@@ -1,0 +1,38 @@
+{
+  "streamId": 14608,
+  "date": "2023-01-23 11:05",
+  "game": {
+    "name": "Freedom Fighters",
+    "slug": "Freedom-Fighters"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14608,
+        "date": "2023-01-23 11:05"
+      },
+      {
+        "streamId": 14606,
+        "date": "2023-01-23 20:17"
+      },
+      {
+        "streamId": 14604,
+        "date": "2023-01-24 11:18"
+      },
+      {
+        "streamId": 14605,
+        "date": "2023-01-25 20:11"
+      },
+      {
+        "streamId": 14607,
+        "date": "2023-01-26 11:08"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "daa9530a-e54b-42cb-8d3c-b8d604e36744",
+  "useBunny": true
+}

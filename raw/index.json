@@ -3624,6 +3624,54 @@
     ]
   },
   {
+    "id": 9082,
+    "name": "Freedom Fighters",
+    "slug": "Freedom-Fighters",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9101,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14608,
+            "date": "2023-01-23 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14606,
+            "date": "2023-01-23 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14604,
+            "date": "2023-01-24 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14605,
+            "date": "2023-01-25 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14607,
+            "date": "2023-01-26 11:08",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 9071,
     "name": "Friday the 13th",
     "slug": "Friday-the-13th",
