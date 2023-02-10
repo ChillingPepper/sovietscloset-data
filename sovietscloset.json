@@ -1,5 +1,5 @@
 {
-  "timestamp": 1675908705,
+  "timestamp": 1676005857,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5239,6 +5239,71 @@
               "date": "2019-01-04 19:57",
               "number": 1,
               "bunnyId": "f44a21c4-9092-46c0-85d8-bffffaa8422b",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Freedom Fighters",
+      "url": "https://sovietscloset.com/Freedom-Fighters",
+      "name": "Freedom Fighters",
+      "slug": "Freedom-Fighters",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Freedom Fighters",
+          "url": "https://sovietscloset.com/Freedom-Fighters",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Freedom Fighters #1",
+              "url": "https://sovietscloset.com/video/14608",
+              "id": 14608,
+              "date": "2023-01-23 11:05",
+              "number": 1,
+              "bunnyId": "daa9530a-e54b-42cb-8d3c-b8d604e36744",
+              "new": false
+            },
+            {
+              "title": "Freedom Fighters #2",
+              "url": "https://sovietscloset.com/video/14606",
+              "id": 14606,
+              "date": "2023-01-23 20:17",
+              "number": 2,
+              "bunnyId": "edb7fb7d-aedf-49f6-ac8d-c8dc093a48e3",
+              "new": false
+            },
+            {
+              "title": "Freedom Fighters #3",
+              "url": "https://sovietscloset.com/video/14604",
+              "id": 14604,
+              "date": "2023-01-24 11:18",
+              "number": 3,
+              "bunnyId": "1b09dcec-4cc5-4b61-91b6-8716ba9b70aa",
+              "new": false
+            },
+            {
+              "title": "Freedom Fighters #4",
+              "url": "https://sovietscloset.com/video/14605",
+              "id": 14605,
+              "date": "2023-01-25 20:11",
+              "number": 4,
+              "bunnyId": "f819512e-abcf-4b0f-885b-30511b4df2bb",
+              "new": false
+            },
+            {
+              "title": "Freedom Fighters #5",
+              "url": "https://sovietscloset.com/video/14607",
+              "id": 14607,
+              "date": "2023-01-26 11:08",
+              "number": 5,
+              "bunnyId": "607e0538-28ad-493a-b9a9-7f73782146f6",
               "new": false
             }
           ]

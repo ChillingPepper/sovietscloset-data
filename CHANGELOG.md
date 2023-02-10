@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-02-10T05:10:57Z
+
+### Added Game [Freedom Fighters](https://sovietscloset.com/Freedom-Fighters)
+
+#### Added Playlist [Freedom Fighters](https://sovietscloset.com/Freedom-Fighters)
+
+##### Videos
+
+- Added `v14608` [Freedom Fighters #1](https://sovietscloset.com/video/14608)
+- Added `v14606` [Freedom Fighters #2](https://sovietscloset.com/video/14606)
+- Added `v14604` [Freedom Fighters #3](https://sovietscloset.com/video/14604)
+- Added `v14605` [Freedom Fighters #4](https://sovietscloset.com/video/14605)
+- Added `v14607` [Freedom Fighters #5](https://sovietscloset.com/video/14607)
+
 ## 2023-02-03T19:53:19Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
