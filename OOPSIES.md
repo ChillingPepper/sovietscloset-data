@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-02-15T19:55:21Z.
+Last updated at 2023-02-22T17:22:32Z.
 
 ## Wrong Tags
 
@@ -111,6 +111,9 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #83
   - Holdfast: Nations at War #108
   - Holdfast: Nations at War #120
+  - Holdfast: Nations at War #135
+  - Holdfast: Nations at War #137
+  - Holdfast: Nations at War #139
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -533,6 +536,15 @@ This list includes all videos that have the same date.
 - Date: 2022-09-30 11:26
   - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14454) (id: 14454)
   - [VR Blade & Sorcery #55](https://sovietscloset.com/video/14530) (id: 14530)
+- Date: 2022-12-08 20:53
+  - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14617) (id: 14617)
+  - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14620) (id: 14620)
+- Date: 2022-12-15 20:50
+  - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14616) (id: 14616)
+  - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14619) (id: 14619)
+- Date: 2022-12-22 20:54
+  - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14615) (id: 14615)
+  - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14618) (id: 14618)
 
 ### Dupes by Number
 
@@ -804,6 +816,15 @@ This list includes all videos that have the same number.
 - Number: 121
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
+- Number: 136
+  - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14617) (id: 14617)
+  - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14620) (id: 14620)
+- Number: 138
+  - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14616) (id: 14616)
+  - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14619) (id: 14619)
+- Number: 140
+  - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14615) (id: 14615)
+  - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14618) (id: 14618)
 
 ### Dupes by BunnyCDN ID
 
