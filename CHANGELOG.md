@@ -1,5 +1,46 @@
 # Changelog
 
+## 2023-03-01T15:24:07Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v14623` [DayZ - Standalone #104](https://sovietscloset.com/video/14623)
+- Added `v14627` [DayZ - Standalone #105](https://sovietscloset.com/video/14627)
+- Added `v14625` [DayZ - Standalone #106](https://sovietscloset.com/video/14625)
+- Added `v14628` [DayZ - Standalone #107](https://sovietscloset.com/video/14628)
+- Added `v14624` [DayZ - Standalone #108](https://sovietscloset.com/video/14624)
+- Added `v14626` [DayZ - Standalone #109](https://sovietscloset.com/video/14626)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14621` [Just Chatting #14](https://sovietscloset.com/video/14621)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14629` [Kerbal Space Program #81](https://sovietscloset.com/video/14629)
+- Added `v14631` [Kerbal Space Program #82](https://sovietscloset.com/video/14631)
+- Added `v14630` [Kerbal Space Program #83](https://sovietscloset.com/video/14630)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14622` [Team Fortress 2 #121](https://sovietscloset.com/video/14622)
+
 ## 2023-02-22T17:22:32Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
