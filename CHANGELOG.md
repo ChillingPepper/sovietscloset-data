@@ -1,5 +1,53 @@
 # Changelog
 
+## 2023-03-08T14:19:50Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14645` [Holdfast: Nations at War #141](https://sovietscloset.com/video/14645)
+- Added `v14648` [Holdfast: Nations at War #142](https://sovietscloset.com/video/14648)
+- Added `v14646` [Holdfast: Nations at War #143](https://sovietscloset.com/video/14646)
+- Added `v14649` [Holdfast: Nations at War #144](https://sovietscloset.com/video/14649)
+- Added `v14647` [Holdfast: Nations at War #145](https://sovietscloset.com/video/14647)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14634` [Kerbal Space Program #84](https://sovietscloset.com/video/14634)
+- Added `v14635` [Kerbal Space Program #85](https://sovietscloset.com/video/14635)
+- Added `v14636` [Kerbal Space Program #86](https://sovietscloset.com/video/14636)
+- Added `v14633` [Kerbal Space Program #87](https://sovietscloset.com/video/14633)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v14643` [Rising Storm 2: Vietnam #98](https://sovietscloset.com/video/14643)
+- Added `v14644` [Rising Storm 2: Vietnam #99](https://sovietscloset.com/video/14644)
+- Added `v14642` [Rising Storm 2: Vietnam #100](https://sovietscloset.com/video/14642)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14632` [Team Fortress 2 #122](https://sovietscloset.com/video/14632)
+- Added `v14638` [Team Fortress 2 #123](https://sovietscloset.com/video/14638)
+- Added `v14641` [Team Fortress 2 #124](https://sovietscloset.com/video/14641)
+- Added `v14640` [Team Fortress 2 #125](https://sovietscloset.com/video/14640)
+- Added `v14639` [Team Fortress 2 #126](https://sovietscloset.com/video/14639)
+- Added `v14637` [Team Fortress 2 #127](https://sovietscloset.com/video/14637)
+
 ## 2023-03-01T15:24:07Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
