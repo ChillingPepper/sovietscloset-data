@@ -1,0 +1,30 @@
+{
+  "streamId": 14652,
+  "date": "2023-01-30 20:04",
+  "game": {
+    "name": "Ultimate Fishing Simulator 2",
+    "slug": "Ultimate-Fishing-Simulator-2"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14653,
+        "date": "2023-01-30 12:11"
+      },
+      {
+        "streamId": 14652,
+        "date": "2023-01-30 20:04"
+      },
+      {
+        "streamId": 14651,
+        "date": "2023-01-31 11:07"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "eee64bae-3611-4ca0-9f89-829aa917bb4d",
+  "useBunny": true
+}
