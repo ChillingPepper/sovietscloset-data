@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-03-10T18:32:48Z.
+Last updated at 2023-03-14T23:54:59Z.
 
 ## Wrong Tags
 
@@ -184,10 +184,6 @@ Missing videos are only detected if they are followed by a video that is already
   - The Isle #12
   - The Isle #18
   - The Isle #23
-- [Valheim](https://sovietscloset.com/Valheim)
-  - Valheim #1
-  - Valheim #3
-  - Valheim #5
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -446,12 +442,6 @@ This list includes all videos that have the same date.
 - Date: 2021-07-01 20:47
   - [Holdfast: Nations at War #64](https://sovietscloset.com/video/10087) (id: 10087)
   - [Holdfast: Nations at War #64](https://sovietscloset.com/video/6992) (id: 6992)
-- Date: 2021-07-07 11:13
-  - [Valheim #4](https://sovietscloset.com/video/10117) (id: 10117)
-  - [Valheim #4](https://sovietscloset.com/video/5690) (id: 5690)
-- Date: 2021-07-07 20:40
-  - [Valheim #6](https://sovietscloset.com/video/10118) (id: 10118)
-  - [Valheim #6](https://sovietscloset.com/video/5691) (id: 5691)
 - Date: 2021-07-08 20:50
   - [Holdfast: Nations at War #66](https://sovietscloset.com/video/10088) (id: 10088)
   - [Holdfast: Nations at War #66](https://sovietscloset.com/video/6994) (id: 6994)
@@ -560,14 +550,9 @@ This list includes all videos that have the same number.
   - [Factorio #4](https://sovietscloset.com/video/6912) (id: 6912)
   - [VR Onward #4](https://sovietscloset.com/video/3745) (id: 3745)
   - [VR Onward #4](https://sovietscloset.com/video/6722) (id: 6722)
-  - [Valheim #4](https://sovietscloset.com/video/10117) (id: 10117)
-  - [Valheim #4](https://sovietscloset.com/video/5690) (id: 5690)
 - Number: 5
   - [DayZ - Standalone #5](https://sovietscloset.com/video/1740) (id: 1740)
   - [DayZ - Standalone #5](https://sovietscloset.com/video/1764) (id: 1764)
-- Number: 6
-  - [Valheim #6](https://sovietscloset.com/video/10118) (id: 10118)
-  - [Valheim #6](https://sovietscloset.com/video/5691) (id: 5691)
 - Number: 7
   - [DayZ - Standalone #7](https://sovietscloset.com/video/1741) (id: 1741)
   - [DayZ - Standalone #7](https://sovietscloset.com/video/1766) (id: 1766)

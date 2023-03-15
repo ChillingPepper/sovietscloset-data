@@ -1,5 +1,5 @@
 {
-  "timestamp": 1678473168,
+  "timestamp": 1678838099,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1377,6 +1377,42 @@
               "date": "2022-10-24 19:36",
               "number": 9,
               "bunnyId": "b683b24d-aa37-4e1c-94c5-e8c6fdd74b49",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #10",
+              "url": "https://sovietscloset.com/video/14672",
+              "id": 14672,
+              "date": "2022-10-28 19:31",
+              "number": 10,
+              "bunnyId": "1c387017-94f7-46c3-9485-f2aed6424f23",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #11",
+              "url": "https://sovietscloset.com/video/14670",
+              "id": 14670,
+              "date": "2022-10-31 19:34",
+              "number": 11,
+              "bunnyId": "2cb3c64d-f56e-45cc-b48a-502cafd075ee",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #12",
+              "url": "https://sovietscloset.com/video/14671",
+              "id": 14671,
+              "date": "2022-11-04 19:28",
+              "number": 12,
+              "bunnyId": "8c3b92cc-437a-48f6-aab8-81e7c1494134",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #13",
+              "url": "https://sovietscloset.com/video/14669",
+              "id": 14669,
+              "date": "2022-11-07 19:37",
+              "number": 13,
+              "bunnyId": "3c0bc752-096e-4fbd-ad8f-2d9e015cb446",
               "new": false
             }
           ]
@@ -5807,7 +5843,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -5815,7 +5851,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7106,12 +7142,48 @@
             },
             {
               "title": "Holdfast: Nations at War #145",
+              "url": "https://sovietscloset.com/video/14661",
+              "id": 14661,
+              "date": "2023-02-02 20:52",
+              "number": 145,
+              "bunnyId": "fefe2735-52c6-476c-8065-db18c56c2bda",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #146",
               "url": "https://sovietscloset.com/video/14647",
               "id": 14647,
               "date": "2023-02-09 20:47",
-              "number": 145,
+              "number": 146,
               "bunnyId": "52c86d15-d2af-4079-84d9-747fd7ab6117",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #147",
+              "url": "https://sovietscloset.com/video/14662",
+              "id": 14662,
+              "date": "2023-02-16 20:51",
+              "number": 147,
+              "bunnyId": "f86f97bd-158f-46f2-81be-8af09930d98c",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #148",
+              "url": "https://sovietscloset.com/video/14663",
+              "id": 14663,
+              "date": "2023-03-02 20:51",
+              "number": 148,
+              "bunnyId": "6fee827c-f261-4507-8c70-37d21094da45",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #149",
+              "url": "https://sovietscloset.com/video/14664",
+              "id": 14664,
+              "date": "2023-03-09 20:47",
+              "number": 149,
+              "bunnyId": "236eaaaa-92df-4ea3-b49b-2f7c911ee4d4",
+              "new": true
             }
           ]
         }
@@ -16622,7 +16694,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -16630,7 +16702,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -17747,6 +17819,42 @@
               "number": 127,
               "bunnyId": "25b3eee3-aeba-4786-bd42-c4878f0ae08c",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #128",
+              "url": "https://sovietscloset.com/video/14666",
+              "id": 14666,
+              "date": "2023-02-19 20:02",
+              "number": 128,
+              "bunnyId": "e2c6e330-ad91-4697-a774-18a9012dd705",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #129",
+              "url": "https://sovietscloset.com/video/14668",
+              "id": 14668,
+              "date": "2023-02-26 19:58",
+              "number": 129,
+              "bunnyId": "36f98b71-9427-4fe5-988d-fda1485641e4",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #130",
+              "url": "https://sovietscloset.com/video/14665",
+              "id": 14665,
+              "date": "2023-03-05 20:02",
+              "number": 130,
+              "bunnyId": "27be936e-1883-4ba5-81c7-1e5404572b53",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #131",
+              "url": "https://sovietscloset.com/video/14667",
+              "id": 14667,
+              "date": "2023-03-12 19:59",
+              "number": 131,
+              "bunnyId": "2f8231fe-8ebf-4d3a-9b67-c98f45d7ea3e",
+              "new": true
             }
           ]
         }
@@ -19689,71 +19797,6 @@
       "recentlyUpdated": false,
       "playlists": [
         {
-          "title": "Valheim",
-          "url": "https://sovietscloset.com/Valheim",
-          "name": "Misc",
-          "slug": "Misc",
-          "enabled": true,
-          "recentlyUpdated": false,
-          "videos": [
-            {
-              "title": "Valheim #2",
-              "url": "https://sovietscloset.com/video/5692",
-              "id": 5692,
-              "date": "2021-07-06 11:24",
-              "number": 2,
-              "bunnyId": "24113bb4-19c8-4e1e-83f9-09a4bcd74824",
-              "new": false
-            },
-            {
-              "title": "Valheim #4",
-              "url": "https://sovietscloset.com/video/5690",
-              "id": 5690,
-              "date": "2021-07-07 11:13",
-              "number": 4,
-              "bunnyId": "155cfe36-1678-482a-bb31-ba7623488e92",
-              "new": false
-            },
-            {
-              "title": "Valheim #4",
-              "url": "https://sovietscloset.com/video/10117",
-              "id": 10117,
-              "date": "2021-07-07 11:13",
-              "number": 4,
-              "bunnyId": "7ae1770d-5fd5-4e0a-98d6-1faeeb597c7e",
-              "new": false
-            },
-            {
-              "title": "Valheim #6",
-              "url": "https://sovietscloset.com/video/5691",
-              "id": 5691,
-              "date": "2021-07-07 20:40",
-              "number": 6,
-              "bunnyId": "b4d94247-8445-4cb5-aeb6-ace035cea878",
-              "new": false
-            },
-            {
-              "title": "Valheim #6",
-              "url": "https://sovietscloset.com/video/10118",
-              "id": 10118,
-              "date": "2021-07-07 20:40",
-              "number": 6,
-              "bunnyId": "c1f2c5b6-059f-4195-a97b-3872c578823a",
-              "new": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Valheim",
-      "url": "https://sovietscloset.com/Valheim",
-      "name": "Valheim",
-      "slug": "Valheim",
-      "enabled": true,
-      "recentlyUpdated": false,
-      "playlists": [
-        {
           "title": "Valheim - The Village of Knobheim",
           "url": "https://sovietscloset.com/Valheim/The-Village-of-Knobheim",
           "name": "The Village of Knobheim",
@@ -19768,6 +19811,24 @@
               "date": "2023-02-10 11:19",
               "number": 1,
               "bunnyId": "36d019c0-d79a-4a2b-84ec-606b907b6c76",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #2",
+              "url": "https://sovietscloset.com/video/14659",
+              "id": 14659,
+              "date": "2023-02-11 12:51",
+              "number": 2,
+              "bunnyId": "f4c8d7a8-9b7d-445a-bdb6-ad01ad85a724",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #3",
+              "url": "https://sovietscloset.com/video/14660",
+              "id": 14660,
+              "date": "2023-02-12 12:15",
+              "number": 3,
+              "bunnyId": "5cde5c71-9ded-44e7-b332-f011f73ad16f",
               "new": false
             }
           ]

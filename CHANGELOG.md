@@ -1,5 +1,71 @@
 # Changelog
 
+## 2023-03-14T23:54:59Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force - Khe Sahn](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn)
+
+##### Videos
+
+- Added `v14672` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #10](https://sovietscloset.com/video/14672)
+- Added `v14670` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #11](https://sovietscloset.com/video/14670)
+- Added `v14671` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #12](https://sovietscloset.com/video/14671)
+- Added `v14669` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #13](https://sovietscloset.com/video/14669)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14661` [Holdfast: Nations at War #145](https://sovietscloset.com/video/14661)
+- Modified `v14647` [Holdfast: Nations at War #146](https://sovietscloset.com/video/14647)
+  - Changed title from `Holdfast: Nations at War #145` to `Holdfast: Nations at War #146`
+  - Changed number from `145` to `146`
+- Added `v14662` [Holdfast: Nations at War #147](https://sovietscloset.com/video/14662)
+- Added `v14663` [Holdfast: Nations at War #148](https://sovietscloset.com/video/14663)
+- Added `v14664` [Holdfast: Nations at War #149](https://sovietscloset.com/video/14664) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14666` [Team Fortress 2 #128](https://sovietscloset.com/video/14666)
+- Added `v14668` [Team Fortress 2 #129](https://sovietscloset.com/video/14668)
+- Added `v14665` [Team Fortress 2 #130](https://sovietscloset.com/video/14665)
+- Added `v14667` [Team Fortress 2 #131](https://sovietscloset.com/video/14667) (new)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Deleted Playlist [Valheim](https://sovietscloset.com/Valheim)
+
+##### Videos
+
+- Deleted `v5692` [Valheim #2](https://sovietscloset.com/video/5692)
+- Deleted `v5690` [Valheim #4](https://sovietscloset.com/video/5690)
+- Deleted `v10117` [Valheim #4](https://sovietscloset.com/video/10117)
+- Deleted `v5691` [Valheim #6](https://sovietscloset.com/video/5691)
+- Deleted `v10118` [Valheim #6](https://sovietscloset.com/video/10118)
+
+#### Added Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Added `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Added `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+
 ## 2023-03-10T18:32:48Z
 
 ### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
