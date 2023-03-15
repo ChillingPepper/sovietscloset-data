@@ -934,6 +934,30 @@
             "date": "2022-10-24 19:36",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14672,
+            "date": "2022-10-28 19:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14670,
+            "date": "2022-10-31 19:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14671,
+            "date": "2022-11-04 19:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14669,
+            "date": "2022-11-07 19:37",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -4036,7 +4060,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -4902,14 +4926,38 @@
             "useBunny": true
           },
           {
+            "id": 14661,
+            "date": "2023-02-02 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14647,
             "date": "2023-02-09 20:47",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14662,
+            "date": "2023-02-16 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14663,
+            "date": "2023-03-02 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14664,
+            "date": "2023-03-09 20:47",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -11428,7 +11476,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -12178,10 +12226,34 @@
             "date": "2023-02-05 20:01",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14666,
+            "date": "2023-02-19 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14668,
+            "date": "2023-02-26 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14665,
+            "date": "2023-03-05 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14667,
+            "date": "2023-03-12 19:59",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -13518,54 +13590,6 @@
     ]
   },
   {
-    "id": 5053,
-    "name": "Valheim",
-    "slug": "Valheim",
-    "enabled": true,
-    "recentlyUpdated": false,
-    "subcategories": [
-      {
-        "id": 5063,
-        "name": "Misc",
-        "slug": "Misc",
-        "streams": [
-          {
-            "id": 5692,
-            "date": "2021-07-06 11:24",
-            "new": false,
-            "useBunny": true
-          },
-          {
-            "id": 5690,
-            "date": "2021-07-07 11:13",
-            "new": false,
-            "useBunny": true
-          },
-          {
-            "id": 10117,
-            "date": "2021-07-07 11:13",
-            "new": false,
-            "useBunny": true
-          },
-          {
-            "id": 5691,
-            "date": "2021-07-07 20:40",
-            "new": false,
-            "useBunny": true
-          },
-          {
-            "id": 10118,
-            "date": "2021-07-07 20:40",
-            "new": false,
-            "useBunny": true
-          }
-        ],
-        "enabled": true,
-        "recentlyUpdated": false
-      }
-    ]
-  },
-  {
     "id": 9084,
     "name": "Valheim",
     "slug": "Valheim",
@@ -13580,6 +13604,18 @@
           {
             "id": 14658,
             "date": "2023-02-10 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14659,
+            "date": "2023-02-11 12:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14660,
+            "date": "2023-02-12 12:15",
             "new": false,
             "useBunny": true
           }
