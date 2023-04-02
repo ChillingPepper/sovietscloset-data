@@ -1,5 +1,49 @@
 # Changelog
 
+## 2023-04-02T15:38:39Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14664` [Holdfast: Nations at War #149](https://sovietscloset.com/video/14664)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14667` [Team Fortress 2 #131](https://sovietscloset.com/video/14667)
+  - Is no longer marked as new.
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Deleted `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Deleted `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Deleted `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Added `v14675` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14675)
+- Added `v14677` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14677)
+- Added `v14676` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14676)
+- Added `v14673` [Valheim - The Village of Knobheim #4](https://sovietscloset.com/video/14673)
+- Added `v14674` [Valheim - The Village of Knobheim #5](https://sovietscloset.com/video/14674)
+- Added `v14678` [Valheim - The Village of Knobheim #6](https://sovietscloset.com/video/14678)
+
 ## 2023-03-14T23:54:59Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
