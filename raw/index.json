@@ -4060,7 +4060,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -4952,12 +4952,12 @@
           {
             "id": 14664,
             "date": "2023-03-09 20:47",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -11476,7 +11476,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -12248,12 +12248,12 @@
           {
             "id": 14667,
             "date": "2023-03-12 19:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -13580,6 +13580,60 @@
           {
             "id": 5681,
             "date": "2021-07-09 20:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 5053,
+    "name": "Valheim",
+    "slug": "Valheim",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9104,
+        "name": "The Village of Knobheim",
+        "slug": "The-Village-of-Knobheim",
+        "streams": [
+          {
+            "id": 14675,
+            "date": "2023-02-13 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14677,
+            "date": "2023-02-13 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14676,
+            "date": "2023-02-14 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14673,
+            "date": "2023-02-14 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14674,
+            "date": "2023-02-15 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14678,
+            "date": "2023-02-15 20:12",
             "new": false,
             "useBunny": true
           }

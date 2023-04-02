@@ -1,0 +1,42 @@
+{
+  "streamId": 14677,
+  "date": "2023-02-13 20:05",
+  "game": {
+    "name": "Valheim",
+    "slug": "Valheim"
+  },
+  "subcategory": {
+    "name": "The Village of Knobheim",
+    "slug": "The-Village-of-Knobheim",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14675,
+        "date": "2023-02-13 11:13"
+      },
+      {
+        "streamId": 14677,
+        "date": "2023-02-13 20:05"
+      },
+      {
+        "streamId": 14676,
+        "date": "2023-02-14 11:02"
+      },
+      {
+        "streamId": 14673,
+        "date": "2023-02-14 20:13"
+      },
+      {
+        "streamId": 14674,
+        "date": "2023-02-15 11:05"
+      },
+      {
+        "streamId": 14678,
+        "date": "2023-02-15 20:12"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "278a6c2e-60c4-4c59-b9f2-c4abf63ca459",
+  "useBunny": true
+}
