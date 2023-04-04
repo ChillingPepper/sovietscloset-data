@@ -1,5 +1,25 @@
 # Changelog
 
+## 2023-04-04T21:38:17Z
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Deleted `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Added `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Deleted `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Added `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Deleted `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Added `v14680` [Valheim - The Village of Knobheim #7](https://sovietscloset.com/video/14680)
+- Added `v14684` [Valheim - The Village of Knobheim #8](https://sovietscloset.com/video/14684)
+- Added `v14679` [Valheim - The Village of Knobheim #9](https://sovietscloset.com/video/14679)
+- Added `v14681` [Valheim - The Village of Knobheim #10](https://sovietscloset.com/video/14681)
+- Added `v14682` [Valheim - The Village of Knobheim #11](https://sovietscloset.com/video/14682)
+
 ## 2023-04-02T15:38:39Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
