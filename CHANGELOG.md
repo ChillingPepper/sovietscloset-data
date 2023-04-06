@@ -1,5 +1,21 @@
 # Changelog
 
+## 2023-04-06T16:56:02Z
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Deleted `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Added `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Deleted `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Added `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Deleted `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Added `v14685` [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14685)
+
 ## 2023-04-04T21:38:17Z
 
 ### Modified Game [Valheim](https://sovietscloset.com/Valheim)

@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-04-04T21:38:17Z.
+Last updated at 2023-04-06T16:56:02Z.
 
 ## Wrong Tags
 
@@ -184,6 +184,10 @@ Missing videos are only detected if they are followed by a video that is already
   - The Isle #12
   - The Isle #18
   - The Isle #23
+- [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+  - Valheim - The Village of Knobheim #12
+  - Valheim - The Village of Knobheim #13
+  - Valheim - The Village of Knobheim #14
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
