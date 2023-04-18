@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-04-06T16:56:02Z.
+Last updated at 2023-04-18T20:53:14Z.
 
 ## Wrong Tags
 
@@ -180,14 +180,16 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #79
   - Team Fortress 2 #99
   - Team Fortress 2 #102
+  - Team Fortress 2 #130
+  - Team Fortress 2 #132
 - [The Isle](https://sovietscloset.com/The-Isle)
   - The Isle #12
   - The Isle #18
   - The Isle #23
 - [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
-  - Valheim - The Village of Knobheim #12
-  - Valheim - The Village of Knobheim #13
-  - Valheim - The Village of Knobheim #14
+  - Valheim - The Village of Knobheim #15
+  - Valheim - The Village of Knobheim #16
+  - Valheim - The Village of Knobheim #17
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -539,6 +541,12 @@ This list includes all videos that have the same date.
 - Date: 2022-12-22 20:54
   - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14615) (id: 14615)
   - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14618) (id: 14618)
+- Date: 2023-03-05 20:02
+  - [Team Fortress 2 #131](https://sovietscloset.com/video/14665) (id: 14665)
+  - [Team Fortress 2 #131](https://sovietscloset.com/video/14688) (id: 14688)
+- Date: 2023-03-12 19:59
+  - [Team Fortress 2 #133](https://sovietscloset.com/video/14667) (id: 14667)
+  - [Team Fortress 2 #133](https://sovietscloset.com/video/14689) (id: 14689)
 
 ### Dupes by Number
 
@@ -805,6 +813,12 @@ This list includes all videos that have the same number.
 - Number: 121
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
+- Number: 131
+  - [Team Fortress 2 #131](https://sovietscloset.com/video/14665) (id: 14665)
+  - [Team Fortress 2 #131](https://sovietscloset.com/video/14688) (id: 14688)
+- Number: 133
+  - [Team Fortress 2 #133](https://sovietscloset.com/video/14667) (id: 14667)
+  - [Team Fortress 2 #133](https://sovietscloset.com/video/14689) (id: 14689)
 - Number: 136
   - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14617) (id: 14617)
   - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14620) (id: 14620)

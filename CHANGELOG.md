@@ -1,5 +1,69 @@
 # Changelog
 
+## 2023-04-18T20:53:14Z
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14688` [Team Fortress 2 #131](https://sovietscloset.com/video/14688)
+- Modified `v14665` [Team Fortress 2 #131](https://sovietscloset.com/video/14665)
+  - Changed title from `Team Fortress 2 #130` to `Team Fortress 2 #131`
+  - Changed number from `130` to `131`
+- Added `v14689` [Team Fortress 2 #133](https://sovietscloset.com/video/14689)
+- Modified `v14667` [Team Fortress 2 #133](https://sovietscloset.com/video/14667)
+  - Changed title from `Team Fortress 2 #131` to `Team Fortress 2 #133`
+  - Changed number from `131` to `133`
+- Added `v14690` [Team Fortress 2 #134](https://sovietscloset.com/video/14690)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14658` [Valheim - The Village of Knobheim #1](https://sovietscloset.com/video/14658)
+- Added `v14659` [Valheim - The Village of Knobheim #2](https://sovietscloset.com/video/14659)
+- Added `v14660` [Valheim - The Village of Knobheim #3](https://sovietscloset.com/video/14660)
+- Modified `v14675` [Valheim - The Village of Knobheim #4](https://sovietscloset.com/video/14675)
+  - Changed title from `Valheim - The Village of Knobheim #1` to `Valheim - The Village of Knobheim #4`
+  - Changed number from `1` to `4`
+- Modified `v14677` [Valheim - The Village of Knobheim #5](https://sovietscloset.com/video/14677)
+  - Changed title from `Valheim - The Village of Knobheim #2` to `Valheim - The Village of Knobheim #5`
+  - Changed number from `2` to `5`
+- Modified `v14676` [Valheim - The Village of Knobheim #6](https://sovietscloset.com/video/14676)
+  - Changed title from `Valheim - The Village of Knobheim #3` to `Valheim - The Village of Knobheim #6`
+  - Changed number from `3` to `6`
+- Modified `v14673` [Valheim - The Village of Knobheim #7](https://sovietscloset.com/video/14673)
+  - Changed title from `Valheim - The Village of Knobheim #4` to `Valheim - The Village of Knobheim #7`
+  - Changed number from `4` to `7`
+- Modified `v14674` [Valheim - The Village of Knobheim #8](https://sovietscloset.com/video/14674)
+  - Changed title from `Valheim - The Village of Knobheim #5` to `Valheim - The Village of Knobheim #8`
+  - Changed number from `5` to `8`
+- Modified `v14678` [Valheim - The Village of Knobheim #9](https://sovietscloset.com/video/14678)
+  - Changed title from `Valheim - The Village of Knobheim #6` to `Valheim - The Village of Knobheim #9`
+  - Changed number from `6` to `9`
+- Modified `v14680` [Valheim - The Village of Knobheim #10](https://sovietscloset.com/video/14680)
+  - Changed title from `Valheim - The Village of Knobheim #7` to `Valheim - The Village of Knobheim #10`
+  - Changed number from `7` to `10`
+- Modified `v14684` [Valheim - The Village of Knobheim #11](https://sovietscloset.com/video/14684)
+  - Changed title from `Valheim - The Village of Knobheim #8` to `Valheim - The Village of Knobheim #11`
+  - Changed number from `8` to `11`
+- Modified `v14679` [Valheim - The Village of Knobheim #12](https://sovietscloset.com/video/14679)
+  - Changed title from `Valheim - The Village of Knobheim #9` to `Valheim - The Village of Knobheim #12`
+  - Changed number from `9` to `12`
+- Modified `v14681` [Valheim - The Village of Knobheim #13](https://sovietscloset.com/video/14681)
+  - Changed title from `Valheim - The Village of Knobheim #10` to `Valheim - The Village of Knobheim #13`
+  - Changed number from `10` to `13`
+- Modified `v14682` [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14682)
+  - Changed title from `Valheim - The Village of Knobheim #11` to `Valheim - The Village of Knobheim #14`
+  - Changed number from `11` to `14`
+- Modified `v14685` [Valheim - The Village of Knobheim #18](https://sovietscloset.com/video/14685)
+  - Changed title from `Valheim - The Village of Knobheim #15` to `Valheim - The Village of Knobheim #18`
+  - Changed number from `15` to `18`
+
 ## 2023-04-06T16:56:02Z
 
 ### Modified Game [Valheim](https://sovietscloset.com/Valheim)
