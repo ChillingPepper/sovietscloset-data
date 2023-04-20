@@ -1,5 +1,18 @@
 # Changelog
 
+## 2023-04-20T20:49:52Z
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v14694` [VR Walkabout Mini Golf #6](https://sovietscloset.com/video/14694)
+- Added `v14692` [VR Walkabout Mini Golf #7](https://sovietscloset.com/video/14692)
+- Added `v14693` [VR Walkabout Mini Golf #8](https://sovietscloset.com/video/14693)
+- Added `v14691` [VR Walkabout Mini Golf #9](https://sovietscloset.com/video/14691)
+
 ## 2023-04-18T20:53:14Z
 
 ### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)

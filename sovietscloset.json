@@ -1,5 +1,5 @@
 {
-  "timestamp": 1681851194,
+  "timestamp": 1682023792,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -21332,6 +21332,42 @@
               "date": "2022-10-26 11:05",
               "number": 5,
               "bunnyId": "00e0936e-0569-4f93-8b18-43f0329d1e59",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #6",
+              "url": "https://sovietscloset.com/video/14694",
+              "id": 14694,
+              "date": "2022-11-02 10:54",
+              "number": 6,
+              "bunnyId": "e5cb8e4b-ef5b-455b-8a34-83f1a29bce49",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #7",
+              "url": "https://sovietscloset.com/video/14692",
+              "id": 14692,
+              "date": "2022-11-16 11:05",
+              "number": 7,
+              "bunnyId": "cfd75ead-875b-41db-9935-0ab3b602df10",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #8",
+              "url": "https://sovietscloset.com/video/14693",
+              "id": 14693,
+              "date": "2022-11-30 11:04",
+              "number": 8,
+              "bunnyId": "aa44e4c0-89bf-4dcb-980f-1e04873d172d",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #9",
+              "url": "https://sovietscloset.com/video/14691",
+              "id": 14691,
+              "date": "2022-12-13 11:08",
+              "number": 9,
+              "bunnyId": "80b5fe2c-93b9-4d23-af3d-21c6ce72cea0",
               "new": false
             }
           ]
