@@ -1,0 +1,106 @@
+{
+  "streamId": 14709,
+  "date": "2022-12-23 19:38",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Prairie Fire Mike Force - Khe Sahn",
+    "slug": "Prairie-Fire-Mike-Force---Khe-Sahn",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14452,
+        "date": "2022-09-30 20:01"
+      },
+      {
+        "streamId": 14451,
+        "date": "2022-10-03 19:32"
+      },
+      {
+        "streamId": 14453,
+        "date": "2022-10-07 19:33"
+      },
+      {
+        "streamId": 14485,
+        "date": "2022-10-10 19:31"
+      },
+      {
+        "streamId": 14486,
+        "date": "2022-10-10 20:20"
+      },
+      {
+        "streamId": 14489,
+        "date": "2022-10-14 19:28"
+      },
+      {
+        "streamId": 14488,
+        "date": "2022-10-17 19:33"
+      },
+      {
+        "streamId": 14487,
+        "date": "2022-10-21 19:30"
+      },
+      {
+        "streamId": 14490,
+        "date": "2022-10-24 19:36"
+      },
+      {
+        "streamId": 14672,
+        "date": "2022-10-28 19:31"
+      },
+      {
+        "streamId": 14670,
+        "date": "2022-10-31 19:34"
+      },
+      {
+        "streamId": 14671,
+        "date": "2022-11-04 19:28"
+      },
+      {
+        "streamId": 14669,
+        "date": "2022-11-07 19:37"
+      },
+      {
+        "streamId": 14697,
+        "date": "2022-11-14 19:29"
+      },
+      {
+        "streamId": 14698,
+        "date": "2022-11-18 19:31"
+      },
+      {
+        "streamId": 14700,
+        "date": "2022-11-25 19:46"
+      },
+      {
+        "streamId": 14699,
+        "date": "2022-12-02 19:35"
+      },
+      {
+        "streamId": 14701,
+        "date": "2022-12-16 19:29"
+      },
+      {
+        "streamId": 14709,
+        "date": "2022-12-23 19:38"
+      },
+      {
+        "streamId": 14711,
+        "date": "2022-12-30 19:30"
+      },
+      {
+        "streamId": 14708,
+        "date": "2023-01-06 19:35"
+      },
+      {
+        "streamId": 14710,
+        "date": "2023-01-13 19:32"
+      }
+    ]
+  },
+  "number": 19,
+  "bunnyId": "c3f0c348-0bae-4642-a752-d633f14f6b88",
+  "useBunny": true
+}

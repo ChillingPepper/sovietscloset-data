@@ -697,6 +697,18 @@
             "date": "2022-09-17 19:50",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14696,
+            "date": "2022-11-12 19:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14706,
+            "date": "2022-12-17 19:12",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -956,6 +968,60 @@
           {
             "id": 14669,
             "date": "2022-11-07 19:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14697,
+            "date": "2022-11-14 19:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14698,
+            "date": "2022-11-18 19:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14700,
+            "date": "2022-11-25 19:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14699,
+            "date": "2022-12-02 19:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14701,
+            "date": "2022-12-16 19:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14709,
+            "date": "2022-12-23 19:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14711,
+            "date": "2022-12-30 19:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14708,
+            "date": "2023-01-06 19:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14710,
+            "date": "2023-01-13 19:32",
             "new": false,
             "useBunny": true
           }
@@ -7146,6 +7212,36 @@
     ]
   },
   {
+    "id": 9085,
+    "name": "Return of the Obra Dinn",
+    "slug": "Return-of-the-Obra-Dinn",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9105,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14695,
+            "date": "2023-05-04 11:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14707,
+            "date": "2023-05-05 11:11",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
+      }
+    ]
+  },
+  {
     "id": 1006,
     "name": "Rimworld",
     "slug": "Rimworld",
@@ -12228,6 +12324,12 @@
             "useBunny": true
           },
           {
+            "id": 14705,
+            "date": "2023-02-12 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14666,
             "date": "2023-02-19 20:02",
             "new": false,
@@ -13686,7 +13788,19 @@
             "useBunny": true
           },
           {
+            "id": 14704,
+            "date": "2023-02-18 13:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14679,
+            "date": "2023-02-19 16:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14702,
             "date": "2023-02-19 16:28",
             "new": false,
             "useBunny": true
@@ -13700,6 +13814,12 @@
           {
             "id": 14682,
             "date": "2023-02-20 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14703,
+            "date": "2023-02-21 11:00",
             "new": false,
             "useBunny": true
           },

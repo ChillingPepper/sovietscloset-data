@@ -1,0 +1,26 @@
+{
+  "streamId": 14707,
+  "date": "2023-05-05 11:11",
+  "game": {
+    "name": "Return of the Obra Dinn",
+    "slug": "Return-of-the-Obra-Dinn"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14695,
+        "date": "2023-05-04 11:11"
+      },
+      {
+        "streamId": 14707,
+        "date": "2023-05-05 11:11"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "a9fea285-efe6-41b9-b019-b4010565265b",
+  "useBunny": true
+}
