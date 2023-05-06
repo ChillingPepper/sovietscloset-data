@@ -1,5 +1,5 @@
 {
-  "timestamp": 1682023792,
+  "timestamp": 1683399357,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1033,6 +1033,24 @@
               "number": 33,
               "bunnyId": "f69af4c4-b810-4d73-a299-9f45c3b92063",
               "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #34",
+              "url": "https://sovietscloset.com/video/14696",
+              "id": 14696,
+              "date": "2022-11-12 19:41",
+              "number": 34,
+              "bunnyId": "4a0bb1e0-6b72-4975-ad53-b35e0f118c7b",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #35",
+              "url": "https://sovietscloset.com/video/14706",
+              "id": 14706,
+              "date": "2022-12-17 19:12",
+              "number": 35,
+              "bunnyId": "137f1a3d-dc2b-429a-a35c-16e785639e6d",
+              "new": false
             }
           ]
         },
@@ -1413,6 +1431,87 @@
               "date": "2022-11-07 19:37",
               "number": 13,
               "bunnyId": "3c0bc752-096e-4fbd-ad8f-2d9e015cb446",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #14",
+              "url": "https://sovietscloset.com/video/14697",
+              "id": 14697,
+              "date": "2022-11-14 19:29",
+              "number": 14,
+              "bunnyId": "9ec84d4e-a2fa-4b38-80e9-d0892549a70b",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #15",
+              "url": "https://sovietscloset.com/video/14698",
+              "id": 14698,
+              "date": "2022-11-18 19:31",
+              "number": 15,
+              "bunnyId": "89f884ad-71a1-439d-b8f8-563c14318c3c",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #16",
+              "url": "https://sovietscloset.com/video/14700",
+              "id": 14700,
+              "date": "2022-11-25 19:46",
+              "number": 16,
+              "bunnyId": "132025c3-cfb3-454c-b786-3922f203c09a",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #17",
+              "url": "https://sovietscloset.com/video/14699",
+              "id": 14699,
+              "date": "2022-12-02 19:35",
+              "number": 17,
+              "bunnyId": "ab7b1e51-80fd-4cca-b55a-5941b4ccfab9",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #18",
+              "url": "https://sovietscloset.com/video/14701",
+              "id": 14701,
+              "date": "2022-12-16 19:29",
+              "number": 18,
+              "bunnyId": "0ce789f5-2c90-43e0-b774-0ea958bc6286",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #19",
+              "url": "https://sovietscloset.com/video/14709",
+              "id": 14709,
+              "date": "2022-12-23 19:38",
+              "number": 19,
+              "bunnyId": "c3f0c348-0bae-4642-a752-d633f14f6b88",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #20",
+              "url": "https://sovietscloset.com/video/14711",
+              "id": 14711,
+              "date": "2022-12-30 19:30",
+              "number": 20,
+              "bunnyId": "62221cc5-8644-4f98-b0d8-5c35ef9b738a",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #21",
+              "url": "https://sovietscloset.com/video/14708",
+              "id": 14708,
+              "date": "2023-01-06 19:35",
+              "number": 21,
+              "bunnyId": "f4c290b4-5fcf-4542-a98c-d1efc7ce20cc",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #22",
+              "url": "https://sovietscloset.com/video/14710",
+              "id": 14710,
+              "date": "2023-01-13 19:32",
+              "number": 22,
+              "bunnyId": "55410eb1-1106-48e6-bfd0-ba89b268269f",
               "new": false
             }
           ]
@@ -10312,6 +10411,44 @@
       ]
     },
     {
+      "title": "Return of the Obra Dinn",
+      "url": "https://sovietscloset.com/Return-of-the-Obra-Dinn",
+      "name": "Return of the Obra Dinn",
+      "slug": "Return-of-the-Obra-Dinn",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Return of the Obra Dinn",
+          "url": "https://sovietscloset.com/Return-of-the-Obra-Dinn",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Return of the Obra Dinn #1",
+              "url": "https://sovietscloset.com/video/14695",
+              "id": 14695,
+              "date": "2023-05-04 11:11",
+              "number": 1,
+              "bunnyId": "0a75253e-9025-4d21-87c1-bbe6d454d12b",
+              "new": true
+            },
+            {
+              "title": "Return of the Obra Dinn #2",
+              "url": "https://sovietscloset.com/video/14707",
+              "id": 14707,
+              "date": "2023-05-05 11:11",
+              "number": 2,
+              "bunnyId": "a9fea285-efe6-41b9-b019-b4010565265b",
+              "new": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Rimworld",
       "url": "https://sovietscloset.com/Rimworld",
       "name": "Rimworld",
@@ -17822,64 +17959,73 @@
             },
             {
               "title": "Team Fortress 2 #128",
-              "url": "https://sovietscloset.com/video/14666",
-              "id": 14666,
-              "date": "2023-02-19 20:02",
+              "url": "https://sovietscloset.com/video/14705",
+              "id": 14705,
+              "date": "2023-02-12 20:00",
               "number": 128,
-              "bunnyId": "e2c6e330-ad91-4697-a774-18a9012dd705",
+              "bunnyId": "b96fefe2-00b8-4063-a4ea-34b18d3060a2",
               "new": false
             },
             {
               "title": "Team Fortress 2 #129",
+              "url": "https://sovietscloset.com/video/14666",
+              "id": 14666,
+              "date": "2023-02-19 20:02",
+              "number": 129,
+              "bunnyId": "e2c6e330-ad91-4697-a774-18a9012dd705",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #130",
               "url": "https://sovietscloset.com/video/14668",
               "id": 14668,
               "date": "2023-02-26 19:58",
-              "number": 129,
+              "number": 130,
               "bunnyId": "36f98b71-9427-4fe5-988d-fda1485641e4",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #131",
+              "title": "Team Fortress 2 #132",
               "url": "https://sovietscloset.com/video/14665",
               "id": 14665,
               "date": "2023-03-05 20:02",
-              "number": 131,
+              "number": 132,
               "bunnyId": "27be936e-1883-4ba5-81c7-1e5404572b53",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #131",
+              "title": "Team Fortress 2 #132",
               "url": "https://sovietscloset.com/video/14688",
               "id": 14688,
               "date": "2023-03-05 20:02",
-              "number": 131,
+              "number": 132,
               "bunnyId": "76e15244-6ad7-46be-ab0d-ee612652b821",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #133",
+              "title": "Team Fortress 2 #134",
               "url": "https://sovietscloset.com/video/14667",
               "id": 14667,
               "date": "2023-03-12 19:59",
-              "number": 133,
+              "number": 134,
               "bunnyId": "2f8231fe-8ebf-4d3a-9b67-c98f45d7ea3e",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #133",
+              "title": "Team Fortress 2 #134",
               "url": "https://sovietscloset.com/video/14689",
               "id": 14689,
               "date": "2023-03-12 19:59",
-              "number": 133,
+              "number": 134,
               "bunnyId": "2c768345-9243-4e65-bb89-5f90d8a84392",
               "new": false
             },
             {
-              "title": "Team Fortress 2 #134",
+              "title": "Team Fortress 2 #135",
               "url": "https://sovietscloset.com/video/14690",
               "id": 14690,
               "date": "2023-04-09 20:01",
-              "number": 134,
+              "number": 135,
               "bunnyId": "5c45cf93-4b84-419d-986a-63e0d5678590",
               "new": false
             }
@@ -19922,47 +20068,74 @@
               "new": false
             },
             {
-              "title": "Valheim - The Village of Knobheim #11",
+              "title": "Valheim - The Village of Knobheim #12",
               "url": "https://sovietscloset.com/video/14684",
               "id": 14684,
               "date": "2023-02-18 13:23",
-              "number": 11,
+              "number": 12,
               "bunnyId": "f54d84a8-29dd-44e6-a36c-9e598476cfed",
               "new": false
             },
             {
               "title": "Valheim - The Village of Knobheim #12",
-              "url": "https://sovietscloset.com/video/14679",
-              "id": 14679,
-              "date": "2023-02-19 16:28",
+              "url": "https://sovietscloset.com/video/14704",
+              "id": 14704,
+              "date": "2023-02-18 13:23",
               "number": 12,
-              "bunnyId": "12275e5e-32c2-4dd9-b473-0b1f416a6bf8",
-              "new": false
-            },
-            {
-              "title": "Valheim - The Village of Knobheim #13",
-              "url": "https://sovietscloset.com/video/14681",
-              "id": 14681,
-              "date": "2023-02-20 11:09",
-              "number": 13,
-              "bunnyId": "aae0c5b8-c0e8-46d6-973e-17ce8096a1ef",
+              "bunnyId": "5377ec97-9873-4e30-ab2d-21987b907e2c",
               "new": false
             },
             {
               "title": "Valheim - The Village of Knobheim #14",
+              "url": "https://sovietscloset.com/video/14679",
+              "id": 14679,
+              "date": "2023-02-19 16:28",
+              "number": 14,
+              "bunnyId": "12275e5e-32c2-4dd9-b473-0b1f416a6bf8",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #14",
+              "url": "https://sovietscloset.com/video/14702",
+              "id": 14702,
+              "date": "2023-02-19 16:28",
+              "number": 14,
+              "bunnyId": "da6eada7-6606-493e-b3a7-7b86216597f1",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #15",
+              "url": "https://sovietscloset.com/video/14681",
+              "id": 14681,
+              "date": "2023-02-20 11:09",
+              "number": 15,
+              "bunnyId": "aae0c5b8-c0e8-46d6-973e-17ce8096a1ef",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #16",
               "url": "https://sovietscloset.com/video/14682",
               "id": 14682,
               "date": "2023-02-20 20:05",
-              "number": 14,
+              "number": 16,
               "bunnyId": "6b6cb6fe-0646-4909-bff1-6702f48470a9",
               "new": false
             },
             {
               "title": "Valheim - The Village of Knobheim #18",
+              "url": "https://sovietscloset.com/video/14703",
+              "id": 14703,
+              "date": "2023-02-21 11:00",
+              "number": 18,
+              "bunnyId": "58ece4af-94a4-40d7-bd0f-0c1b2acd83af",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #21",
               "url": "https://sovietscloset.com/video/14685",
               "id": 14685,
               "date": "2023-02-27 20:05",
-              "number": 18,
+              "number": 21,
               "bunnyId": "332409d7-7cee-43aa-aaf0-2be6b598e55e",
               "new": false
             }

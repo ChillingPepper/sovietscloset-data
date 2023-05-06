@@ -1,5 +1,93 @@
 # Changelog
 
+## 2023-05-06T18:55:57Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14696` [Arma 3 - Zeus Games #34](https://sovietscloset.com/video/14696)
+- Added `v14706` [Arma 3 - Zeus Games #35](https://sovietscloset.com/video/14706)
+
+#### Modified Playlist [Arma 3 - Prairie Fire Mike Force - Khe Sahn](https://sovietscloset.com/Arma-3/Prairie-Fire-Mike-Force---Khe-Sahn)
+
+##### Videos
+
+- Added `v14697` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #14](https://sovietscloset.com/video/14697)
+- Added `v14698` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #15](https://sovietscloset.com/video/14698)
+- Added `v14700` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #16](https://sovietscloset.com/video/14700)
+- Added `v14699` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #17](https://sovietscloset.com/video/14699)
+- Added `v14701` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #18](https://sovietscloset.com/video/14701)
+- Added `v14709` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #19](https://sovietscloset.com/video/14709)
+- Added `v14711` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #20](https://sovietscloset.com/video/14711)
+- Added `v14708` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #21](https://sovietscloset.com/video/14708)
+- Added `v14710` [Arma 3 - Prairie Fire Mike Force - Khe Sahn #22](https://sovietscloset.com/video/14710)
+
+### Added Game [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+#### Added Playlist [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+##### Videos
+
+- Added `v14695` [Return of the Obra Dinn #1](https://sovietscloset.com/video/14695) (new)
+- Added `v14707` [Return of the Obra Dinn #2](https://sovietscloset.com/video/14707) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14705` [Team Fortress 2 #128](https://sovietscloset.com/video/14705)
+- Modified `v14666` [Team Fortress 2 #129](https://sovietscloset.com/video/14666)
+  - Changed title from `Team Fortress 2 #128` to `Team Fortress 2 #129`
+  - Changed number from `128` to `129`
+- Modified `v14668` [Team Fortress 2 #130](https://sovietscloset.com/video/14668)
+  - Changed title from `Team Fortress 2 #129` to `Team Fortress 2 #130`
+  - Changed number from `129` to `130`
+- Modified `v14665` [Team Fortress 2 #132](https://sovietscloset.com/video/14665)
+  - Changed title from `Team Fortress 2 #131` to `Team Fortress 2 #132`
+  - Changed number from `131` to `132`
+- Modified `v14688` [Team Fortress 2 #132](https://sovietscloset.com/video/14688)
+  - Changed title from `Team Fortress 2 #131` to `Team Fortress 2 #132`
+  - Changed number from `131` to `132`
+- Modified `v14667` [Team Fortress 2 #134](https://sovietscloset.com/video/14667)
+  - Changed title from `Team Fortress 2 #133` to `Team Fortress 2 #134`
+  - Changed number from `133` to `134`
+- Modified `v14689` [Team Fortress 2 #134](https://sovietscloset.com/video/14689)
+  - Changed title from `Team Fortress 2 #133` to `Team Fortress 2 #134`
+  - Changed number from `133` to `134`
+- Modified `v14690` [Team Fortress 2 #135](https://sovietscloset.com/video/14690)
+  - Changed title from `Team Fortress 2 #134` to `Team Fortress 2 #135`
+  - Changed number from `134` to `135`
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14704` [Valheim - The Village of Knobheim #12](https://sovietscloset.com/video/14704)
+- Modified `v14684` [Valheim - The Village of Knobheim #12](https://sovietscloset.com/video/14684)
+  - Changed title from `Valheim - The Village of Knobheim #11` to `Valheim - The Village of Knobheim #12`
+  - Changed number from `11` to `12`
+- Added `v14702` [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14702)
+- Modified `v14679` [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14679)
+  - Changed title from `Valheim - The Village of Knobheim #12` to `Valheim - The Village of Knobheim #14`
+  - Changed number from `12` to `14`
+- Modified `v14681` [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14681)
+  - Changed title from `Valheim - The Village of Knobheim #13` to `Valheim - The Village of Knobheim #15`
+  - Changed number from `13` to `15`
+- Modified `v14682` [Valheim - The Village of Knobheim #16](https://sovietscloset.com/video/14682)
+  - Changed title from `Valheim - The Village of Knobheim #14` to `Valheim - The Village of Knobheim #16`
+  - Changed number from `14` to `16`
+- Added `v14703` [Valheim - The Village of Knobheim #18](https://sovietscloset.com/video/14703)
+- Modified `v14685` [Valheim - The Village of Knobheim #21](https://sovietscloset.com/video/14685)
+  - Changed title from `Valheim - The Village of Knobheim #18` to `Valheim - The Village of Knobheim #21`
+  - Changed number from `18` to `21`
+
 ## 2023-04-20T20:49:52Z
 
 ### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
