@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-05-06T18:55:57Z.
+Last updated at 2023-05-13T10:23:51Z.
 
 ## Wrong Tags
 
@@ -180,8 +180,10 @@ Missing videos are only detected if they are followed by a video that is already
   - Team Fortress 2 #79
   - Team Fortress 2 #99
   - Team Fortress 2 #102
+  - Team Fortress 2 #129
   - Team Fortress 2 #131
   - Team Fortress 2 #133
+  - Team Fortress 2 #135
 - [The Isle](https://sovietscloset.com/The-Isle)
   - The Isle #12
   - The Isle #18
@@ -189,9 +191,10 @@ Missing videos are only detected if they are followed by a video that is already
 - [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
   - Valheim - The Village of Knobheim #11
   - Valheim - The Village of Knobheim #13
-  - Valheim - The Village of Knobheim #17
+  - Valheim - The Village of Knobheim #14
+  - Valheim - The Village of Knobheim #18
   - Valheim - The Village of Knobheim #19
-  - Valheim - The Village of Knobheim #20
+  - Valheim - The Village of Knobheim #24
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -547,14 +550,24 @@ This list includes all videos that have the same date.
   - [Valheim - The Village of Knobheim #12](https://sovietscloset.com/video/14684) (id: 14684)
   - [Valheim - The Village of Knobheim #12](https://sovietscloset.com/video/14704) (id: 14704)
 - Date: 2023-02-19 16:28
-  - [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14679) (id: 14679)
-  - [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14702) (id: 14702)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14679) (id: 14679)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14702) (id: 14702)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14718) (id: 14718)
+- Date: 2023-02-19 20:02
+  - [Team Fortress 2 #130](https://sovietscloset.com/video/14666) (id: 14666)
+  - [Team Fortress 2 #130](https://sovietscloset.com/video/14719) (id: 14719)
+- Date: 2023-02-21 11:00
+  - [Valheim - The Village of Knobheim #20](https://sovietscloset.com/video/14703) (id: 14703)
+  - [Valheim - The Village of Knobheim #20](https://sovietscloset.com/video/14720) (id: 14720)
+- Date: 2023-02-26 19:58
+  - [Team Fortress 2 #132](https://sovietscloset.com/video/14668) (id: 14668)
+  - [Team Fortress 2 #132](https://sovietscloset.com/video/14724) (id: 14724)
 - Date: 2023-03-05 20:02
-  - [Team Fortress 2 #132](https://sovietscloset.com/video/14665) (id: 14665)
-  - [Team Fortress 2 #132](https://sovietscloset.com/video/14688) (id: 14688)
+  - [Team Fortress 2 #134](https://sovietscloset.com/video/14665) (id: 14665)
+  - [Team Fortress 2 #134](https://sovietscloset.com/video/14688) (id: 14688)
 - Date: 2023-03-12 19:59
-  - [Team Fortress 2 #134](https://sovietscloset.com/video/14667) (id: 14667)
-  - [Team Fortress 2 #134](https://sovietscloset.com/video/14689) (id: 14689)
+  - [Team Fortress 2 #136](https://sovietscloset.com/video/14667) (id: 14667)
+  - [Team Fortress 2 #136](https://sovietscloset.com/video/14689) (id: 14689)
 
 ### Dupes by Number
 
@@ -622,13 +635,14 @@ This list includes all videos that have the same number.
   - [Holdfast: Nations at War #14](https://sovietscloset.com/video/1213) (id: 1213)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
-  - [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14679) (id: 14679)
-  - [Valheim - The Village of Knobheim #14](https://sovietscloset.com/video/14702) (id: 14702)
 - Number: 15
   - [Blackwake #15](https://sovietscloset.com/video/6748) (id: 6748)
   - [Blackwake #15](https://sovietscloset.com/video/6949) (id: 6949)
   - [Stellaris - The Gardener's Tended #15](https://sovietscloset.com/video/10147) (id: 10147)
   - [Stellaris - The Gardener's Tended #15](https://sovietscloset.com/video/6867) (id: 6867)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14679) (id: 14679)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14702) (id: 14702)
+  - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14718) (id: 14718)
 - Number: 16
   - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/13085) (id: 13085)
   - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/4686) (id: 4686)
@@ -638,6 +652,9 @@ This list includes all videos that have the same number.
 - Number: 19
   - [The Isle #19](https://sovietscloset.com/video/14192) (id: 14192)
   - [The Isle #19](https://sovietscloset.com/video/3734) (id: 3734)
+- Number: 20
+  - [Valheim - The Village of Knobheim #20](https://sovietscloset.com/video/14703) (id: 14703)
+  - [Valheim - The Village of Knobheim #20](https://sovietscloset.com/video/14720) (id: 14720)
 - Number: 23
   - [7 Days to Die #23](https://sovietscloset.com/video/1002) (id: 1002)
   - [7 Days to Die #23](https://sovietscloset.com/video/6844) (id: 6844)
@@ -825,15 +842,20 @@ This list includes all videos that have the same number.
 - Number: 121
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387) (id: 14387)
   - [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403) (id: 14403)
+- Number: 130
+  - [Team Fortress 2 #130](https://sovietscloset.com/video/14666) (id: 14666)
+  - [Team Fortress 2 #130](https://sovietscloset.com/video/14719) (id: 14719)
 - Number: 132
-  - [Team Fortress 2 #132](https://sovietscloset.com/video/14665) (id: 14665)
-  - [Team Fortress 2 #132](https://sovietscloset.com/video/14688) (id: 14688)
+  - [Team Fortress 2 #132](https://sovietscloset.com/video/14668) (id: 14668)
+  - [Team Fortress 2 #132](https://sovietscloset.com/video/14724) (id: 14724)
 - Number: 134
-  - [Team Fortress 2 #134](https://sovietscloset.com/video/14667) (id: 14667)
-  - [Team Fortress 2 #134](https://sovietscloset.com/video/14689) (id: 14689)
+  - [Team Fortress 2 #134](https://sovietscloset.com/video/14665) (id: 14665)
+  - [Team Fortress 2 #134](https://sovietscloset.com/video/14688) (id: 14688)
 - Number: 136
   - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14617) (id: 14617)
   - [Holdfast: Nations at War #136](https://sovietscloset.com/video/14620) (id: 14620)
+  - [Team Fortress 2 #136](https://sovietscloset.com/video/14667) (id: 14667)
+  - [Team Fortress 2 #136](https://sovietscloset.com/video/14689) (id: 14689)
 - Number: 138
   - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14616) (id: 14616)
   - [Holdfast: Nations at War #138](https://sovietscloset.com/video/14619) (id: 14619)
