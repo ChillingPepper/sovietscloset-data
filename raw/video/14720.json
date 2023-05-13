@@ -1,0 +1,110 @@
+{
+  "streamId": 14720,
+  "date": "2023-02-21 11:00",
+  "game": {
+    "name": "Valheim",
+    "slug": "Valheim"
+  },
+  "subcategory": {
+    "name": "The Village of Knobheim",
+    "slug": "The-Village-of-Knobheim",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14658,
+        "date": "2023-02-10 11:19"
+      },
+      {
+        "streamId": 14659,
+        "date": "2023-02-11 12:51"
+      },
+      {
+        "streamId": 14660,
+        "date": "2023-02-12 12:15"
+      },
+      {
+        "streamId": 14675,
+        "date": "2023-02-13 11:13"
+      },
+      {
+        "streamId": 14677,
+        "date": "2023-02-13 20:05"
+      },
+      {
+        "streamId": 14676,
+        "date": "2023-02-14 11:02"
+      },
+      {
+        "streamId": 14673,
+        "date": "2023-02-14 20:13"
+      },
+      {
+        "streamId": 14674,
+        "date": "2023-02-15 11:05"
+      },
+      {
+        "streamId": 14678,
+        "date": "2023-02-15 20:12"
+      },
+      {
+        "streamId": 14680,
+        "date": "2023-02-16 11:13"
+      },
+      {
+        "streamId": 14684,
+        "date": "2023-02-18 13:23"
+      },
+      {
+        "streamId": 14704,
+        "date": "2023-02-18 13:23"
+      },
+      {
+        "streamId": 14679,
+        "date": "2023-02-19 16:28"
+      },
+      {
+        "streamId": 14702,
+        "date": "2023-02-19 16:28"
+      },
+      {
+        "streamId": 14718,
+        "date": "2023-02-19 16:28"
+      },
+      {
+        "streamId": 14681,
+        "date": "2023-02-20 11:09"
+      },
+      {
+        "streamId": 14682,
+        "date": "2023-02-20 20:05"
+      },
+      {
+        "streamId": 14703,
+        "date": "2023-02-21 11:00"
+      },
+      {
+        "streamId": 14720,
+        "date": "2023-02-21 11:00"
+      },
+      {
+        "streamId": 14723,
+        "date": "2023-02-21 20:09"
+      },
+      {
+        "streamId": 14722,
+        "date": "2023-02-23 11:06"
+      },
+      {
+        "streamId": 14721,
+        "date": "2023-02-23 20:39"
+      },
+      {
+        "streamId": 14685,
+        "date": "2023-02-27 20:05"
+      }
+    ]
+  },
+  "number": 20,
+  "bunnyId": "461535ae-4fe3-4307-bd4f-2de801d4800b",
+  "useBunny": true
+}

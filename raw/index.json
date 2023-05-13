@@ -7216,7 +7216,7 @@
     "name": "Return of the Obra Dinn",
     "slug": "Return-of-the-Obra-Dinn",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9105,
@@ -7226,18 +7226,18 @@
           {
             "id": 14695,
             "date": "2023-05-04 11:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14707,
             "date": "2023-05-05 11:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -12336,7 +12336,19 @@
             "useBunny": true
           },
           {
+            "id": 14719,
+            "date": "2023-02-19 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14668,
+            "date": "2023-02-26 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14724,
             "date": "2023-02-26 19:58",
             "new": false,
             "useBunny": true
@@ -13806,6 +13818,12 @@
             "useBunny": true
           },
           {
+            "id": 14718,
+            "date": "2023-02-19 16:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14681,
             "date": "2023-02-20 11:09",
             "new": false,
@@ -13820,6 +13838,30 @@
           {
             "id": 14703,
             "date": "2023-02-21 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14720,
+            "date": "2023-02-21 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14723,
+            "date": "2023-02-21 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14722,
+            "date": "2023-02-23 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14721,
+            "date": "2023-02-23 20:39",
             "new": false,
             "useBunny": true
           },
@@ -14767,7 +14809,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9100,
@@ -14827,10 +14869,46 @@
             "date": "2022-12-13 11:08",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14717,
+            "date": "2023-02-22 10:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14713,
+            "date": "2023-04-05 10:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14712,
+            "date": "2023-04-12 10:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14715,
+            "date": "2023-04-19 10:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14714,
+            "date": "2023-05-03 10:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14716,
+            "date": "2023-05-10 10:33",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
