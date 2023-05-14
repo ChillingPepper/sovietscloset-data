@@ -1,5 +1,21 @@
 # Changelog
 
+## 2023-05-14T13:06:23Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14726` [Rimworld - The Pale Ones #59](https://sovietscloset.com/video/14726)
+- Added `v14729` [Rimworld - The Pale Ones #60](https://sovietscloset.com/video/14729)
+- Added `v14728` [Rimworld - The Pale Ones #61](https://sovietscloset.com/video/14728)
+- Added `v14727` [Rimworld - The Pale Ones #62](https://sovietscloset.com/video/14727)
+- Added `v14725` [Rimworld - The Pale Ones #63](https://sovietscloset.com/video/14725)
+- Added `v14730` [Rimworld - The Pale Ones #64](https://sovietscloset.com/video/14730)
+- Added `v14731` [Rimworld - The Pale Ones #65](https://sovietscloset.com/video/14731)
+
 ## 2023-05-13T10:23:51Z
 
 ### Modified Game [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
