@@ -1,5 +1,42 @@
 # Changelog
 
+## 2023-05-23T20:29:45Z
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v14738` [VR Walkabout Mini Golf #10](https://sovietscloset.com/video/14738)
+- Added `v14737` [VR Walkabout Mini Golf #11](https://sovietscloset.com/video/14737)
+- Added `v14740` [VR Walkabout Mini Golf #12](https://sovietscloset.com/video/14740)
+- Added `v14739` [VR Walkabout Mini Golf #13](https://sovietscloset.com/video/14739)
+- Added `v14741` [VR Walkabout Mini Golf #14](https://sovietscloset.com/video/14741)
+- Modified `v14717` [VR Walkabout Mini Golf #15](https://sovietscloset.com/video/14717)
+  - Changed title from `VR Walkabout Mini Golf #10` to `VR Walkabout Mini Golf #15`
+  - Changed number from `10` to `15`
+- Modified `v14713` [VR Walkabout Mini Golf #16](https://sovietscloset.com/video/14713)
+  - Changed title from `VR Walkabout Mini Golf #11` to `VR Walkabout Mini Golf #16`
+  - Changed number from `11` to `16`
+- Modified `v14712` [VR Walkabout Mini Golf #17](https://sovietscloset.com/video/14712)
+  - Changed title from `VR Walkabout Mini Golf #12` to `VR Walkabout Mini Golf #17`
+  - Changed number from `12` to `17`
+- Modified `v14715` [VR Walkabout Mini Golf #18](https://sovietscloset.com/video/14715)
+  - Changed title from `VR Walkabout Mini Golf #13` to `VR Walkabout Mini Golf #18`
+  - Changed number from `13` to `18`
+- Modified `v14714` [VR Walkabout Mini Golf #19](https://sovietscloset.com/video/14714)
+  - Changed title from `VR Walkabout Mini Golf #14` to `VR Walkabout Mini Golf #19`
+  - Changed number from `14` to `19`
+- Modified `v14716` [VR Walkabout Mini Golf #20](https://sovietscloset.com/video/14716)
+  - Changed title from `VR Walkabout Mini Golf #15` to `VR Walkabout Mini Golf #20`
+  - Changed number from `15` to `20`
+  - Is no longer marked as new.
+
 ## 2023-05-16T18:33:49Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
