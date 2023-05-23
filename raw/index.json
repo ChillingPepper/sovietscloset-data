@@ -14881,7 +14881,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9100,
@@ -14943,6 +14943,36 @@
             "useBunny": true
           },
           {
+            "id": 14738,
+            "date": "2022-12-28 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14737,
+            "date": "2023-01-04 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14740,
+            "date": "2023-01-18 10:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14739,
+            "date": "2023-01-25 10:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14741,
+            "date": "2023-02-08 10:37",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14717,
             "date": "2023-02-22 10:24",
             "new": false,
@@ -14975,12 +15005,12 @@
           {
             "id": 14716,
             "date": "2023-05-10 10:33",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
