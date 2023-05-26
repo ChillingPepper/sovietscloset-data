@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-05-26T17:39:00Z
+
+### Modified Game [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+#### Modified Playlist [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+##### Videos
+
+- Added `v14745` [Return of the Obra Dinn #3](https://sovietscloset.com/video/14745)
+- Added `v14742` [Return of the Obra Dinn #4](https://sovietscloset.com/video/14742)
+- Added `v14743` [Return of the Obra Dinn #5](https://sovietscloset.com/video/14743)
+- Added `v14746` [Return of the Obra Dinn #6](https://sovietscloset.com/video/14746)
+- Added `v14744` [Return of the Obra Dinn #7](https://sovietscloset.com/video/14744)
+
 ## 2023-05-23T20:29:45Z
 
 ### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
