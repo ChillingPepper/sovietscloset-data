@@ -31,10 +31,6 @@
         "date": "2018-06-04 11:15"
       },
       {
-        "streamId": 1520,
-        "date": "2018-06-04 20:27"
-      },
-      {
         "streamId": 1524,
         "date": "2018-06-05 20:26"
       },
@@ -144,7 +140,7 @@
       }
     ]
   },
-  "number": 29,
+  "number": 28,
   "bunnyId": "da42a5a7-1b09-4cfc-9ad0-60a3bc89518c",
   "useBunny": true
 }
