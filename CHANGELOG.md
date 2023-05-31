@@ -1,5 +1,171 @@
 # Changelog
 
+## 2023-05-31T19:56:09Z
+
+### Modified Game [Farming Simulator](https://sovietscloset.com/Farming-Simulator)
+
+#### Modified Playlist [Farming Simulator](https://sovietscloset.com/Farming-Simulator)
+
+##### Videos
+
+- Added `v14761` [Farming Simulator #2](https://sovietscloset.com/video/14761)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14766` [Holdfast: Nations at War #150](https://sovietscloset.com/video/14766)
+- Added `v14764` [Holdfast: Nations at War #151](https://sovietscloset.com/video/14764)
+- Added `v14763` [Holdfast: Nations at War #152](https://sovietscloset.com/video/14763)
+- Added `v14765` [Holdfast: Nations at War #153](https://sovietscloset.com/video/14765)
+- Added `v14762` [Holdfast: Nations at War #154](https://sovietscloset.com/video/14762)
+- Added `v14767` [Holdfast: Nations at War #155](https://sovietscloset.com/video/14767)
+
+### Modified Game [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+#### Modified Playlist [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)
+
+##### Videos
+
+- Added `v14747` [Return of the Obra Dinn #3](https://sovietscloset.com/video/14747)
+- Modified `v14745` [Return of the Obra Dinn #4](https://sovietscloset.com/video/14745)
+  - Changed title from `Return of the Obra Dinn #3` to `Return of the Obra Dinn #4`
+  - Changed number from `3` to `4`
+- Modified `v14742` [Return of the Obra Dinn #5](https://sovietscloset.com/video/14742)
+  - Changed title from `Return of the Obra Dinn #4` to `Return of the Obra Dinn #5`
+  - Changed number from `4` to `5`
+- Modified `v14743` [Return of the Obra Dinn #6](https://sovietscloset.com/video/14743)
+  - Changed title from `Return of the Obra Dinn #5` to `Return of the Obra Dinn #6`
+  - Changed number from `5` to `6`
+- Modified `v14746` [Return of the Obra Dinn #7](https://sovietscloset.com/video/14746)
+  - Changed title from `Return of the Obra Dinn #6` to `Return of the Obra Dinn #7`
+  - Changed number from `6` to `7`
+- Modified `v14744` [Return of the Obra Dinn #8](https://sovietscloset.com/video/14744)
+  - Changed title from `Return of the Obra Dinn #7` to `Return of the Obra Dinn #8`
+  - Changed number from `7` to `8`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14768` [Team Fortress 2 #137](https://sovietscloset.com/video/14768)
+- Modified `v14690` [Team Fortress 2 #138](https://sovietscloset.com/video/14690)
+  - Changed title from `Team Fortress 2 #137` to `Team Fortress 2 #138`
+  - Changed number from `137` to `138`
+
+### Modified Game [Total War: Warhammer](https://sovietscloset.com/Total-War-Warhammer)
+
+#### Modified Playlist [Total War: Warhammer - Greenskins](https://sovietscloset.com/Total-War-Warhammer/Greenskins)
+
+##### Videos
+
+- Deleted `v1520` [Total War: Warhammer - Greenskins #6](https://sovietscloset.com/video/1520)
+- Modified `v1524` [Total War: Warhammer - Greenskins #6](https://sovietscloset.com/video/1524)
+  - Changed title from `Total War: Warhammer - Greenskins #7` to `Total War: Warhammer - Greenskins #6`
+  - Changed number from `7` to `6`
+- Modified `v1522` [Total War: Warhammer - Greenskins #7](https://sovietscloset.com/video/1522)
+  - Changed title from `Total War: Warhammer - Greenskins #8` to `Total War: Warhammer - Greenskins #7`
+  - Changed number from `8` to `7`
+- Modified `v1523` [Total War: Warhammer - Greenskins #8](https://sovietscloset.com/video/1523)
+  - Changed title from `Total War: Warhammer - Greenskins #9` to `Total War: Warhammer - Greenskins #8`
+  - Changed number from `9` to `8`
+- Modified `v1521` [Total War: Warhammer - Greenskins #9](https://sovietscloset.com/video/1521)
+  - Changed title from `Total War: Warhammer - Greenskins #10` to `Total War: Warhammer - Greenskins #9`
+  - Changed number from `10` to `9`
+- Modified `v1525` [Total War: Warhammer - Greenskins #10](https://sovietscloset.com/video/1525)
+  - Changed title from `Total War: Warhammer - Greenskins #11` to `Total War: Warhammer - Greenskins #10`
+  - Changed number from `11` to `10`
+- Modified `v1526` [Total War: Warhammer - Greenskins #11](https://sovietscloset.com/video/1526)
+  - Changed title from `Total War: Warhammer - Greenskins #12` to `Total War: Warhammer - Greenskins #11`
+  - Changed number from `12` to `11`
+- Modified `v1527` [Total War: Warhammer - Greenskins #12](https://sovietscloset.com/video/1527)
+  - Changed title from `Total War: Warhammer - Greenskins #13` to `Total War: Warhammer - Greenskins #12`
+  - Changed number from `13` to `12`
+- Modified `v1528` [Total War: Warhammer - Greenskins #13](https://sovietscloset.com/video/1528)
+  - Changed title from `Total War: Warhammer - Greenskins #14` to `Total War: Warhammer - Greenskins #13`
+  - Changed number from `14` to `13`
+- Modified `v1530` [Total War: Warhammer - Greenskins #14](https://sovietscloset.com/video/1530)
+  - Changed title from `Total War: Warhammer - Greenskins #15` to `Total War: Warhammer - Greenskins #14`
+  - Changed number from `15` to `14`
+- Modified `v1529` [Total War: Warhammer - Greenskins #15](https://sovietscloset.com/video/1529)
+  - Changed title from `Total War: Warhammer - Greenskins #16` to `Total War: Warhammer - Greenskins #15`
+  - Changed number from `16` to `15`
+- Modified `v1549` [Total War: Warhammer - Greenskins #16](https://sovietscloset.com/video/1549)
+  - Changed title from `Total War: Warhammer - Greenskins #17` to `Total War: Warhammer - Greenskins #16`
+  - Changed number from `17` to `16`
+- Modified `v1546` [Total War: Warhammer - Greenskins #17](https://sovietscloset.com/video/1546)
+  - Changed title from `Total War: Warhammer - Greenskins #18` to `Total War: Warhammer - Greenskins #17`
+  - Changed number from `18` to `17`
+- Modified `v1548` [Total War: Warhammer - Greenskins #18](https://sovietscloset.com/video/1548)
+  - Changed title from `Total War: Warhammer - Greenskins #19` to `Total War: Warhammer - Greenskins #18`
+  - Changed number from `19` to `18`
+- Modified `v1545` [Total War: Warhammer - Greenskins #19](https://sovietscloset.com/video/1545)
+  - Changed title from `Total War: Warhammer - Greenskins #20` to `Total War: Warhammer - Greenskins #19`
+  - Changed number from `20` to `19`
+- Modified `v1547` [Total War: Warhammer - Greenskins #20](https://sovietscloset.com/video/1547)
+  - Changed title from `Total War: Warhammer - Greenskins #21` to `Total War: Warhammer - Greenskins #20`
+  - Changed number from `21` to `20`
+- Modified `v1550` [Total War: Warhammer - Greenskins #21](https://sovietscloset.com/video/1550)
+  - Changed title from `Total War: Warhammer - Greenskins #22` to `Total War: Warhammer - Greenskins #21`
+  - Changed number from `22` to `21`
+- Modified `v1551` [Total War: Warhammer - Greenskins #22](https://sovietscloset.com/video/1551)
+  - Changed title from `Total War: Warhammer - Greenskins #23` to `Total War: Warhammer - Greenskins #22`
+  - Changed number from `23` to `22`
+- Modified `v1553` [Total War: Warhammer - Greenskins #23](https://sovietscloset.com/video/1553)
+  - Changed title from `Total War: Warhammer - Greenskins #24` to `Total War: Warhammer - Greenskins #23`
+  - Changed number from `24` to `23`
+- Modified `v1554` [Total War: Warhammer - Greenskins #24](https://sovietscloset.com/video/1554)
+  - Changed title from `Total War: Warhammer - Greenskins #25` to `Total War: Warhammer - Greenskins #24`
+  - Changed number from `25` to `24`
+- Modified `v1552` [Total War: Warhammer - Greenskins #25](https://sovietscloset.com/video/1552)
+  - Changed title from `Total War: Warhammer - Greenskins #26` to `Total War: Warhammer - Greenskins #25`
+  - Changed number from `26` to `25`
+- Modified `v1555` [Total War: Warhammer - Greenskins #26](https://sovietscloset.com/video/1555)
+  - Changed title from `Total War: Warhammer - Greenskins #27` to `Total War: Warhammer - Greenskins #26`
+  - Changed number from `27` to `26`
+- Modified `v1556` [Total War: Warhammer - Greenskins #27](https://sovietscloset.com/video/1556)
+  - Changed title from `Total War: Warhammer - Greenskins #28` to `Total War: Warhammer - Greenskins #27`
+  - Changed number from `28` to `27`
+- Modified `v1544` [Total War: Warhammer - Greenskins #28](https://sovietscloset.com/video/1544)
+  - Changed title from `Total War: Warhammer - Greenskins #29` to `Total War: Warhammer - Greenskins #28`
+  - Changed number from `29` to `28`
+- Modified `v1540` [Total War: Warhammer - Greenskins #29](https://sovietscloset.com/video/1540)
+  - Changed title from `Total War: Warhammer - Greenskins #30` to `Total War: Warhammer - Greenskins #29`
+  - Changed number from `30` to `29`
+- Modified `v1543` [Total War: Warhammer - Greenskins #30](https://sovietscloset.com/video/1543)
+  - Changed title from `Total War: Warhammer - Greenskins #31` to `Total War: Warhammer - Greenskins #30`
+  - Changed number from `31` to `30`
+- Modified `v1542` [Total War: Warhammer - Greenskins #31](https://sovietscloset.com/video/1542)
+  - Changed title from `Total War: Warhammer - Greenskins #32` to `Total War: Warhammer - Greenskins #31`
+  - Changed number from `32` to `31`
+- Modified `v1541` [Total War: Warhammer - Greenskins #32](https://sovietscloset.com/video/1541)
+  - Changed title from `Total War: Warhammer - Greenskins #33` to `Total War: Warhammer - Greenskins #32`
+  - Changed number from `33` to `32`
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v14750` [Valheim - The Village of Knobheim #26](https://sovietscloset.com/video/14750)
+- Added `v14749` [Valheim - The Village of Knobheim #27](https://sovietscloset.com/video/14749)
+- Added `v14748` [Valheim - The Village of Knobheim #28](https://sovietscloset.com/video/14748)
+- Added `v14751` [Valheim - The Village of Knobheim #29](https://sovietscloset.com/video/14751)
+- Added `v14753` [Valheim - The Village of Knobheim #30](https://sovietscloset.com/video/14753)
+- Added `v14752` [Valheim - The Village of Knobheim #31](https://sovietscloset.com/video/14752)
+- Added `v14756` [Valheim - The Village of Knobheim #32](https://sovietscloset.com/video/14756)
+- Added `v14754` [Valheim - The Village of Knobheim #33](https://sovietscloset.com/video/14754)
+- Added `v14755` [Valheim - The Village of Knobheim #34](https://sovietscloset.com/video/14755)
+- Added `v14757` [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14757)
+- Added `v14758` [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14758)
+- Added `v14759` [Valheim - The Village of Knobheim #37](https://sovietscloset.com/video/14759)
+- Added `v14760` [Valheim - The Village of Knobheim #38](https://sovietscloset.com/video/14760)
+
 ## 2023-05-26T17:39:00Z
 
 ### Modified Game [Return of the Obra Dinn](https://sovietscloset.com/Return-of-the-Obra-Dinn)

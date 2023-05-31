@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-05-26T17:39:00Z.
+Last updated at 2023-05-31T19:56:09Z.
 
 ## Wrong Tags
 
@@ -38,7 +38,6 @@ This list includes all videos that used to be available on Vimeo but are not ava
 - [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
 - [Rimworld - Tundrafall #33](https://sovietscloset.com/video/1060)
 - [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
-- [Total War: Warhammer - Greenskins #6](https://sovietscloset.com/video/1520)
 
 ### Missing from Playlist
 
@@ -195,6 +194,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Valheim - The Village of Knobheim #18
   - Valheim - The Village of Knobheim #19
   - Valheim - The Village of Knobheim #24
+  - Valheim - The Village of Knobheim #35
 - [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
   - VR Blade & Sorcery #10
   - VR Blade & Sorcery #24
@@ -565,6 +565,9 @@ This list includes all videos that have the same date.
 - Date: 2023-03-05 20:02
   - [Team Fortress 2 #134](https://sovietscloset.com/video/14665) (id: 14665)
   - [Team Fortress 2 #134](https://sovietscloset.com/video/14688) (id: 14688)
+- Date: 2023-03-08 20:09
+  - [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14757) (id: 14757)
+  - [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14758) (id: 14758)
 - Date: 2023-03-12 19:59
   - [Team Fortress 2 #136](https://sovietscloset.com/video/14667) (id: 14667)
   - [Team Fortress 2 #136](https://sovietscloset.com/video/14689) (id: 14689)
@@ -725,6 +728,9 @@ This list includes all videos that have the same number.
   - [Factorio #35](https://sovietscloset.com/video/8999) (id: 8999)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6773) (id: 6773)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6974) (id: 6974)
+- Number: 36
+  - [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14757) (id: 14757)
+  - [Valheim - The Village of Knobheim #36](https://sovietscloset.com/video/14758) (id: 14758)
 - Number: 37
   - [7 Days to Die #37](https://sovietscloset.com/video/1004) (id: 1004)
   - [7 Days to Die #37](https://sovietscloset.com/video/6852) (id: 6852)
