@@ -1,5 +1,66 @@
 # Changelog
 
+## 2023-06-07T19:40:02Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14780` [Holdfast: Nations at War #152](https://sovietscloset.com/video/14780)
+- Modified `v14763` [Holdfast: Nations at War #153](https://sovietscloset.com/video/14763)
+  - Changed title from `Holdfast: Nations at War #152` to `Holdfast: Nations at War #153`
+  - Changed number from `152` to `153`
+- Modified `v14765` [Holdfast: Nations at War #154](https://sovietscloset.com/video/14765)
+  - Changed title from `Holdfast: Nations at War #153` to `Holdfast: Nations at War #154`
+  - Changed number from `153` to `154`
+- Modified `v14762` [Holdfast: Nations at War #155](https://sovietscloset.com/video/14762)
+  - Changed title from `Holdfast: Nations at War #154` to `Holdfast: Nations at War #155`
+  - Changed number from `154` to `155`
+- Modified `v14767` [Holdfast: Nations at War #156](https://sovietscloset.com/video/14767)
+  - Changed title from `Holdfast: Nations at War #155` to `Holdfast: Nations at War #156`
+  - Changed number from `155` to `156`
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14783` [Kerbal Space Program #88](https://sovietscloset.com/video/14783)
+- Added `v14784` [Kerbal Space Program #89](https://sovietscloset.com/video/14784)
+- Added `v14782` [Kerbal Space Program #90](https://sovietscloset.com/video/14782)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14771` [Rimworld - The Pale Ones #66](https://sovietscloset.com/video/14771)
+- Added `v14773` [Rimworld - The Pale Ones #67](https://sovietscloset.com/video/14773)
+- Added `v14772` [Rimworld - The Pale Ones #68](https://sovietscloset.com/video/14772)
+- Added `v14770` [Rimworld - The Pale Ones #69](https://sovietscloset.com/video/14770)
+- Added `v14769` [Rimworld - The Pale Ones #70](https://sovietscloset.com/video/14769)
+- Added `v14776` [Rimworld - The Pale Ones #71](https://sovietscloset.com/video/14776)
+- Added `v14775` [Rimworld - The Pale Ones #72](https://sovietscloset.com/video/14775)
+- Added `v14774` [Rimworld - The Pale Ones #73](https://sovietscloset.com/video/14774)
+- Added `v14777` [Rimworld - The Pale Ones #74](https://sovietscloset.com/video/14777)
+- Added `v14779` [Rimworld - The Pale Ones #75](https://sovietscloset.com/video/14779)
+- Added `v14778` [Rimworld - The Pale Ones #76](https://sovietscloset.com/video/14778)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14781` [Team Fortress 2 #138](https://sovietscloset.com/video/14781)
+- Modified `v14690` [Team Fortress 2 #139](https://sovietscloset.com/video/14690)
+  - Changed title from `Team Fortress 2 #138` to `Team Fortress 2 #139`
+  - Changed number from `138` to `139`
+
 ## 2023-05-31T19:56:09Z
 
 ### Modified Game [Farming Simulator](https://sovietscloset.com/Farming-Simulator)
