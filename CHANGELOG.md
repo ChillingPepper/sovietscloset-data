@@ -1,5 +1,32 @@
 # Changelog
 
+## 2023-06-16T19:27:16Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14788` [Kerbal Space Program #91](https://sovietscloset.com/video/14788)
+- Added `v14786` [Kerbal Space Program #92](https://sovietscloset.com/video/14786)
+- Added `v14789` [Kerbal Space Program #93](https://sovietscloset.com/video/14789)
+- Added `v14787` [Kerbal Space Program #94](https://sovietscloset.com/video/14787)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14785` [Team Fortress 2 #138](https://sovietscloset.com/video/14785)
+- Modified `v14781` [Team Fortress 2 #139](https://sovietscloset.com/video/14781)
+  - Changed title from `Team Fortress 2 #138` to `Team Fortress 2 #139`
+  - Changed number from `138` to `139`
+- Modified `v14690` [Team Fortress 2 #140](https://sovietscloset.com/video/14690)
+  - Changed title from `Team Fortress 2 #139` to `Team Fortress 2 #140`
+  - Changed number from `139` to `140`
+
 ## 2023-06-07T19:40:02Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
