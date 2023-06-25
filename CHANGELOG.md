@@ -1,5 +1,35 @@
 # Changelog
 
+## 2023-06-25T14:31:09Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v14794` [Arma 3 - Zeus Games #36](https://sovietscloset.com/video/14794)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14799` [Team Fortress 2 #141](https://sovietscloset.com/video/14799)
+- Added `v14798` [Team Fortress 2 #142](https://sovietscloset.com/video/14798)
+- Added `v14800` [Team Fortress 2 #143](https://sovietscloset.com/video/14800)
+- Added `v14797` [Team Fortress 2 #144](https://sovietscloset.com/video/14797)
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Added `v14795` [VR Blade & Sorcery #56](https://sovietscloset.com/video/14795)
+- Added `v14796` [VR Blade & Sorcery #57](https://sovietscloset.com/video/14796)
+
 ## 2023-06-22T20:38:51Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

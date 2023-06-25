@@ -1,5 +1,5 @@
 {
-  "timestamp": 1687466331,
+  "timestamp": 1687703469,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1050,6 +1050,15 @@
               "date": "2022-12-17 19:12",
               "number": 35,
               "bunnyId": "137f1a3d-dc2b-429a-a35c-16e785639e6d",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #36",
+              "url": "https://sovietscloset.com/video/14794",
+              "id": 14794,
+              "date": "2023-04-01 20:11",
+              "number": 36,
+              "bunnyId": "7b7d315e-523f-4639-8045-99a2e6dbbbd5",
               "new": false
             }
           ]
@@ -18505,6 +18514,42 @@
               "number": 140,
               "bunnyId": "5c45cf93-4b84-419d-986a-63e0d5678590",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #141",
+              "url": "https://sovietscloset.com/video/14799",
+              "id": 14799,
+              "date": "2023-04-23 19:57",
+              "number": 141,
+              "bunnyId": "06e4791d-3e3f-42eb-8626-d4229ad1bf11",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #142",
+              "url": "https://sovietscloset.com/video/14798",
+              "id": 14798,
+              "date": "2023-04-30 19:58",
+              "number": 142,
+              "bunnyId": "5763949e-75a6-497b-84ca-69fd032e0dcd",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #143",
+              "url": "https://sovietscloset.com/video/14800",
+              "id": 14800,
+              "date": "2023-05-07 19:53",
+              "number": 143,
+              "bunnyId": "a265473b-12f0-4119-b084-c5087cf83736",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #144",
+              "url": "https://sovietscloset.com/video/14797",
+              "id": 14797,
+              "date": "2023-05-14 19:55",
+              "number": 144,
+              "bunnyId": "7f106ec6-3418-48ed-8135-6e05b88dcc25",
+              "new": false
             }
           ]
         }
@@ -21404,6 +21449,24 @@
               "date": "2022-09-30 11:26",
               "number": 55,
               "bunnyId": "804e3544-1723-4d43-8a79-c2f41be91efb",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #56",
+              "url": "https://sovietscloset.com/video/14795",
+              "id": 14795,
+              "date": "2023-04-05 20:33",
+              "number": 56,
+              "bunnyId": "234c9249-b2b9-4473-bbf4-5cdd4746d1f0",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #57",
+              "url": "https://sovietscloset.com/video/14796",
+              "id": 14796,
+              "date": "2023-04-06 11:12",
+              "number": 57,
+              "bunnyId": "e23d5509-dd1e-42b5-a67d-6cfda54ddf42",
               "new": false
             }
           ]
