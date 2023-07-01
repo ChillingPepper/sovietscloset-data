@@ -1,5 +1,65 @@
 # Changelog
 
+## 2023-07-01T16:37:25Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14803` [Holdfast: Nations at War #157](https://sovietscloset.com/video/14803)
+- Added `v14805` [Holdfast: Nations at War #158](https://sovietscloset.com/video/14805)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14801` [Kerbal Space Program #91](https://sovietscloset.com/video/14801)
+- Modified `v14788` [Kerbal Space Program #92](https://sovietscloset.com/video/14788)
+  - Changed title from `Kerbal Space Program #91` to `Kerbal Space Program #92`
+  - Changed number from `91` to `92`
+- Modified `v14786` [Kerbal Space Program #93](https://sovietscloset.com/video/14786)
+  - Changed title from `Kerbal Space Program #92` to `Kerbal Space Program #93`
+  - Changed number from `92` to `93`
+- Modified `v14789` [Kerbal Space Program #94](https://sovietscloset.com/video/14789)
+  - Changed title from `Kerbal Space Program #93` to `Kerbal Space Program #94`
+  - Changed number from `93` to `94`
+- Modified `v14787` [Kerbal Space Program #95](https://sovietscloset.com/video/14787)
+  - Changed title from `Kerbal Space Program #94` to `Kerbal Space Program #95`
+  - Changed number from `94` to `95`
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v14802` [Rising Storm 2: Vietnam #101](https://sovietscloset.com/video/14802)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14804` [Team Fortress 2 #141](https://sovietscloset.com/video/14804)
+- Modified `v14799` [Team Fortress 2 #142](https://sovietscloset.com/video/14799)
+  - Changed title from `Team Fortress 2 #141` to `Team Fortress 2 #142`
+  - Changed number from `141` to `142`
+- Modified `v14798` [Team Fortress 2 #143](https://sovietscloset.com/video/14798)
+  - Changed title from `Team Fortress 2 #142` to `Team Fortress 2 #143`
+  - Changed number from `142` to `143`
+- Modified `v14800` [Team Fortress 2 #144](https://sovietscloset.com/video/14800)
+  - Changed title from `Team Fortress 2 #143` to `Team Fortress 2 #144`
+  - Changed number from `143` to `144`
+- Modified `v14797` [Team Fortress 2 #145](https://sovietscloset.com/video/14797)
+  - Changed title from `Team Fortress 2 #144` to `Team Fortress 2 #145`
+  - Changed number from `144` to `145`
+- Added `v14806` [Team Fortress 2 #146](https://sovietscloset.com/video/14806)
+
 ## 2023-06-25T14:31:09Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
