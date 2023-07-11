@@ -1,0 +1,42 @@
+{
+  "streamId": 14807,
+  "date": "2023-05-23 10:58",
+  "game": {
+    "name": "Outer Wilds",
+    "slug": "Outer-Wilds"
+  },
+  "subcategory": {
+    "name": "Echoes of the Eye",
+    "slug": "Echoes-of-the-Eye",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14809,
+        "date": "2023-05-20 20:52"
+      },
+      {
+        "streamId": 14808,
+        "date": "2023-05-22 11:19"
+      },
+      {
+        "streamId": 14811,
+        "date": "2023-05-22 20:38"
+      },
+      {
+        "streamId": 14807,
+        "date": "2023-05-23 10:58"
+      },
+      {
+        "streamId": 14810,
+        "date": "2023-05-23 20:08"
+      },
+      {
+        "streamId": 14812,
+        "date": "2023-05-24 20:27"
+      }
+    ]
+  },
+  "number": 4,
+  "bunnyId": "4320f6f2-6a6d-4704-874f-1009f445a511",
+  "useBunny": true
+}

@@ -5326,6 +5326,12 @@
             "date": "2023-01-13 11:25",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14821,
+            "date": "2023-05-16 20:00",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6548,6 +6554,51 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9106,
+        "name": "Echoes of the Eye",
+        "slug": "Echoes-of-the-Eye",
+        "streams": [
+          {
+            "id": 14809,
+            "date": "2023-05-20 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14808,
+            "date": "2023-05-22 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14811,
+            "date": "2023-05-22 20:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14807,
+            "date": "2023-05-23 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14810,
+            "date": "2023-05-23 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14812,
+            "date": "2023-05-24 20:27",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6842,6 +6893,72 @@
           {
             "id": 7994,
             "date": "2021-09-23 19:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9086,
+    "name": "Prey",
+    "slug": "Prey",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9107,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14813,
+            "date": "2023-05-29 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14816,
+            "date": "2023-05-29 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14814,
+            "date": "2023-05-30 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14817,
+            "date": "2023-05-30 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14815,
+            "date": "2023-05-31 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14819,
+            "date": "2023-05-31 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14820,
+            "date": "2023-06-01 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14818,
+            "date": "2023-06-02 11:11",
             "new": false,
             "useBunny": true
           }

@@ -1,0 +1,50 @@
+{
+  "streamId": 14814,
+  "date": "2023-05-30 11:17",
+  "game": {
+    "name": "Prey",
+    "slug": "Prey"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14813,
+        "date": "2023-05-29 11:13"
+      },
+      {
+        "streamId": 14816,
+        "date": "2023-05-29 20:21"
+      },
+      {
+        "streamId": 14814,
+        "date": "2023-05-30 11:17"
+      },
+      {
+        "streamId": 14817,
+        "date": "2023-05-30 20:05"
+      },
+      {
+        "streamId": 14815,
+        "date": "2023-05-31 11:07"
+      },
+      {
+        "streamId": 14819,
+        "date": "2023-05-31 20:11"
+      },
+      {
+        "streamId": 14820,
+        "date": "2023-06-01 11:23"
+      },
+      {
+        "streamId": 14818,
+        "date": "2023-06-02 11:11"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "984821a5-da21-4fe1-b8fa-a0db17fdd517",
+  "useBunny": true
+}
