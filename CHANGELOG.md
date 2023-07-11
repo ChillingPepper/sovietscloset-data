@@ -1,5 +1,43 @@
 # Changelog
 
+## 2023-07-11T14:09:41Z
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14821` [Just Chatting #16](https://sovietscloset.com/video/14821)
+
+### Modified Game [Outer Wilds](https://sovietscloset.com/Outer-Wilds)
+
+#### Added Playlist [Outer Wilds - Echoes of the Eye](https://sovietscloset.com/Outer-Wilds/Echoes-of-the-Eye)
+
+##### Videos
+
+- Added `v14809` [Outer Wilds - Echoes of the Eye #1](https://sovietscloset.com/video/14809)
+- Added `v14808` [Outer Wilds - Echoes of the Eye #2](https://sovietscloset.com/video/14808)
+- Added `v14811` [Outer Wilds - Echoes of the Eye #3](https://sovietscloset.com/video/14811)
+- Added `v14807` [Outer Wilds - Echoes of the Eye #4](https://sovietscloset.com/video/14807)
+- Added `v14810` [Outer Wilds - Echoes of the Eye #5](https://sovietscloset.com/video/14810)
+- Added `v14812` [Outer Wilds - Echoes of the Eye #6](https://sovietscloset.com/video/14812)
+
+### Added Game [Prey](https://sovietscloset.com/Prey)
+
+#### Added Playlist [Prey](https://sovietscloset.com/Prey)
+
+##### Videos
+
+- Added `v14813` [Prey #1](https://sovietscloset.com/video/14813)
+- Added `v14816` [Prey #2](https://sovietscloset.com/video/14816)
+- Added `v14814` [Prey #3](https://sovietscloset.com/video/14814)
+- Added `v14817` [Prey #4](https://sovietscloset.com/video/14817)
+- Added `v14815` [Prey #5](https://sovietscloset.com/video/14815)
+- Added `v14819` [Prey #6](https://sovietscloset.com/video/14819)
+- Added `v14820` [Prey #7](https://sovietscloset.com/video/14820)
+- Added `v14818` [Prey #8](https://sovietscloset.com/video/14818)
+
 ## 2023-07-01T16:37:25Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
