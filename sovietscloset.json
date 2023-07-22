@@ -1,5 +1,5 @@
 {
-  "timestamp": 1689084581,
+  "timestamp": 1690053264,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1597,11 +1597,11 @@
             },
             {
               "title": "Arma 3 - Prairie Fire Mike Force - Khe Sahn #31",
-              "url": "https://sovietscloset.com/video/14792",
-              "id": 14792,
+              "url": "https://sovietscloset.com/video/14827",
+              "id": 14827,
               "date": "2023-03-17 19:31",
               "number": 31,
-              "bunnyId": "b64ed50e-a0b5-4f80-a5e8-c592a4c960a3",
+              "bunnyId": "107175db-bf2d-4fc1-b570-6910e9d956c3",
               "new": false
             }
           ]
@@ -1706,6 +1706,35 @@
               "number": 2,
               "bunnyId": "53ae5458-63bf-4585-aa71-b5e0918c22b8",
               "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Battlebits",
+      "url": "https://sovietscloset.com/Battlebits",
+      "name": "Battlebits",
+      "slug": "Battlebits",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Battlebits",
+          "url": "https://sovietscloset.com/Battlebits",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Battlebits #1",
+              "url": "https://sovietscloset.com/video/14824",
+              "id": 14824,
+              "date": "2023-07-17 20:16",
+              "number": 1,
+              "bunnyId": "42ee7e40-7f97-455b-8347-104322d9e4fe",
+              "new": true
             }
           ]
         }
@@ -10076,7 +10105,7 @@
       "name": "Prison Architect",
       "slug": "Prison-Architect",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Prison Architect",
@@ -10084,7 +10113,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Prison Architect #1",
@@ -10328,6 +10357,24 @@
               "number": 31,
               "bunnyId": "d081f7d6-7b64-4d45-9a69-0734b3f25e2b",
               "new": false
+            },
+            {
+              "title": "Prison Architect #32",
+              "url": "https://sovietscloset.com/video/14823",
+              "id": 14823,
+              "date": "2023-07-17 11:41",
+              "number": 32,
+              "bunnyId": "8bf42c7d-d5cc-4dcf-8102-4f44a382f658",
+              "new": true
+            },
+            {
+              "title": "Prison Architect #33",
+              "url": "https://sovietscloset.com/video/14822",
+              "id": 14822,
+              "date": "2023-07-18 11:13",
+              "number": 33,
+              "bunnyId": "57aef54f-dd71-4543-98da-c4f105ac3b8e",
+              "new": true
             }
           ]
         }
@@ -13388,876 +13435,894 @@
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #2",
+              "title": "Rising Storm 2: Vietnam #3",
               "url": "https://sovietscloset.com/video/4689",
               "id": 4689,
               "date": "2020-05-29 11:12",
-              "number": 2,
+              "number": 3,
               "bunnyId": "c5f4f646-6e1b-4b38-bae1-9e3ff07f1031",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #3",
-              "url": "https://sovietscloset.com/video/1031",
-              "id": 1031,
-              "date": "2020-09-11 20:09",
+              "url": "https://sovietscloset.com/video/14838",
+              "id": 14838,
+              "date": "2020-05-29 11:12",
               "number": 3,
-              "bunnyId": "c523e610-5d08-4c77-b42b-1c679fe7b705",
+              "bunnyId": "ccb8b4f8-b51a-43fe-ba04-24b6acd6ac7d",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #4",
-              "url": "https://sovietscloset.com/video/1153",
-              "id": 1153,
-              "date": "2020-09-14 20:22",
+              "url": "https://sovietscloset.com/video/1031",
+              "id": 1031,
+              "date": "2020-09-11 20:09",
               "number": 4,
-              "bunnyId": "1df399d8-d1b7-45e6-9f87-ec375c055681",
+              "bunnyId": "c523e610-5d08-4c77-b42b-1c679fe7b705",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #5",
-              "url": "https://sovietscloset.com/video/1079",
-              "id": 1079,
-              "date": "2020-09-16 20:10",
+              "url": "https://sovietscloset.com/video/1153",
+              "id": 1153,
+              "date": "2020-09-14 20:22",
               "number": 5,
-              "bunnyId": "bb1e6bf9-302c-4e09-a875-e37e53e33637",
+              "bunnyId": "1df399d8-d1b7-45e6-9f87-ec375c055681",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #6",
-              "url": "https://sovietscloset.com/video/1094",
-              "id": 1094,
-              "date": "2020-09-18 20:09",
+              "url": "https://sovietscloset.com/video/1079",
+              "id": 1079,
+              "date": "2020-09-16 20:10",
               "number": 6,
-              "bunnyId": "956d29e0-4ff9-4b7d-ac5b-837d8fda9b73",
+              "bunnyId": "bb1e6bf9-302c-4e09-a875-e37e53e33637",
               "new": false
             },
             {
               "title": "Rising Storm 2: Vietnam #7",
+              "url": "https://sovietscloset.com/video/1094",
+              "id": 1094,
+              "date": "2020-09-18 20:09",
+              "number": 7,
+              "bunnyId": "956d29e0-4ff9-4b7d-ac5b-837d8fda9b73",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #8",
               "url": "https://sovietscloset.com/video/1492",
               "id": 1492,
               "date": "2020-11-06 20:17",
-              "number": 7,
+              "number": 8,
               "bunnyId": "252e9a7a-6d85-4a75-90b4-83446ea3673e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #10",
+              "title": "Rising Storm 2: Vietnam #11",
               "url": "https://sovietscloset.com/video/1602",
               "id": 1602,
               "date": "2020-11-20 20:01",
-              "number": 10,
+              "number": 11,
               "bunnyId": "1475dd23-b131-4e49-948c-5cc11ac34a51",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #10",
+              "title": "Rising Storm 2: Vietnam #11",
               "url": "https://sovietscloset.com/video/1694",
               "id": 1694,
               "date": "2020-11-20 20:01",
-              "number": 10,
+              "number": 11,
               "bunnyId": "639d3f6d-3ff8-4065-a52b-81373aec4ee5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #10",
+              "title": "Rising Storm 2: Vietnam #11",
               "url": "https://sovietscloset.com/video/4688",
               "id": 4688,
               "date": "2020-11-20 20:01",
-              "number": 10,
+              "number": 11,
               "bunnyId": "971ba073-aaf0-40ba-b882-2bb4eaff05dc",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #12",
+              "title": "Rising Storm 2: Vietnam #13",
               "url": "https://sovietscloset.com/video/4684",
               "id": 4684,
               "date": "2020-11-25 11:10",
-              "number": 12,
+              "number": 13,
               "bunnyId": "1d70f222-8625-4a3d-a769-c8e28ecfc04e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #13",
+              "title": "Rising Storm 2: Vietnam #14",
               "url": "https://sovietscloset.com/video/1693",
               "id": 1693,
               "date": "2020-12-11 19:56",
-              "number": 13,
+              "number": 14,
               "bunnyId": "48d63260-fe32-46ad-bc5a-4643a1e63e4c",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #14",
+              "title": "Rising Storm 2: Vietnam #15",
               "url": "https://sovietscloset.com/video/1724",
               "id": 1724,
               "date": "2020-12-16 19:57",
-              "number": 14,
+              "number": 15,
               "bunnyId": "d33bf313-5500-4a25-9544-01eddaeaa533",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #16",
+              "title": "Rising Storm 2: Vietnam #17",
               "url": "https://sovietscloset.com/video/4686",
               "id": 4686,
               "date": "2020-12-18 20:02",
-              "number": 16,
+              "number": 17,
               "bunnyId": "3d2d17df-45a2-498c-a1f0-87e998f01de4",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #16",
+              "title": "Rising Storm 2: Vietnam #17",
               "url": "https://sovietscloset.com/video/13085",
               "id": 13085,
               "date": "2020-12-18 20:02",
-              "number": 16,
+              "number": 17,
               "bunnyId": "29207675-eb5f-4c74-a9da-1c1d012dd484",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #17",
+              "title": "Rising Storm 2: Vietnam #18",
               "url": "https://sovietscloset.com/video/1775",
               "id": 1775,
               "date": "2021-01-01 20:20",
-              "number": 17,
+              "number": 18,
               "bunnyId": "3ea77e9b-593f-4a4f-8574-c06132b9cdf8",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #18",
+              "title": "Rising Storm 2: Vietnam #19",
               "url": "https://sovietscloset.com/video/1790",
               "id": 1790,
               "date": "2021-01-05 11:12",
-              "number": 18,
+              "number": 19,
               "bunnyId": "395b7a39-19d9-4434-b8d3-2a7710890e19",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #19",
+              "title": "Rising Storm 2: Vietnam #20",
               "url": "https://sovietscloset.com/video/1789",
               "id": 1789,
               "date": "2021-01-06 20:07",
-              "number": 19,
+              "number": 20,
               "bunnyId": "12b8ede4-a60d-42a6-a994-0e7bb320e459",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #20",
+              "title": "Rising Storm 2: Vietnam #21",
               "url": "https://sovietscloset.com/video/1779",
               "id": 1779,
               "date": "2021-01-08 20:03",
-              "number": 20,
+              "number": 21,
               "bunnyId": "7c7641ff-1728-4676-9a6c-47396072e9b3",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #21",
+              "title": "Rising Storm 2: Vietnam #22",
               "url": "https://sovietscloset.com/video/3730",
               "id": 3730,
               "date": "2021-01-29 20:11",
-              "number": 21,
+              "number": 22,
               "bunnyId": "6ecffeab-0ddf-47f5-962b-55f77ffe4027",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #23",
+              "title": "Rising Storm 2: Vietnam #24",
               "url": "https://sovietscloset.com/video/3711",
               "id": 3711,
               "date": "2021-02-05 20:07",
-              "number": 23,
+              "number": 24,
               "bunnyId": "af56f3a2-2a2f-4cd4-97c8-868075d48b7d",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #23",
+              "title": "Rising Storm 2: Vietnam #24",
               "url": "https://sovietscloset.com/video/10127",
               "id": 10127,
               "date": "2021-02-05 20:07",
-              "number": 23,
+              "number": 24,
               "bunnyId": "6e7835bf-a92d-4e91-bb22-e6385e4aebd1",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #25",
+              "title": "Rising Storm 2: Vietnam #26",
               "url": "https://sovietscloset.com/video/3691",
               "id": 3691,
               "date": "2021-02-09 20:04",
-              "number": 25,
+              "number": 26,
               "bunnyId": "8cbb06d7-586c-4d44-88b7-ebb0c15792df",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #25",
+              "title": "Rising Storm 2: Vietnam #26",
               "url": "https://sovietscloset.com/video/3696",
               "id": 3696,
               "date": "2021-02-09 20:04",
-              "number": 25,
+              "number": 26,
               "bunnyId": "804f1c72-3565-4b3a-8f2d-51b9e2ff986e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #26",
+              "title": "Rising Storm 2: Vietnam #27",
               "url": "https://sovietscloset.com/video/3695",
               "id": 3695,
               "date": "2021-02-12 20:08",
-              "number": 26,
+              "number": 27,
               "bunnyId": "f74a2409-5831-46f3-8d6c-43b068b6270e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #28",
+              "title": "Rising Storm 2: Vietnam #29",
               "url": "https://sovietscloset.com/video/3757",
               "id": 3757,
               "date": "2021-03-09 20:22",
-              "number": 28,
+              "number": 29,
               "bunnyId": "eb88caeb-90bb-4cd6-bf34-26e7fabc27ff",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #30",
+              "title": "Rising Storm 2: Vietnam #31",
               "url": "https://sovietscloset.com/video/3764",
               "id": 3764,
               "date": "2021-03-15 11:11",
-              "number": 30,
+              "number": 31,
               "bunnyId": "1aed6c07-fb9c-4efb-9613-40283f2009a5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #30",
+              "title": "Rising Storm 2: Vietnam #31",
               "url": "https://sovietscloset.com/video/10124",
               "id": 10124,
               "date": "2021-03-15 11:11",
-              "number": 30,
+              "number": 31,
               "bunnyId": "ddac6f15-4812-47fb-aee3-7641d8b3713e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #32",
+              "title": "Rising Storm 2: Vietnam #33",
               "url": "https://sovietscloset.com/video/3768",
               "id": 3768,
               "date": "2021-03-15 20:17",
-              "number": 32,
+              "number": 33,
               "bunnyId": "ef01203a-836b-4f7c-9bd6-cfff9944136c",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #32",
+              "title": "Rising Storm 2: Vietnam #33",
               "url": "https://sovietscloset.com/video/10126",
               "id": 10126,
               "date": "2021-03-15 20:17",
-              "number": 32,
+              "number": 33,
               "bunnyId": "d7972b67-c684-4ebe-9f73-f6aac1cba5e5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #34",
+              "title": "Rising Storm 2: Vietnam #35",
               "url": "https://sovietscloset.com/video/3767",
               "id": 3767,
               "date": "2021-03-16 11:16",
-              "number": 34,
+              "number": 35,
               "bunnyId": "0704d934-1a4b-4178-ba8a-445c4c53b858",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #34",
+              "title": "Rising Storm 2: Vietnam #35",
               "url": "https://sovietscloset.com/video/10171",
               "id": 10171,
               "date": "2021-03-16 11:16",
-              "number": 34,
+              "number": 35,
               "bunnyId": "641d7d48-255e-464d-bdda-29680db1f78d",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #35",
+              "title": "Rising Storm 2: Vietnam #36",
               "url": "https://sovietscloset.com/video/10130",
               "id": 10130,
               "date": "2021-03-16 20:00",
-              "number": 35,
+              "number": 36,
               "bunnyId": "f90e97b7-039b-44a5-b099-81186259f0b5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #36",
+              "title": "Rising Storm 2: Vietnam #37",
               "url": "https://sovietscloset.com/video/4685",
               "id": 4685,
               "date": "2021-03-17 20:05",
-              "number": 36,
+              "number": 37,
               "bunnyId": "051a103f-4a9c-4d9c-acd0-db7c84496868",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #38",
+              "title": "Rising Storm 2: Vietnam #39",
               "url": "https://sovietscloset.com/video/3783",
               "id": 3783,
               "date": "2021-03-30 20:32",
-              "number": 38,
+              "number": 39,
               "bunnyId": "e7cbea07-fda8-4d31-8d61-c89ef50bc23a",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #38",
+              "title": "Rising Storm 2: Vietnam #39",
               "url": "https://sovietscloset.com/video/3785",
               "id": 3785,
               "date": "2021-03-30 20:32",
-              "number": 38,
+              "number": 39,
               "bunnyId": "6e73e37b-4446-4d5f-a5ed-59c8470abd45",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #39",
+              "title": "Rising Storm 2: Vietnam #40",
               "url": "https://sovietscloset.com/video/3787",
               "id": 3787,
               "date": "2021-03-31 20:19",
-              "number": 39,
+              "number": 40,
               "bunnyId": "bfde944e-eb5d-4a0e-9321-60847b22f587",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #40",
+              "title": "Rising Storm 2: Vietnam #41",
               "url": "https://sovietscloset.com/video/4687",
               "id": 4687,
               "date": "2021-04-06 19:57",
-              "number": 40,
+              "number": 41,
               "bunnyId": "25a43467-2b7f-430c-8aae-3d8a3e7955b4",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #41",
+              "title": "Rising Storm 2: Vietnam #42",
               "url": "https://sovietscloset.com/video/4683",
               "id": 4683,
               "date": "2021-04-07 11:05",
-              "number": 41,
+              "number": 42,
               "bunnyId": "76ea7d4b-2236-4493-8a69-2d383868937a",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #42",
+              "title": "Rising Storm 2: Vietnam #43",
               "url": "https://sovietscloset.com/video/10128",
               "id": 10128,
               "date": "2021-04-07 20:02",
-              "number": 42,
+              "number": 43,
               "bunnyId": "71e82a8e-44e2-4dc0-b2d5-6ceb6e3de3b3",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #43",
+              "title": "Rising Storm 2: Vietnam #44",
               "url": "https://sovietscloset.com/video/10125",
               "id": 10125,
               "date": "2021-04-08 11:10",
-              "number": 43,
+              "number": 44,
               "bunnyId": "33060bfd-d942-4437-aac7-2e14cdf2f31d",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #44",
+              "title": "Rising Storm 2: Vietnam #45",
               "url": "https://sovietscloset.com/video/10170",
               "id": 10170,
               "date": "2021-04-26 11:35",
-              "number": 44,
+              "number": 45,
               "bunnyId": "4546ea97-e0e9-4d54-8310-9e88677a0717",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #45",
+              "title": "Rising Storm 2: Vietnam #46",
               "url": "https://sovietscloset.com/video/10174",
               "id": 10174,
               "date": "2021-04-26 20:20",
-              "number": 45,
+              "number": 46,
               "bunnyId": "dfcf1700-829f-448b-86ee-4841c53dcf26",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #46",
+              "title": "Rising Storm 2: Vietnam #47",
               "url": "https://sovietscloset.com/video/10132",
               "id": 10132,
               "date": "2021-04-27 11:10",
-              "number": 46,
+              "number": 47,
               "bunnyId": "0acdc76c-9529-409b-ac19-10a205c935bf",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #47",
+              "title": "Rising Storm 2: Vietnam #48",
               "url": "https://sovietscloset.com/video/9041",
               "id": 9041,
               "date": "2021-04-28 11:00",
-              "number": 47,
+              "number": 48,
               "bunnyId": "3e59056e-43ed-40a2-8fe3-5f237d0ec622",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #48",
+              "title": "Rising Storm 2: Vietnam #49",
               "url": "https://sovietscloset.com/video/10131",
               "id": 10131,
               "date": "2021-04-29 11:05",
-              "number": 48,
+              "number": 49,
               "bunnyId": "261b5737-5b8f-437d-87dd-fd69087e05c0",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #49",
+              "title": "Rising Storm 2: Vietnam #50",
               "url": "https://sovietscloset.com/video/10172",
               "id": 10172,
               "date": "2021-04-30 11:42",
-              "number": 49,
+              "number": 50,
               "bunnyId": "cfb70ca6-357d-454d-b424-ab96c2b586fe",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #50",
+              "title": "Rising Storm 2: Vietnam #51",
               "url": "https://sovietscloset.com/video/9046",
               "id": 9046,
               "date": "2021-04-30 20:18",
-              "number": 50,
+              "number": 51,
               "bunnyId": "3445acb2-585e-4ce1-ae1a-66d20e1e50d2",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #51",
+              "title": "Rising Storm 2: Vietnam #52",
               "url": "https://sovietscloset.com/video/9045",
               "id": 9045,
               "date": "2021-05-03 11:06",
-              "number": 51,
+              "number": 52,
               "bunnyId": "41a8ad58-6c97-4503-80b3-8caaf1715b17",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #52",
+              "title": "Rising Storm 2: Vietnam #53",
               "url": "https://sovietscloset.com/video/9106",
               "id": 9106,
               "date": "2021-05-21 20:00",
-              "number": 52,
+              "number": 53,
               "bunnyId": "15653a9a-6deb-4f2e-bc65-33b7499ebca5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #53",
+              "title": "Rising Storm 2: Vietnam #54",
               "url": "https://sovietscloset.com/video/10192",
               "id": 10192,
               "date": "2021-05-24 20:27",
-              "number": 53,
+              "number": 54,
               "bunnyId": "73846e2a-8507-4570-a7fe-55663fa3843a",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #54",
+              "title": "Rising Storm 2: Vietnam #55",
               "url": "https://sovietscloset.com/video/10173",
               "id": 10173,
               "date": "2021-05-26 11:23",
-              "number": 54,
+              "number": 55,
               "bunnyId": "916082d1-55cf-4c58-b571-f56f3098ed49",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #55",
+              "title": "Rising Storm 2: Vietnam #56",
               "url": "https://sovietscloset.com/video/10083",
               "id": 10083,
               "date": "2021-05-31 20:46",
-              "number": 55,
+              "number": 56,
               "bunnyId": "c2e8e007-06ca-4892-8acd-db3ad3a34096",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #56",
+              "title": "Rising Storm 2: Vietnam #57",
               "url": "https://sovietscloset.com/video/10084",
               "id": 10084,
               "date": "2021-06-02 11:05",
-              "number": 56,
+              "number": 57,
               "bunnyId": "a4d1c24e-ce86-4c46-8de2-115df20c87c1",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #57",
+              "title": "Rising Storm 2: Vietnam #58",
               "url": "https://sovietscloset.com/video/10167",
               "id": 10167,
               "date": "2021-06-07 20:25",
-              "number": 57,
+              "number": 58,
               "bunnyId": "1e4809d5-39cf-491b-bc41-4fc30d3d48df",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #58",
+              "title": "Rising Storm 2: Vietnam #59",
               "url": "https://sovietscloset.com/video/10169",
               "id": 10169,
               "date": "2021-06-11 20:16",
-              "number": 58,
+              "number": 59,
               "bunnyId": "fe142b7a-1469-47c1-aa66-eda8ff3eb662",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #59",
+              "title": "Rising Storm 2: Vietnam #60",
               "url": "https://sovietscloset.com/video/10168",
               "id": 10168,
               "date": "2021-06-14 10:54",
-              "number": 59,
+              "number": 60,
               "bunnyId": "3aaacf0b-2acd-4219-9f88-eb443d07762e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #60",
+              "title": "Rising Storm 2: Vietnam #61",
               "url": "https://sovietscloset.com/video/10184",
               "id": 10184,
               "date": "2021-06-14 20:27",
-              "number": 60,
+              "number": 61,
               "bunnyId": "7e875ad7-246a-4a23-a376-b73cf2fa7d83",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #61",
+              "title": "Rising Storm 2: Vietnam #62",
               "url": "https://sovietscloset.com/video/6686",
               "id": 6686,
               "date": "2021-07-16 20:07",
-              "number": 61,
+              "number": 62,
               "bunnyId": "586d9747-e28c-4bb3-b710-83bee25c9238",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #62",
+              "title": "Rising Storm 2: Vietnam #63",
               "url": "https://sovietscloset.com/video/6692",
               "id": 6692,
               "date": "2021-07-19 11:41",
-              "number": 62,
+              "number": 63,
               "bunnyId": "5fc7d3f6-e8b3-4a3a-b7ca-72c719e9c047",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #63",
+              "title": "Rising Storm 2: Vietnam #64",
               "url": "https://sovietscloset.com/video/10175",
               "id": 10175,
               "date": "2021-07-19 20:27",
-              "number": 63,
+              "number": 64,
               "bunnyId": "451adbbb-11df-4009-b157-f7648124d198",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #64",
+              "title": "Rising Storm 2: Vietnam #65",
               "url": "https://sovietscloset.com/video/10182",
               "id": 10182,
               "date": "2021-07-20 20:07",
-              "number": 64,
+              "number": 65,
               "bunnyId": "c507f737-4b12-4393-bd87-ed523ef59b7c",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #65",
+              "title": "Rising Storm 2: Vietnam #66",
               "url": "https://sovietscloset.com/video/10187",
               "id": 10187,
               "date": "2021-08-13 20:29",
-              "number": 65,
+              "number": 66,
               "bunnyId": "3c739233-c669-457a-b309-1bc7306c2b14",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #66",
+              "title": "Rising Storm 2: Vietnam #67",
               "url": "https://sovietscloset.com/video/10183",
               "id": 10183,
               "date": "2021-08-16 11:02",
-              "number": 66,
+              "number": 67,
               "bunnyId": "38409fc4-6d46-413a-be0c-d14bd1775a30",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #67",
+              "title": "Rising Storm 2: Vietnam #68",
               "url": "https://sovietscloset.com/video/10176",
               "id": 10176,
               "date": "2021-08-16 20:17",
-              "number": 67,
+              "number": 68,
               "bunnyId": "1695be4c-50c0-42ed-b8cf-fa42451159d4",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #68",
+              "title": "Rising Storm 2: Vietnam #69",
               "url": "https://sovietscloset.com/video/10185",
               "id": 10185,
               "date": "2021-08-17 20:02",
-              "number": 68,
+              "number": 69,
               "bunnyId": "a396eafc-d2b0-4fb8-afdf-7013bd8f9b96",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #69",
+              "title": "Rising Storm 2: Vietnam #70",
               "url": "https://sovietscloset.com/video/10188",
               "id": 10188,
               "date": "2021-08-18 11:17",
-              "number": 69,
+              "number": 70,
               "bunnyId": "c01030fb-eff7-4d31-81fa-74ad5232e179",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #70",
+              "title": "Rising Storm 2: Vietnam #71",
               "url": "https://sovietscloset.com/video/10190",
               "id": 10190,
               "date": "2021-08-20 11:16",
-              "number": 70,
+              "number": 71,
               "bunnyId": "4a55b018-190e-4079-8eeb-f3cad075caf8",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #71",
+              "title": "Rising Storm 2: Vietnam #72",
               "url": "https://sovietscloset.com/video/13086",
               "id": 13086,
               "date": "2021-08-20 20:52",
-              "number": 71,
+              "number": 72,
               "bunnyId": "887ed3f4-b7da-4d28-a3b0-ce744ad93335",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #72",
+              "title": "Rising Storm 2: Vietnam #73",
               "url": "https://sovietscloset.com/video/6749",
               "id": 6749,
               "date": "2021-08-24 11:21",
-              "number": 72,
+              "number": 73,
               "bunnyId": "fe53d764-77b5-4c81-9fb0-25b0f8892742",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #73",
+              "title": "Rising Storm 2: Vietnam #74",
               "url": "https://sovietscloset.com/video/10186",
               "id": 10186,
               "date": "2021-09-20 20:21",
-              "number": 73,
+              "number": 74,
               "bunnyId": "6d988306-a38f-427e-8a8d-5e810edbe27f",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #74",
+              "title": "Rising Storm 2: Vietnam #75",
               "url": "https://sovietscloset.com/video/10189",
               "id": 10189,
               "date": "2021-09-20 20:30",
-              "number": 74,
+              "number": 75,
               "bunnyId": "fc082c06-a21d-4ac6-992c-c0081edde568",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #75",
+              "title": "Rising Storm 2: Vietnam #76",
               "url": "https://sovietscloset.com/video/10191",
               "id": 10191,
               "date": "2021-09-22 20:08",
-              "number": 75,
+              "number": 76,
               "bunnyId": "6b181507-10f8-458e-a2e3-b15196762cd2",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #76",
+              "title": "Rising Storm 2: Vietnam #77",
               "url": "https://sovietscloset.com/video/6979",
               "id": 6979,
               "date": "2021-09-25 20:00",
-              "number": 76,
+              "number": 77,
               "bunnyId": "226d96e6-86a5-41c4-a33b-5bd2b53db293",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #77",
+              "title": "Rising Storm 2: Vietnam #78",
               "url": "https://sovietscloset.com/video/6978",
               "id": 6978,
               "date": "2021-09-27 11:13",
-              "number": 77,
+              "number": 78,
               "bunnyId": "976e98b4-be3c-4687-aa58-91df2062fd47",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #78",
+              "title": "Rising Storm 2: Vietnam #79",
               "url": "https://sovietscloset.com/video/10166",
               "id": 10166,
               "date": "2021-11-16 20:15",
-              "number": 78,
+              "number": 79,
               "bunnyId": "0865b1b0-740b-4c30-b204-38d03478ec4f",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #79",
+              "title": "Rising Storm 2: Vietnam #80",
               "url": "https://sovietscloset.com/video/10165",
               "id": 10165,
               "date": "2021-11-16 21:26",
-              "number": 79,
+              "number": 80,
               "bunnyId": "7858158a-234e-494d-8a41-6aff9650efae",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #80",
+              "title": "Rising Storm 2: Vietnam #81",
               "url": "https://sovietscloset.com/video/10129",
               "id": 10129,
               "date": "2021-11-17 11:12",
-              "number": 80,
+              "number": 81,
               "bunnyId": "fd549220-e163-48cc-99c0-71e46ecd4178",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #81",
+              "title": "Rising Storm 2: Vietnam #82",
               "url": "https://sovietscloset.com/video/14302",
               "id": 14302,
               "date": "2022-03-16 20:04",
-              "number": 81,
+              "number": 82,
               "bunnyId": "8226aef4-118f-453c-b15f-afda29f87064",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #82",
+              "title": "Rising Storm 2: Vietnam #83",
               "url": "https://sovietscloset.com/video/14301",
               "id": 14301,
               "date": "2022-03-18 20:01",
-              "number": 82,
+              "number": 83,
               "bunnyId": "4b739681-bfee-4e12-811c-918919f08842",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #83",
+              "title": "Rising Storm 2: Vietnam #84",
               "url": "https://sovietscloset.com/video/14269",
               "id": 14269,
               "date": "2022-05-03 20:08",
-              "number": 83,
+              "number": 84,
               "bunnyId": "4142a123-986b-4dd7-a2be-8e45cba0d080",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #84",
+              "title": "Rising Storm 2: Vietnam #85",
               "url": "https://sovietscloset.com/video/14268",
               "id": 14268,
               "date": "2022-05-04 20:00",
-              "number": 84,
+              "number": 85,
               "bunnyId": "e374bbd2-4d56-4936-9273-84713f97707e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #85",
+              "title": "Rising Storm 2: Vietnam #86",
               "url": "https://sovietscloset.com/video/14263",
               "id": 14263,
               "date": "2022-05-09 19:57",
-              "number": 85,
+              "number": 86,
               "bunnyId": "d5ab1370-6024-4bd6-ba7f-d0b1b84cf192",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #86",
+              "title": "Rising Storm 2: Vietnam #87",
               "url": "https://sovietscloset.com/video/14264",
               "id": 14264,
               "date": "2022-05-10 20:13",
-              "number": 86,
+              "number": 87,
               "bunnyId": "d46996b8-baab-4b07-abd7-c6a6ff1303a4",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #87",
+              "title": "Rising Storm 2: Vietnam #88",
               "url": "https://sovietscloset.com/video/14267",
               "id": 14267,
               "date": "2022-05-13 20:04",
-              "number": 87,
+              "number": 88,
               "bunnyId": "cce18c42-333d-44ef-9239-3f7b140908d5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #88",
+              "title": "Rising Storm 2: Vietnam #89",
               "url": "https://sovietscloset.com/video/14265",
               "id": 14265,
               "date": "2022-05-20 20:07",
-              "number": 88,
+              "number": 89,
               "bunnyId": "bef20afb-3338-4b7b-963b-859b45130660",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #89",
+              "title": "Rising Storm 2: Vietnam #90",
               "url": "https://sovietscloset.com/video/14266",
               "id": 14266,
               "date": "2022-05-27 20:05",
-              "number": 89,
+              "number": 90,
               "bunnyId": "1246e139-bc0e-4652-b4cd-d7a3ce865b36",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #90",
+              "title": "Rising Storm 2: Vietnam #91",
               "url": "https://sovietscloset.com/video/14243",
               "id": 14243,
               "date": "2022-06-03 20:44",
-              "number": 90,
+              "number": 91,
               "bunnyId": "c5ea5f0d-9aef-46cf-a912-04ecb42242ee",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #91",
+              "title": "Rising Storm 2: Vietnam #92",
               "url": "https://sovietscloset.com/video/14244",
               "id": 14244,
               "date": "2022-06-06 20:04",
-              "number": 91,
+              "number": 92,
               "bunnyId": "cd9f0c88-3e93-47c1-a9f9-c58625c9040e",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #92",
+              "title": "Rising Storm 2: Vietnam #93",
               "url": "https://sovietscloset.com/video/14242",
               "id": 14242,
               "date": "2022-06-20 19:59",
-              "number": 92,
+              "number": 93,
               "bunnyId": "be502814-745d-40b8-98a4-8fb74b7c93d7",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #93",
+              "title": "Rising Storm 2: Vietnam #94",
               "url": "https://sovietscloset.com/video/14300",
               "id": 14300,
               "date": "2022-07-25 20:06",
-              "number": 93,
+              "number": 94,
               "bunnyId": "f74f1ea6-4b64-46d4-9074-7b67e8180cf3",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #94",
+              "title": "Rising Storm 2: Vietnam #95",
               "url": "https://sovietscloset.com/video/14434",
               "id": 14434,
               "date": "2022-07-27 20:14",
-              "number": 94,
+              "number": 95,
               "bunnyId": "67da433f-3bff-4472-bb3f-ed06fa29b76f",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #96",
+              "title": "Rising Storm 2: Vietnam #97",
               "url": "https://sovietscloset.com/video/14386",
               "id": 14386,
               "date": "2022-08-23 19:58",
-              "number": 96,
+              "number": 97,
               "bunnyId": "881f04eb-ecee-43be-8e2d-c017a584531d",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #97",
+              "title": "Rising Storm 2: Vietnam #98",
               "url": "https://sovietscloset.com/video/14400",
               "id": 14400,
               "date": "2022-08-30 20:03",
-              "number": 97,
+              "number": 98,
               "bunnyId": "0fb42f49-c852-4ad9-bacc-8e4246d86bd5",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #98",
+              "title": "Rising Storm 2: Vietnam #99",
               "url": "https://sovietscloset.com/video/14643",
               "id": 14643,
               "date": "2023-01-09 20:02",
-              "number": 98,
+              "number": 99,
               "bunnyId": "42375758-2543-40f5-a496-41e254f28dbb",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #99",
+              "title": "Rising Storm 2: Vietnam #100",
               "url": "https://sovietscloset.com/video/14644",
               "id": 14644,
               "date": "2023-01-10 20:03",
-              "number": 99,
+              "number": 100,
               "bunnyId": "d87826c5-6fc5-41ae-a58e-1c0496b0e961",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #100",
+              "title": "Rising Storm 2: Vietnam #101",
               "url": "https://sovietscloset.com/video/14642",
               "id": 14642,
               "date": "2023-01-11 20:08",
-              "number": 100,
+              "number": 101,
               "bunnyId": "0c7dc8c8-9acd-4e12-a8ff-6ee5ae5da50c",
               "new": false
             },
             {
-              "title": "Rising Storm 2: Vietnam #101",
+              "title": "Rising Storm 2: Vietnam #102",
               "url": "https://sovietscloset.com/video/14802",
               "id": 14802,
               "date": "2023-05-02 20:35",
-              "number": 101,
+              "number": 102,
               "bunnyId": "4deb87c4-ab46-4d5a-a45c-f606d031db52",
+              "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #103",
+              "url": "https://sovietscloset.com/video/14839",
+              "id": 14839,
+              "date": "2023-05-04 19:59",
+              "number": 103,
+              "bunnyId": "85e88947-5ed8-4837-aca7-cecc6d5664fa",
               "new": false
             }
           ]
@@ -17473,7 +17538,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -17481,7 +17546,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -18769,6 +18834,15 @@
               "number": 146,
               "bunnyId": "683a6cb1-769d-42ad-b046-9badd7557389",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #147",
+              "url": "https://sovietscloset.com/video/14825",
+              "id": 14825,
+              "date": "2023-07-16 20:05",
+              "number": 147,
+              "bunnyId": "41eb0457-432a-476c-9740-e6170786d601",
+              "new": true
             }
           ]
         }
@@ -21183,7 +21257,7 @@
       "name": "VR Blade & Sorcery",
       "slug": "VR-Blade-Sorcery",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "VR Blade & Sorcery",
@@ -21191,7 +21265,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "VR Blade & Sorcery #1",
@@ -21672,21 +21746,57 @@
             },
             {
               "title": "VR Blade & Sorcery #56",
-              "url": "https://sovietscloset.com/video/14795",
-              "id": 14795,
-              "date": "2023-04-05 20:33",
+              "url": "https://sovietscloset.com/video/14829",
+              "id": 14829,
+              "date": "2023-04-03 20:28",
               "number": 56,
-              "bunnyId": "234c9249-b2b9-4473-bbf4-5cdd4746d1f0",
+              "bunnyId": "60c73f49-a3d4-4876-96c0-48a4b2b7b635",
               "new": false
             },
             {
               "title": "VR Blade & Sorcery #57",
+              "url": "https://sovietscloset.com/video/14828",
+              "id": 14828,
+              "date": "2023-04-04 11:21",
+              "number": 57,
+              "bunnyId": "fe6af20a-ea20-4512-bc83-6afc8fee9bc9",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #58",
+              "url": "https://sovietscloset.com/video/14795",
+              "id": 14795,
+              "date": "2023-04-05 20:33",
+              "number": 58,
+              "bunnyId": "234c9249-b2b9-4473-bbf4-5cdd4746d1f0",
+              "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #59",
               "url": "https://sovietscloset.com/video/14796",
               "id": 14796,
               "date": "2023-04-06 11:12",
-              "number": 57,
+              "number": 59,
               "bunnyId": "e23d5509-dd1e-42b5-a67d-6cfda54ddf42",
               "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #60",
+              "url": "https://sovietscloset.com/video/14837",
+              "id": 14837,
+              "date": "2023-07-19 20:45",
+              "number": 60,
+              "bunnyId": "825d63c1-5e57-466e-bc0b-186477c7135b",
+              "new": true
+            },
+            {
+              "title": "VR Blade & Sorcery #61",
+              "url": "https://sovietscloset.com/video/14836",
+              "id": 14836,
+              "date": "2023-07-21 11:18",
+              "number": 61,
+              "bunnyId": "ee3d55cb-1a38-44f0-b30e-99786412b55e",
+              "new": true
             }
           ]
         }
@@ -21977,11 +22087,11 @@
             },
             {
               "title": "VR Onward #11",
-              "url": "https://sovietscloset.com/video/6721",
-              "id": 6721,
+              "url": "https://sovietscloset.com/video/14835",
+              "id": 14835,
               "date": "2020-05-16 19:55",
               "number": 11,
-              "bunnyId": "058ede7c-3e58-4699-af5e-c186917caebe",
+              "bunnyId": "2d9f2e26-a6b8-4ca3-8812-ca8305dcbbc8",
               "new": false
             },
             {
@@ -22033,55 +22143,82 @@
             },
             {
               "title": "VR Pavlov #2",
-              "url": "https://sovietscloset.com/video/6770",
-              "id": 6770,
-              "date": "2020-06-27 19:50",
+              "url": "https://sovietscloset.com/video/14832",
+              "id": 14832,
+              "date": "2020-04-04 19:41",
               "number": 2,
-              "bunnyId": "e172eb1e-8683-4e7b-b57b-5463e13e0959",
+              "bunnyId": "362d6365-fcf7-4b23-987b-1fe7277c0cea",
               "new": false
             },
             {
               "title": "VR Pavlov #3",
-              "url": "https://sovietscloset.com/video/6741",
-              "id": 6741,
-              "date": "2020-07-04 19:49",
+              "url": "https://sovietscloset.com/video/14833",
+              "id": 14833,
+              "date": "2020-04-11 19:50",
               "number": 3,
-              "bunnyId": "ef313303-cea8-43e9-8b69-a7bc4395cdcc",
+              "bunnyId": "f6075bab-cae4-44e3-8970-20b7c3f3e0aa",
               "new": false
             },
             {
               "title": "VR Pavlov #4",
-              "url": "https://sovietscloset.com/video/1538",
-              "id": 1538,
-              "date": "2020-11-15 15:29",
+              "url": "https://sovietscloset.com/video/14834",
+              "id": 14834,
+              "date": "2020-05-02 19:48",
               "number": 4,
-              "bunnyId": "a0f78fff-1cc4-4570-91d7-fc59fbd7c35e",
+              "bunnyId": "69b72f60-e583-45a3-bb16-8dbe1b5ad385",
               "new": false
             },
             {
               "title": "VR Pavlov #5",
+              "url": "https://sovietscloset.com/video/6770",
+              "id": 6770,
+              "date": "2020-06-27 19:50",
+              "number": 5,
+              "bunnyId": "e172eb1e-8683-4e7b-b57b-5463e13e0959",
+              "new": false
+            },
+            {
+              "title": "VR Pavlov #6",
+              "url": "https://sovietscloset.com/video/6741",
+              "id": 6741,
+              "date": "2020-07-04 19:49",
+              "number": 6,
+              "bunnyId": "ef313303-cea8-43e9-8b69-a7bc4395cdcc",
+              "new": false
+            },
+            {
+              "title": "VR Pavlov #7",
+              "url": "https://sovietscloset.com/video/1538",
+              "id": 1538,
+              "date": "2020-11-15 15:29",
+              "number": 7,
+              "bunnyId": "a0f78fff-1cc4-4570-91d7-fc59fbd7c35e",
+              "new": false
+            },
+            {
+              "title": "VR Pavlov #8",
               "url": "https://sovietscloset.com/video/2676",
               "id": 2676,
               "date": "2021-01-09 19:59",
-              "number": 5,
+              "number": 8,
               "bunnyId": "b4b0311c-4f5f-49de-b561-7ae41aaa0984",
               "new": false
             },
             {
-              "title": "VR Pavlov #7",
+              "title": "VR Pavlov #10",
               "url": "https://sovietscloset.com/video/1795",
               "id": 1795,
               "date": "2021-01-11 21:02",
-              "number": 7,
+              "number": 10,
               "bunnyId": "69db9746-18cd-44b6-97c5-caf247194412",
               "new": false
             },
             {
-              "title": "VR Pavlov #7",
+              "title": "VR Pavlov #10",
               "url": "https://sovietscloset.com/video/1806",
               "id": 1806,
               "date": "2021-01-11 21:02",
-              "number": 7,
+              "number": 10,
               "bunnyId": "9d2ed241-66de-4dbe-81bf-610bdd8d773c",
               "new": false
             }
@@ -22199,28 +22336,46 @@
             },
             {
               "title": "VR Rec Room #6",
-              "url": "https://sovietscloset.com/video/1395",
-              "id": 1395,
-              "date": "2020-05-09 20:13",
+              "url": "https://sovietscloset.com/video/14830",
+              "id": 14830,
+              "date": "2020-03-21 20:09",
               "number": 6,
-              "bunnyId": "810c188c-80eb-4b44-958e-37bab9580b9d",
+              "bunnyId": "85f2cb0f-4f27-4677-97d2-1a4a84cbd039",
               "new": false
             },
             {
               "title": "VR Rec Room #7",
-              "url": "https://sovietscloset.com/video/6740",
-              "id": 6740,
-              "date": "2020-05-30 19:37",
+              "url": "https://sovietscloset.com/video/14831",
+              "id": 14831,
+              "date": "2020-03-28 19:55",
               "number": 7,
-              "bunnyId": "dc5ec8f3-5c56-464e-a9df-ad6f866ad3d6",
+              "bunnyId": "8a9f2fc0-ee50-45f7-97a7-99ee3348c5dc",
               "new": false
             },
             {
               "title": "VR Rec Room #8",
+              "url": "https://sovietscloset.com/video/1395",
+              "id": 1395,
+              "date": "2020-05-09 20:13",
+              "number": 8,
+              "bunnyId": "810c188c-80eb-4b44-958e-37bab9580b9d",
+              "new": false
+            },
+            {
+              "title": "VR Rec Room #9",
+              "url": "https://sovietscloset.com/video/6740",
+              "id": 6740,
+              "date": "2020-05-30 19:37",
+              "number": 9,
+              "bunnyId": "dc5ec8f3-5c56-464e-a9df-ad6f866ad3d6",
+              "new": false
+            },
+            {
+              "title": "VR Rec Room #10",
               "url": "https://sovietscloset.com/video/6739",
               "id": 6739,
               "date": "2020-05-30 20:54",
-              "number": 8,
+              "number": 10,
               "bunnyId": "284529da-5b97-4725-a9e6-d9133b228931",
               "new": false
             }
@@ -22364,7 +22519,7 @@
       "name": "VR Walkabout Mini Golf",
       "slug": "VR-Walkabout-Mini-Golf",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "VR Walkabout Mini Golf",
@@ -22372,7 +22527,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "VR Walkabout Mini Golf #1",
@@ -22553,6 +22708,15 @@
               "number": 20,
               "bunnyId": "ab2662a7-7d15-4dc5-ac38-5046578747a6",
               "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #21",
+              "url": "https://sovietscloset.com/video/14826",
+              "id": 14826,
+              "date": "2023-07-19 10:42",
+              "number": 21,
+              "bunnyId": "6f6fdf94-d96d-4d84-8c2f-98462b7447af",
+              "new": true
             }
           ]
         }

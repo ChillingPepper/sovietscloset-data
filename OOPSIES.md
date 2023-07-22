@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-07-11T14:09:41Z.
+Last updated at 2023-07-22T19:14:24Z.
 
 ## Wrong Tags
 
@@ -12,7 +12,7 @@ This list includes all videos that are available on BunnyCDN but are tagged as t
 - [DayZ - Standalone #17](https://sovietscloset.com/video/1698)
 - [Holdfast: Nations at War #28](https://sovietscloset.com/video/1697)
 - [Rimworld - Caloma's Creek #92](https://sovietscloset.com/video/1749)
-- [Rising Storm 2: Vietnam #13](https://sovietscloset.com/video/1693)
+- [Rising Storm 2: Vietnam #14](https://sovietscloset.com/video/1693)
 - [Space Engineers #9](https://sovietscloset.com/video/1647)
 - [Space Engineers #11](https://sovietscloset.com/video/1649)
 - [Space Engineers #13](https://sovietscloset.com/video/1650)
@@ -135,18 +135,19 @@ Missing videos are only detected if they are followed by a video that is already
   - Rimworld - Caloma's Creek #85
   - Rimworld - Caloma's Creek #93
 - [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
-  - Rising Storm 2: Vietnam #8
+  - Rising Storm 2: Vietnam #2
   - Rising Storm 2: Vietnam #9
-  - Rising Storm 2: Vietnam #11
-  - Rising Storm 2: Vietnam #15
-  - Rising Storm 2: Vietnam #22
-  - Rising Storm 2: Vietnam #24
-  - Rising Storm 2: Vietnam #27
-  - Rising Storm 2: Vietnam #29
-  - Rising Storm 2: Vietnam #31
-  - Rising Storm 2: Vietnam #33
-  - Rising Storm 2: Vietnam #37
-  - Rising Storm 2: Vietnam #95
+  - Rising Storm 2: Vietnam #10
+  - Rising Storm 2: Vietnam #12
+  - Rising Storm 2: Vietnam #16
+  - Rising Storm 2: Vietnam #23
+  - Rising Storm 2: Vietnam #25
+  - Rising Storm 2: Vietnam #28
+  - Rising Storm 2: Vietnam #30
+  - Rising Storm 2: Vietnam #32
+  - Rising Storm 2: Vietnam #34
+  - Rising Storm 2: Vietnam #38
+  - Rising Storm 2: Vietnam #96
 - [Rust](https://sovietscloset.com/Rust)
   - Rust #19
   - Rust #28
@@ -213,7 +214,7 @@ Missing videos are only detected if they are followed by a video that is already
   - VR Onward #7
   - VR Onward #10
 - [VR Pavlov](https://sovietscloset.com/VR-Pavlov)
-  - VR Pavlov #6
+  - VR Pavlov #9
 
 ## Sorting
 
@@ -275,12 +276,15 @@ This list includes all videos that have the same date.
   - [VR Onward #8](https://sovietscloset.com/video/3746) (id: 3746)
   - [VR Onward #8](https://sovietscloset.com/video/6723) (id: 6723)
 - Date: 2020-05-16 19:55
+  - [VR Onward #11](https://sovietscloset.com/video/14835) (id: 14835)
   - [VR Onward #11](https://sovietscloset.com/video/1603) (id: 1603)
-  - [VR Onward #11](https://sovietscloset.com/video/6721) (id: 6721)
 - Date: 2020-05-28 11:31
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1445) (id: 1445)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1517) (id: 1517)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/6971) (id: 6971)
+- Date: 2020-05-29 11:12
+  - [Rising Storm 2: Vietnam #3](https://sovietscloset.com/video/14838) (id: 14838)
+  - [Rising Storm 2: Vietnam #3](https://sovietscloset.com/video/4689) (id: 4689)
 - Date: 2020-06-09 11:25
   - [DayZ - Standalone #37](https://sovietscloset.com/video/1717) (id: 1717)
   - [DayZ - Standalone #37](https://sovietscloset.com/video/1725) (id: 1725)
@@ -363,9 +367,9 @@ This list includes all videos that have the same date.
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1643) (id: 1643)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/6896) (id: 6896)
 - Date: 2020-11-20 20:01
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/1602) (id: 1602)
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/1694) (id: 1694)
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/4688) (id: 4688)
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1602) (id: 1602)
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1694) (id: 1694)
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/4688) (id: 4688)
 - Date: 2020-12-06 20:02
   - [Team Fortress 2 #11](https://sovietscloset.com/video/1692) (id: 1692)
   - [Team Fortress 2 #11](https://sovietscloset.com/video/1753) (id: 1753)
@@ -388,8 +392,8 @@ This list includes all videos that have the same date.
   - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/14493) (id: 14493)
   - [Rimworld - Caloma's Creek #86](https://sovietscloset.com/video/6776) (id: 6776)
 - Date: 2020-12-18 20:02
-  - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/13085) (id: 13085)
-  - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/4686) (id: 4686)
+  - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/13085) (id: 13085)
+  - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/4686) (id: 4686)
 - Date: 2020-12-20 19:55
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1747) (id: 1747)
   - [Team Fortress 2 #14](https://sovietscloset.com/video/1756) (id: 1756)
@@ -400,17 +404,17 @@ This list includes all videos that have the same date.
   - [Holdfast: Nations at War #31](https://sovietscloset.com/video/1777) (id: 1777)
   - [Holdfast: Nations at War #31](https://sovietscloset.com/video/6963) (id: 6963)
 - Date: 2021-01-11 21:02
-  - [VR Pavlov #7](https://sovietscloset.com/video/1795) (id: 1795)
-  - [VR Pavlov #7](https://sovietscloset.com/video/1806) (id: 1806)
+  - [VR Pavlov #10](https://sovietscloset.com/video/1795) (id: 1795)
+  - [VR Pavlov #10](https://sovietscloset.com/video/1806) (id: 1806)
 - Date: 2021-02-04 11:21
   - [Prison Architect #7](https://sovietscloset.com/video/2680) (id: 2680)
   - [Prison Architect #7](https://sovietscloset.com/video/3679) (id: 3679)
 - Date: 2021-02-05 20:07
-  - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/10127) (id: 10127)
-  - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/3711) (id: 3711)
+  - [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/10127) (id: 10127)
+  - [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/3711) (id: 3711)
 - Date: 2021-02-09 20:04
-  - [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3691) (id: 3691)
-  - [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3696) (id: 3696)
+  - [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3691) (id: 3691)
+  - [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3696) (id: 3696)
 - Date: 2021-02-18 20:48
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3721) (id: 3721)
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3735) (id: 3735)
@@ -421,17 +425,17 @@ This list includes all videos that have the same date.
   - [The Isle #24](https://sovietscloset.com/video/14185) (id: 14185)
   - [The Isle #24](https://sovietscloset.com/video/3726) (id: 3726)
 - Date: 2021-03-15 11:11
-  - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/10124) (id: 10124)
-  - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/3764) (id: 3764)
+  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/10124) (id: 10124)
+  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3764) (id: 3764)
 - Date: 2021-03-15 20:17
-  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/10126) (id: 10126)
-  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3768) (id: 3768)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10126) (id: 10126)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/3768) (id: 3768)
 - Date: 2021-03-16 11:16
-  - [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/10171) (id: 10171)
-  - [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/3767) (id: 3767)
+  - [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/10171) (id: 10171)
+  - [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/3767) (id: 3767)
 - Date: 2021-03-30 20:32
-  - [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3783) (id: 3783)
-  - [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3785) (id: 3785)
+  - [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3783) (id: 3783)
+  - [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3785) (id: 3785)
 - Date: 2021-04-29 20:48
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092) (id: 10092)
   - [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999) (id: 6999)
@@ -581,6 +585,9 @@ This list includes all videos that have the same number.
   - [DayZ - Standalone #2](https://sovietscloset.com/video/1760) (id: 1760)
   - [Factorio #2](https://sovietscloset.com/video/6808) (id: 6808)
   - [Factorio #2](https://sovietscloset.com/video/6911) (id: 6911)
+- Number: 3
+  - [Rising Storm 2: Vietnam #3](https://sovietscloset.com/video/14838) (id: 14838)
+  - [Rising Storm 2: Vietnam #3](https://sovietscloset.com/video/4689) (id: 4689)
 - Number: 4
   - [Factorio #4](https://sovietscloset.com/video/6807) (id: 6807)
   - [Factorio #4](https://sovietscloset.com/video/6912) (id: 6912)
@@ -594,8 +601,6 @@ This list includes all videos that have the same number.
   - [DayZ - Standalone #7](https://sovietscloset.com/video/1766) (id: 1766)
   - [Prison Architect #7](https://sovietscloset.com/video/2680) (id: 2680)
   - [Prison Architect #7](https://sovietscloset.com/video/3679) (id: 3679)
-  - [VR Pavlov #7](https://sovietscloset.com/video/1795) (id: 1795)
-  - [VR Pavlov #7](https://sovietscloset.com/video/1806) (id: 1806)
 - Number: 8
   - [VR Onward #8](https://sovietscloset.com/video/3746) (id: 3746)
   - [VR Onward #8](https://sovietscloset.com/video/6723) (id: 6723)
@@ -607,19 +612,21 @@ This list includes all videos that have the same number.
   - [DayZ - Standalone #10](https://sovietscloset.com/video/1757) (id: 1757)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14303) (id: 14303)
   - [Fallout Tactics #10](https://sovietscloset.com/video/14349) (id: 14349)
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/1602) (id: 1602)
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/1694) (id: 1694)
-  - [Rising Storm 2: Vietnam #10](https://sovietscloset.com/video/4688) (id: 4688)
   - [Subnautica #10](https://sovietscloset.com/video/1463) (id: 1463)
   - [Subnautica #10](https://sovietscloset.com/video/1470) (id: 1470)
   - [Subnautica #10](https://sovietscloset.com/video/1487) (id: 1487)
+  - [VR Pavlov #10](https://sovietscloset.com/video/1795) (id: 1795)
+  - [VR Pavlov #10](https://sovietscloset.com/video/1806) (id: 1806)
 - Number: 11
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1602) (id: 1602)
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1694) (id: 1694)
+  - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/4688) (id: 4688)
   - [Team Fortress 2 #11](https://sovietscloset.com/video/1692) (id: 1692)
   - [Team Fortress 2 #11](https://sovietscloset.com/video/1753) (id: 1753)
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6881) (id: 6881)
   - [VR Blade & Sorcery #11](https://sovietscloset.com/video/6952) (id: 6952)
+  - [VR Onward #11](https://sovietscloset.com/video/14835) (id: 14835)
   - [VR Onward #11](https://sovietscloset.com/video/1603) (id: 1603)
-  - [VR Onward #11](https://sovietscloset.com/video/6721) (id: 6721)
 - Number: 12
   - [DayZ - Standalone #12](https://sovietscloset.com/video/1734) (id: 1734)
   - [DayZ - Standalone #12](https://sovietscloset.com/video/1758) (id: 1758)
@@ -646,9 +653,9 @@ This list includes all videos that have the same number.
   - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14679) (id: 14679)
   - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14702) (id: 14702)
   - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14718) (id: 14718)
-- Number: 16
-  - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/13085) (id: 13085)
-  - [Rising Storm 2: Vietnam #16](https://sovietscloset.com/video/4686) (id: 4686)
+- Number: 17
+  - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/13085) (id: 13085)
+  - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/4686) (id: 4686)
 - Number: 18
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1345) (id: 1345)
   - [Holdfast: Nations at War #18](https://sovietscloset.com/video/1350) (id: 1350)
@@ -661,11 +668,11 @@ This list includes all videos that have the same number.
 - Number: 23
   - [7 Days to Die #23](https://sovietscloset.com/video/1002) (id: 1002)
   - [7 Days to Die #23](https://sovietscloset.com/video/6844) (id: 6844)
-  - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/10127) (id: 10127)
-  - [Rising Storm 2: Vietnam #23](https://sovietscloset.com/video/3711) (id: 3711)
 - Number: 24
   - [Factorio #24](https://sovietscloset.com/video/6714) (id: 6714)
   - [Factorio #24](https://sovietscloset.com/video/6734) (id: 6734)
+  - [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/10127) (id: 10127)
+  - [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/3711) (id: 3711)
   - [The Isle #24](https://sovietscloset.com/video/14185) (id: 14185)
   - [The Isle #24](https://sovietscloset.com/video/3726) (id: 3726)
 - Number: 25
@@ -675,12 +682,12 @@ This list includes all videos that have the same number.
   - [Divinity: Original Sin 2 - First Playthrough #25](https://sovietscloset.com/video/6857) (id: 6857)
   - [Minecraft #25](https://sovietscloset.com/video/1689) (id: 1689)
   - [Minecraft #25](https://sovietscloset.com/video/3739) (id: 3739)
-  - [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3691) (id: 3691)
-  - [Rising Storm 2: Vietnam #25](https://sovietscloset.com/video/3696) (id: 3696)
 - Number: 26
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1601) (id: 1601)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/1643) (id: 1643)
   - [Holdfast: Nations at War #26](https://sovietscloset.com/video/6896) (id: 6896)
+  - [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3691) (id: 3691)
+  - [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3696) (id: 3696)
 - Number: 27
   - [7 Days to Die #27](https://sovietscloset.com/video/1145) (id: 1145)
   - [7 Days to Die #27](https://sovietscloset.com/video/6847) (id: 6847)
@@ -697,9 +704,6 @@ This list includes all videos that have the same number.
   - [Minecraft #29](https://sovietscloset.com/video/3740) (id: 3740)
   - [Space Engineers #29](https://sovietscloset.com/video/1221) (id: 1221)
   - [Space Engineers #29](https://sovietscloset.com/video/1680) (id: 1680)
-- Number: 30
-  - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/10124) (id: 10124)
-  - [Rising Storm 2: Vietnam #30](https://sovietscloset.com/video/3764) (id: 3764)
 - Number: 31
   - [7 Days to Die #31](https://sovietscloset.com/video/1003) (id: 1003)
   - [7 Days to Die #31](https://sovietscloset.com/video/6849) (id: 6849)
@@ -707,25 +711,26 @@ This list includes all videos that have the same number.
   - [Factorio #31](https://sovietscloset.com/video/6981) (id: 6981)
   - [Holdfast: Nations at War #31](https://sovietscloset.com/video/1777) (id: 1777)
   - [Holdfast: Nations at War #31](https://sovietscloset.com/video/6963) (id: 6963)
+  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/10124) (id: 10124)
+  - [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3764) (id: 3764)
   - [Space Engineers #31](https://sovietscloset.com/video/1220) (id: 1220)
   - [Space Engineers #31](https://sovietscloset.com/video/1683) (id: 1683)
 - Number: 32
-  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/10126) (id: 10126)
-  - [Rising Storm 2: Vietnam #32](https://sovietscloset.com/video/3768) (id: 3768)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1445) (id: 1445)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/1517) (id: 1517)
   - [VR Blade & Sorcery #32](https://sovietscloset.com/video/6971) (id: 6971)
 - Number: 33
   - [7 Days to Die #33](https://sovietscloset.com/video/1214) (id: 1214)
   - [7 Days to Die #33](https://sovietscloset.com/video/6850) (id: 6850)
-- Number: 34
-  - [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/10171) (id: 10171)
-  - [Rising Storm 2: Vietnam #34](https://sovietscloset.com/video/3767) (id: 3767)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10126) (id: 10126)
+  - [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/3768) (id: 3768)
 - Number: 35
   - [7 Days to Die #35](https://sovietscloset.com/video/1006) (id: 1006)
   - [7 Days to Die #35](https://sovietscloset.com/video/6853) (id: 6853)
   - [Factorio #35](https://sovietscloset.com/video/10149) (id: 10149)
   - [Factorio #35](https://sovietscloset.com/video/8999) (id: 8999)
+  - [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/10171) (id: 10171)
+  - [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/3767) (id: 3767)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6773) (id: 6773)
   - [VR Blade & Sorcery #35](https://sovietscloset.com/video/6974) (id: 6974)
 - Number: 36
@@ -743,11 +748,11 @@ This list includes all videos that have the same number.
 - Number: 38
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3721) (id: 3721)
   - [Holdfast: Nations at War #38](https://sovietscloset.com/video/3735) (id: 3735)
-  - [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3783) (id: 3783)
-  - [Rising Storm 2: Vietnam #38](https://sovietscloset.com/video/3785) (id: 3785)
 - Number: 39
   - [7 Days to Die #39](https://sovietscloset.com/video/1017) (id: 1017)
   - [7 Days to Die #39](https://sovietscloset.com/video/6854) (id: 6854)
+  - [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3783) (id: 3783)
+  - [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3785) (id: 3785)
   - [Space Engineers #39](https://sovietscloset.com/video/1218) (id: 1218)
   - [Space Engineers #39](https://sovietscloset.com/video/1686) (id: 1686)
   - [VR Blade & Sorcery #39](https://sovietscloset.com/video/6772) (id: 6772)
