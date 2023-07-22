@@ -1,0 +1,58 @@
+{
+  "streamId": 14831,
+  "date": "2020-03-28 19:55",
+  "game": {
+    "name": "VR Rec Room",
+    "slug": "VR-Rec-Room"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1397,
+        "date": "2018-07-04 21:14"
+      },
+      {
+        "streamId": 1399,
+        "date": "2018-08-01 20:13"
+      },
+      {
+        "streamId": 1400,
+        "date": "2018-08-08 20:16"
+      },
+      {
+        "streamId": 1398,
+        "date": "2018-08-15 20:11"
+      },
+      {
+        "streamId": 1396,
+        "date": "2018-09-05 21:36"
+      },
+      {
+        "streamId": 14830,
+        "date": "2020-03-21 20:09"
+      },
+      {
+        "streamId": 14831,
+        "date": "2020-03-28 19:55"
+      },
+      {
+        "streamId": 1395,
+        "date": "2020-05-09 20:13"
+      },
+      {
+        "streamId": 6740,
+        "date": "2020-05-30 19:37"
+      },
+      {
+        "streamId": 6739,
+        "date": "2020-05-30 20:54"
+      }
+    ]
+  },
+  "number": 7,
+  "bunnyId": "8a9f2fc0-ee50-45f7-97a7-99ee3348c5dc",
+  "useBunny": true
+}

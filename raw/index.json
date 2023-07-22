@@ -1080,7 +1080,7 @@
             "useBunny": true
           },
           {
-            "id": 14792,
+            "id": 14827,
             "date": "2023-03-17 19:31",
             "new": false,
             "useBunny": true
@@ -1166,6 +1166,30 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9087,
+    "name": "Battlebits",
+    "slug": "Battlebits",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9108,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14824,
+            "date": "2023-07-17 20:16",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6973,7 +6997,7 @@
     "name": "Prison Architect",
     "slug": "Prison-Architect",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 2061,
@@ -7141,10 +7165,22 @@
             "date": "2023-02-09 11:19",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14823,
+            "date": "2023-07-17 11:41",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14822,
+            "date": "2023-07-18 11:13",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -9225,6 +9261,12 @@
             "useBunny": true
           },
           {
+            "id": 14838,
+            "date": "2020-05-29 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1031,
             "date": "2020-09-11 20:09",
             "new": false,
@@ -9797,6 +9839,12 @@
           {
             "id": 14802,
             "date": "2023-05-02 20:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14839,
+            "date": "2023-05-04 19:59",
             "new": false,
             "useBunny": true
           }
@@ -12007,7 +12055,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -12871,10 +12919,16 @@
             "date": "2023-05-21 19:53",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14825,
+            "date": "2023-07-16 20:05",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -14548,7 +14602,7 @@
     "name": "VR Blade & Sorcery",
     "slug": "VR-Blade-Sorcery",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1021,
@@ -14874,6 +14928,18 @@
             "useBunny": true
           },
           {
+            "id": 14829,
+            "date": "2023-04-03 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14828,
+            "date": "2023-04-04 11:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14795,
             "date": "2023-04-05 20:33",
             "new": false,
@@ -14884,10 +14950,22 @@
             "date": "2023-04-06 11:12",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14837,
+            "date": "2023-07-19 20:45",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14836,
+            "date": "2023-07-21 11:18",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -15096,7 +15174,7 @@
             "useBunny": true
           },
           {
-            "id": 6721,
+            "id": 14835,
             "date": "2020-05-16 19:55",
             "new": false,
             "useBunny": true
@@ -15134,6 +15212,24 @@
           {
             "id": 7991,
             "date": "2019-09-07 19:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14832,
+            "date": "2020-04-04 19:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14833,
+            "date": "2020-04-11 19:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14834,
+            "date": "2020-05-02 19:48",
             "new": false,
             "useBunny": true
           },
@@ -15254,6 +15350,18 @@
           {
             "id": 1396,
             "date": "2018-09-05 21:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14830,
+            "date": "2020-03-21 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14831,
+            "date": "2020-03-28 19:55",
             "new": false,
             "useBunny": true
           },
@@ -15382,7 +15490,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9100,
@@ -15508,10 +15616,16 @@
             "date": "2023-05-10 10:33",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14826,
+            "date": "2023-07-19 10:42",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

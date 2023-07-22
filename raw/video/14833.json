@@ -1,0 +1,58 @@
+{
+  "streamId": 14833,
+  "date": "2020-04-11 19:50",
+  "game": {
+    "name": "VR Pavlov",
+    "slug": "VR-Pavlov"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 7991,
+        "date": "2019-09-07 19:53"
+      },
+      {
+        "streamId": 14832,
+        "date": "2020-04-04 19:41"
+      },
+      {
+        "streamId": 14833,
+        "date": "2020-04-11 19:50"
+      },
+      {
+        "streamId": 14834,
+        "date": "2020-05-02 19:48"
+      },
+      {
+        "streamId": 6770,
+        "date": "2020-06-27 19:50"
+      },
+      {
+        "streamId": 6741,
+        "date": "2020-07-04 19:49"
+      },
+      {
+        "streamId": 1538,
+        "date": "2020-11-15 15:29"
+      },
+      {
+        "streamId": 2676,
+        "date": "2021-01-09 19:59"
+      },
+      {
+        "streamId": 1795,
+        "date": "2021-01-11 21:02"
+      },
+      {
+        "streamId": 1806,
+        "date": "2021-01-11 21:02"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "f6075bab-cae4-44e3-8970-20b7c3f3e0aa",
+  "useBunny": true
+}
