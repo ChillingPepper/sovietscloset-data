@@ -1,5 +1,5 @@
 {
-  "timestamp": 1690053264,
+  "timestamp": 1690485276,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1734,6 +1734,15 @@
               "date": "2023-07-17 20:16",
               "number": 1,
               "bunnyId": "42ee7e40-7f97-455b-8347-104322d9e4fe",
+              "new": false
+            },
+            {
+              "title": "Battlebits #2",
+              "url": "https://sovietscloset.com/video/14844",
+              "id": 14844,
+              "date": "2023-07-21 20:00",
+              "number": 2,
+              "bunnyId": "ac147e78-1549-4040-a490-dfa9b5a0bbc6",
               "new": true
             }
           ]
@@ -4710,7 +4719,7 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Factorio",
@@ -4718,7 +4727,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Factorio #2",
@@ -5115,6 +5124,42 @@
               "number": 47,
               "bunnyId": "fbd4dc68-50f2-4248-b823-218b0125ecaf",
               "new": false
+            },
+            {
+              "title": "Factorio #48",
+              "url": "https://sovietscloset.com/video/14840",
+              "id": 14840,
+              "date": "2023-07-24 11:05",
+              "number": 48,
+              "bunnyId": "48c552db-4f8d-4560-9817-154e9ce67e50",
+              "new": true
+            },
+            {
+              "title": "Factorio #49",
+              "url": "https://sovietscloset.com/video/14849",
+              "id": 14849,
+              "date": "2023-07-24 20:09",
+              "number": 49,
+              "bunnyId": "dbba7aba-e47e-4f1d-8f4c-0df5c7d2129c",
+              "new": true
+            },
+            {
+              "title": "Factorio #50",
+              "url": "https://sovietscloset.com/video/14850",
+              "id": 14850,
+              "date": "2023-07-25 11:10",
+              "number": 50,
+              "bunnyId": "e659e79b-0ed0-4d79-8cc7-914f7f9fe7fa",
+              "new": true
+            },
+            {
+              "title": "Factorio #51",
+              "url": "https://sovietscloset.com/video/14851",
+              "id": 14851,
+              "date": "2023-07-25 20:00",
+              "number": 51,
+              "bunnyId": "fdf28faa-f633-447f-b12b-2b04872aca66",
+              "new": true
             }
           ]
         }
@@ -6070,7 +6115,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6078,7 +6123,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7492,6 +7537,15 @@
               "number": 158,
               "bunnyId": "bfb48ace-70af-413e-b6f8-c99b831868f8",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #159",
+              "url": "https://sovietscloset.com/video/14843",
+              "id": 14843,
+              "date": "2023-07-20 20:49",
+              "number": 159,
+              "bunnyId": "62a74593-c63b-4863-819d-c37ce9d51d09",
+              "new": true
             }
           ]
         }
@@ -10105,7 +10159,7 @@
       "name": "Prison Architect",
       "slug": "Prison-Architect",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Prison Architect",
@@ -10113,7 +10167,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Prison Architect #1",
@@ -10365,7 +10419,7 @@
               "date": "2023-07-17 11:41",
               "number": 32,
               "bunnyId": "8bf42c7d-d5cc-4dcf-8102-4f44a382f658",
-              "new": true
+              "new": false
             },
             {
               "title": "Prison Architect #33",
@@ -10374,7 +10428,25 @@
               "date": "2023-07-18 11:13",
               "number": 33,
               "bunnyId": "57aef54f-dd71-4543-98da-c4f105ac3b8e",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Prison Architect #34",
+              "url": "https://sovietscloset.com/video/14841",
+              "id": 14841,
+              "date": "2023-07-18 20:14",
+              "number": 34,
+              "bunnyId": "2f6f87f6-20fd-4f26-be22-614238a0d38f",
+              "new": false
+            },
+            {
+              "title": "Prison Architect #35",
+              "url": "https://sovietscloset.com/video/14842",
+              "id": 14842,
+              "date": "2023-07-20 11:32",
+              "number": 35,
+              "bunnyId": "8f3723ba-47c1-412d-8f48-cc7c78b1dd6d",
+              "new": false
             }
           ]
         }
@@ -16259,6 +16331,80 @@
       ]
     },
     {
+      "title": "Star Wars: Supremacy",
+      "url": "https://sovietscloset.com/Star-Wars-Supremacy",
+      "name": "Star Wars: Supremacy",
+      "slug": "Star-Wars-Supremacy",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Star Wars: Supremacy",
+          "url": "https://sovietscloset.com/Star-Wars-Supremacy",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Star Wars: Supremacy #1",
+              "url": "https://sovietscloset.com/video/14847",
+              "id": 14847,
+              "date": "2023-05-10 20:32",
+              "number": 1,
+              "bunnyId": "d5f20fcf-1473-4eba-9ada-c8205d88e4ff",
+              "new": false
+            },
+            {
+              "title": "Star Wars: Supremacy #2",
+              "url": "https://sovietscloset.com/video/14846",
+              "id": 14846,
+              "date": "2023-05-10 21:12",
+              "number": 2,
+              "bunnyId": "cdbf52fa-bfb1-4f7a-bb43-3c73baec9e5e",
+              "new": false
+            },
+            {
+              "title": "Star Wars: Supremacy #3",
+              "url": "https://sovietscloset.com/video/14848",
+              "id": 14848,
+              "date": "2023-05-10 21:22",
+              "number": 3,
+              "bunnyId": "797fda71-1e3a-4aaf-9ac4-18b02d7a3959",
+              "new": false
+            },
+            {
+              "title": "Star Wars: Supremacy #4",
+              "url": "https://sovietscloset.com/video/14853",
+              "id": 14853,
+              "date": "2023-05-11 11:09",
+              "number": 4,
+              "bunnyId": "712432b7-1fa9-46be-a17a-b3d5daf80d6e",
+              "new": false
+            },
+            {
+              "title": "Star Wars: Supremacy #5",
+              "url": "https://sovietscloset.com/video/14854",
+              "id": 14854,
+              "date": "2023-05-12 11:09",
+              "number": 5,
+              "bunnyId": "02e14028-1efc-4f69-ac06-f8c51663a34b",
+              "new": false
+            },
+            {
+              "title": "Star Wars: Supremacy #6",
+              "url": "https://sovietscloset.com/video/14852",
+              "id": 14852,
+              "date": "2023-05-12 20:17",
+              "number": 6,
+              "bunnyId": "0e0d76c5-3dfa-465f-a258-d389f3146d11",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Startopia",
       "url": "https://sovietscloset.com/Startopia",
       "name": "Startopia",
@@ -18842,6 +18988,15 @@
               "date": "2023-07-16 20:05",
               "number": 147,
               "bunnyId": "41eb0457-432a-476c-9740-e6170786d601",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #148",
+              "url": "https://sovietscloset.com/video/14845",
+              "id": 14845,
+              "date": "2023-07-23 19:56",
+              "number": 148,
+              "bunnyId": "1c8506c7-b8c1-4300-97ca-76e5c41e28bd",
               "new": true
             }
           ]
@@ -21787,7 +21942,7 @@
               "date": "2023-07-19 20:45",
               "number": 60,
               "bunnyId": "825d63c1-5e57-466e-bc0b-186477c7135b",
-              "new": true
+              "new": false
             },
             {
               "title": "VR Blade & Sorcery #61",
@@ -22519,7 +22674,7 @@
       "name": "VR Walkabout Mini Golf",
       "slug": "VR-Walkabout-Mini-Golf",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "VR Walkabout Mini Golf",
@@ -22527,7 +22682,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "VR Walkabout Mini Golf #1",
@@ -22711,12 +22866,39 @@
             },
             {
               "title": "VR Walkabout Mini Golf #21",
+              "url": "https://sovietscloset.com/video/14857",
+              "id": 14857,
+              "date": "2023-06-07 10:35",
+              "number": 21,
+              "bunnyId": "9bd57037-e2d7-42f6-b191-d770cd04bc32",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #22",
+              "url": "https://sovietscloset.com/video/14856",
+              "id": 14856,
+              "date": "2023-06-14 10:39",
+              "number": 22,
+              "bunnyId": "f0845e06-5a0a-455c-9af8-7bc9866f7535",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #23",
+              "url": "https://sovietscloset.com/video/14855",
+              "id": 14855,
+              "date": "2023-06-28 10:32",
+              "number": 23,
+              "bunnyId": "7407f0a1-2210-47fa-9351-a50eb629656f",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #24",
               "url": "https://sovietscloset.com/video/14826",
               "id": 14826,
               "date": "2023-07-19 10:42",
-              "number": 21,
+              "number": 24,
               "bunnyId": "6f6fdf94-d96d-4d84-8c2f-98462b7447af",
-              "new": true
+              "new": false
             }
           ]
         }

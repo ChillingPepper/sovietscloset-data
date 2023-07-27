@@ -1,5 +1,111 @@
 # Changelog
 
+## 2023-07-27T19:14:36Z
+
+### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)
+
+#### Modified Playlist [Battlebits](https://sovietscloset.com/Battlebits)
+
+##### Videos
+
+- Modified `v14824` [Battlebits #1](https://sovietscloset.com/video/14824)
+  - Is no longer marked as new.
+- Added `v14844` [Battlebits #2](https://sovietscloset.com/video/14844) (new)
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14840` [Factorio #48](https://sovietscloset.com/video/14840) (new)
+- Added `v14849` [Factorio #49](https://sovietscloset.com/video/14849) (new)
+- Added `v14850` [Factorio #50](https://sovietscloset.com/video/14850) (new)
+- Added `v14851` [Factorio #51](https://sovietscloset.com/video/14851) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14843` [Holdfast: Nations at War #159](https://sovietscloset.com/video/14843) (new)
+
+### Modified Game [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Prison Architect](https://sovietscloset.com/Prison-Architect)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14823` [Prison Architect #32](https://sovietscloset.com/video/14823)
+  - Is no longer marked as new.
+- Modified `v14822` [Prison Architect #33](https://sovietscloset.com/video/14822)
+  - Is no longer marked as new.
+- Added `v14841` [Prison Architect #34](https://sovietscloset.com/video/14841)
+- Added `v14842` [Prison Architect #35](https://sovietscloset.com/video/14842)
+
+### Added Game [Star Wars: Supremacy](https://sovietscloset.com/Star-Wars-Supremacy)
+
+#### Added Playlist [Star Wars: Supremacy](https://sovietscloset.com/Star-Wars-Supremacy)
+
+##### Videos
+
+- Added `v14847` [Star Wars: Supremacy #1](https://sovietscloset.com/video/14847)
+- Added `v14846` [Star Wars: Supremacy #2](https://sovietscloset.com/video/14846)
+- Added `v14848` [Star Wars: Supremacy #3](https://sovietscloset.com/video/14848)
+- Added `v14853` [Star Wars: Supremacy #4](https://sovietscloset.com/video/14853)
+- Added `v14854` [Star Wars: Supremacy #5](https://sovietscloset.com/video/14854)
+- Added `v14852` [Star Wars: Supremacy #6](https://sovietscloset.com/video/14852)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Modified `v14825` [Team Fortress 2 #147](https://sovietscloset.com/video/14825)
+  - Is no longer marked as new.
+- Added `v14845` [Team Fortress 2 #148](https://sovietscloset.com/video/14845) (new)
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Modified `v14837` [VR Blade & Sorcery #60](https://sovietscloset.com/video/14837)
+  - Is no longer marked as new.
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v14857` [VR Walkabout Mini Golf #21](https://sovietscloset.com/video/14857)
+- Added `v14856` [VR Walkabout Mini Golf #22](https://sovietscloset.com/video/14856)
+- Added `v14855` [VR Walkabout Mini Golf #23](https://sovietscloset.com/video/14855)
+- Modified `v14826` [VR Walkabout Mini Golf #24](https://sovietscloset.com/video/14826)
+  - Changed title from `VR Walkabout Mini Golf #21` to `VR Walkabout Mini Golf #24`
+  - Changed number from `21` to `24`
+  - Is no longer marked as new.
+
 ## 2023-07-22T19:14:24Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
