@@ -1184,6 +1184,12 @@
           {
             "id": 14824,
             "date": "2023-07-17 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14844,
+            "date": "2023-07-21 20:00",
             "new": true,
             "useBunny": true
           }
@@ -3244,7 +3250,7 @@
     "name": "Factorio",
     "slug": "Factorio",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1045,
@@ -3514,10 +3520,34 @@
             "date": "2022-06-28 11:19",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14840,
+            "date": "2023-07-24 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14849,
+            "date": "2023-07-24 20:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14850,
+            "date": "2023-07-25 11:10",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14851,
+            "date": "2023-07-25 20:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4216,7 +4246,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -5164,10 +5194,16 @@
             "date": "2023-05-18 20:37",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14843,
+            "date": "2023-07-20 20:49",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6997,7 +7033,7 @@
     "name": "Prison Architect",
     "slug": "Prison-Architect",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 2061,
@@ -7169,18 +7205,30 @@
           {
             "id": 14823,
             "date": "2023-07-17 11:41",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14822,
             "date": "2023-07-18 11:13",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14841,
+            "date": "2023-07-18 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14842,
+            "date": "2023-07-20 11:32",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -11169,6 +11217,60 @@
     ]
   },
   {
+    "id": 9088,
+    "name": "Star Wars: Supremacy",
+    "slug": "Star-Wars-Supremacy",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9109,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14847,
+            "date": "2023-05-10 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14846,
+            "date": "2023-05-10 21:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14848,
+            "date": "2023-05-10 21:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14853,
+            "date": "2023-05-11 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14854,
+            "date": "2023-05-12 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14852,
+            "date": "2023-05-12 20:17",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 7062,
     "name": "Startopia",
     "slug": "Startopia",
@@ -12923,6 +13025,12 @@
           {
             "id": 14825,
             "date": "2023-07-16 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14845,
+            "date": "2023-07-23 19:56",
             "new": true,
             "useBunny": true
           }
@@ -14954,7 +15062,7 @@
           {
             "id": 14837,
             "date": "2023-07-19 20:45",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -15490,7 +15598,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9100,
@@ -15618,14 +15726,32 @@
             "useBunny": true
           },
           {
+            "id": 14857,
+            "date": "2023-06-07 10:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14856,
+            "date": "2023-06-14 10:39",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14855,
+            "date": "2023-06-28 10:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14826,
             "date": "2023-07-19 10:42",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },

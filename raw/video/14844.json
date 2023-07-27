@@ -1,0 +1,26 @@
+{
+  "streamId": 14844,
+  "date": "2023-07-21 20:00",
+  "game": {
+    "name": "Battlebits",
+    "slug": "Battlebits"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14824,
+        "date": "2023-07-17 20:16"
+      },
+      {
+        "streamId": 14844,
+        "date": "2023-07-21 20:00"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "ac147e78-1549-4040-a490-dfa9b5a0bbc6",
+  "useBunny": true
+}

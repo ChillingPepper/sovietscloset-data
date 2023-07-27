@@ -1,0 +1,42 @@
+{
+  "streamId": 14852,
+  "date": "2023-05-12 20:17",
+  "game": {
+    "name": "Star Wars: Supremacy",
+    "slug": "Star-Wars-Supremacy"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14847,
+        "date": "2023-05-10 20:32"
+      },
+      {
+        "streamId": 14846,
+        "date": "2023-05-10 21:12"
+      },
+      {
+        "streamId": 14848,
+        "date": "2023-05-10 21:22"
+      },
+      {
+        "streamId": 14853,
+        "date": "2023-05-11 11:09"
+      },
+      {
+        "streamId": 14854,
+        "date": "2023-05-12 11:09"
+      },
+      {
+        "streamId": 14852,
+        "date": "2023-05-12 20:17"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "0e0d76c5-3dfa-465f-a258-d389f3146d11",
+  "useBunny": true
+}
