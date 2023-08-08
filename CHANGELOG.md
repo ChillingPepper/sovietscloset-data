@@ -1,5 +1,82 @@
 # Changelog
 
+## 2023-08-08T18:34:02Z
+
+### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Battlebits](https://sovietscloset.com/Battlebits)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14844` [Battlebits #2](https://sovietscloset.com/video/14844)
+  - Is no longer marked as new.
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14840` [Factorio #48](https://sovietscloset.com/video/14840)
+  - Is no longer marked as new.
+- Modified `v14849` [Factorio #49](https://sovietscloset.com/video/14849)
+  - Is no longer marked as new.
+- Modified `v14850` [Factorio #50](https://sovietscloset.com/video/14850)
+  - Is no longer marked as new.
+- Modified `v14851` [Factorio #51](https://sovietscloset.com/video/14851)
+  - Is no longer marked as new.
+- Added `v14858` [Factorio #52](https://sovietscloset.com/video/14858)
+- Added `v14859` [Factorio #53](https://sovietscloset.com/video/14859)
+- Added `v14860` [Factorio #54](https://sovietscloset.com/video/14860)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14843` [Holdfast: Nations at War #159](https://sovietscloset.com/video/14843)
+  - Is no longer marked as new.
+- Added `v14861` [Holdfast: Nations at War #160](https://sovietscloset.com/video/14861)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14845` [Team Fortress 2 #148](https://sovietscloset.com/video/14845)
+  - Is no longer marked as new.
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14836` [VR Blade & Sorcery #61](https://sovietscloset.com/video/14836)
+  - Is no longer marked as new.
+
 ## 2023-07-27T19:14:36Z
 
 ### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)

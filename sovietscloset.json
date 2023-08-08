@@ -1,5 +1,5 @@
 {
-  "timestamp": 1690485276,
+  "timestamp": 1691519642,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1717,7 +1717,7 @@
       "name": "Battlebits",
       "slug": "Battlebits",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Battlebits",
@@ -1725,7 +1725,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Battlebits #1",
@@ -1743,7 +1743,7 @@
               "date": "2023-07-21 20:00",
               "number": 2,
               "bunnyId": "ac147e78-1549-4040-a490-dfa9b5a0bbc6",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4719,7 +4719,7 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Factorio",
@@ -4727,7 +4727,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Factorio #2",
@@ -5132,7 +5132,7 @@
               "date": "2023-07-24 11:05",
               "number": 48,
               "bunnyId": "48c552db-4f8d-4560-9817-154e9ce67e50",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #49",
@@ -5141,7 +5141,7 @@
               "date": "2023-07-24 20:09",
               "number": 49,
               "bunnyId": "dbba7aba-e47e-4f1d-8f4c-0df5c7d2129c",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #50",
@@ -5150,7 +5150,7 @@
               "date": "2023-07-25 11:10",
               "number": 50,
               "bunnyId": "e659e79b-0ed0-4d79-8cc7-914f7f9fe7fa",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #51",
@@ -5159,7 +5159,34 @@
               "date": "2023-07-25 20:00",
               "number": 51,
               "bunnyId": "fdf28faa-f633-447f-b12b-2b04872aca66",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Factorio #52",
+              "url": "https://sovietscloset.com/video/14858",
+              "id": 14858,
+              "date": "2023-07-26 19:48",
+              "number": 52,
+              "bunnyId": "ee187eec-7720-474b-ba0e-e0be597f1fe8",
+              "new": false
+            },
+            {
+              "title": "Factorio #53",
+              "url": "https://sovietscloset.com/video/14859",
+              "id": 14859,
+              "date": "2023-07-28 11:14",
+              "number": 53,
+              "bunnyId": "09ee9550-c8c0-4fee-89fa-7c45dbbca6cd",
+              "new": false
+            },
+            {
+              "title": "Factorio #54",
+              "url": "https://sovietscloset.com/video/14860",
+              "id": 14860,
+              "date": "2023-07-28 20:21",
+              "number": 54,
+              "bunnyId": "c971e200-d892-4b2d-96ce-12b44eabcdd8",
+              "new": false
             }
           ]
         }
@@ -6115,7 +6142,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6123,7 +6150,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7545,7 +7572,16 @@
               "date": "2023-07-20 20:49",
               "number": 159,
               "bunnyId": "62a74593-c63b-4863-819d-c37ce9d51d09",
-              "new": true
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #160",
+              "url": "https://sovietscloset.com/video/14861",
+              "id": 14861,
+              "date": "2023-07-27 20:51",
+              "number": 160,
+              "bunnyId": "81290b55-e4b9-4aaf-b83f-6a095fa8d167",
+              "new": false
             }
           ]
         }
@@ -17684,7 +17720,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -17692,7 +17728,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -18997,7 +19033,7 @@
               "date": "2023-07-23 19:56",
               "number": 148,
               "bunnyId": "1c8506c7-b8c1-4300-97ca-76e5c41e28bd",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -21412,7 +21448,7 @@
       "name": "VR Blade & Sorcery",
       "slug": "VR-Blade-Sorcery",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "VR Blade & Sorcery",
@@ -21420,7 +21456,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "VR Blade & Sorcery #1",
@@ -21951,7 +21987,7 @@
               "date": "2023-07-21 11:18",
               "number": 61,
               "bunnyId": "ee3d55cb-1a38-44f0-b30e-99786412b55e",
-              "new": true
+              "new": false
             }
           ]
         }
