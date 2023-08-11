@@ -12181,7 +12181,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -13057,10 +13057,22 @@
             "date": "2023-07-23 19:56",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14862,
+            "date": "2023-07-30 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14863,
+            "date": "2023-08-06 19:51",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -13703,6 +13715,72 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9089,
+    "name": "Thief 3: Deadly Shadows",
+    "slug": "Thief-3-Deadly-Shadows",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9110,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14867,
+            "date": "2023-08-02 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14864,
+            "date": "2023-08-03 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14866,
+            "date": "2023-08-03 21:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14865,
+            "date": "2023-08-04 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14868,
+            "date": "2023-08-04 20:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14871,
+            "date": "2023-08-07 11:16",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14870,
+            "date": "2023-08-08 11:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14869,
+            "date": "2023-08-08 20:23",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },

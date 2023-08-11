@@ -1,0 +1,50 @@
+{
+  "streamId": 14868,
+  "date": "2023-08-04 20:11",
+  "game": {
+    "name": "Thief 3: Deadly Shadows",
+    "slug": "Thief-3-Deadly-Shadows"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14867,
+        "date": "2023-08-02 20:16"
+      },
+      {
+        "streamId": 14864,
+        "date": "2023-08-03 11:01"
+      },
+      {
+        "streamId": 14866,
+        "date": "2023-08-03 21:01"
+      },
+      {
+        "streamId": 14865,
+        "date": "2023-08-04 11:04"
+      },
+      {
+        "streamId": 14868,
+        "date": "2023-08-04 20:11"
+      },
+      {
+        "streamId": 14871,
+        "date": "2023-08-07 11:16"
+      },
+      {
+        "streamId": 14870,
+        "date": "2023-08-08 11:09"
+      },
+      {
+        "streamId": 14869,
+        "date": "2023-08-08 20:23"
+      }
+    ]
+  },
+  "number": 5,
+  "bunnyId": "2b1ec5ef-962d-4b73-b3f3-bbffc69262dd",
+  "useBunny": true
+}
