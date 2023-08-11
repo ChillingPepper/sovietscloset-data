@@ -1,5 +1,35 @@
 # Changelog
 
+## 2023-08-11T17:58:27Z
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14862` [Team Fortress 2 #149](https://sovietscloset.com/video/14862)
+- Added `v14863` [Team Fortress 2 #150](https://sovietscloset.com/video/14863) (new)
+
+### Added Game [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+#### Added Playlist [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+##### Videos
+
+- Added `v14867` [Thief 3: Deadly Shadows #1](https://sovietscloset.com/video/14867)
+- Added `v14864` [Thief 3: Deadly Shadows #2](https://sovietscloset.com/video/14864)
+- Added `v14866` [Thief 3: Deadly Shadows #3](https://sovietscloset.com/video/14866)
+- Added `v14865` [Thief 3: Deadly Shadows #4](https://sovietscloset.com/video/14865)
+- Added `v14868` [Thief 3: Deadly Shadows #5](https://sovietscloset.com/video/14868) (new)
+- Added `v14871` [Thief 3: Deadly Shadows #6](https://sovietscloset.com/video/14871) (new)
+- Added `v14870` [Thief 3: Deadly Shadows #7](https://sovietscloset.com/video/14870) (new)
+- Added `v14869` [Thief 3: Deadly Shadows #8](https://sovietscloset.com/video/14869) (new)
+
 ## 2023-08-08T18:34:02Z
 
 ### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)

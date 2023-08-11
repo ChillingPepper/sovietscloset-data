@@ -1,5 +1,5 @@
 {
-  "timestamp": 1691519642,
+  "timestamp": 1691776707,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -17720,7 +17720,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -17728,7 +17728,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -19034,6 +19034,24 @@
               "number": 148,
               "bunnyId": "1c8506c7-b8c1-4300-97ca-76e5c41e28bd",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #149",
+              "url": "https://sovietscloset.com/video/14862",
+              "id": 14862,
+              "date": "2023-07-30 19:58",
+              "number": 149,
+              "bunnyId": "96a303da-4057-44da-96e0-200478860359",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #150",
+              "url": "https://sovietscloset.com/video/14863",
+              "id": 14863,
+              "date": "2023-08-06 19:51",
+              "number": 150,
+              "bunnyId": "8cf10830-b29a-49b2-954d-332e450656fb",
+              "new": true
             }
           ]
         }
@@ -19962,6 +19980,98 @@
               "number": 7,
               "bunnyId": "35370830-90d9-486c-8dae-ca6af44f2df0",
               "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Thief 3: Deadly Shadows",
+      "url": "https://sovietscloset.com/Thief-3-Deadly-Shadows",
+      "name": "Thief 3: Deadly Shadows",
+      "slug": "Thief-3-Deadly-Shadows",
+      "enabled": true,
+      "recentlyUpdated": true,
+      "playlists": [
+        {
+          "title": "Thief 3: Deadly Shadows",
+          "url": "https://sovietscloset.com/Thief-3-Deadly-Shadows",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Thief 3: Deadly Shadows #1",
+              "url": "https://sovietscloset.com/video/14867",
+              "id": 14867,
+              "date": "2023-08-02 20:16",
+              "number": 1,
+              "bunnyId": "2d69df7a-3c06-489a-a703-3a1c7f8f8ca3",
+              "new": false
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #2",
+              "url": "https://sovietscloset.com/video/14864",
+              "id": 14864,
+              "date": "2023-08-03 11:01",
+              "number": 2,
+              "bunnyId": "88dc9377-7a0e-4f50-9e9d-1f241321d7ef",
+              "new": false
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #3",
+              "url": "https://sovietscloset.com/video/14866",
+              "id": 14866,
+              "date": "2023-08-03 21:01",
+              "number": 3,
+              "bunnyId": "29f4b923-8e54-42bf-a445-e82d1c5cb3dd",
+              "new": false
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #4",
+              "url": "https://sovietscloset.com/video/14865",
+              "id": 14865,
+              "date": "2023-08-04 11:04",
+              "number": 4,
+              "bunnyId": "a05641f9-a4bd-4399-bffc-3e7ef65c8df4",
+              "new": false
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #5",
+              "url": "https://sovietscloset.com/video/14868",
+              "id": 14868,
+              "date": "2023-08-04 20:11",
+              "number": 5,
+              "bunnyId": "2b1ec5ef-962d-4b73-b3f3-bbffc69262dd",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #6",
+              "url": "https://sovietscloset.com/video/14871",
+              "id": 14871,
+              "date": "2023-08-07 11:16",
+              "number": 6,
+              "bunnyId": "82041e5f-fe5e-45ab-8d06-386b4713ac80",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #7",
+              "url": "https://sovietscloset.com/video/14870",
+              "id": 14870,
+              "date": "2023-08-08 11:09",
+              "number": 7,
+              "bunnyId": "ca7dee1c-b31d-4e5d-9d0f-785d2db2d94f",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #8",
+              "url": "https://sovietscloset.com/video/14869",
+              "id": 14869,
+              "date": "2023-08-08 20:23",
+              "number": 8,
+              "bunnyId": "013f5150-764a-45ce-a18e-935a04029725",
+              "new": true
             }
           ]
         }
