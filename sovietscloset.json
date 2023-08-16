@@ -1,5 +1,5 @@
 {
-  "timestamp": 1691776707,
+  "timestamp": 1692215752,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -8808,6 +8808,25 @@
               "date": "2021-09-03 20:29",
               "number": 1,
               "bunnyId": "e2dcc4e7-1d4b-4d74-9370-23d1ed65b346",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Left 4 Dead 2 - Coop",
+          "url": "https://sovietscloset.com/Left-4-Dead-2/Coop",
+          "name": "Coop",
+          "slug": "Coop",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Left 4 Dead 2 - Coop #1",
+              "url": "https://sovietscloset.com/video/14876",
+              "id": 14876,
+              "date": "2023-08-07 19:58",
+              "number": 1,
+              "bunnyId": "6290701e-d536-42de-b5ff-8452d2b7ebdb",
               "new": false
             }
           ]
@@ -17720,7 +17739,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -17728,7 +17747,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -19051,7 +19070,7 @@
               "date": "2023-08-06 19:51",
               "number": 150,
               "bunnyId": "8cf10830-b29a-49b2-954d-332e450656fb",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -20044,7 +20063,7 @@
               "date": "2023-08-04 20:11",
               "number": 5,
               "bunnyId": "2b1ec5ef-962d-4b73-b3f3-bbffc69262dd",
-              "new": true
+              "new": false
             },
             {
               "title": "Thief 3: Deadly Shadows #6",
@@ -20053,7 +20072,7 @@
               "date": "2023-08-07 11:16",
               "number": 6,
               "bunnyId": "82041e5f-fe5e-45ab-8d06-386b4713ac80",
-              "new": true
+              "new": false
             },
             {
               "title": "Thief 3: Deadly Shadows #7",
@@ -20062,7 +20081,7 @@
               "date": "2023-08-08 11:09",
               "number": 7,
               "bunnyId": "ca7dee1c-b31d-4e5d-9d0f-785d2db2d94f",
-              "new": true
+              "new": false
             },
             {
               "title": "Thief 3: Deadly Shadows #8",
@@ -20071,6 +20090,42 @@
               "date": "2023-08-08 20:23",
               "number": 8,
               "bunnyId": "013f5150-764a-45ce-a18e-935a04029725",
+              "new": false
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #9",
+              "url": "https://sovietscloset.com/video/14873",
+              "id": 14873,
+              "date": "2023-08-11 11:01",
+              "number": 9,
+              "bunnyId": "edacae12-ab0c-4ec8-9a1d-b165f57be002",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #10",
+              "url": "https://sovietscloset.com/video/14872",
+              "id": 14872,
+              "date": "2023-08-14 11:03",
+              "number": 10,
+              "bunnyId": "6089e994-874d-4fbe-8f51-2a73ca8015e6",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #11",
+              "url": "https://sovietscloset.com/video/14875",
+              "id": 14875,
+              "date": "2023-08-14 20:04",
+              "number": 11,
+              "bunnyId": "e8ad19b8-c435-4bfb-ab92-e9e38294b003",
+              "new": true
+            },
+            {
+              "title": "Thief 3: Deadly Shadows #12",
+              "url": "https://sovietscloset.com/video/14874",
+              "id": 14874,
+              "date": "2023-08-15 11:09",
+              "number": 12,
+              "bunnyId": "0421178b-33e2-4fb8-a122-3d4c84168673",
               "new": true
             }
           ]
