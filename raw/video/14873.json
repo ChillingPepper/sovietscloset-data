@@ -1,6 +1,6 @@
 {
-  "streamId": 14870,
-  "date": "2023-08-08 11:09",
+  "streamId": 14873,
+  "date": "2023-08-11 11:01",
   "game": {
     "name": "Thief 3: Deadly Shadows",
     "slug": "Thief-3-Deadly-Shadows"
@@ -60,7 +60,7 @@
       }
     ]
   },
-  "number": 7,
-  "bunnyId": "ca7dee1c-b31d-4e5d-9d0f-785d2db2d94f",
+  "number": 9,
+  "bunnyId": "edacae12-ab0c-4ec8-9a1d-b165f57be002",
   "useBunny": true
 }

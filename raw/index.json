@@ -6074,6 +6074,21 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9111,
+        "name": "Coop",
+        "slug": "Coop",
+        "streams": [
+          {
+            "id": 14876,
+            "date": "2023-08-07 19:58",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -12181,7 +12196,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -13067,12 +13082,12 @@
           {
             "id": 14863,
             "date": "2023-08-06 19:51",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -13757,24 +13772,48 @@
           {
             "id": 14868,
             "date": "2023-08-04 20:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14871,
             "date": "2023-08-07 11:16",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14870,
             "date": "2023-08-08 11:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14869,
             "date": "2023-08-08 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14873,
+            "date": "2023-08-11 11:01",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14872,
+            "date": "2023-08-14 11:03",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14875,
+            "date": "2023-08-14 20:04",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 14874,
+            "date": "2023-08-15 11:09",
             "new": true,
             "useBunny": true
           }
