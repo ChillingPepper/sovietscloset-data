@@ -1,5 +1,37 @@
 # Changelog
 
+## 2023-08-18T18:30:45Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v14877` [Factorio #55](https://sovietscloset.com/video/14877)
+
+### Modified Game [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+#### Modified Playlist [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+##### Videos
+
+- Added `v14878` [Thief 3: Deadly Shadows #9](https://sovietscloset.com/video/14878)
+- Modified `v14873` [Thief 3: Deadly Shadows #10](https://sovietscloset.com/video/14873)
+  - Changed title from `Thief 3: Deadly Shadows #9` to `Thief 3: Deadly Shadows #10`
+  - Changed number from `9` to `10`
+  - Is no longer marked as new.
+- Modified `v14872` [Thief 3: Deadly Shadows #11](https://sovietscloset.com/video/14872) (new)
+  - Changed title from `Thief 3: Deadly Shadows #10` to `Thief 3: Deadly Shadows #11`
+  - Changed number from `10` to `11`
+- Modified `v14875` [Thief 3: Deadly Shadows #12](https://sovietscloset.com/video/14875) (new)
+  - Changed title from `Thief 3: Deadly Shadows #11` to `Thief 3: Deadly Shadows #12`
+  - Changed number from `11` to `12`
+- Modified `v14874` [Thief 3: Deadly Shadows #13](https://sovietscloset.com/video/14874) (new)
+  - Changed title from `Thief 3: Deadly Shadows #12` to `Thief 3: Deadly Shadows #13`
+  - Changed number from `12` to `13`
+- Added `v14879` [Thief 3: Deadly Shadows #14](https://sovietscloset.com/video/14879) (new)
+
 ## 2023-08-16T19:55:52Z
 
 ### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
