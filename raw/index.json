@@ -7066,6 +7066,36 @@
             "date": "2023-06-02 11:11",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14883,
+            "date": "2023-06-02 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14884,
+            "date": "2023-06-03 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14881,
+            "date": "2023-06-05 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14882,
+            "date": "2023-06-05 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14880,
+            "date": "2023-06-06 20:26",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -13744,7 +13774,7 @@
     "name": "Thief 3: Deadly Shadows",
     "slug": "Thief-3-Deadly-Shadows",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9110,
@@ -13814,30 +13844,30 @@
           {
             "id": 14872,
             "date": "2023-08-14 11:03",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14875,
             "date": "2023-08-14 20:04",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14874,
             "date": "2023-08-15 11:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 14879,
             "date": "2023-08-15 20:02",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
