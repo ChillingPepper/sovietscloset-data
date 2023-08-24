@@ -1,5 +1,38 @@
 # Changelog
 
+## 2023-08-24T19:44:36Z
+
+### Modified Game [Prey](https://sovietscloset.com/Prey)
+
+#### Modified Playlist [Prey](https://sovietscloset.com/Prey)
+
+##### Videos
+
+- Added `v14883` [Prey #9](https://sovietscloset.com/video/14883)
+- Added `v14884` [Prey #10](https://sovietscloset.com/video/14884)
+- Added `v14881` [Prey #11](https://sovietscloset.com/video/14881)
+- Added `v14882` [Prey #12](https://sovietscloset.com/video/14882)
+- Added `v14880` [Prey #13](https://sovietscloset.com/video/14880)
+
+### Modified Game [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14872` [Thief 3: Deadly Shadows #11](https://sovietscloset.com/video/14872)
+  - Is no longer marked as new.
+- Modified `v14875` [Thief 3: Deadly Shadows #12](https://sovietscloset.com/video/14875)
+  - Is no longer marked as new.
+- Modified `v14874` [Thief 3: Deadly Shadows #13](https://sovietscloset.com/video/14874)
+  - Is no longer marked as new.
+- Modified `v14879` [Thief 3: Deadly Shadows #14](https://sovietscloset.com/video/14879)
+  - Is no longer marked as new.
+
 ## 2023-08-18T18:30:45Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)
