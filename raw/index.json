@@ -4270,7 +4270,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -5220,6 +5220,48 @@
             "useBunny": true
           },
           {
+            "id": 14897,
+            "date": "2023-05-25 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14896,
+            "date": "2023-06-01 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14895,
+            "date": "2023-06-08 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14905,
+            "date": "2023-06-15 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14907,
+            "date": "2023-06-22 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14908,
+            "date": "2023-06-29 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14906,
+            "date": "2023-07-13 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14843,
             "date": "2023-07-20 20:49",
             "new": false,
@@ -5230,10 +5272,22 @@
             "date": "2023-07-27 20:51",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14887,
+            "date": "2023-08-10 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14885,
+            "date": "2023-08-24 20:56",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5419,6 +5473,12 @@
           },
           {
             "id": 14821,
+            "date": "2023-05-16 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14894,
             "date": "2023-05-16 20:00",
             "new": false,
             "useBunny": true
@@ -9352,6 +9412,66 @@
             "date": "2023-03-29 20:24",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14888,
+            "date": "2023-06-06 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14890,
+            "date": "2023-06-07 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14889,
+            "date": "2023-06-08 11:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14898,
+            "date": "2023-06-09 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14900,
+            "date": "2023-06-09 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14899,
+            "date": "2023-06-12 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14902,
+            "date": "2023-06-12 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14901,
+            "date": "2023-06-13 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14904,
+            "date": "2023-06-13 20:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14903,
+            "date": "2023-06-15 11:09",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -11254,6 +11374,24 @@
             "date": "2022-12-12 11:20",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14910,
+            "date": "2023-06-16 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14911,
+            "date": "2023-06-16 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14909,
+            "date": "2023-06-19 10:59",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -13098,6 +13236,24 @@
             "useBunny": true
           },
           {
+            "id": 14891,
+            "date": "2023-05-28 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14892,
+            "date": "2023-06-04 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14893,
+            "date": "2023-06-11 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14825,
             "date": "2023-07-16 20:05",
             "new": false,
@@ -13832,6 +13988,12 @@
           {
             "id": 14878,
             "date": "2023-08-09 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14886,
+            "date": "2023-08-09 19:56",
             "new": false,
             "useBunny": true
           },
