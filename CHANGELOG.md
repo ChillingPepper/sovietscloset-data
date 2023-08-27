@@ -1,5 +1,116 @@
 # Changelog
 
+## 2023-08-27T21:34:31Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14897` [Holdfast: Nations at War #159](https://sovietscloset.com/video/14897)
+- Added `v14896` [Holdfast: Nations at War #160](https://sovietscloset.com/video/14896)
+- Added `v14895` [Holdfast: Nations at War #161](https://sovietscloset.com/video/14895)
+- Added `v14905` [Holdfast: Nations at War #162](https://sovietscloset.com/video/14905)
+- Added `v14907` [Holdfast: Nations at War #163](https://sovietscloset.com/video/14907)
+- Added `v14908` [Holdfast: Nations at War #164](https://sovietscloset.com/video/14908)
+- Added `v14906` [Holdfast: Nations at War #165](https://sovietscloset.com/video/14906)
+- Modified `v14843` [Holdfast: Nations at War #166](https://sovietscloset.com/video/14843)
+  - Changed title from `Holdfast: Nations at War #159` to `Holdfast: Nations at War #166`
+  - Changed number from `159` to `166`
+- Modified `v14861` [Holdfast: Nations at War #167](https://sovietscloset.com/video/14861)
+  - Changed title from `Holdfast: Nations at War #160` to `Holdfast: Nations at War #167`
+  - Changed number from `160` to `167`
+- Added `v14887` [Holdfast: Nations at War #168](https://sovietscloset.com/video/14887)
+- Added `v14885` [Holdfast: Nations at War #169](https://sovietscloset.com/video/14885) (new)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v14894` [Just Chatting #17](https://sovietscloset.com/video/14894)
+- Modified `v14821` [Just Chatting #17](https://sovietscloset.com/video/14821)
+  - Changed title from `Just Chatting #16` to `Just Chatting #17`
+  - Changed number from `16` to `17`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v14888` [Rimworld - The Pale Ones #77](https://sovietscloset.com/video/14888)
+- Added `v14890` [Rimworld - The Pale Ones #78](https://sovietscloset.com/video/14890)
+- Added `v14889` [Rimworld - The Pale Ones #79](https://sovietscloset.com/video/14889)
+- Added `v14898` [Rimworld - The Pale Ones #80](https://sovietscloset.com/video/14898)
+- Added `v14900` [Rimworld - The Pale Ones #81](https://sovietscloset.com/video/14900)
+- Added `v14899` [Rimworld - The Pale Ones #82](https://sovietscloset.com/video/14899)
+- Added `v14902` [Rimworld - The Pale Ones #83](https://sovietscloset.com/video/14902)
+- Added `v14901` [Rimworld - The Pale Ones #84](https://sovietscloset.com/video/14901)
+- Added `v14904` [Rimworld - The Pale Ones #85](https://sovietscloset.com/video/14904)
+- Added `v14903` [Rimworld - The Pale Ones #86](https://sovietscloset.com/video/14903)
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v14910` [Space Engineers #81](https://sovietscloset.com/video/14910)
+- Added `v14911` [Space Engineers #82](https://sovietscloset.com/video/14911)
+- Added `v14909` [Space Engineers #83](https://sovietscloset.com/video/14909)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14891` [Team Fortress 2 #147](https://sovietscloset.com/video/14891)
+- Added `v14892` [Team Fortress 2 #148](https://sovietscloset.com/video/14892)
+- Added `v14893` [Team Fortress 2 #149](https://sovietscloset.com/video/14893)
+- Modified `v14825` [Team Fortress 2 #150](https://sovietscloset.com/video/14825)
+  - Changed title from `Team Fortress 2 #147` to `Team Fortress 2 #150`
+  - Changed number from `147` to `150`
+- Modified `v14845` [Team Fortress 2 #151](https://sovietscloset.com/video/14845)
+  - Changed title from `Team Fortress 2 #148` to `Team Fortress 2 #151`
+  - Changed number from `148` to `151`
+- Modified `v14862` [Team Fortress 2 #152](https://sovietscloset.com/video/14862)
+  - Changed title from `Team Fortress 2 #149` to `Team Fortress 2 #152`
+  - Changed number from `149` to `152`
+- Modified `v14863` [Team Fortress 2 #153](https://sovietscloset.com/video/14863)
+  - Changed title from `Team Fortress 2 #150` to `Team Fortress 2 #153`
+  - Changed number from `150` to `153`
+
+### Modified Game [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+#### Modified Playlist [Thief 3: Deadly Shadows](https://sovietscloset.com/Thief-3-Deadly-Shadows)
+
+##### Videos
+
+- Added `v14886` [Thief 3: Deadly Shadows #10](https://sovietscloset.com/video/14886)
+- Modified `v14873` [Thief 3: Deadly Shadows #11](https://sovietscloset.com/video/14873)
+  - Changed title from `Thief 3: Deadly Shadows #10` to `Thief 3: Deadly Shadows #11`
+  - Changed number from `10` to `11`
+- Modified `v14872` [Thief 3: Deadly Shadows #12](https://sovietscloset.com/video/14872)
+  - Changed title from `Thief 3: Deadly Shadows #11` to `Thief 3: Deadly Shadows #12`
+  - Changed number from `11` to `12`
+- Modified `v14875` [Thief 3: Deadly Shadows #13](https://sovietscloset.com/video/14875)
+  - Changed title from `Thief 3: Deadly Shadows #12` to `Thief 3: Deadly Shadows #13`
+  - Changed number from `12` to `13`
+- Modified `v14874` [Thief 3: Deadly Shadows #14](https://sovietscloset.com/video/14874)
+  - Changed title from `Thief 3: Deadly Shadows #13` to `Thief 3: Deadly Shadows #14`
+  - Changed number from `13` to `14`
+- Modified `v14879` [Thief 3: Deadly Shadows #15](https://sovietscloset.com/video/14879)
+  - Changed title from `Thief 3: Deadly Shadows #14` to `Thief 3: Deadly Shadows #15`
+  - Changed number from `14` to `15`
+
 ## 2023-08-24T19:44:36Z
 
 ### Modified Game [Prey](https://sovietscloset.com/Prey)

@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-08-24T19:44:36Z.
+Last updated at 2023-08-27T21:34:31Z.
 
 ## Wrong Tags
 
@@ -113,6 +113,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #135
   - Holdfast: Nations at War #137
   - Holdfast: Nations at War #139
+- [Just Chatting](https://sovietscloset.com/Just-Chatting)
+  - Just Chatting #16
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
   - Kerbal Space Program #19
   - Kerbal Space Program #27
@@ -575,6 +577,9 @@ This list includes all videos that have the same date.
 - Date: 2023-03-12 19:59
   - [Team Fortress 2 #136](https://sovietscloset.com/video/14667) (id: 14667)
   - [Team Fortress 2 #136](https://sovietscloset.com/video/14689) (id: 14689)
+- Date: 2023-05-16 20:00
+  - [Just Chatting #17](https://sovietscloset.com/video/14821) (id: 14821)
+  - [Just Chatting #17](https://sovietscloset.com/video/14894) (id: 14894)
 
 ### Dupes by Number
 
@@ -654,6 +659,8 @@ This list includes all videos that have the same number.
   - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14702) (id: 14702)
   - [Valheim - The Village of Knobheim #15](https://sovietscloset.com/video/14718) (id: 14718)
 - Number: 17
+  - [Just Chatting #17](https://sovietscloset.com/video/14821) (id: 14821)
+  - [Just Chatting #17](https://sovietscloset.com/video/14894) (id: 14894)
   - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/13085) (id: 13085)
   - [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/4686) (id: 4686)
 - Number: 18
