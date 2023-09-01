@@ -4270,7 +4270,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -5282,12 +5282,12 @@
           {
             "id": 14885,
             "date": "2023-08-24 20:56",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -11392,6 +11392,12 @@
             "date": "2023-06-19 10:59",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14913,
+            "date": "2023-06-21 20:20",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -13250,6 +13256,12 @@
           {
             "id": 14893,
             "date": "2023-06-11 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14912,
+            "date": "2023-06-18 19:59",
             "new": false,
             "useBunny": true
           },
