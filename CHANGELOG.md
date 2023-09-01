@@ -1,5 +1,48 @@
 # Changelog
 
+## 2023-09-01T19:33:48Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14885` [Holdfast: Nations at War #169](https://sovietscloset.com/video/14885)
+  - Is no longer marked as new.
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v14913` [Space Engineers #86](https://sovietscloset.com/video/14913)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14912` [Team Fortress 2 #150](https://sovietscloset.com/video/14912)
+- Modified `v14825` [Team Fortress 2 #151](https://sovietscloset.com/video/14825)
+  - Changed title from `Team Fortress 2 #150` to `Team Fortress 2 #151`
+  - Changed number from `150` to `151`
+- Modified `v14845` [Team Fortress 2 #152](https://sovietscloset.com/video/14845)
+  - Changed title from `Team Fortress 2 #151` to `Team Fortress 2 #152`
+  - Changed number from `151` to `152`
+- Modified `v14862` [Team Fortress 2 #153](https://sovietscloset.com/video/14862)
+  - Changed title from `Team Fortress 2 #152` to `Team Fortress 2 #153`
+  - Changed number from `152` to `153`
+- Modified `v14863` [Team Fortress 2 #154](https://sovietscloset.com/video/14863)
+  - Changed title from `Team Fortress 2 #153` to `Team Fortress 2 #154`
+  - Changed number from `153` to `154`
+
 ## 2023-08-27T21:34:31Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)

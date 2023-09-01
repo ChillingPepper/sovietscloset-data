@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-08-27T21:34:31Z.
+Last updated at 2023-09-01T19:33:48Z.
 
 ## Wrong Tags
 
@@ -164,6 +164,8 @@ Missing videos are only detected if they are followed by a video that is already
   - Space Engineers #36
   - Space Engineers #38
   - Space Engineers #57
+  - Space Engineers #84
+  - Space Engineers #85
 - [Stellaris - The Gardener's Tended](https://sovietscloset.com/Stellaris/The-Gardener-s-Tended)
   - Stellaris - The Gardener's Tended #14
 - [Subnautica](https://sovietscloset.com/Subnautica)
