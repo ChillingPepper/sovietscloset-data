@@ -1,5 +1,118 @@
 # Changelog
 
+## 2023-09-09T07:30:08Z
+
+### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)
+
+#### Modified Playlist [Battlebits](https://sovietscloset.com/Battlebits)
+
+##### Videos
+
+- Added `v14929` [Battlebits #1](https://sovietscloset.com/video/14929)
+- Added `v14930` [Battlebits #2](https://sovietscloset.com/video/14930)
+- Modified `v14824` [Battlebits #3](https://sovietscloset.com/video/14824)
+  - Changed title from `Battlebits #1` to `Battlebits #3`
+  - Changed number from `1` to `3`
+- Modified `v14844` [Battlebits #4](https://sovietscloset.com/video/14844)
+  - Changed title from `Battlebits #2` to `Battlebits #4`
+  - Changed number from `2` to `4`
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Added Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v14935` [Left 4 Dead 2 - Versus #1](https://sovietscloset.com/video/14935)
+
+### Modified Game [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+#### Modified Playlist [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+##### Videos
+
+- Added `v14940` [Player Unknown's Battlegrounds #1](https://sovietscloset.com/video/14940)
+- Added `v14943` [Player Unknown's Battlegrounds #2](https://sovietscloset.com/video/14943)
+- Added `v14939` [Player Unknown's Battlegrounds #3](https://sovietscloset.com/video/14939)
+- Added `v14941` [Player Unknown's Battlegrounds #4](https://sovietscloset.com/video/14941)
+- Added `v14942` [Player Unknown's Battlegrounds #5](https://sovietscloset.com/video/14942)
+- Added `v14946` [Player Unknown's Battlegrounds #6](https://sovietscloset.com/video/14946)
+- Added `v14945` [Player Unknown's Battlegrounds #7](https://sovietscloset.com/video/14945)
+- Added `v14944` [Player Unknown's Battlegrounds #8](https://sovietscloset.com/video/14944)
+- Modified `v1448` [Player Unknown's Battlegrounds #10](https://sovietscloset.com/video/1448)
+  - Changed title from `Player Unknown's Battlegrounds #2` to `Player Unknown's Battlegrounds #10`
+  - Changed number from `2` to `10`
+- Modified `v1537` [Player Unknown's Battlegrounds #11](https://sovietscloset.com/video/1537)
+  - Changed title from `Player Unknown's Battlegrounds #3` to `Player Unknown's Battlegrounds #11`
+  - Changed number from `3` to `11`
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v14921` [Silent Hunter 3 #61](https://sovietscloset.com/video/14921)
+- Added `v14922` [Silent Hunter 3 #62](https://sovietscloset.com/video/14922)
+- Added `v14923` [Silent Hunter 3 #63](https://sovietscloset.com/video/14923)
+- Added `v14924` [Silent Hunter 3 #64](https://sovietscloset.com/video/14924)
+- Added `v14925` [Silent Hunter 3 #65](https://sovietscloset.com/video/14925)
+- Added `v14928` [Silent Hunter 3 #66](https://sovietscloset.com/video/14928)
+- Added `v14926` [Silent Hunter 3 #67](https://sovietscloset.com/video/14926)
+- Added `v14927` [Silent Hunter 3 #68](https://sovietscloset.com/video/14927)
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v14916` [Space Engineers #84](https://sovietscloset.com/video/14916)
+- Added `v14917` [Space Engineers #85](https://sovietscloset.com/video/14917)
+- Added `v14918` [Space Engineers #86](https://sovietscloset.com/video/14918)
+- Modified `v14913` [Space Engineers #87](https://sovietscloset.com/video/14913)
+  - Changed title from `Space Engineers #86` to `Space Engineers #87`
+  - Changed number from `86` to `87`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14919` [Team Fortress 2 #151](https://sovietscloset.com/video/14919)
+- Added `v14920` [Team Fortress 2 #152](https://sovietscloset.com/video/14920)
+- Modified `v14825` [Team Fortress 2 #153](https://sovietscloset.com/video/14825)
+  - Changed title from `Team Fortress 2 #151` to `Team Fortress 2 #153`
+  - Changed number from `151` to `153`
+- Modified `v14845` [Team Fortress 2 #154](https://sovietscloset.com/video/14845)
+  - Changed title from `Team Fortress 2 #152` to `Team Fortress 2 #154`
+  - Changed number from `152` to `154`
+- Modified `v14862` [Team Fortress 2 #155](https://sovietscloset.com/video/14862)
+  - Changed title from `Team Fortress 2 #153` to `Team Fortress 2 #155`
+  - Changed number from `153` to `155`
+- Modified `v14863` [Team Fortress 2 #156](https://sovietscloset.com/video/14863)
+  - Changed title from `Team Fortress 2 #154` to `Team Fortress 2 #156`
+  - Changed number from `154` to `156`
+
+### Added Game [We Were Here](https://sovietscloset.com/We-Were-Here)
+
+#### Added Playlist [We Were Here](https://sovietscloset.com/We-Were-Here)
+
+##### Videos
+
+- Added `v14932` [We Were Here #1](https://sovietscloset.com/video/14932)
+- Added `v14931` [We Were Here #2](https://sovietscloset.com/video/14931)
+
+### Added Game [We Were Here Too](https://sovietscloset.com/We-Were-Here-Too)
+
+#### Added Playlist [We Were Here Too](https://sovietscloset.com/We-Were-Here-Too)
+
+##### Videos
+
+- Added `v14934` [We Were Here Too #1](https://sovietscloset.com/video/14934)
+- Added `v14933` [We Were Here Too #2](https://sovietscloset.com/video/14933)
+
 ## 2023-09-01T19:33:48Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
