@@ -1182,6 +1182,18 @@
         "slug": "Misc",
         "streams": [
           {
+            "id": 14929,
+            "date": "2023-07-12 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14930,
+            "date": "2023-07-14 11:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14824,
             "date": "2023-07-17 20:16",
             "new": false,
@@ -6155,6 +6167,21 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9114,
+        "name": "Versus",
+        "slug": "Versus",
+        "streams": [
+          {
+            "id": 14935,
+            "date": "2023-08-11 19:52",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -7025,6 +7052,54 @@
         "name": "Misc",
         "slug": "Misc",
         "streams": [
+          {
+            "id": 14940,
+            "date": "2017-03-24 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14943,
+            "date": "2017-03-24 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14939,
+            "date": "2017-03-25 18:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14941,
+            "date": "2017-03-25 22:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14942,
+            "date": "2017-03-26 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14946,
+            "date": "2017-03-26 16:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14945,
+            "date": "2017-03-28 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14944,
+            "date": "2017-03-29 20:34",
+            "new": false,
+            "useBunny": true
+          },
           {
             "id": 1448,
             "date": "2020-10-27 11:48",
@@ -10822,6 +10897,54 @@
             "date": "2022-12-02 11:25",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14921,
+            "date": "2023-07-03 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14922,
+            "date": "2023-07-03 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14923,
+            "date": "2023-07-04 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14924,
+            "date": "2023-07-04 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14925,
+            "date": "2023-07-05 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14928,
+            "date": "2023-07-05 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14926,
+            "date": "2023-07-06 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14927,
+            "date": "2023-07-06 20:52",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -11390,6 +11513,24 @@
           {
             "id": 14909,
             "date": "2023-06-19 10:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14916,
+            "date": "2023-06-19 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14917,
+            "date": "2023-06-20 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14918,
+            "date": "2023-06-21 11:14",
             "new": false,
             "useBunny": true
           },
@@ -13262,6 +13403,18 @@
           {
             "id": 14912,
             "date": "2023-06-18 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14919,
+            "date": "2023-06-25 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14920,
+            "date": "2023-07-02 19:55",
             "new": false,
             "useBunny": true
           },
@@ -16139,6 +16292,66 @@
           {
             "id": 1340,
             "date": "2020-10-10 20:50",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9090,
+    "name": "We Were Here",
+    "slug": "We-Were-Here",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9112,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14932,
+            "date": "2017-02-19 18:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14931,
+            "date": "2017-04-09 20:57",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9091,
+    "name": "We Were Here Too",
+    "slug": "We-Were-Here-Too",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9113,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 14934,
+            "date": "2020-02-16 16:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14933,
+            "date": "2020-02-18 20:01",
             "new": false,
             "useBunny": true
           }

@@ -1,0 +1,26 @@
+{
+  "streamId": 14934,
+  "date": "2020-02-16 16:58",
+  "game": {
+    "name": "We Were Here Too",
+    "slug": "We-Were-Here-Too"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14934,
+        "date": "2020-02-16 16:58"
+      },
+      {
+        "streamId": 14933,
+        "date": "2020-02-18 20:01"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "4f225ce2-58ee-42e1-99b7-fa38afc2a27c",
+  "useBunny": true
+}
