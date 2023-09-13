@@ -1,0 +1,30 @@
+{
+  "streamId": 14978,
+  "date": "2023-08-28 11:20",
+  "game": {
+    "name": "Stormworks: Build and Rescue",
+    "slug": "Stormworks-Build-and-Rescue"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14382,
+        "date": "2021-08-27 20:02"
+      },
+      {
+        "streamId": 14383,
+        "date": "2021-08-28 15:04"
+      },
+      {
+        "streamId": 14978,
+        "date": "2023-08-28 11:20"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "bd0c7582-ee9d-4ac4-9759-012d06acaa88",
+  "useBunny": true
+}

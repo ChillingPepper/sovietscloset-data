@@ -1,0 +1,38 @@
+{
+  "streamId": 14955,
+  "date": "2023-08-18 19:59",
+  "game": {
+    "name": "Left 4 Dead 2",
+    "slug": "Left-4-Dead-2"
+  },
+  "subcategory": {
+    "name": "Versus",
+    "slug": "Versus",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14935,
+        "date": "2023-08-11 19:52"
+      },
+      {
+        "streamId": 14955,
+        "date": "2023-08-18 19:59"
+      },
+      {
+        "streamId": 14975,
+        "date": "2023-08-25 20:09"
+      },
+      {
+        "streamId": 14976,
+        "date": "2023-09-01 19:58"
+      },
+      {
+        "streamId": 14977,
+        "date": "2023-09-08 20:02"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "bd9d6500-6791-4b56-bb21-f56f2f913879",
+  "useBunny": true
+}

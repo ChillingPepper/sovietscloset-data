@@ -5292,6 +5292,12 @@
             "useBunny": true
           },
           {
+            "id": 14951,
+            "date": "2023-08-17 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 14885,
             "date": "2023-08-24 20:56",
             "new": false,
@@ -6070,6 +6076,60 @@
             "date": "2023-04-21 11:16",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14949,
+            "date": "2023-08-17 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14950,
+            "date": "2023-08-17 12:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14952,
+            "date": "2023-08-18 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14953,
+            "date": "2023-08-19 15:48",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14954,
+            "date": "2023-08-20 10:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14970,
+            "date": "2023-08-21 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14971,
+            "date": "2023-08-22 20:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14973,
+            "date": "2023-08-23 11:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14974,
+            "date": "2023-08-25 11:20",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6136,7 +6196,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6068,
@@ -6163,6 +6223,24 @@
             "date": "2023-08-07 19:58",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14948,
+            "date": "2023-08-16 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14972,
+            "date": "2023-08-21 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14979,
+            "date": "2023-08-28 20:00",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6178,10 +6256,34 @@
             "date": "2023-08-11 19:52",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14955,
+            "date": "2023-08-18 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14975,
+            "date": "2023-08-25 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14976,
+            "date": "2023-09-01 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14977,
+            "date": "2023-09-08 20:02",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -7101,6 +7203,66 @@
             "useBunny": true
           },
           {
+            "id": 14957,
+            "date": "2017-03-30 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14958,
+            "date": "2017-04-01 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14956,
+            "date": "2017-04-02 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14959,
+            "date": "2017-04-22 12:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14962,
+            "date": "2017-04-23 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14964,
+            "date": "2017-04-24 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14960,
+            "date": "2017-04-25 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14961,
+            "date": "2017-04-26 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14963,
+            "date": "2017-04-26 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14965,
+            "date": "2017-04-27 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1448,
             "date": "2020-10-27 11:48",
             "new": false,
@@ -7861,7 +8023,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1004,
@@ -9547,10 +9709,16 @@
             "date": "2023-06-15 11:09",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14969,
+            "date": "2023-09-11 11:41",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -12169,6 +12337,12 @@
             "date": "2021-08-28 15:04",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14978,
+            "date": "2023-08-28 11:20",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -13439,6 +13613,30 @@
           {
             "id": 14863,
             "date": "2023-08-06 19:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14947,
+            "date": "2023-08-13 19:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14966,
+            "date": "2023-08-20 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14968,
+            "date": "2023-08-27 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14967,
+            "date": "2023-09-03 19:59",
             "new": false,
             "useBunny": true
           }
