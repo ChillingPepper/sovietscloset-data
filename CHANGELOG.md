@@ -1,5 +1,111 @@
 # Changelog
 
+## 2023-09-13T19:45:19Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v14951` [Holdfast: Nations at War #169](https://sovietscloset.com/video/14951)
+- Modified `v14885` [Holdfast: Nations at War #170](https://sovietscloset.com/video/14885)
+  - Changed title from `Holdfast: Nations at War #169` to `Holdfast: Nations at War #170`
+  - Changed number from `169` to `170`
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v14949` [Kerbal Space Program #96](https://sovietscloset.com/video/14949)
+- Added `v14950` [Kerbal Space Program #97](https://sovietscloset.com/video/14950)
+- Added `v14952` [Kerbal Space Program #98](https://sovietscloset.com/video/14952)
+- Added `v14953` [Kerbal Space Program #99](https://sovietscloset.com/video/14953)
+- Added `v14954` [Kerbal Space Program #100](https://sovietscloset.com/video/14954)
+- Added `v14970` [Kerbal Space Program #101](https://sovietscloset.com/video/14970)
+- Added `v14971` [Kerbal Space Program #102](https://sovietscloset.com/video/14971)
+- Added `v14973` [Kerbal Space Program #103](https://sovietscloset.com/video/14973)
+- Added `v14974` [Kerbal Space Program #104](https://sovietscloset.com/video/14974)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Coop](https://sovietscloset.com/Left-4-Dead-2/Coop)
+
+##### Videos
+
+- Added `v14948` [Left 4 Dead 2 - Coop #2](https://sovietscloset.com/video/14948)
+- Added `v14972` [Left 4 Dead 2 - Coop #3](https://sovietscloset.com/video/14972)
+- Added `v14979` [Left 4 Dead 2 - Coop #4](https://sovietscloset.com/video/14979)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14955` [Left 4 Dead 2 - Versus #2](https://sovietscloset.com/video/14955)
+- Added `v14975` [Left 4 Dead 2 - Versus #3](https://sovietscloset.com/video/14975)
+- Added `v14976` [Left 4 Dead 2 - Versus #4](https://sovietscloset.com/video/14976)
+- Added `v14977` [Left 4 Dead 2 - Versus #5](https://sovietscloset.com/video/14977) (new)
+
+### Modified Game [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+#### Modified Playlist [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+##### Videos
+
+- Added `v14957` [Player Unknown's Battlegrounds #9](https://sovietscloset.com/video/14957)
+- Added `v14958` [Player Unknown's Battlegrounds #10](https://sovietscloset.com/video/14958)
+- Added `v14956` [Player Unknown's Battlegrounds #11](https://sovietscloset.com/video/14956)
+- Added `v14959` [Player Unknown's Battlegrounds #12](https://sovietscloset.com/video/14959)
+- Added `v14962` [Player Unknown's Battlegrounds #13](https://sovietscloset.com/video/14962)
+- Added `v14964` [Player Unknown's Battlegrounds #14](https://sovietscloset.com/video/14964)
+- Added `v14960` [Player Unknown's Battlegrounds #15](https://sovietscloset.com/video/14960)
+- Added `v14961` [Player Unknown's Battlegrounds #16](https://sovietscloset.com/video/14961)
+- Added `v14963` [Player Unknown's Battlegrounds #17](https://sovietscloset.com/video/14963)
+- Added `v14965` [Player Unknown's Battlegrounds #18](https://sovietscloset.com/video/14965)
+- Modified `v1448` [Player Unknown's Battlegrounds #20](https://sovietscloset.com/video/1448)
+  - Changed title from `Player Unknown's Battlegrounds #10` to `Player Unknown's Battlegrounds #20`
+  - Changed number from `10` to `20`
+- Modified `v1537` [Player Unknown's Battlegrounds #21](https://sovietscloset.com/video/1537)
+  - Changed title from `Player Unknown's Battlegrounds #11` to `Player Unknown's Battlegrounds #21`
+  - Changed number from `11` to `21`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v14969` [Rimworld - The Pale Ones #87](https://sovietscloset.com/video/14969) (new)
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v14978` [Stormworks: Build and Rescue #3](https://sovietscloset.com/video/14978)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v14947` [Team Fortress 2 #157](https://sovietscloset.com/video/14947)
+- Added `v14966` [Team Fortress 2 #158](https://sovietscloset.com/video/14966)
+- Added `v14968` [Team Fortress 2 #159](https://sovietscloset.com/video/14968)
+- Added `v14967` [Team Fortress 2 #160](https://sovietscloset.com/video/14967)
+
 ## 2023-09-09T07:30:08Z
 
 ### Modified Game [Battlebits](https://sovietscloset.com/Battlebits)
