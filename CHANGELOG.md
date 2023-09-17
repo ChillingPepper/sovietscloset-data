@@ -1,5 +1,32 @@
 # Changelog
 
+## 2023-09-17T17:54:34Z
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v14977` [Left 4 Dead 2 - Versus #5](https://sovietscloset.com/video/14977)
+  - Is no longer marked as new.
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v14980` [Stormworks: Build and Rescue #4](https://sovietscloset.com/video/14980)
+- Added `v14984` [Stormworks: Build and Rescue #5](https://sovietscloset.com/video/14984)
+- Added `v14981` [Stormworks: Build and Rescue #6](https://sovietscloset.com/video/14981)
+- Added `v14982` [Stormworks: Build and Rescue #7](https://sovietscloset.com/video/14982)
+- Added `v14983` [Stormworks: Build and Rescue #8](https://sovietscloset.com/video/14983)
+
 ## 2023-09-13T19:45:19Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
