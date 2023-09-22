@@ -1863,18 +1863,6 @@
             "useBunny": true
           },
           {
-            "id": 1699,
-            "date": "2019-07-21 17:44",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1698,
-            "date": "2019-07-22 11:11",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 1702,
             "date": "2019-07-22 20:21",
             "new": false,
@@ -4452,12 +4440,6 @@
             "useBunny": true
           },
           {
-            "id": 1697,
-            "date": "2020-12-10 20:52",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 6813,
             "date": "2020-12-17 20:49",
             "new": false,
@@ -5300,6 +5282,24 @@
           {
             "id": 14885,
             "date": "2023-08-24 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14992,
+            "date": "2023-08-31 20:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14986,
+            "date": "2023-09-07 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14985,
+            "date": "2023-09-14 20:51",
             "new": false,
             "useBunny": true
           }
@@ -6196,7 +6196,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6068,
@@ -6241,6 +6241,18 @@
             "date": "2023-08-28 20:00",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14993,
+            "date": "2023-09-04 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15003,
+            "date": "2023-09-11 20:02",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6280,10 +6292,16 @@
             "date": "2023-09-08 20:02",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15004,
+            "date": "2023-09-15 20:02",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -9120,12 +9138,6 @@
             "useBunny": true
           },
           {
-            "id": 1749,
-            "date": "2020-12-23 10:51",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 1778,
             "date": "2020-12-23 20:23",
             "new": false,
@@ -9713,6 +9725,78 @@
           {
             "id": 14969,
             "date": "2023-09-11 11:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14997,
+            "date": "2023-09-12 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14998,
+            "date": "2023-09-12 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14999,
+            "date": "2023-09-13 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14995,
+            "date": "2023-09-14 10:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14996,
+            "date": "2023-09-15 10:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15000,
+            "date": "2023-09-18 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15001,
+            "date": "2023-09-18 20:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15002,
+            "date": "2023-09-19 11:17",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15007,
+            "date": "2023-09-19 20:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15009,
+            "date": "2023-09-20 11:04",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15008,
+            "date": "2023-09-20 20:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15006,
+            "date": "2023-09-21 11:19",
             "new": true,
             "useBunny": true
           }
@@ -9805,12 +9889,6 @@
             "date": "2020-11-25 11:10",
             "new": false,
             "useBunny": true
-          },
-          {
-            "id": 1693,
-            "date": "2020-12-11 19:56",
-            "new": false,
-            "useBunny": false
           },
           {
             "id": 1724,
@@ -11241,76 +11319,16 @@
             "useBunny": true
           },
           {
-            "id": 1647,
-            "date": "2019-03-22 20:09",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 1645,
             "date": "2019-03-23 20:11",
             "new": false,
             "useBunny": true
           },
           {
-            "id": 1649,
-            "date": "2019-03-24 18:07",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 1644,
             "date": "2019-03-25 11:05",
             "new": false,
             "useBunny": true
-          },
-          {
-            "id": 1650,
-            "date": "2019-03-25 20:12",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1648,
-            "date": "2019-03-26 11:17",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1652,
-            "date": "2019-03-26 20:11",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1651,
-            "date": "2019-03-27 11:01",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1676,
-            "date": "2019-03-28 11:13",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1675,
-            "date": "2019-03-28 21:57",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1677,
-            "date": "2019-03-29 11:05",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1678,
-            "date": "2019-03-29 20:50",
-            "new": false,
-            "useBunny": false
           },
           {
             "id": 1633,
@@ -11379,28 +11397,10 @@
             "useBunny": true
           },
           {
-            "id": 1681,
-            "date": "2020-08-12 11:24",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1682,
-            "date": "2020-08-12 20:05",
-            "new": false,
-            "useBunny": false
-          },
-          {
             "id": 1687,
             "date": "2020-08-16 13:46",
             "new": false,
             "useBunny": true
-          },
-          {
-            "id": 1684,
-            "date": "2020-08-17 20:12",
-            "new": false,
-            "useBunny": false
           },
           {
             "id": 1217,
@@ -12373,6 +12373,36 @@
             "date": "2023-09-01 11:11",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14991,
+            "date": "2023-09-05 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14987,
+            "date": "2023-09-05 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14988,
+            "date": "2023-09-05 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14990,
+            "date": "2023-09-07 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 14989,
+            "date": "2023-09-08 11:28",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -12721,7 +12751,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -12781,18 +12811,6 @@
             "date": "2020-11-29 20:02",
             "new": false,
             "useBunny": true
-          },
-          {
-            "id": 1692,
-            "date": "2020-12-06 20:02",
-            "new": false,
-            "useBunny": false
-          },
-          {
-            "id": 1753,
-            "date": "2020-12-06 20:02",
-            "new": false,
-            "useBunny": false
           },
           {
             "id": 1755,
@@ -13669,10 +13687,22 @@
             "date": "2023-09-03 19:59",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 14994,
+            "date": "2023-09-10 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15005,
+            "date": "2023-09-17 19:56",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

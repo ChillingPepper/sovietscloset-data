@@ -59,10 +59,6 @@
         "date": "2020-11-25 11:10"
       },
       {
-        "streamId": 1693,
-        "date": "2020-12-11 19:56"
-      },
-      {
         "streamId": 1724,
         "date": "2020-12-16 19:57"
       },
@@ -412,7 +408,7 @@
       }
     ]
   },
-  "number": 97,
+  "number": 96,
   "bunnyId": "881f04eb-ecee-43be-8e2d-c017a584531d",
   "useBunny": true
 }

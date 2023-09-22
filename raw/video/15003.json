@@ -1,0 +1,42 @@
+{
+  "streamId": 15003,
+  "date": "2023-09-11 20:02",
+  "game": {
+    "name": "Left 4 Dead 2",
+    "slug": "Left-4-Dead-2"
+  },
+  "subcategory": {
+    "name": "Coop",
+    "slug": "Coop",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 14876,
+        "date": "2023-08-07 19:58"
+      },
+      {
+        "streamId": 14948,
+        "date": "2023-08-16 19:57"
+      },
+      {
+        "streamId": 14972,
+        "date": "2023-08-21 19:56"
+      },
+      {
+        "streamId": 14979,
+        "date": "2023-08-28 20:00"
+      },
+      {
+        "streamId": 14993,
+        "date": "2023-09-04 20:01"
+      },
+      {
+        "streamId": 15003,
+        "date": "2023-09-11 20:02"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "1edf28f8-8ee4-431d-9a7a-3a7686249307",
+  "useBunny": true
+}

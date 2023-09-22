@@ -1,0 +1,70 @@
+{
+  "streamId": 14987,
+  "date": "2023-09-05 20:03",
+  "game": {
+    "name": "Stormworks: Build and Rescue",
+    "slug": "Stormworks-Build-and-Rescue"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14382,
+        "date": "2021-08-27 20:02"
+      },
+      {
+        "streamId": 14383,
+        "date": "2021-08-28 15:04"
+      },
+      {
+        "streamId": 14978,
+        "date": "2023-08-28 11:20"
+      },
+      {
+        "streamId": 14980,
+        "date": "2023-08-29 20:10"
+      },
+      {
+        "streamId": 14984,
+        "date": "2023-08-30 11:08"
+      },
+      {
+        "streamId": 14981,
+        "date": "2023-08-30 20:08"
+      },
+      {
+        "streamId": 14982,
+        "date": "2023-08-31 11:09"
+      },
+      {
+        "streamId": 14983,
+        "date": "2023-09-01 11:11"
+      },
+      {
+        "streamId": 14991,
+        "date": "2023-09-05 11:09"
+      },
+      {
+        "streamId": 14987,
+        "date": "2023-09-05 20:03"
+      },
+      {
+        "streamId": 14988,
+        "date": "2023-09-05 20:10"
+      },
+      {
+        "streamId": 14990,
+        "date": "2023-09-07 11:12"
+      },
+      {
+        "streamId": 14989,
+        "date": "2023-09-08 11:28"
+      }
+    ]
+  },
+  "number": 10,
+  "bunnyId": "68eb49ee-ef88-428a-9a4b-43bf772e9557",
+  "useBunny": true
+}
