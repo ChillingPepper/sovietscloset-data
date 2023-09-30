@@ -1,5 +1,1837 @@
 # Changelog
 
+## 2023-09-30T13:55:32Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15013` [Arma 3 - Zeus Games #37](https://sovietscloset.com/video/15013)
+- Added `v15014` [Arma 3 - Zeus Games #38](https://sovietscloset.com/video/15014) (new)
+
+### Added Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Added Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15036` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1](https://sovietscloset.com/video/15036) (new)
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v15038` [DayZ - Standalone #16](https://sovietscloset.com/video/15038)
+- Added `v15037` [DayZ - Standalone #17](https://sovietscloset.com/video/15037)
+- Modified `v1702` [DayZ - Standalone #18](https://sovietscloset.com/video/1702)
+  - Changed title from `DayZ - Standalone #16` to `DayZ - Standalone #18`
+  - Changed number from `16` to `18`
+- Modified `v1706` [DayZ - Standalone #19](https://sovietscloset.com/video/1706)
+  - Changed title from `DayZ - Standalone #17` to `DayZ - Standalone #19`
+  - Changed number from `17` to `19`
+- Modified `v1704` [DayZ - Standalone #20](https://sovietscloset.com/video/1704)
+  - Changed title from `DayZ - Standalone #18` to `DayZ - Standalone #20`
+  - Changed number from `18` to `20`
+- Modified `v1705` [DayZ - Standalone #21](https://sovietscloset.com/video/1705)
+  - Changed title from `DayZ - Standalone #19` to `DayZ - Standalone #21`
+  - Changed number from `19` to `21`
+- Modified `v1707` [DayZ - Standalone #22](https://sovietscloset.com/video/1707)
+  - Changed title from `DayZ - Standalone #20` to `DayZ - Standalone #22`
+  - Changed number from `20` to `22`
+- Modified `v1708` [DayZ - Standalone #23](https://sovietscloset.com/video/1708)
+  - Changed title from `DayZ - Standalone #21` to `DayZ - Standalone #23`
+  - Changed number from `21` to `23`
+- Modified `v1710` [DayZ - Standalone #24](https://sovietscloset.com/video/1710)
+  - Changed title from `DayZ - Standalone #22` to `DayZ - Standalone #24`
+  - Changed number from `22` to `24`
+- Modified `v1701` [DayZ - Standalone #25](https://sovietscloset.com/video/1701)
+  - Changed title from `DayZ - Standalone #23` to `DayZ - Standalone #25`
+  - Changed number from `23` to `25`
+- Modified `v1700` [DayZ - Standalone #26](https://sovietscloset.com/video/1700)
+  - Changed title from `DayZ - Standalone #24` to `DayZ - Standalone #26`
+  - Changed number from `24` to `26`
+- Modified `v1712` [DayZ - Standalone #27](https://sovietscloset.com/video/1712)
+  - Changed title from `DayZ - Standalone #25` to `DayZ - Standalone #27`
+  - Changed number from `25` to `27`
+- Modified `v1711` [DayZ - Standalone #28](https://sovietscloset.com/video/1711)
+  - Changed title from `DayZ - Standalone #26` to `DayZ - Standalone #28`
+  - Changed number from `26` to `28`
+- Modified `v1713` [DayZ - Standalone #29](https://sovietscloset.com/video/1713)
+  - Changed title from `DayZ - Standalone #27` to `DayZ - Standalone #29`
+  - Changed number from `27` to `29`
+- Modified `v1714` [DayZ - Standalone #30](https://sovietscloset.com/video/1714)
+  - Changed title from `DayZ - Standalone #28` to `DayZ - Standalone #30`
+  - Changed number from `28` to `30`
+- Modified `v1731` [DayZ - Standalone #31](https://sovietscloset.com/video/1731)
+  - Changed title from `DayZ - Standalone #29` to `DayZ - Standalone #31`
+  - Changed number from `29` to `31`
+- Modified `v1730` [DayZ - Standalone #32](https://sovietscloset.com/video/1730)
+  - Changed title from `DayZ - Standalone #30` to `DayZ - Standalone #32`
+  - Changed number from `30` to `32`
+- Modified `v1715` [DayZ - Standalone #33](https://sovietscloset.com/video/1715)
+  - Changed title from `DayZ - Standalone #31` to `DayZ - Standalone #33`
+  - Changed number from `31` to `33`
+- Modified `v1716` [DayZ - Standalone #34](https://sovietscloset.com/video/1716)
+  - Changed title from `DayZ - Standalone #32` to `DayZ - Standalone #34`
+  - Changed number from `32` to `34`
+- Modified `v6737` [DayZ - Standalone #35](https://sovietscloset.com/video/6737)
+  - Changed title from `DayZ - Standalone #33` to `DayZ - Standalone #35`
+  - Changed number from `33` to `35`
+- Modified `v1717` [DayZ - Standalone #37](https://sovietscloset.com/video/1717)
+  - Changed title from `DayZ - Standalone #35` to `DayZ - Standalone #37`
+  - Changed number from `35` to `37`
+- Modified `v1725` [DayZ - Standalone #37](https://sovietscloset.com/video/1725)
+  - Changed title from `DayZ - Standalone #35` to `DayZ - Standalone #37`
+  - Changed number from `35` to `37`
+- Modified `v1726` [DayZ - Standalone #38](https://sovietscloset.com/video/1726)
+  - Changed title from `DayZ - Standalone #36` to `DayZ - Standalone #38`
+  - Changed number from `36` to `38`
+- Modified `v6738` [DayZ - Standalone #39](https://sovietscloset.com/video/6738)
+  - Changed title from `DayZ - Standalone #37` to `DayZ - Standalone #39`
+  - Changed number from `37` to `39`
+- Modified `v1728` [DayZ - Standalone #40](https://sovietscloset.com/video/1728)
+  - Changed title from `DayZ - Standalone #38` to `DayZ - Standalone #40`
+  - Changed number from `38` to `40`
+- Modified `v1727` [DayZ - Standalone #41](https://sovietscloset.com/video/1727)
+  - Changed title from `DayZ - Standalone #39` to `DayZ - Standalone #41`
+  - Changed number from `39` to `41`
+- Modified `v1729` [DayZ - Standalone #42](https://sovietscloset.com/video/1729)
+  - Changed title from `DayZ - Standalone #40` to `DayZ - Standalone #42`
+  - Changed number from `40` to `42`
+- Modified `v1732` [DayZ - Standalone #43](https://sovietscloset.com/video/1732)
+  - Changed title from `DayZ - Standalone #41` to `DayZ - Standalone #43`
+  - Changed number from `41` to `43`
+- Modified `v6743` [DayZ - Standalone #44](https://sovietscloset.com/video/6743)
+  - Changed title from `DayZ - Standalone #42` to `DayZ - Standalone #44`
+  - Changed number from `42` to `44`
+- Modified `v6745` [DayZ - Standalone #45](https://sovietscloset.com/video/6745)
+  - Changed title from `DayZ - Standalone #43` to `DayZ - Standalone #45`
+  - Changed number from `43` to `45`
+- Modified `v6746` [DayZ - Standalone #46](https://sovietscloset.com/video/6746)
+  - Changed title from `DayZ - Standalone #44` to `DayZ - Standalone #46`
+  - Changed number from `44` to `46`
+- Modified `v6744` [DayZ - Standalone #47](https://sovietscloset.com/video/6744)
+  - Changed title from `DayZ - Standalone #45` to `DayZ - Standalone #47`
+  - Changed number from `45` to `47`
+- Modified `v6742` [DayZ - Standalone #48](https://sovietscloset.com/video/6742)
+  - Changed title from `DayZ - Standalone #46` to `DayZ - Standalone #48`
+  - Changed number from `46` to `48`
+- Modified `v1742` [DayZ - Standalone #50](https://sovietscloset.com/video/1742)
+  - Changed title from `DayZ - Standalone #48` to `DayZ - Standalone #50`
+  - Changed number from `48` to `50`
+- Modified `v1763` [DayZ - Standalone #50](https://sovietscloset.com/video/1763)
+  - Changed title from `DayZ - Standalone #48` to `DayZ - Standalone #50`
+  - Changed number from `48` to `50`
+- Modified `v1738` [DayZ - Standalone #52](https://sovietscloset.com/video/1738)
+  - Changed title from `DayZ - Standalone #50` to `DayZ - Standalone #52`
+  - Changed number from `50` to `52`
+- Modified `v1761` [DayZ - Standalone #52](https://sovietscloset.com/video/1761)
+  - Changed title from `DayZ - Standalone #50` to `DayZ - Standalone #52`
+  - Changed number from `50` to `52`
+- Modified `v1739` [DayZ - Standalone #54](https://sovietscloset.com/video/1739)
+  - Changed title from `DayZ - Standalone #52` to `DayZ - Standalone #54`
+  - Changed number from `52` to `54`
+- Modified `v1762` [DayZ - Standalone #54](https://sovietscloset.com/video/1762)
+  - Changed title from `DayZ - Standalone #52` to `DayZ - Standalone #54`
+  - Changed number from `52` to `54`
+- Modified `v1429` [DayZ - Standalone #55](https://sovietscloset.com/video/1429)
+  - Changed title from `DayZ - Standalone #53` to `DayZ - Standalone #55`
+  - Changed number from `53` to `55`
+- Modified `v1709` [DayZ - Standalone #56](https://sovietscloset.com/video/1709)
+  - Changed title from `DayZ - Standalone #54` to `DayZ - Standalone #56`
+  - Changed number from `54` to `56`
+- Modified `v1427` [DayZ - Standalone #57](https://sovietscloset.com/video/1427)
+  - Changed title from `DayZ - Standalone #55` to `DayZ - Standalone #57`
+  - Changed number from `55` to `57`
+- Modified `v1405` [DayZ - Standalone #58](https://sovietscloset.com/video/1405)
+  - Changed title from `DayZ - Standalone #56` to `DayZ - Standalone #58`
+  - Changed number from `56` to `58`
+- Modified `v10109` [DayZ - Standalone #59](https://sovietscloset.com/video/10109)
+  - Changed title from `DayZ - Standalone #57` to `DayZ - Standalone #59`
+  - Changed number from `57` to `59`
+- Modified `v10106` [DayZ - Standalone #60](https://sovietscloset.com/video/10106)
+  - Changed title from `DayZ - Standalone #58` to `DayZ - Standalone #60`
+  - Changed number from `58` to `60`
+- Modified `v10112` [DayZ - Standalone #61](https://sovietscloset.com/video/10112)
+  - Changed title from `DayZ - Standalone #59` to `DayZ - Standalone #61`
+  - Changed number from `59` to `61`
+- Modified `v10113` [DayZ - Standalone #62](https://sovietscloset.com/video/10113)
+  - Changed title from `DayZ - Standalone #60` to `DayZ - Standalone #62`
+  - Changed number from `60` to `62`
+- Modified `v10114` [DayZ - Standalone #63](https://sovietscloset.com/video/10114)
+  - Changed title from `DayZ - Standalone #61` to `DayZ - Standalone #63`
+  - Changed number from `61` to `63`
+- Modified `v10110` [DayZ - Standalone #64](https://sovietscloset.com/video/10110)
+  - Changed title from `DayZ - Standalone #62` to `DayZ - Standalone #64`
+  - Changed number from `62` to `64`
+- Modified `v10111` [DayZ - Standalone #65](https://sovietscloset.com/video/10111)
+  - Changed title from `DayZ - Standalone #63` to `DayZ - Standalone #65`
+  - Changed number from `63` to `65`
+- Modified `v10107` [DayZ - Standalone #66](https://sovietscloset.com/video/10107)
+  - Changed title from `DayZ - Standalone #64` to `DayZ - Standalone #66`
+  - Changed number from `64` to `66`
+- Modified `v10105` [DayZ - Standalone #67](https://sovietscloset.com/video/10105)
+  - Changed title from `DayZ - Standalone #65` to `DayZ - Standalone #67`
+  - Changed number from `65` to `67`
+- Modified `v6747` [DayZ - Standalone #68](https://sovietscloset.com/video/6747)
+  - Changed title from `DayZ - Standalone #66` to `DayZ - Standalone #68`
+  - Changed number from `66` to `68`
+- Modified `v10108` [DayZ - Standalone #69](https://sovietscloset.com/video/10108)
+  - Changed title from `DayZ - Standalone #67` to `DayZ - Standalone #69`
+  - Changed number from `67` to `69`
+- Modified `v10177` [DayZ - Standalone #71](https://sovietscloset.com/video/10177)
+  - Changed title from `DayZ - Standalone #69` to `DayZ - Standalone #71`
+  - Changed number from `69` to `71`
+- Modified `v14343` [DayZ - Standalone #71](https://sovietscloset.com/video/14343)
+  - Changed title from `DayZ - Standalone #69` to `DayZ - Standalone #71`
+  - Changed number from `69` to `71`
+- Modified `v14261` [DayZ - Standalone #72](https://sovietscloset.com/video/14261)
+  - Changed title from `DayZ - Standalone #70` to `DayZ - Standalone #72`
+  - Changed number from `70` to `72`
+- Modified `v14260` [DayZ - Standalone #73](https://sovietscloset.com/video/14260)
+  - Changed title from `DayZ - Standalone #71` to `DayZ - Standalone #73`
+  - Changed number from `71` to `73`
+- Modified `v14258` [DayZ - Standalone #75](https://sovietscloset.com/video/14258)
+  - Changed title from `DayZ - Standalone #73` to `DayZ - Standalone #75`
+  - Changed number from `73` to `75`
+- Modified `v14275` [DayZ - Standalone #75](https://sovietscloset.com/video/14275)
+  - Changed title from `DayZ - Standalone #73` to `DayZ - Standalone #75`
+  - Changed number from `73` to `75`
+- Modified `v14259` [DayZ - Standalone #76](https://sovietscloset.com/video/14259)
+  - Changed title from `DayZ - Standalone #74` to `DayZ - Standalone #76`
+  - Changed number from `74` to `76`
+- Modified `v14257` [DayZ - Standalone #78](https://sovietscloset.com/video/14257)
+  - Changed title from `DayZ - Standalone #76` to `DayZ - Standalone #78`
+  - Changed number from `76` to `78`
+- Modified `v14274` [DayZ - Standalone #78](https://sovietscloset.com/video/14274)
+  - Changed title from `DayZ - Standalone #76` to `DayZ - Standalone #78`
+  - Changed number from `76` to `78`
+- Modified `v14253` [DayZ - Standalone #79](https://sovietscloset.com/video/14253)
+  - Changed title from `DayZ - Standalone #77` to `DayZ - Standalone #79`
+  - Changed number from `77` to `79`
+- Modified `v14254` [DayZ - Standalone #80](https://sovietscloset.com/video/14254)
+  - Changed title from `DayZ - Standalone #78` to `DayZ - Standalone #80`
+  - Changed number from `78` to `80`
+- Modified `v14252` [DayZ - Standalone #81](https://sovietscloset.com/video/14252)
+  - Changed title from `DayZ - Standalone #79` to `DayZ - Standalone #81`
+  - Changed number from `79` to `81`
+- Modified `v14255` [DayZ - Standalone #82](https://sovietscloset.com/video/14255)
+  - Changed title from `DayZ - Standalone #80` to `DayZ - Standalone #82`
+  - Changed number from `80` to `82`
+- Modified `v14256` [DayZ - Standalone #83](https://sovietscloset.com/video/14256)
+  - Changed title from `DayZ - Standalone #81` to `DayZ - Standalone #83`
+  - Changed number from `81` to `83`
+- Modified `v14150` [DayZ - Standalone #84](https://sovietscloset.com/video/14150)
+  - Changed title from `DayZ - Standalone #82` to `DayZ - Standalone #84`
+  - Changed number from `82` to `84`
+- Modified `v14149` [DayZ - Standalone #85](https://sovietscloset.com/video/14149)
+  - Changed title from `DayZ - Standalone #83` to `DayZ - Standalone #85`
+  - Changed number from `83` to `85`
+- Modified `v14148` [DayZ - Standalone #86](https://sovietscloset.com/video/14148)
+  - Changed title from `DayZ - Standalone #84` to `DayZ - Standalone #86`
+  - Changed number from `84` to `86`
+- Modified `v14146` [DayZ - Standalone #87](https://sovietscloset.com/video/14146)
+  - Changed title from `DayZ - Standalone #85` to `DayZ - Standalone #87`
+  - Changed number from `85` to `87`
+- Modified `v14147` [DayZ - Standalone #88](https://sovietscloset.com/video/14147)
+  - Changed title from `DayZ - Standalone #86` to `DayZ - Standalone #88`
+  - Changed number from `86` to `88`
+- Modified `v14145` [DayZ - Standalone #89](https://sovietscloset.com/video/14145)
+  - Changed title from `DayZ - Standalone #87` to `DayZ - Standalone #89`
+  - Changed number from `87` to `89`
+- Modified `v14143` [DayZ - Standalone #90](https://sovietscloset.com/video/14143)
+  - Changed title from `DayZ - Standalone #88` to `DayZ - Standalone #90`
+  - Changed number from `88` to `90`
+- Modified `v14144` [DayZ - Standalone #91](https://sovietscloset.com/video/14144)
+  - Changed title from `DayZ - Standalone #89` to `DayZ - Standalone #91`
+  - Changed number from `89` to `91`
+- Modified `v14142` [DayZ - Standalone #92](https://sovietscloset.com/video/14142)
+  - Changed title from `DayZ - Standalone #90` to `DayZ - Standalone #92`
+  - Changed number from `90` to `92`
+- Modified `v14140` [DayZ - Standalone #93](https://sovietscloset.com/video/14140)
+  - Changed title from `DayZ - Standalone #91` to `DayZ - Standalone #93`
+  - Changed number from `91` to `93`
+- Modified `v14141` [DayZ - Standalone #94](https://sovietscloset.com/video/14141)
+  - Changed title from `DayZ - Standalone #92` to `DayZ - Standalone #94`
+  - Changed number from `92` to `94`
+- Modified `v14504` [DayZ - Standalone #95](https://sovietscloset.com/video/14504)
+  - Changed title from `DayZ - Standalone #93` to `DayZ - Standalone #95`
+  - Changed number from `93` to `95`
+- Modified `v14502` [DayZ - Standalone #96](https://sovietscloset.com/video/14502)
+  - Changed title from `DayZ - Standalone #94` to `DayZ - Standalone #96`
+  - Changed number from `94` to `96`
+- Modified `v14501` [DayZ - Standalone #97](https://sovietscloset.com/video/14501)
+  - Changed title from `DayZ - Standalone #95` to `DayZ - Standalone #97`
+  - Changed number from `95` to `97`
+- Modified `v14503` [DayZ - Standalone #98](https://sovietscloset.com/video/14503)
+  - Changed title from `DayZ - Standalone #96` to `DayZ - Standalone #98`
+  - Changed number from `96` to `98`
+- Modified `v14599` [DayZ - Standalone #99](https://sovietscloset.com/video/14599)
+  - Changed title from `DayZ - Standalone #97` to `DayZ - Standalone #99`
+  - Changed number from `97` to `99`
+- Modified `v14602` [DayZ - Standalone #100](https://sovietscloset.com/video/14602)
+  - Changed title from `DayZ - Standalone #98` to `DayZ - Standalone #100`
+  - Changed number from `98` to `100`
+- Modified `v14603` [DayZ - Standalone #101](https://sovietscloset.com/video/14603)
+  - Changed title from `DayZ - Standalone #99` to `DayZ - Standalone #101`
+  - Changed number from `99` to `101`
+- Modified `v14600` [DayZ - Standalone #102](https://sovietscloset.com/video/14600)
+  - Changed title from `DayZ - Standalone #100` to `DayZ - Standalone #102`
+  - Changed number from `100` to `102`
+- Modified `v14601` [DayZ - Standalone #103](https://sovietscloset.com/video/14601)
+  - Changed title from `DayZ - Standalone #101` to `DayZ - Standalone #103`
+  - Changed number from `101` to `103`
+- Modified `v14623` [DayZ - Standalone #104](https://sovietscloset.com/video/14623)
+  - Changed title from `DayZ - Standalone #102` to `DayZ - Standalone #104`
+  - Changed number from `102` to `104`
+- Modified `v14627` [DayZ - Standalone #105](https://sovietscloset.com/video/14627)
+  - Changed title from `DayZ - Standalone #103` to `DayZ - Standalone #105`
+  - Changed number from `103` to `105`
+- Modified `v14625` [DayZ - Standalone #106](https://sovietscloset.com/video/14625)
+  - Changed title from `DayZ - Standalone #104` to `DayZ - Standalone #106`
+  - Changed number from `104` to `106`
+- Modified `v14628` [DayZ - Standalone #107](https://sovietscloset.com/video/14628)
+  - Changed title from `DayZ - Standalone #105` to `DayZ - Standalone #107`
+  - Changed number from `105` to `107`
+- Modified `v14624` [DayZ - Standalone #108](https://sovietscloset.com/video/14624)
+  - Changed title from `DayZ - Standalone #106` to `DayZ - Standalone #108`
+  - Changed number from `106` to `108`
+- Modified `v14626` [DayZ - Standalone #109](https://sovietscloset.com/video/14626)
+  - Changed title from `DayZ - Standalone #107` to `DayZ - Standalone #109`
+  - Changed number from `107` to `109`
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15041` [Holdfast: Nations at War #28](https://sovietscloset.com/video/15041)
+- Modified `v6813` [Holdfast: Nations at War #29](https://sovietscloset.com/video/6813)
+  - Changed title from `Holdfast: Nations at War #28` to `Holdfast: Nations at War #29`
+  - Changed number from `28` to `29`
+- Modified `v1777` [Holdfast: Nations at War #31](https://sovietscloset.com/video/1777)
+  - Changed title from `Holdfast: Nations at War #30` to `Holdfast: Nations at War #31`
+  - Changed number from `30` to `31`
+- Modified `v6963` [Holdfast: Nations at War #31](https://sovietscloset.com/video/6963)
+  - Changed title from `Holdfast: Nations at War #30` to `Holdfast: Nations at War #31`
+  - Changed number from `30` to `31`
+- Modified `v1785` [Holdfast: Nations at War #32](https://sovietscloset.com/video/1785)
+  - Changed title from `Holdfast: Nations at War #31` to `Holdfast: Nations at War #32`
+  - Changed number from `31` to `32`
+- Modified `v1794` [Holdfast: Nations at War #33](https://sovietscloset.com/video/1794)
+  - Changed title from `Holdfast: Nations at War #32` to `Holdfast: Nations at War #33`
+  - Changed number from `32` to `33`
+- Modified `v1801` [Holdfast: Nations at War #34](https://sovietscloset.com/video/1801)
+  - Changed title from `Holdfast: Nations at War #33` to `Holdfast: Nations at War #34`
+  - Changed number from `33` to `34`
+- Modified `v3677` [Holdfast: Nations at War #35](https://sovietscloset.com/video/3677)
+  - Changed title from `Holdfast: Nations at War #34` to `Holdfast: Nations at War #35`
+  - Changed number from `34` to `35`
+- Modified `v3688` [Holdfast: Nations at War #36](https://sovietscloset.com/video/3688)
+  - Changed title from `Holdfast: Nations at War #35` to `Holdfast: Nations at War #36`
+  - Changed number from `35` to `36`
+- Modified `v3721` [Holdfast: Nations at War #38](https://sovietscloset.com/video/3721)
+  - Changed title from `Holdfast: Nations at War #37` to `Holdfast: Nations at War #38`
+  - Changed number from `37` to `38`
+- Modified `v3735` [Holdfast: Nations at War #38](https://sovietscloset.com/video/3735)
+  - Changed title from `Holdfast: Nations at War #37` to `Holdfast: Nations at War #38`
+  - Changed number from `37` to `38`
+- Modified `v3737` [Holdfast: Nations at War #39](https://sovietscloset.com/video/3737)
+  - Changed title from `Holdfast: Nations at War #38` to `Holdfast: Nations at War #39`
+  - Changed number from `38` to `39`
+- Modified `v3754` [Holdfast: Nations at War #40](https://sovietscloset.com/video/3754)
+  - Changed title from `Holdfast: Nations at War #39` to `Holdfast: Nations at War #40`
+  - Changed number from `39` to `40`
+- Modified `v3769` [Holdfast: Nations at War #41](https://sovietscloset.com/video/3769)
+  - Changed title from `Holdfast: Nations at War #40` to `Holdfast: Nations at War #41`
+  - Changed number from `40` to `41`
+- Modified `v3776` [Holdfast: Nations at War #42](https://sovietscloset.com/video/3776)
+  - Changed title from `Holdfast: Nations at War #41` to `Holdfast: Nations at War #42`
+  - Changed number from `41` to `42`
+- Modified `v9017` [Holdfast: Nations at War #43](https://sovietscloset.com/video/9017)
+  - Changed title from `Holdfast: Nations at War #42` to `Holdfast: Nations at War #43`
+  - Changed number from `42` to `43`
+- Modified `v9058` [Holdfast: Nations at War #44](https://sovietscloset.com/video/9058)
+  - Changed title from `Holdfast: Nations at War #43` to `Holdfast: Nations at War #44`
+  - Changed number from `43` to `44`
+- Modified `v9019` [Holdfast: Nations at War #45](https://sovietscloset.com/video/9019)
+  - Changed title from `Holdfast: Nations at War #44` to `Holdfast: Nations at War #45`
+  - Changed number from `44` to `45`
+- Modified `v9031` [Holdfast: Nations at War #46](https://sovietscloset.com/video/9031)
+  - Changed title from `Holdfast: Nations at War #45` to `Holdfast: Nations at War #46`
+  - Changed number from `45` to `46`
+- Modified `v9033` [Holdfast: Nations at War #47](https://sovietscloset.com/video/9033)
+  - Changed title from `Holdfast: Nations at War #46` to `Holdfast: Nations at War #47`
+  - Changed number from `46` to `47`
+- Modified `v6999` [Holdfast: Nations at War #49](https://sovietscloset.com/video/6999)
+  - Changed title from `Holdfast: Nations at War #48` to `Holdfast: Nations at War #49`
+  - Changed number from `48` to `49`
+- Modified `v10092` [Holdfast: Nations at War #49](https://sovietscloset.com/video/10092)
+  - Changed title from `Holdfast: Nations at War #48` to `Holdfast: Nations at War #49`
+  - Changed number from `48` to `49`
+- Modified `v9056` [Holdfast: Nations at War #50](https://sovietscloset.com/video/9056)
+  - Changed title from `Holdfast: Nations at War #49` to `Holdfast: Nations at War #50`
+  - Changed number from `49` to `50`
+- Modified `v9057` [Holdfast: Nations at War #51](https://sovietscloset.com/video/9057)
+  - Changed title from `Holdfast: Nations at War #50` to `Holdfast: Nations at War #51`
+  - Changed number from `50` to `51`
+- Modified `v6998` [Holdfast: Nations at War #53](https://sovietscloset.com/video/6998)
+  - Changed title from `Holdfast: Nations at War #52` to `Holdfast: Nations at War #53`
+  - Changed number from `52` to `53`
+- Modified `v10090` [Holdfast: Nations at War #53](https://sovietscloset.com/video/10090)
+  - Changed title from `Holdfast: Nations at War #52` to `Holdfast: Nations at War #53`
+  - Changed number from `52` to `53`
+- Modified `v6996` [Holdfast: Nations at War #55](https://sovietscloset.com/video/6996)
+  - Changed title from `Holdfast: Nations at War #54` to `Holdfast: Nations at War #55`
+  - Changed number from `54` to `55`
+- Modified `v10085` [Holdfast: Nations at War #55](https://sovietscloset.com/video/10085)
+  - Changed title from `Holdfast: Nations at War #54` to `Holdfast: Nations at War #55`
+  - Changed number from `54` to `55`
+- Modified `v10159` [Holdfast: Nations at War #56](https://sovietscloset.com/video/10159)
+  - Changed title from `Holdfast: Nations at War #55` to `Holdfast: Nations at War #56`
+  - Changed number from `55` to `56`
+- Modified `v10160` [Holdfast: Nations at War #57](https://sovietscloset.com/video/10160)
+  - Changed title from `Holdfast: Nations at War #56` to `Holdfast: Nations at War #57`
+  - Changed number from `56` to `57`
+- Modified `v6997` [Holdfast: Nations at War #59](https://sovietscloset.com/video/6997)
+  - Changed title from `Holdfast: Nations at War #58` to `Holdfast: Nations at War #59`
+  - Changed number from `58` to `59`
+- Modified `v10086` [Holdfast: Nations at War #59](https://sovietscloset.com/video/10086)
+  - Changed title from `Holdfast: Nations at War #58` to `Holdfast: Nations at War #59`
+  - Changed number from `58` to `59`
+- Modified `v6995` [Holdfast: Nations at War #61](https://sovietscloset.com/video/6995)
+  - Changed title from `Holdfast: Nations at War #60` to `Holdfast: Nations at War #61`
+  - Changed number from `60` to `61`
+- Modified `v10089` [Holdfast: Nations at War #61](https://sovietscloset.com/video/10089)
+  - Changed title from `Holdfast: Nations at War #60` to `Holdfast: Nations at War #61`
+  - Changed number from `60` to `61`
+- Modified `v10163` [Holdfast: Nations at War #62](https://sovietscloset.com/video/10163)
+  - Changed title from `Holdfast: Nations at War #61` to `Holdfast: Nations at War #62`
+  - Changed number from `61` to `62`
+- Modified `v6992` [Holdfast: Nations at War #64](https://sovietscloset.com/video/6992)
+  - Changed title from `Holdfast: Nations at War #63` to `Holdfast: Nations at War #64`
+  - Changed number from `63` to `64`
+- Modified `v10087` [Holdfast: Nations at War #64](https://sovietscloset.com/video/10087)
+  - Changed title from `Holdfast: Nations at War #63` to `Holdfast: Nations at War #64`
+  - Changed number from `63` to `64`
+- Modified `v6994` [Holdfast: Nations at War #66](https://sovietscloset.com/video/6994)
+  - Changed title from `Holdfast: Nations at War #65` to `Holdfast: Nations at War #66`
+  - Changed number from `65` to `66`
+- Modified `v10088` [Holdfast: Nations at War #66](https://sovietscloset.com/video/10088)
+  - Changed title from `Holdfast: Nations at War #65` to `Holdfast: Nations at War #66`
+  - Changed number from `65` to `66`
+- Modified `v9032` [Holdfast: Nations at War #67](https://sovietscloset.com/video/9032)
+  - Changed title from `Holdfast: Nations at War #66` to `Holdfast: Nations at War #67`
+  - Changed number from `66` to `67`
+- Modified `v6701` [Holdfast: Nations at War #68](https://sovietscloset.com/video/6701)
+  - Changed title from `Holdfast: Nations at War #67` to `Holdfast: Nations at War #68`
+  - Changed number from `67` to `68`
+- Modified `v10093` [Holdfast: Nations at War #70](https://sovietscloset.com/video/10093)
+  - Changed title from `Holdfast: Nations at War #69` to `Holdfast: Nations at War #70`
+  - Changed number from `69` to `70`
+- Modified `v6909` [Holdfast: Nations at War #71](https://sovietscloset.com/video/6909)
+  - Changed title from `Holdfast: Nations at War #70` to `Holdfast: Nations at War #71`
+  - Changed number from `70` to `71`
+- Modified `v6819` [Holdfast: Nations at War #72](https://sovietscloset.com/video/6819)
+  - Changed title from `Holdfast: Nations at War #71` to `Holdfast: Nations at War #72`
+  - Changed number from `71` to `72`
+- Modified `v6908` [Holdfast: Nations at War #73](https://sovietscloset.com/video/6908)
+  - Changed title from `Holdfast: Nations at War #72` to `Holdfast: Nations at War #73`
+  - Changed number from `72` to `73`
+- Modified `v6907` [Holdfast: Nations at War #74](https://sovietscloset.com/video/6907)
+  - Changed title from `Holdfast: Nations at War #73` to `Holdfast: Nations at War #74`
+  - Changed number from `73` to `74`
+- Modified `v6906` [Holdfast: Nations at War #75](https://sovietscloset.com/video/6906)
+  - Changed title from `Holdfast: Nations at War #74` to `Holdfast: Nations at War #75`
+  - Changed number from `74` to `75`
+- Modified `v6993` [Holdfast: Nations at War #77](https://sovietscloset.com/video/6993)
+  - Changed title from `Holdfast: Nations at War #76` to `Holdfast: Nations at War #77`
+  - Changed number from `76` to `77`
+- Modified `v10094` [Holdfast: Nations at War #77](https://sovietscloset.com/video/10094)
+  - Changed title from `Holdfast: Nations at War #76` to `Holdfast: Nations at War #77`
+  - Changed number from `76` to `77`
+- Modified `v6990` [Holdfast: Nations at War #79](https://sovietscloset.com/video/6990)
+  - Changed title from `Holdfast: Nations at War #78` to `Holdfast: Nations at War #79`
+  - Changed number from `78` to `79`
+- Modified `v10091` [Holdfast: Nations at War #79](https://sovietscloset.com/video/10091)
+  - Changed title from `Holdfast: Nations at War #78` to `Holdfast: Nations at War #79`
+  - Changed number from `78` to `79`
+- Modified `v7983` [Holdfast: Nations at War #80](https://sovietscloset.com/video/7983)
+  - Changed title from `Holdfast: Nations at War #79` to `Holdfast: Nations at War #80`
+  - Changed number from `79` to `80`
+- Modified `v9004` [Holdfast: Nations at War #82](https://sovietscloset.com/video/9004)
+  - Changed title from `Holdfast: Nations at War #81` to `Holdfast: Nations at War #82`
+  - Changed number from `81` to `82`
+- Modified `v10158` [Holdfast: Nations at War #82](https://sovietscloset.com/video/10158)
+  - Changed title from `Holdfast: Nations at War #81` to `Holdfast: Nations at War #82`
+  - Changed number from `81` to `82`
+- Modified `v9012` [Holdfast: Nations at War #84](https://sovietscloset.com/video/9012)
+  - Changed title from `Holdfast: Nations at War #83` to `Holdfast: Nations at War #84`
+  - Changed number from `83` to `84`
+- Modified `v10162` [Holdfast: Nations at War #84](https://sovietscloset.com/video/10162)
+  - Changed title from `Holdfast: Nations at War #83` to `Holdfast: Nations at War #84`
+  - Changed number from `83` to `84`
+- Modified `v10080` [Holdfast: Nations at War #85](https://sovietscloset.com/video/10080)
+  - Changed title from `Holdfast: Nations at War #84` to `Holdfast: Nations at War #85`
+  - Changed number from `84` to `85`
+- Modified `v10078` [Holdfast: Nations at War #86](https://sovietscloset.com/video/10078)
+  - Changed title from `Holdfast: Nations at War #85` to `Holdfast: Nations at War #86`
+  - Changed number from `85` to `86`
+- Modified `v10081` [Holdfast: Nations at War #87](https://sovietscloset.com/video/10081)
+  - Changed title from `Holdfast: Nations at War #86` to `Holdfast: Nations at War #87`
+  - Changed number from `86` to `87`
+- Modified `v10079` [Holdfast: Nations at War #88](https://sovietscloset.com/video/10079)
+  - Changed title from `Holdfast: Nations at War #87` to `Holdfast: Nations at War #88`
+  - Changed number from `87` to `88`
+- Modified `v10161` [Holdfast: Nations at War #89](https://sovietscloset.com/video/10161)
+  - Changed title from `Holdfast: Nations at War #88` to `Holdfast: Nations at War #89`
+  - Changed number from `88` to `89`
+- Modified `v12087` [Holdfast: Nations at War #90](https://sovietscloset.com/video/12087)
+  - Changed title from `Holdfast: Nations at War #89` to `Holdfast: Nations at War #90`
+  - Changed number from `89` to `90`
+- Modified `v12103` [Holdfast: Nations at War #91](https://sovietscloset.com/video/12103)
+  - Changed title from `Holdfast: Nations at War #90` to `Holdfast: Nations at War #91`
+  - Changed number from `90` to `91`
+- Modified `v13082` [Holdfast: Nations at War #92](https://sovietscloset.com/video/13082)
+  - Changed title from `Holdfast: Nations at War #91` to `Holdfast: Nations at War #92`
+  - Changed number from `91` to `92`
+- Modified `v13083` [Holdfast: Nations at War #93](https://sovietscloset.com/video/13083)
+  - Changed title from `Holdfast: Nations at War #92` to `Holdfast: Nations at War #93`
+  - Changed number from `92` to `93`
+- Modified `v14101` [Holdfast: Nations at War #94](https://sovietscloset.com/video/14101)
+  - Changed title from `Holdfast: Nations at War #93` to `Holdfast: Nations at War #94`
+  - Changed number from `93` to `94`
+- Modified `v14103` [Holdfast: Nations at War #95](https://sovietscloset.com/video/14103)
+  - Changed title from `Holdfast: Nations at War #94` to `Holdfast: Nations at War #95`
+  - Changed number from `94` to `95`
+- Modified `v14362` [Holdfast: Nations at War #96](https://sovietscloset.com/video/14362)
+  - Changed title from `Holdfast: Nations at War #95` to `Holdfast: Nations at War #96`
+  - Changed number from `95` to `96`
+- Modified `v14285` [Holdfast: Nations at War #97](https://sovietscloset.com/video/14285)
+  - Changed title from `Holdfast: Nations at War #96` to `Holdfast: Nations at War #97`
+  - Changed number from `96` to `97`
+- Modified `v14102` [Holdfast: Nations at War #98](https://sovietscloset.com/video/14102)
+  - Changed title from `Holdfast: Nations at War #97` to `Holdfast: Nations at War #98`
+  - Changed number from `97` to `98`
+- Modified `v14284` [Holdfast: Nations at War #99](https://sovietscloset.com/video/14284)
+  - Changed title from `Holdfast: Nations at War #98` to `Holdfast: Nations at War #99`
+  - Changed number from `98` to `99`
+- Modified `v14283` [Holdfast: Nations at War #100](https://sovietscloset.com/video/14283)
+  - Changed title from `Holdfast: Nations at War #99` to `Holdfast: Nations at War #100`
+  - Changed number from `99` to `100`
+- Modified `v14282` [Holdfast: Nations at War #101](https://sovietscloset.com/video/14282)
+  - Changed title from `Holdfast: Nations at War #100` to `Holdfast: Nations at War #101`
+  - Changed number from `100` to `101`
+- Modified `v14281` [Holdfast: Nations at War #102](https://sovietscloset.com/video/14281)
+  - Changed title from `Holdfast: Nations at War #101` to `Holdfast: Nations at War #102`
+  - Changed number from `101` to `102`
+- Modified `v14280` [Holdfast: Nations at War #103](https://sovietscloset.com/video/14280)
+  - Changed title from `Holdfast: Nations at War #102` to `Holdfast: Nations at War #103`
+  - Changed number from `102` to `103`
+- Modified `v14278` [Holdfast: Nations at War #104](https://sovietscloset.com/video/14278)
+  - Changed title from `Holdfast: Nations at War #103` to `Holdfast: Nations at War #104`
+  - Changed number from `103` to `104`
+- Modified `v14251` [Holdfast: Nations at War #105](https://sovietscloset.com/video/14251)
+  - Changed title from `Holdfast: Nations at War #104` to `Holdfast: Nations at War #105`
+  - Changed number from `104` to `105`
+- Modified `v14279` [Holdfast: Nations at War #106](https://sovietscloset.com/video/14279)
+  - Changed title from `Holdfast: Nations at War #105` to `Holdfast: Nations at War #106`
+  - Changed number from `105` to `106`
+- Modified `v14247` [Holdfast: Nations at War #107](https://sovietscloset.com/video/14247)
+  - Changed title from `Holdfast: Nations at War #106` to `Holdfast: Nations at War #107`
+  - Changed number from `106` to `107`
+- Modified `v14249` [Holdfast: Nations at War #109](https://sovietscloset.com/video/14249)
+  - Changed title from `Holdfast: Nations at War #108` to `Holdfast: Nations at War #109`
+  - Changed number from `108` to `109`
+- Modified `v14277` [Holdfast: Nations at War #109](https://sovietscloset.com/video/14277)
+  - Changed title from `Holdfast: Nations at War #108` to `Holdfast: Nations at War #109`
+  - Changed number from `108` to `109`
+- Modified `v14250` [Holdfast: Nations at War #110](https://sovietscloset.com/video/14250)
+  - Changed title from `Holdfast: Nations at War #109` to `Holdfast: Nations at War #110`
+  - Changed number from `109` to `110`
+- Modified `v14248` [Holdfast: Nations at War #111](https://sovietscloset.com/video/14248)
+  - Changed title from `Holdfast: Nations at War #110` to `Holdfast: Nations at War #111`
+  - Changed number from `110` to `111`
+- Modified `v14246` [Holdfast: Nations at War #112](https://sovietscloset.com/video/14246)
+  - Changed title from `Holdfast: Nations at War #111` to `Holdfast: Nations at War #112`
+  - Changed number from `111` to `112`
+- Modified `v14276` [Holdfast: Nations at War #113](https://sovietscloset.com/video/14276)
+  - Changed title from `Holdfast: Nations at War #112` to `Holdfast: Nations at War #113`
+  - Changed number from `112` to `113`
+- Modified `v14364` [Holdfast: Nations at War #114](https://sovietscloset.com/video/14364)
+  - Changed title from `Holdfast: Nations at War #113` to `Holdfast: Nations at War #114`
+  - Changed number from `113` to `114`
+- Modified `v14365` [Holdfast: Nations at War #115](https://sovietscloset.com/video/14365)
+  - Changed title from `Holdfast: Nations at War #114` to `Holdfast: Nations at War #115`
+  - Changed number from `114` to `115`
+- Modified `v14363` [Holdfast: Nations at War #116](https://sovietscloset.com/video/14363)
+  - Changed title from `Holdfast: Nations at War #115` to `Holdfast: Nations at War #116`
+  - Changed number from `115` to `116`
+- Modified `v14366` [Holdfast: Nations at War #117](https://sovietscloset.com/video/14366)
+  - Changed title from `Holdfast: Nations at War #116` to `Holdfast: Nations at War #117`
+  - Changed number from `116` to `117`
+- Modified `v14367` [Holdfast: Nations at War #118](https://sovietscloset.com/video/14367)
+  - Changed title from `Holdfast: Nations at War #117` to `Holdfast: Nations at War #118`
+  - Changed number from `117` to `118`
+- Modified `v14433` [Holdfast: Nations at War #119](https://sovietscloset.com/video/14433)
+  - Changed title from `Holdfast: Nations at War #118` to `Holdfast: Nations at War #119`
+  - Changed number from `118` to `119`
+- Modified `v14387` [Holdfast: Nations at War #121](https://sovietscloset.com/video/14387)
+  - Changed title from `Holdfast: Nations at War #120` to `Holdfast: Nations at War #121`
+  - Changed number from `120` to `121`
+- Modified `v14403` [Holdfast: Nations at War #121](https://sovietscloset.com/video/14403)
+  - Changed title from `Holdfast: Nations at War #120` to `Holdfast: Nations at War #121`
+  - Changed number from `120` to `121`
+- Modified `v14465` [Holdfast: Nations at War #122](https://sovietscloset.com/video/14465)
+  - Changed title from `Holdfast: Nations at War #121` to `Holdfast: Nations at War #122`
+  - Changed number from `121` to `122`
+- Modified `v14445` [Holdfast: Nations at War #123](https://sovietscloset.com/video/14445)
+  - Changed title from `Holdfast: Nations at War #122` to `Holdfast: Nations at War #123`
+  - Changed number from `122` to `123`
+- Modified `v14449` [Holdfast: Nations at War #124](https://sovietscloset.com/video/14449)
+  - Changed title from `Holdfast: Nations at War #123` to `Holdfast: Nations at War #124`
+  - Changed number from `123` to `124`
+- Modified `v14446` [Holdfast: Nations at War #125](https://sovietscloset.com/video/14446)
+  - Changed title from `Holdfast: Nations at War #124` to `Holdfast: Nations at War #125`
+  - Changed number from `124` to `125`
+- Modified `v14447` [Holdfast: Nations at War #126](https://sovietscloset.com/video/14447)
+  - Changed title from `Holdfast: Nations at War #125` to `Holdfast: Nations at War #126`
+  - Changed number from `125` to `126`
+- Modified `v14448` [Holdfast: Nations at War #127](https://sovietscloset.com/video/14448)
+  - Changed title from `Holdfast: Nations at War #126` to `Holdfast: Nations at War #127`
+  - Changed number from `126` to `127`
+- Modified `v14556` [Holdfast: Nations at War #128](https://sovietscloset.com/video/14556)
+  - Changed title from `Holdfast: Nations at War #127` to `Holdfast: Nations at War #128`
+  - Changed number from `127` to `128`
+- Modified `v14558` [Holdfast: Nations at War #129](https://sovietscloset.com/video/14558)
+  - Changed title from `Holdfast: Nations at War #128` to `Holdfast: Nations at War #129`
+  - Changed number from `128` to `129`
+- Modified `v14557` [Holdfast: Nations at War #130](https://sovietscloset.com/video/14557)
+  - Changed title from `Holdfast: Nations at War #129` to `Holdfast: Nations at War #130`
+  - Changed number from `129` to `130`
+- Modified `v14611` [Holdfast: Nations at War #131](https://sovietscloset.com/video/14611)
+  - Changed title from `Holdfast: Nations at War #130` to `Holdfast: Nations at War #131`
+  - Changed number from `130` to `131`
+- Modified `v14610` [Holdfast: Nations at War #132](https://sovietscloset.com/video/14610)
+  - Changed title from `Holdfast: Nations at War #131` to `Holdfast: Nations at War #132`
+  - Changed number from `131` to `132`
+- Modified `v14612` [Holdfast: Nations at War #133](https://sovietscloset.com/video/14612)
+  - Changed title from `Holdfast: Nations at War #132` to `Holdfast: Nations at War #133`
+  - Changed number from `132` to `133`
+- Modified `v14609` [Holdfast: Nations at War #134](https://sovietscloset.com/video/14609)
+  - Changed title from `Holdfast: Nations at War #133` to `Holdfast: Nations at War #134`
+  - Changed number from `133` to `134`
+- Modified `v14617` [Holdfast: Nations at War #136](https://sovietscloset.com/video/14617)
+  - Changed title from `Holdfast: Nations at War #135` to `Holdfast: Nations at War #136`
+  - Changed number from `135` to `136`
+- Modified `v14620` [Holdfast: Nations at War #136](https://sovietscloset.com/video/14620)
+  - Changed title from `Holdfast: Nations at War #135` to `Holdfast: Nations at War #136`
+  - Changed number from `135` to `136`
+- Modified `v14616` [Holdfast: Nations at War #138](https://sovietscloset.com/video/14616)
+  - Changed title from `Holdfast: Nations at War #137` to `Holdfast: Nations at War #138`
+  - Changed number from `137` to `138`
+- Modified `v14619` [Holdfast: Nations at War #138](https://sovietscloset.com/video/14619)
+  - Changed title from `Holdfast: Nations at War #137` to `Holdfast: Nations at War #138`
+  - Changed number from `137` to `138`
+- Modified `v14615` [Holdfast: Nations at War #140](https://sovietscloset.com/video/14615)
+  - Changed title from `Holdfast: Nations at War #139` to `Holdfast: Nations at War #140`
+  - Changed number from `139` to `140`
+- Modified `v14618` [Holdfast: Nations at War #140](https://sovietscloset.com/video/14618)
+  - Changed title from `Holdfast: Nations at War #139` to `Holdfast: Nations at War #140`
+  - Changed number from `139` to `140`
+- Modified `v14645` [Holdfast: Nations at War #141](https://sovietscloset.com/video/14645)
+  - Changed title from `Holdfast: Nations at War #140` to `Holdfast: Nations at War #141`
+  - Changed number from `140` to `141`
+- Modified `v14648` [Holdfast: Nations at War #142](https://sovietscloset.com/video/14648)
+  - Changed title from `Holdfast: Nations at War #141` to `Holdfast: Nations at War #142`
+  - Changed number from `141` to `142`
+- Modified `v14646` [Holdfast: Nations at War #143](https://sovietscloset.com/video/14646)
+  - Changed title from `Holdfast: Nations at War #142` to `Holdfast: Nations at War #143`
+  - Changed number from `142` to `143`
+- Modified `v14649` [Holdfast: Nations at War #144](https://sovietscloset.com/video/14649)
+  - Changed title from `Holdfast: Nations at War #143` to `Holdfast: Nations at War #144`
+  - Changed number from `143` to `144`
+- Modified `v14661` [Holdfast: Nations at War #145](https://sovietscloset.com/video/14661)
+  - Changed title from `Holdfast: Nations at War #144` to `Holdfast: Nations at War #145`
+  - Changed number from `144` to `145`
+- Modified `v14647` [Holdfast: Nations at War #146](https://sovietscloset.com/video/14647)
+  - Changed title from `Holdfast: Nations at War #145` to `Holdfast: Nations at War #146`
+  - Changed number from `145` to `146`
+- Modified `v14662` [Holdfast: Nations at War #147](https://sovietscloset.com/video/14662)
+  - Changed title from `Holdfast: Nations at War #146` to `Holdfast: Nations at War #147`
+  - Changed number from `146` to `147`
+- Modified `v14663` [Holdfast: Nations at War #148](https://sovietscloset.com/video/14663)
+  - Changed title from `Holdfast: Nations at War #147` to `Holdfast: Nations at War #148`
+  - Changed number from `147` to `148`
+- Modified `v14664` [Holdfast: Nations at War #149](https://sovietscloset.com/video/14664)
+  - Changed title from `Holdfast: Nations at War #148` to `Holdfast: Nations at War #149`
+  - Changed number from `148` to `149`
+- Modified `v14766` [Holdfast: Nations at War #150](https://sovietscloset.com/video/14766)
+  - Changed title from `Holdfast: Nations at War #149` to `Holdfast: Nations at War #150`
+  - Changed number from `149` to `150`
+- Modified `v14764` [Holdfast: Nations at War #151](https://sovietscloset.com/video/14764)
+  - Changed title from `Holdfast: Nations at War #150` to `Holdfast: Nations at War #151`
+  - Changed number from `150` to `151`
+- Modified `v14780` [Holdfast: Nations at War #152](https://sovietscloset.com/video/14780)
+  - Changed title from `Holdfast: Nations at War #151` to `Holdfast: Nations at War #152`
+  - Changed number from `151` to `152`
+- Modified `v14763` [Holdfast: Nations at War #153](https://sovietscloset.com/video/14763)
+  - Changed title from `Holdfast: Nations at War #152` to `Holdfast: Nations at War #153`
+  - Changed number from `152` to `153`
+- Modified `v14765` [Holdfast: Nations at War #154](https://sovietscloset.com/video/14765)
+  - Changed title from `Holdfast: Nations at War #153` to `Holdfast: Nations at War #154`
+  - Changed number from `153` to `154`
+- Modified `v14762` [Holdfast: Nations at War #155](https://sovietscloset.com/video/14762)
+  - Changed title from `Holdfast: Nations at War #154` to `Holdfast: Nations at War #155`
+  - Changed number from `154` to `155`
+- Modified `v14767` [Holdfast: Nations at War #156](https://sovietscloset.com/video/14767)
+  - Changed title from `Holdfast: Nations at War #155` to `Holdfast: Nations at War #156`
+  - Changed number from `155` to `156`
+- Modified `v14803` [Holdfast: Nations at War #157](https://sovietscloset.com/video/14803)
+  - Changed title from `Holdfast: Nations at War #156` to `Holdfast: Nations at War #157`
+  - Changed number from `156` to `157`
+- Modified `v14805` [Holdfast: Nations at War #158](https://sovietscloset.com/video/14805)
+  - Changed title from `Holdfast: Nations at War #157` to `Holdfast: Nations at War #158`
+  - Changed number from `157` to `158`
+- Modified `v14897` [Holdfast: Nations at War #159](https://sovietscloset.com/video/14897)
+  - Changed title from `Holdfast: Nations at War #158` to `Holdfast: Nations at War #159`
+  - Changed number from `158` to `159`
+- Modified `v14896` [Holdfast: Nations at War #160](https://sovietscloset.com/video/14896)
+  - Changed title from `Holdfast: Nations at War #159` to `Holdfast: Nations at War #160`
+  - Changed number from `159` to `160`
+- Modified `v14895` [Holdfast: Nations at War #161](https://sovietscloset.com/video/14895)
+  - Changed title from `Holdfast: Nations at War #160` to `Holdfast: Nations at War #161`
+  - Changed number from `160` to `161`
+- Modified `v14905` [Holdfast: Nations at War #162](https://sovietscloset.com/video/14905)
+  - Changed title from `Holdfast: Nations at War #161` to `Holdfast: Nations at War #162`
+  - Changed number from `161` to `162`
+- Modified `v14907` [Holdfast: Nations at War #163](https://sovietscloset.com/video/14907)
+  - Changed title from `Holdfast: Nations at War #162` to `Holdfast: Nations at War #163`
+  - Changed number from `162` to `163`
+- Modified `v14908` [Holdfast: Nations at War #164](https://sovietscloset.com/video/14908)
+  - Changed title from `Holdfast: Nations at War #163` to `Holdfast: Nations at War #164`
+  - Changed number from `163` to `164`
+- Modified `v14906` [Holdfast: Nations at War #165](https://sovietscloset.com/video/14906)
+  - Changed title from `Holdfast: Nations at War #164` to `Holdfast: Nations at War #165`
+  - Changed number from `164` to `165`
+- Modified `v14843` [Holdfast: Nations at War #166](https://sovietscloset.com/video/14843)
+  - Changed title from `Holdfast: Nations at War #165` to `Holdfast: Nations at War #166`
+  - Changed number from `165` to `166`
+- Modified `v14861` [Holdfast: Nations at War #167](https://sovietscloset.com/video/14861)
+  - Changed title from `Holdfast: Nations at War #166` to `Holdfast: Nations at War #167`
+  - Changed number from `166` to `167`
+- Modified `v14887` [Holdfast: Nations at War #168](https://sovietscloset.com/video/14887)
+  - Changed title from `Holdfast: Nations at War #167` to `Holdfast: Nations at War #168`
+  - Changed number from `167` to `168`
+- Modified `v14951` [Holdfast: Nations at War #169](https://sovietscloset.com/video/14951)
+  - Changed title from `Holdfast: Nations at War #168` to `Holdfast: Nations at War #169`
+  - Changed number from `168` to `169`
+- Modified `v14885` [Holdfast: Nations at War #170](https://sovietscloset.com/video/14885)
+  - Changed title from `Holdfast: Nations at War #169` to `Holdfast: Nations at War #170`
+  - Changed number from `169` to `170`
+- Modified `v14992` [Holdfast: Nations at War #171](https://sovietscloset.com/video/14992)
+  - Changed title from `Holdfast: Nations at War #170` to `Holdfast: Nations at War #171`
+  - Changed number from `170` to `171`
+- Modified `v14986` [Holdfast: Nations at War #172](https://sovietscloset.com/video/14986)
+  - Changed title from `Holdfast: Nations at War #171` to `Holdfast: Nations at War #172`
+  - Changed number from `171` to `172`
+- Modified `v14985` [Holdfast: Nations at War #173](https://sovietscloset.com/video/14985)
+  - Changed title from `Holdfast: Nations at War #172` to `Holdfast: Nations at War #173`
+  - Changed number from `172` to `173`
+- Added `v15010` [Holdfast: Nations at War #174](https://sovietscloset.com/video/15010)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15004` [Left 4 Dead 2 - Versus #6](https://sovietscloset.com/video/15004)
+  - Is no longer marked as new.
+- Added `v15011` [Left 4 Dead 2 - Versus #7](https://sovietscloset.com/video/15011)
+
+### Modified Game [Minecraft](https://sovietscloset.com/Minecraft)
+
+#### Modified Playlist [Minecraft](https://sovietscloset.com/Minecraft)
+
+##### Videos
+
+- Added `v15012` [Minecraft #40](https://sovietscloset.com/video/15012)
+
+### Modified Game [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+#### Modified Playlist [Player Unknown's Battlegrounds](https://sovietscloset.com/Player-Unknown-s-Battlegrounds)
+
+##### Videos
+
+- Added `v15042` [Player Unknown's Battlegrounds #19](https://sovietscloset.com/video/15042)
+- Added `v15043` [Player Unknown's Battlegrounds #20](https://sovietscloset.com/video/15043)
+- Added `v15046` [Player Unknown's Battlegrounds #21](https://sovietscloset.com/video/15046)
+- Added `v15045` [Player Unknown's Battlegrounds #22](https://sovietscloset.com/video/15045)
+- Added `v15044` [Player Unknown's Battlegrounds #23](https://sovietscloset.com/video/15044)
+- Added `v15047` [Player Unknown's Battlegrounds #24](https://sovietscloset.com/video/15047)
+- Added `v15051` [Player Unknown's Battlegrounds #25](https://sovietscloset.com/video/15051)
+- Added `v15052` [Player Unknown's Battlegrounds #26](https://sovietscloset.com/video/15052)
+- Added `v15048` [Player Unknown's Battlegrounds #27](https://sovietscloset.com/video/15048)
+- Added `v15049` [Player Unknown's Battlegrounds #28](https://sovietscloset.com/video/15049)
+- Added `v15050` [Player Unknown's Battlegrounds #29](https://sovietscloset.com/video/15050)
+- Added `v15053` [Player Unknown's Battlegrounds #30](https://sovietscloset.com/video/15053)
+- Added `v15058` [Player Unknown's Battlegrounds #31](https://sovietscloset.com/video/15058)
+- Added `v15057` [Player Unknown's Battlegrounds #32](https://sovietscloset.com/video/15057)
+- Added `v15060` [Player Unknown's Battlegrounds #33](https://sovietscloset.com/video/15060)
+- Added `v15059` [Player Unknown's Battlegrounds #34](https://sovietscloset.com/video/15059)
+- Added `v15063` [Player Unknown's Battlegrounds #35](https://sovietscloset.com/video/15063)
+- Added `v15064` [Player Unknown's Battlegrounds #36](https://sovietscloset.com/video/15064)
+- Added `v15062` [Player Unknown's Battlegrounds #37](https://sovietscloset.com/video/15062)
+- Added `v15061` [Player Unknown's Battlegrounds #38](https://sovietscloset.com/video/15061)
+- Modified `v1448` [Player Unknown's Battlegrounds #40](https://sovietscloset.com/video/1448)
+  - Changed title from `Player Unknown's Battlegrounds #20` to `Player Unknown's Battlegrounds #40`
+  - Changed number from `20` to `40`
+- Modified `v1537` [Player Unknown's Battlegrounds #41](https://sovietscloset.com/video/1537)
+  - Changed title from `Player Unknown's Battlegrounds #21` to `Player Unknown's Battlegrounds #41`
+  - Changed number from `21` to `41`
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rimworld - Caloma's Creek](https://sovietscloset.com/Rimworld/Caloma-s-Creek)
+
+##### Videos
+
+- Added `v15025` [Rimworld - Caloma's Creek #92](https://sovietscloset.com/video/15025)
+- Modified `v1778` [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/1778)
+  - Changed title from `Rimworld - Caloma's Creek #93` to `Rimworld - Caloma's Creek #94`
+  - Changed number from `93` to `94`
+- Modified `v6777` [Rimworld - Caloma's Creek #94](https://sovietscloset.com/video/6777)
+  - Changed title from `Rimworld - Caloma's Creek #93` to `Rimworld - Caloma's Creek #94`
+  - Changed number from `93` to `94`
+- Modified `v1769` [Rimworld - Caloma's Creek #95](https://sovietscloset.com/video/1769)
+  - Changed title from `Rimworld - Caloma's Creek #94` to `Rimworld - Caloma's Creek #95`
+  - Changed number from `94` to `95`
+- Modified `v6779` [Rimworld - Caloma's Creek #96](https://sovietscloset.com/video/6779)
+  - Changed title from `Rimworld - Caloma's Creek #95` to `Rimworld - Caloma's Creek #96`
+  - Changed number from `95` to `96`
+- Modified `v6774` [Rimworld - Caloma's Creek #97](https://sovietscloset.com/video/6774)
+  - Changed title from `Rimworld - Caloma's Creek #96` to `Rimworld - Caloma's Creek #97`
+  - Changed number from `96` to `97`
+- Modified `v6780` [Rimworld - Caloma's Creek #98](https://sovietscloset.com/video/6780)
+  - Changed title from `Rimworld - Caloma's Creek #97` to `Rimworld - Caloma's Creek #98`
+  - Changed number from `97` to `98`
+- Modified `v6778` [Rimworld - Caloma's Creek #99](https://sovietscloset.com/video/6778)
+  - Changed title from `Rimworld - Caloma's Creek #98` to `Rimworld - Caloma's Creek #99`
+  - Changed number from `98` to `99`
+- Modified `v6781` [Rimworld - Caloma's Creek #100](https://sovietscloset.com/video/6781)
+  - Changed title from `Rimworld - Caloma's Creek #99` to `Rimworld - Caloma's Creek #100`
+  - Changed number from `99` to `100`
+- Modified `v6891` [Rimworld - Caloma's Creek #101](https://sovietscloset.com/video/6891)
+  - Changed title from `Rimworld - Caloma's Creek #100` to `Rimworld - Caloma's Creek #101`
+  - Changed number from `100` to `101`
+- Modified `v9039` [Rimworld - Caloma's Creek #102](https://sovietscloset.com/video/9039)
+  - Changed title from `Rimworld - Caloma's Creek #101` to `Rimworld - Caloma's Creek #102`
+  - Changed number from `101` to `102`
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15000` [Rimworld - The Pale Ones #93](https://sovietscloset.com/video/15000)
+  - Is no longer marked as new.
+- Modified `v15001` [Rimworld - The Pale Ones #94](https://sovietscloset.com/video/15001)
+  - Is no longer marked as new.
+- Modified `v15002` [Rimworld - The Pale Ones #95](https://sovietscloset.com/video/15002)
+  - Is no longer marked as new.
+- Modified `v15007` [Rimworld - The Pale Ones #96](https://sovietscloset.com/video/15007)
+  - Is no longer marked as new.
+- Modified `v15009` [Rimworld - The Pale Ones #97](https://sovietscloset.com/video/15009)
+  - Is no longer marked as new.
+- Modified `v15008` [Rimworld - The Pale Ones #98](https://sovietscloset.com/video/15008)
+  - Is no longer marked as new.
+- Modified `v15006` [Rimworld - The Pale Ones #99](https://sovietscloset.com/video/15006)
+  - Is no longer marked as new.
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v15026` [Rising Storm 2: Vietnam #14](https://sovietscloset.com/video/15026)
+- Modified `v1724` [Rising Storm 2: Vietnam #15](https://sovietscloset.com/video/1724)
+  - Changed title from `Rising Storm 2: Vietnam #14` to `Rising Storm 2: Vietnam #15`
+  - Changed number from `14` to `15`
+- Modified `v4686` [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/4686)
+  - Changed title from `Rising Storm 2: Vietnam #16` to `Rising Storm 2: Vietnam #17`
+  - Changed number from `16` to `17`
+- Modified `v13085` [Rising Storm 2: Vietnam #17](https://sovietscloset.com/video/13085)
+  - Changed title from `Rising Storm 2: Vietnam #16` to `Rising Storm 2: Vietnam #17`
+  - Changed number from `16` to `17`
+- Modified `v1775` [Rising Storm 2: Vietnam #18](https://sovietscloset.com/video/1775)
+  - Changed title from `Rising Storm 2: Vietnam #17` to `Rising Storm 2: Vietnam #18`
+  - Changed number from `17` to `18`
+- Modified `v1790` [Rising Storm 2: Vietnam #19](https://sovietscloset.com/video/1790)
+  - Changed title from `Rising Storm 2: Vietnam #18` to `Rising Storm 2: Vietnam #19`
+  - Changed number from `18` to `19`
+- Modified `v1789` [Rising Storm 2: Vietnam #20](https://sovietscloset.com/video/1789)
+  - Changed title from `Rising Storm 2: Vietnam #19` to `Rising Storm 2: Vietnam #20`
+  - Changed number from `19` to `20`
+- Modified `v1779` [Rising Storm 2: Vietnam #21](https://sovietscloset.com/video/1779)
+  - Changed title from `Rising Storm 2: Vietnam #20` to `Rising Storm 2: Vietnam #21`
+  - Changed number from `20` to `21`
+- Modified `v3730` [Rising Storm 2: Vietnam #22](https://sovietscloset.com/video/3730)
+  - Changed title from `Rising Storm 2: Vietnam #21` to `Rising Storm 2: Vietnam #22`
+  - Changed number from `21` to `22`
+- Modified `v3711` [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/3711)
+  - Changed title from `Rising Storm 2: Vietnam #23` to `Rising Storm 2: Vietnam #24`
+  - Changed number from `23` to `24`
+- Modified `v10127` [Rising Storm 2: Vietnam #24](https://sovietscloset.com/video/10127)
+  - Changed title from `Rising Storm 2: Vietnam #23` to `Rising Storm 2: Vietnam #24`
+  - Changed number from `23` to `24`
+- Modified `v3691` [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3691)
+  - Changed title from `Rising Storm 2: Vietnam #25` to `Rising Storm 2: Vietnam #26`
+  - Changed number from `25` to `26`
+- Modified `v3696` [Rising Storm 2: Vietnam #26](https://sovietscloset.com/video/3696)
+  - Changed title from `Rising Storm 2: Vietnam #25` to `Rising Storm 2: Vietnam #26`
+  - Changed number from `25` to `26`
+- Modified `v3695` [Rising Storm 2: Vietnam #27](https://sovietscloset.com/video/3695)
+  - Changed title from `Rising Storm 2: Vietnam #26` to `Rising Storm 2: Vietnam #27`
+  - Changed number from `26` to `27`
+- Modified `v3757` [Rising Storm 2: Vietnam #29](https://sovietscloset.com/video/3757)
+  - Changed title from `Rising Storm 2: Vietnam #28` to `Rising Storm 2: Vietnam #29`
+  - Changed number from `28` to `29`
+- Modified `v3764` [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/3764)
+  - Changed title from `Rising Storm 2: Vietnam #30` to `Rising Storm 2: Vietnam #31`
+  - Changed number from `30` to `31`
+- Modified `v10124` [Rising Storm 2: Vietnam #31](https://sovietscloset.com/video/10124)
+  - Changed title from `Rising Storm 2: Vietnam #30` to `Rising Storm 2: Vietnam #31`
+  - Changed number from `30` to `31`
+- Modified `v3768` [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/3768)
+  - Changed title from `Rising Storm 2: Vietnam #32` to `Rising Storm 2: Vietnam #33`
+  - Changed number from `32` to `33`
+- Modified `v10126` [Rising Storm 2: Vietnam #33](https://sovietscloset.com/video/10126)
+  - Changed title from `Rising Storm 2: Vietnam #32` to `Rising Storm 2: Vietnam #33`
+  - Changed number from `32` to `33`
+- Modified `v3767` [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/3767)
+  - Changed title from `Rising Storm 2: Vietnam #34` to `Rising Storm 2: Vietnam #35`
+  - Changed number from `34` to `35`
+- Modified `v10171` [Rising Storm 2: Vietnam #35](https://sovietscloset.com/video/10171)
+  - Changed title from `Rising Storm 2: Vietnam #34` to `Rising Storm 2: Vietnam #35`
+  - Changed number from `34` to `35`
+- Modified `v10130` [Rising Storm 2: Vietnam #36](https://sovietscloset.com/video/10130)
+  - Changed title from `Rising Storm 2: Vietnam #35` to `Rising Storm 2: Vietnam #36`
+  - Changed number from `35` to `36`
+- Modified `v4685` [Rising Storm 2: Vietnam #37](https://sovietscloset.com/video/4685)
+  - Changed title from `Rising Storm 2: Vietnam #36` to `Rising Storm 2: Vietnam #37`
+  - Changed number from `36` to `37`
+- Modified `v3783` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3783)
+  - Changed title from `Rising Storm 2: Vietnam #38` to `Rising Storm 2: Vietnam #39`
+  - Changed number from `38` to `39`
+- Modified `v3785` [Rising Storm 2: Vietnam #39](https://sovietscloset.com/video/3785)
+  - Changed title from `Rising Storm 2: Vietnam #38` to `Rising Storm 2: Vietnam #39`
+  - Changed number from `38` to `39`
+- Modified `v3787` [Rising Storm 2: Vietnam #40](https://sovietscloset.com/video/3787)
+  - Changed title from `Rising Storm 2: Vietnam #39` to `Rising Storm 2: Vietnam #40`
+  - Changed number from `39` to `40`
+- Modified `v4687` [Rising Storm 2: Vietnam #41](https://sovietscloset.com/video/4687)
+  - Changed title from `Rising Storm 2: Vietnam #40` to `Rising Storm 2: Vietnam #41`
+  - Changed number from `40` to `41`
+- Modified `v4683` [Rising Storm 2: Vietnam #42](https://sovietscloset.com/video/4683)
+  - Changed title from `Rising Storm 2: Vietnam #41` to `Rising Storm 2: Vietnam #42`
+  - Changed number from `41` to `42`
+- Modified `v10128` [Rising Storm 2: Vietnam #43](https://sovietscloset.com/video/10128)
+  - Changed title from `Rising Storm 2: Vietnam #42` to `Rising Storm 2: Vietnam #43`
+  - Changed number from `42` to `43`
+- Modified `v10125` [Rising Storm 2: Vietnam #44](https://sovietscloset.com/video/10125)
+  - Changed title from `Rising Storm 2: Vietnam #43` to `Rising Storm 2: Vietnam #44`
+  - Changed number from `43` to `44`
+- Modified `v10170` [Rising Storm 2: Vietnam #45](https://sovietscloset.com/video/10170)
+  - Changed title from `Rising Storm 2: Vietnam #44` to `Rising Storm 2: Vietnam #45`
+  - Changed number from `44` to `45`
+- Modified `v10174` [Rising Storm 2: Vietnam #46](https://sovietscloset.com/video/10174)
+  - Changed title from `Rising Storm 2: Vietnam #45` to `Rising Storm 2: Vietnam #46`
+  - Changed number from `45` to `46`
+- Modified `v10132` [Rising Storm 2: Vietnam #47](https://sovietscloset.com/video/10132)
+  - Changed title from `Rising Storm 2: Vietnam #46` to `Rising Storm 2: Vietnam #47`
+  - Changed number from `46` to `47`
+- Modified `v9041` [Rising Storm 2: Vietnam #48](https://sovietscloset.com/video/9041)
+  - Changed title from `Rising Storm 2: Vietnam #47` to `Rising Storm 2: Vietnam #48`
+  - Changed number from `47` to `48`
+- Modified `v10131` [Rising Storm 2: Vietnam #49](https://sovietscloset.com/video/10131)
+  - Changed title from `Rising Storm 2: Vietnam #48` to `Rising Storm 2: Vietnam #49`
+  - Changed number from `48` to `49`
+- Modified `v10172` [Rising Storm 2: Vietnam #50](https://sovietscloset.com/video/10172)
+  - Changed title from `Rising Storm 2: Vietnam #49` to `Rising Storm 2: Vietnam #50`
+  - Changed number from `49` to `50`
+- Modified `v9046` [Rising Storm 2: Vietnam #51](https://sovietscloset.com/video/9046)
+  - Changed title from `Rising Storm 2: Vietnam #50` to `Rising Storm 2: Vietnam #51`
+  - Changed number from `50` to `51`
+- Modified `v9045` [Rising Storm 2: Vietnam #52](https://sovietscloset.com/video/9045)
+  - Changed title from `Rising Storm 2: Vietnam #51` to `Rising Storm 2: Vietnam #52`
+  - Changed number from `51` to `52`
+- Modified `v9106` [Rising Storm 2: Vietnam #53](https://sovietscloset.com/video/9106)
+  - Changed title from `Rising Storm 2: Vietnam #52` to `Rising Storm 2: Vietnam #53`
+  - Changed number from `52` to `53`
+- Modified `v10192` [Rising Storm 2: Vietnam #54](https://sovietscloset.com/video/10192)
+  - Changed title from `Rising Storm 2: Vietnam #53` to `Rising Storm 2: Vietnam #54`
+  - Changed number from `53` to `54`
+- Modified `v10173` [Rising Storm 2: Vietnam #55](https://sovietscloset.com/video/10173)
+  - Changed title from `Rising Storm 2: Vietnam #54` to `Rising Storm 2: Vietnam #55`
+  - Changed number from `54` to `55`
+- Modified `v10083` [Rising Storm 2: Vietnam #56](https://sovietscloset.com/video/10083)
+  - Changed title from `Rising Storm 2: Vietnam #55` to `Rising Storm 2: Vietnam #56`
+  - Changed number from `55` to `56`
+- Modified `v10084` [Rising Storm 2: Vietnam #57](https://sovietscloset.com/video/10084)
+  - Changed title from `Rising Storm 2: Vietnam #56` to `Rising Storm 2: Vietnam #57`
+  - Changed number from `56` to `57`
+- Modified `v10167` [Rising Storm 2: Vietnam #58](https://sovietscloset.com/video/10167)
+  - Changed title from `Rising Storm 2: Vietnam #57` to `Rising Storm 2: Vietnam #58`
+  - Changed number from `57` to `58`
+- Modified `v10169` [Rising Storm 2: Vietnam #59](https://sovietscloset.com/video/10169)
+  - Changed title from `Rising Storm 2: Vietnam #58` to `Rising Storm 2: Vietnam #59`
+  - Changed number from `58` to `59`
+- Modified `v10168` [Rising Storm 2: Vietnam #60](https://sovietscloset.com/video/10168)
+  - Changed title from `Rising Storm 2: Vietnam #59` to `Rising Storm 2: Vietnam #60`
+  - Changed number from `59` to `60`
+- Modified `v10184` [Rising Storm 2: Vietnam #61](https://sovietscloset.com/video/10184)
+  - Changed title from `Rising Storm 2: Vietnam #60` to `Rising Storm 2: Vietnam #61`
+  - Changed number from `60` to `61`
+- Modified `v6686` [Rising Storm 2: Vietnam #62](https://sovietscloset.com/video/6686)
+  - Changed title from `Rising Storm 2: Vietnam #61` to `Rising Storm 2: Vietnam #62`
+  - Changed number from `61` to `62`
+- Modified `v6692` [Rising Storm 2: Vietnam #63](https://sovietscloset.com/video/6692)
+  - Changed title from `Rising Storm 2: Vietnam #62` to `Rising Storm 2: Vietnam #63`
+  - Changed number from `62` to `63`
+- Modified `v10175` [Rising Storm 2: Vietnam #64](https://sovietscloset.com/video/10175)
+  - Changed title from `Rising Storm 2: Vietnam #63` to `Rising Storm 2: Vietnam #64`
+  - Changed number from `63` to `64`
+- Modified `v10182` [Rising Storm 2: Vietnam #65](https://sovietscloset.com/video/10182)
+  - Changed title from `Rising Storm 2: Vietnam #64` to `Rising Storm 2: Vietnam #65`
+  - Changed number from `64` to `65`
+- Modified `v10187` [Rising Storm 2: Vietnam #66](https://sovietscloset.com/video/10187)
+  - Changed title from `Rising Storm 2: Vietnam #65` to `Rising Storm 2: Vietnam #66`
+  - Changed number from `65` to `66`
+- Modified `v10183` [Rising Storm 2: Vietnam #67](https://sovietscloset.com/video/10183)
+  - Changed title from `Rising Storm 2: Vietnam #66` to `Rising Storm 2: Vietnam #67`
+  - Changed number from `66` to `67`
+- Modified `v10176` [Rising Storm 2: Vietnam #68](https://sovietscloset.com/video/10176)
+  - Changed title from `Rising Storm 2: Vietnam #67` to `Rising Storm 2: Vietnam #68`
+  - Changed number from `67` to `68`
+- Modified `v10185` [Rising Storm 2: Vietnam #69](https://sovietscloset.com/video/10185)
+  - Changed title from `Rising Storm 2: Vietnam #68` to `Rising Storm 2: Vietnam #69`
+  - Changed number from `68` to `69`
+- Modified `v10188` [Rising Storm 2: Vietnam #70](https://sovietscloset.com/video/10188)
+  - Changed title from `Rising Storm 2: Vietnam #69` to `Rising Storm 2: Vietnam #70`
+  - Changed number from `69` to `70`
+- Modified `v10190` [Rising Storm 2: Vietnam #71](https://sovietscloset.com/video/10190)
+  - Changed title from `Rising Storm 2: Vietnam #70` to `Rising Storm 2: Vietnam #71`
+  - Changed number from `70` to `71`
+- Modified `v13086` [Rising Storm 2: Vietnam #72](https://sovietscloset.com/video/13086)
+  - Changed title from `Rising Storm 2: Vietnam #71` to `Rising Storm 2: Vietnam #72`
+  - Changed number from `71` to `72`
+- Modified `v6749` [Rising Storm 2: Vietnam #73](https://sovietscloset.com/video/6749)
+  - Changed title from `Rising Storm 2: Vietnam #72` to `Rising Storm 2: Vietnam #73`
+  - Changed number from `72` to `73`
+- Modified `v10186` [Rising Storm 2: Vietnam #74](https://sovietscloset.com/video/10186)
+  - Changed title from `Rising Storm 2: Vietnam #73` to `Rising Storm 2: Vietnam #74`
+  - Changed number from `73` to `74`
+- Modified `v10189` [Rising Storm 2: Vietnam #75](https://sovietscloset.com/video/10189)
+  - Changed title from `Rising Storm 2: Vietnam #74` to `Rising Storm 2: Vietnam #75`
+  - Changed number from `74` to `75`
+- Modified `v10191` [Rising Storm 2: Vietnam #76](https://sovietscloset.com/video/10191)
+  - Changed title from `Rising Storm 2: Vietnam #75` to `Rising Storm 2: Vietnam #76`
+  - Changed number from `75` to `76`
+- Modified `v6979` [Rising Storm 2: Vietnam #77](https://sovietscloset.com/video/6979)
+  - Changed title from `Rising Storm 2: Vietnam #76` to `Rising Storm 2: Vietnam #77`
+  - Changed number from `76` to `77`
+- Modified `v6978` [Rising Storm 2: Vietnam #78](https://sovietscloset.com/video/6978)
+  - Changed title from `Rising Storm 2: Vietnam #77` to `Rising Storm 2: Vietnam #78`
+  - Changed number from `77` to `78`
+- Modified `v10166` [Rising Storm 2: Vietnam #79](https://sovietscloset.com/video/10166)
+  - Changed title from `Rising Storm 2: Vietnam #78` to `Rising Storm 2: Vietnam #79`
+  - Changed number from `78` to `79`
+- Modified `v10165` [Rising Storm 2: Vietnam #80](https://sovietscloset.com/video/10165)
+  - Changed title from `Rising Storm 2: Vietnam #79` to `Rising Storm 2: Vietnam #80`
+  - Changed number from `79` to `80`
+- Modified `v10129` [Rising Storm 2: Vietnam #81](https://sovietscloset.com/video/10129)
+  - Changed title from `Rising Storm 2: Vietnam #80` to `Rising Storm 2: Vietnam #81`
+  - Changed number from `80` to `81`
+- Modified `v14302` [Rising Storm 2: Vietnam #82](https://sovietscloset.com/video/14302)
+  - Changed title from `Rising Storm 2: Vietnam #81` to `Rising Storm 2: Vietnam #82`
+  - Changed number from `81` to `82`
+- Modified `v14301` [Rising Storm 2: Vietnam #83](https://sovietscloset.com/video/14301)
+  - Changed title from `Rising Storm 2: Vietnam #82` to `Rising Storm 2: Vietnam #83`
+  - Changed number from `82` to `83`
+- Modified `v14269` [Rising Storm 2: Vietnam #84](https://sovietscloset.com/video/14269)
+  - Changed title from `Rising Storm 2: Vietnam #83` to `Rising Storm 2: Vietnam #84`
+  - Changed number from `83` to `84`
+- Modified `v14268` [Rising Storm 2: Vietnam #85](https://sovietscloset.com/video/14268)
+  - Changed title from `Rising Storm 2: Vietnam #84` to `Rising Storm 2: Vietnam #85`
+  - Changed number from `84` to `85`
+- Modified `v14263` [Rising Storm 2: Vietnam #86](https://sovietscloset.com/video/14263)
+  - Changed title from `Rising Storm 2: Vietnam #85` to `Rising Storm 2: Vietnam #86`
+  - Changed number from `85` to `86`
+- Modified `v14264` [Rising Storm 2: Vietnam #87](https://sovietscloset.com/video/14264)
+  - Changed title from `Rising Storm 2: Vietnam #86` to `Rising Storm 2: Vietnam #87`
+  - Changed number from `86` to `87`
+- Modified `v14267` [Rising Storm 2: Vietnam #88](https://sovietscloset.com/video/14267)
+  - Changed title from `Rising Storm 2: Vietnam #87` to `Rising Storm 2: Vietnam #88`
+  - Changed number from `87` to `88`
+- Modified `v14265` [Rising Storm 2: Vietnam #89](https://sovietscloset.com/video/14265)
+  - Changed title from `Rising Storm 2: Vietnam #88` to `Rising Storm 2: Vietnam #89`
+  - Changed number from `88` to `89`
+- Modified `v14266` [Rising Storm 2: Vietnam #90](https://sovietscloset.com/video/14266)
+  - Changed title from `Rising Storm 2: Vietnam #89` to `Rising Storm 2: Vietnam #90`
+  - Changed number from `89` to `90`
+- Modified `v14243` [Rising Storm 2: Vietnam #91](https://sovietscloset.com/video/14243)
+  - Changed title from `Rising Storm 2: Vietnam #90` to `Rising Storm 2: Vietnam #91`
+  - Changed number from `90` to `91`
+- Modified `v14244` [Rising Storm 2: Vietnam #92](https://sovietscloset.com/video/14244)
+  - Changed title from `Rising Storm 2: Vietnam #91` to `Rising Storm 2: Vietnam #92`
+  - Changed number from `91` to `92`
+- Modified `v14242` [Rising Storm 2: Vietnam #93](https://sovietscloset.com/video/14242)
+  - Changed title from `Rising Storm 2: Vietnam #92` to `Rising Storm 2: Vietnam #93`
+  - Changed number from `92` to `93`
+- Modified `v14300` [Rising Storm 2: Vietnam #94](https://sovietscloset.com/video/14300)
+  - Changed title from `Rising Storm 2: Vietnam #93` to `Rising Storm 2: Vietnam #94`
+  - Changed number from `93` to `94`
+- Modified `v14434` [Rising Storm 2: Vietnam #95](https://sovietscloset.com/video/14434)
+  - Changed title from `Rising Storm 2: Vietnam #94` to `Rising Storm 2: Vietnam #95`
+  - Changed number from `94` to `95`
+- Modified `v14386` [Rising Storm 2: Vietnam #97](https://sovietscloset.com/video/14386)
+  - Changed title from `Rising Storm 2: Vietnam #96` to `Rising Storm 2: Vietnam #97`
+  - Changed number from `96` to `97`
+- Modified `v14400` [Rising Storm 2: Vietnam #98](https://sovietscloset.com/video/14400)
+  - Changed title from `Rising Storm 2: Vietnam #97` to `Rising Storm 2: Vietnam #98`
+  - Changed number from `97` to `98`
+- Modified `v14643` [Rising Storm 2: Vietnam #99](https://sovietscloset.com/video/14643)
+  - Changed title from `Rising Storm 2: Vietnam #98` to `Rising Storm 2: Vietnam #99`
+  - Changed number from `98` to `99`
+- Modified `v14644` [Rising Storm 2: Vietnam #100](https://sovietscloset.com/video/14644)
+  - Changed title from `Rising Storm 2: Vietnam #99` to `Rising Storm 2: Vietnam #100`
+  - Changed number from `99` to `100`
+- Modified `v14642` [Rising Storm 2: Vietnam #101](https://sovietscloset.com/video/14642)
+  - Changed title from `Rising Storm 2: Vietnam #100` to `Rising Storm 2: Vietnam #101`
+  - Changed number from `100` to `101`
+- Modified `v14802` [Rising Storm 2: Vietnam #102](https://sovietscloset.com/video/14802)
+  - Changed title from `Rising Storm 2: Vietnam #101` to `Rising Storm 2: Vietnam #102`
+  - Changed number from `101` to `102`
+- Modified `v14839` [Rising Storm 2: Vietnam #103](https://sovietscloset.com/video/14839)
+  - Changed title from `Rising Storm 2: Vietnam #102` to `Rising Storm 2: Vietnam #103`
+  - Changed number from `102` to `103`
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v15021` [Space Engineers #9](https://sovietscloset.com/video/15021)
+- Modified `v1645` [Space Engineers #10](https://sovietscloset.com/video/1645)
+  - Changed title from `Space Engineers #9` to `Space Engineers #10`
+  - Changed number from `9` to `10`
+- Added `v15024` [Space Engineers #11](https://sovietscloset.com/video/15024)
+- Modified `v1644` [Space Engineers #12](https://sovietscloset.com/video/1644)
+  - Changed title from `Space Engineers #10` to `Space Engineers #12`
+  - Changed number from `10` to `12`
+- Added `v15020` [Space Engineers #13](https://sovietscloset.com/video/15020)
+- Added `v15019` [Space Engineers #14](https://sovietscloset.com/video/15019)
+- Added `v15022` [Space Engineers #15](https://sovietscloset.com/video/15022)
+- Added `v15023` [Space Engineers #16](https://sovietscloset.com/video/15023)
+- Added `v15030` [Space Engineers #17](https://sovietscloset.com/video/15030)
+- Added `v15029` [Space Engineers #18](https://sovietscloset.com/video/15029)
+- Added `v15031` [Space Engineers #19](https://sovietscloset.com/video/15031)
+- Added `v15032` [Space Engineers #20](https://sovietscloset.com/video/15032)
+- Modified `v1633` [Space Engineers #21](https://sovietscloset.com/video/1633)
+  - Changed title from `Space Engineers #11` to `Space Engineers #21`
+  - Changed number from `11` to `21`
+- Modified `v1630` [Space Engineers #22](https://sovietscloset.com/video/1630)
+  - Changed title from `Space Engineers #12` to `Space Engineers #22`
+  - Changed number from `12` to `22`
+- Modified `v1631` [Space Engineers #23](https://sovietscloset.com/video/1631)
+  - Changed title from `Space Engineers #13` to `Space Engineers #23`
+  - Changed number from `13` to `23`
+- Modified `v1632` [Space Engineers #24](https://sovietscloset.com/video/1632)
+  - Changed title from `Space Engineers #14` to `Space Engineers #24`
+  - Changed number from `14` to `24`
+- Modified `v1634` [Space Engineers #25](https://sovietscloset.com/video/1634)
+  - Changed title from `Space Engineers #15` to `Space Engineers #25`
+  - Changed number from `15` to `25`
+- Modified `v1404` [Space Engineers #27](https://sovietscloset.com/video/1404)
+  - Changed title from `Space Engineers #17` to `Space Engineers #27`
+  - Changed number from `17` to `27`
+- Modified `v1679` [Space Engineers #27](https://sovietscloset.com/video/1679)
+  - Changed title from `Space Engineers #17` to `Space Engineers #27`
+  - Changed number from `17` to `27`
+- Modified `v1221` [Space Engineers #29](https://sovietscloset.com/video/1221)
+  - Changed title from `Space Engineers #19` to `Space Engineers #29`
+  - Changed number from `19` to `29`
+- Modified `v1680` [Space Engineers #29](https://sovietscloset.com/video/1680)
+  - Changed title from `Space Engineers #19` to `Space Engineers #29`
+  - Changed number from `19` to `29`
+- Modified `v1220` [Space Engineers #31](https://sovietscloset.com/video/1220)
+  - Changed title from `Space Engineers #21` to `Space Engineers #31`
+  - Changed number from `21` to `31`
+- Modified `v1683` [Space Engineers #31](https://sovietscloset.com/video/1683)
+  - Changed title from `Space Engineers #21` to `Space Engineers #31`
+  - Changed number from `21` to `31`
+- Added `v15033` [Space Engineers #32](https://sovietscloset.com/video/15033)
+- Added `v15035` [Space Engineers #33](https://sovietscloset.com/video/15035)
+- Modified `v1687` [Space Engineers #34](https://sovietscloset.com/video/1687)
+  - Changed title from `Space Engineers #22` to `Space Engineers #34`
+  - Changed number from `22` to `34`
+- Added `v15034` [Space Engineers #35](https://sovietscloset.com/video/15034)
+- Modified `v1217` [Space Engineers #37](https://sovietscloset.com/video/1217)
+  - Changed title from `Space Engineers #24` to `Space Engineers #37`
+  - Changed number from `24` to `37`
+- Modified `v1685` [Space Engineers #37](https://sovietscloset.com/video/1685)
+  - Changed title from `Space Engineers #24` to `Space Engineers #37`
+  - Changed number from `24` to `37`
+- Modified `v1218` [Space Engineers #39](https://sovietscloset.com/video/1218)
+  - Changed title from `Space Engineers #26` to `Space Engineers #39`
+  - Changed number from `26` to `39`
+- Modified `v1686` [Space Engineers #39](https://sovietscloset.com/video/1686)
+  - Changed title from `Space Engineers #26` to `Space Engineers #39`
+  - Changed number from `26` to `39`
+- Modified `v1219` [Space Engineers #40](https://sovietscloset.com/video/1219)
+  - Changed title from `Space Engineers #27` to `Space Engineers #40`
+  - Changed number from `27` to `40`
+- Modified `v1216` [Space Engineers #41](https://sovietscloset.com/video/1216)
+  - Changed title from `Space Engineers #28` to `Space Engineers #41`
+  - Changed number from `28` to `41`
+- Modified `v1752` [Space Engineers #42](https://sovietscloset.com/video/1752)
+  - Changed title from `Space Engineers #29` to `Space Engineers #42`
+  - Changed number from `29` to `42`
+- Modified `v1751` [Space Engineers #43](https://sovietscloset.com/video/1751)
+  - Changed title from `Space Engineers #30` to `Space Engineers #43`
+  - Changed number from `30` to `43`
+- Modified `v1767` [Space Engineers #44](https://sovietscloset.com/video/1767)
+  - Changed title from `Space Engineers #31` to `Space Engineers #44`
+  - Changed number from `31` to `44`
+- Modified `v1768` [Space Engineers #45](https://sovietscloset.com/video/1768)
+  - Changed title from `Space Engineers #32` to `Space Engineers #45`
+  - Changed number from `32` to `45`
+- Modified `v1770` [Space Engineers #46](https://sovietscloset.com/video/1770)
+  - Changed title from `Space Engineers #33` to `Space Engineers #46`
+  - Changed number from `33` to `46`
+- Modified `v1773` [Space Engineers #47](https://sovietscloset.com/video/1773)
+  - Changed title from `Space Engineers #34` to `Space Engineers #47`
+  - Changed number from `34` to `47`
+- Modified `v1771` [Space Engineers #48](https://sovietscloset.com/video/1771)
+  - Changed title from `Space Engineers #35` to `Space Engineers #48`
+  - Changed number from `35` to `48`
+- Modified `v1772` [Space Engineers #49](https://sovietscloset.com/video/1772)
+  - Changed title from `Space Engineers #36` to `Space Engineers #49`
+  - Changed number from `36` to `49`
+- Modified `v1776` [Space Engineers #50](https://sovietscloset.com/video/1776)
+  - Changed title from `Space Engineers #37` to `Space Engineers #50`
+  - Changed number from `37` to `50`
+- Modified `v1786` [Space Engineers #51](https://sovietscloset.com/video/1786)
+  - Changed title from `Space Engineers #38` to `Space Engineers #51`
+  - Changed number from `38` to `51`
+- Modified `v1782` [Space Engineers #52](https://sovietscloset.com/video/1782)
+  - Changed title from `Space Engineers #39` to `Space Engineers #52`
+  - Changed number from `39` to `52`
+- Modified `v3770` [Space Engineers #53](https://sovietscloset.com/video/3770)
+  - Changed title from `Space Engineers #40` to `Space Engineers #53`
+  - Changed number from `40` to `53`
+- Modified `v3772` [Space Engineers #54](https://sovietscloset.com/video/3772)
+  - Changed title from `Space Engineers #41` to `Space Engineers #54`
+  - Changed number from `41` to `54`
+- Modified `v3771` [Space Engineers #55](https://sovietscloset.com/video/3771)
+  - Changed title from `Space Engineers #42` to `Space Engineers #55`
+  - Changed number from `42` to `55`
+- Modified `v3774` [Space Engineers #56](https://sovietscloset.com/video/3774)
+  - Changed title from `Space Engineers #43` to `Space Engineers #56`
+  - Changed number from `43` to `56`
+- Modified `v3781` [Space Engineers #58](https://sovietscloset.com/video/3781)
+  - Changed title from `Space Engineers #45` to `Space Engineers #58`
+  - Changed number from `45` to `58`
+- Modified `v3777` [Space Engineers #59](https://sovietscloset.com/video/3777)
+  - Changed title from `Space Engineers #46` to `Space Engineers #59`
+  - Changed number from `46` to `59`
+- Modified `v3775` [Space Engineers #60](https://sovietscloset.com/video/3775)
+  - Changed title from `Space Engineers #47` to `Space Engineers #60`
+  - Changed number from `47` to `60`
+- Modified `v6699` [Space Engineers #61](https://sovietscloset.com/video/6699)
+  - Changed title from `Space Engineers #48` to `Space Engineers #61`
+  - Changed number from `48` to `61`
+- Modified `v6711` [Space Engineers #62](https://sovietscloset.com/video/6711)
+  - Changed title from `Space Engineers #49` to `Space Engineers #62`
+  - Changed number from `49` to `62`
+- Modified `v6706` [Space Engineers #63](https://sovietscloset.com/video/6706)
+  - Changed title from `Space Engineers #50` to `Space Engineers #63`
+  - Changed number from `50` to `63`
+- Modified `v6707` [Space Engineers #64](https://sovietscloset.com/video/6707)
+  - Changed title from `Space Engineers #51` to `Space Engineers #64`
+  - Changed number from `51` to `64`
+- Modified `v6705` [Space Engineers #65](https://sovietscloset.com/video/6705)
+  - Changed title from `Space Engineers #52` to `Space Engineers #65`
+  - Changed number from `52` to `65`
+- Modified `v10141` [Space Engineers #66](https://sovietscloset.com/video/10141)
+  - Changed title from `Space Engineers #53` to `Space Engineers #66`
+  - Changed number from `53` to `66`
+- Modified `v10146` [Space Engineers #67](https://sovietscloset.com/video/10146)
+  - Changed title from `Space Engineers #54` to `Space Engineers #67`
+  - Changed number from `54` to `67`
+- Modified `v14116` [Space Engineers #68](https://sovietscloset.com/video/14116)
+  - Changed title from `Space Engineers #55` to `Space Engineers #68`
+  - Changed number from `55` to `68`
+- Modified `v14114` [Space Engineers #69](https://sovietscloset.com/video/14114)
+  - Changed title from `Space Engineers #56` to `Space Engineers #69`
+  - Changed number from `56` to `69`
+- Modified `v14354` [Space Engineers #70](https://sovietscloset.com/video/14354)
+  - Changed title from `Space Engineers #57` to `Space Engineers #70`
+  - Changed number from `57` to `70`
+- Modified `v14355` [Space Engineers #71](https://sovietscloset.com/video/14355)
+  - Changed title from `Space Engineers #58` to `Space Engineers #71`
+  - Changed number from `58` to `71`
+- Modified `v14115` [Space Engineers #72](https://sovietscloset.com/video/14115)
+  - Changed title from `Space Engineers #59` to `Space Engineers #72`
+  - Changed number from `59` to `72`
+- Modified `v14571` [Space Engineers #73](https://sovietscloset.com/video/14571)
+  - Changed title from `Space Engineers #60` to `Space Engineers #73`
+  - Changed number from `60` to `73`
+- Modified `v14574` [Space Engineers #74](https://sovietscloset.com/video/14574)
+  - Changed title from `Space Engineers #61` to `Space Engineers #74`
+  - Changed number from `61` to `74`
+- Modified `v14573` [Space Engineers #75](https://sovietscloset.com/video/14573)
+  - Changed title from `Space Engineers #62` to `Space Engineers #75`
+  - Changed number from `62` to `75`
+- Modified `v14572` [Space Engineers #76](https://sovietscloset.com/video/14572)
+  - Changed title from `Space Engineers #63` to `Space Engineers #76`
+  - Changed number from `63` to `76`
+- Modified `v14570` [Space Engineers #77](https://sovietscloset.com/video/14570)
+  - Changed title from `Space Engineers #64` to `Space Engineers #77`
+  - Changed number from `64` to `77`
+- Modified `v14575` [Space Engineers #78](https://sovietscloset.com/video/14575)
+  - Changed title from `Space Engineers #65` to `Space Engineers #78`
+  - Changed number from `65` to `78`
+- Modified `v14614` [Space Engineers #79](https://sovietscloset.com/video/14614)
+  - Changed title from `Space Engineers #66` to `Space Engineers #79`
+  - Changed number from `66` to `79`
+- Modified `v14613` [Space Engineers #80](https://sovietscloset.com/video/14613)
+  - Changed title from `Space Engineers #67` to `Space Engineers #80`
+  - Changed number from `67` to `80`
+- Modified `v14910` [Space Engineers #81](https://sovietscloset.com/video/14910)
+  - Changed title from `Space Engineers #68` to `Space Engineers #81`
+  - Changed number from `68` to `81`
+- Modified `v14911` [Space Engineers #82](https://sovietscloset.com/video/14911)
+  - Changed title from `Space Engineers #69` to `Space Engineers #82`
+  - Changed number from `69` to `82`
+- Modified `v14909` [Space Engineers #83](https://sovietscloset.com/video/14909)
+  - Changed title from `Space Engineers #70` to `Space Engineers #83`
+  - Changed number from `70` to `83`
+- Modified `v14916` [Space Engineers #84](https://sovietscloset.com/video/14916)
+  - Changed title from `Space Engineers #71` to `Space Engineers #84`
+  - Changed number from `71` to `84`
+- Modified `v14917` [Space Engineers #85](https://sovietscloset.com/video/14917)
+  - Changed title from `Space Engineers #72` to `Space Engineers #85`
+  - Changed number from `72` to `85`
+- Modified `v14918` [Space Engineers #86](https://sovietscloset.com/video/14918)
+  - Changed title from `Space Engineers #73` to `Space Engineers #86`
+  - Changed number from `73` to `86`
+- Modified `v14913` [Space Engineers #87](https://sovietscloset.com/video/14913)
+  - Changed title from `Space Engineers #74` to `Space Engineers #87`
+  - Changed number from `74` to `87`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v15040` [Team Fortress 2 #10](https://sovietscloset.com/video/15040)
+- Modified `v1755` [Team Fortress 2 #11](https://sovietscloset.com/video/1755)
+  - Changed title from `Team Fortress 2 #10` to `Team Fortress 2 #11`
+  - Changed number from `10` to `11`
+- Modified `v1747` [Team Fortress 2 #13](https://sovietscloset.com/video/1747)
+  - Changed title from `Team Fortress 2 #12` to `Team Fortress 2 #13`
+  - Changed number from `12` to `13`
+- Modified `v1756` [Team Fortress 2 #13](https://sovietscloset.com/video/1756)
+  - Changed title from `Team Fortress 2 #12` to `Team Fortress 2 #13`
+  - Changed number from `12` to `13`
+- Modified `v1754` [Team Fortress 2 #14](https://sovietscloset.com/video/1754)
+  - Changed title from `Team Fortress 2 #13` to `Team Fortress 2 #14`
+  - Changed number from `13` to `14`
+- Modified `v1774` [Team Fortress 2 #15](https://sovietscloset.com/video/1774)
+  - Changed title from `Team Fortress 2 #14` to `Team Fortress 2 #15`
+  - Changed number from `14` to `15`
+- Modified `v1781` [Team Fortress 2 #16](https://sovietscloset.com/video/1781)
+  - Changed title from `Team Fortress 2 #15` to `Team Fortress 2 #16`
+  - Changed number from `15` to `16`
+- Modified `v1797` [Team Fortress 2 #17](https://sovietscloset.com/video/1797)
+  - Changed title from `Team Fortress 2 #16` to `Team Fortress 2 #17`
+  - Changed number from `16` to `17`
+- Modified `v3710` [Team Fortress 2 #19](https://sovietscloset.com/video/3710)
+  - Changed title from `Team Fortress 2 #18` to `Team Fortress 2 #19`
+  - Changed number from `18` to `19`
+- Modified `v3709` [Team Fortress 2 #20](https://sovietscloset.com/video/3709)
+  - Changed title from `Team Fortress 2 #19` to `Team Fortress 2 #20`
+  - Changed number from `19` to `20`
+- Modified `v3692` [Team Fortress 2 #21](https://sovietscloset.com/video/3692)
+  - Changed title from `Team Fortress 2 #20` to `Team Fortress 2 #21`
+  - Changed number from `20` to `21`
+- Modified `v3728` [Team Fortress 2 #22](https://sovietscloset.com/video/3728)
+  - Changed title from `Team Fortress 2 #21` to `Team Fortress 2 #22`
+  - Changed number from `21` to `22`
+- Modified `v3729` [Team Fortress 2 #23](https://sovietscloset.com/video/3729)
+  - Changed title from `Team Fortress 2 #22` to `Team Fortress 2 #23`
+  - Changed number from `22` to `23`
+- Modified `v3753` [Team Fortress 2 #24](https://sovietscloset.com/video/3753)
+  - Changed title from `Team Fortress 2 #23` to `Team Fortress 2 #24`
+  - Changed number from `23` to `24`
+- Modified `v3766` [Team Fortress 2 #25](https://sovietscloset.com/video/3766)
+  - Changed title from `Team Fortress 2 #24` to `Team Fortress 2 #25`
+  - Changed number from `24` to `25`
+- Modified `v6800` [Team Fortress 2 #27](https://sovietscloset.com/video/6800)
+  - Changed title from `Team Fortress 2 #26` to `Team Fortress 2 #27`
+  - Changed number from `26` to `27`
+- Modified `v4682` [Team Fortress 2 #28](https://sovietscloset.com/video/4682)
+  - Changed title from `Team Fortress 2 #27` to `Team Fortress 2 #28`
+  - Changed number from `27` to `28`
+- Modified `v3780` [Team Fortress 2 #29](https://sovietscloset.com/video/3780)
+  - Changed title from `Team Fortress 2 #28` to `Team Fortress 2 #29`
+  - Changed number from `28` to `29`
+- Modified `v3778` [Team Fortress 2 #30](https://sovietscloset.com/video/3778)
+  - Changed title from `Team Fortress 2 #29` to `Team Fortress 2 #30`
+  - Changed number from `29` to `30`
+- Modified `v4680` [Team Fortress 2 #31](https://sovietscloset.com/video/4680)
+  - Changed title from `Team Fortress 2 #30` to `Team Fortress 2 #31`
+  - Changed number from `30` to `31`
+- Modified `v4679` [Team Fortress 2 #32](https://sovietscloset.com/video/4679)
+  - Changed title from `Team Fortress 2 #31` to `Team Fortress 2 #32`
+  - Changed number from `31` to `32`
+- Modified `v9018` [Team Fortress 2 #33](https://sovietscloset.com/video/9018)
+  - Changed title from `Team Fortress 2 #32` to `Team Fortress 2 #33`
+  - Changed number from `32` to `33`
+- Modified `v9008` [Team Fortress 2 #34](https://sovietscloset.com/video/9008)
+  - Changed title from `Team Fortress 2 #33` to `Team Fortress 2 #34`
+  - Changed number from `33` to `34`
+- Modified `v9009` [Team Fortress 2 #35](https://sovietscloset.com/video/9009)
+  - Changed title from `Team Fortress 2 #34` to `Team Fortress 2 #35`
+  - Changed number from `34` to `35`
+- Modified `v6688` [Team Fortress 2 #36](https://sovietscloset.com/video/6688)
+  - Changed title from `Team Fortress 2 #35` to `Team Fortress 2 #36`
+  - Changed number from `35` to `36`
+- Modified `v6689` [Team Fortress 2 #37](https://sovietscloset.com/video/6689)
+  - Changed title from `Team Fortress 2 #36` to `Team Fortress 2 #37`
+  - Changed number from `36` to `37`
+- Modified `v6690` [Team Fortress 2 #38](https://sovietscloset.com/video/6690)
+  - Changed title from `Team Fortress 2 #37` to `Team Fortress 2 #38`
+  - Changed number from `37` to `38`
+- Modified `v6691` [Team Fortress 2 #39](https://sovietscloset.com/video/6691)
+  - Changed title from `Team Fortress 2 #38` to `Team Fortress 2 #39`
+  - Changed number from `38` to `39`
+- Modified `v6693` [Team Fortress 2 #41](https://sovietscloset.com/video/6693)
+  - Changed title from `Team Fortress 2 #40` to `Team Fortress 2 #41`
+  - Changed number from `40` to `41`
+- Modified `v9011` [Team Fortress 2 #41](https://sovietscloset.com/video/9011)
+  - Changed title from `Team Fortress 2 #40` to `Team Fortress 2 #41`
+  - Changed number from `40` to `41`
+- Modified `v6700` [Team Fortress 2 #42](https://sovietscloset.com/video/6700)
+  - Changed title from `Team Fortress 2 #41` to `Team Fortress 2 #42`
+  - Changed number from `41` to `42`
+- Modified `v6703` [Team Fortress 2 #43](https://sovietscloset.com/video/6703)
+  - Changed title from `Team Fortress 2 #42` to `Team Fortress 2 #43`
+  - Changed number from `42` to `43`
+- Modified `v6796` [Team Fortress 2 #44](https://sovietscloset.com/video/6796)
+  - Changed title from `Team Fortress 2 #43` to `Team Fortress 2 #44`
+  - Changed number from `43` to `44`
+- Modified `v6795` [Team Fortress 2 #45](https://sovietscloset.com/video/6795)
+  - Changed title from `Team Fortress 2 #44` to `Team Fortress 2 #45`
+  - Changed number from `44` to `45`
+- Modified `v9010` [Team Fortress 2 #46](https://sovietscloset.com/video/9010)
+  - Changed title from `Team Fortress 2 #45` to `Team Fortress 2 #46`
+  - Changed number from `45` to `46`
+- Modified `v6794` [Team Fortress 2 #47](https://sovietscloset.com/video/6794)
+  - Changed title from `Team Fortress 2 #46` to `Team Fortress 2 #47`
+  - Changed number from `46` to `47`
+- Modified `v6814` [Team Fortress 2 #48](https://sovietscloset.com/video/6814)
+  - Changed title from `Team Fortress 2 #47` to `Team Fortress 2 #48`
+  - Changed number from `47` to `48`
+- Modified `v6869` [Team Fortress 2 #50](https://sovietscloset.com/video/6869)
+  - Changed title from `Team Fortress 2 #49` to `Team Fortress 2 #50`
+  - Changed number from `49` to `50`
+- Modified `v9007` [Team Fortress 2 #50](https://sovietscloset.com/video/9007)
+  - Changed title from `Team Fortress 2 #49` to `Team Fortress 2 #50`
+  - Changed number from `49` to `50`
+- Modified `v6985` [Team Fortress 2 #51](https://sovietscloset.com/video/6985)
+  - Changed title from `Team Fortress 2 #50` to `Team Fortress 2 #51`
+  - Changed number from `50` to `51`
+- Modified `v6899` [Team Fortress 2 #52](https://sovietscloset.com/video/6899)
+  - Changed title from `Team Fortress 2 #51` to `Team Fortress 2 #52`
+  - Changed number from `51` to `52`
+- Modified `v6962` [Team Fortress 2 #53](https://sovietscloset.com/video/6962)
+  - Changed title from `Team Fortress 2 #52` to `Team Fortress 2 #53`
+  - Changed number from `52` to `53`
+- Modified `v6986` [Team Fortress 2 #54](https://sovietscloset.com/video/6986)
+  - Changed title from `Team Fortress 2 #53` to `Team Fortress 2 #54`
+  - Changed number from `53` to `54`
+- Modified `v7993` [Team Fortress 2 #55](https://sovietscloset.com/video/7993)
+  - Changed title from `Team Fortress 2 #54` to `Team Fortress 2 #55`
+  - Changed number from `54` to `55`
+- Modified `v8991` [Team Fortress 2 #56](https://sovietscloset.com/video/8991)
+  - Changed title from `Team Fortress 2 #55` to `Team Fortress 2 #56`
+  - Changed number from `55` to `56`
+- Modified `v8990` [Team Fortress 2 #57](https://sovietscloset.com/video/8990)
+  - Changed title from `Team Fortress 2 #56` to `Team Fortress 2 #57`
+  - Changed number from `56` to `57`
+- Modified `v8992` [Team Fortress 2 #58](https://sovietscloset.com/video/8992)
+  - Changed title from `Team Fortress 2 #57` to `Team Fortress 2 #58`
+  - Changed number from `57` to `58`
+- Modified `v8993` [Team Fortress 2 #59](https://sovietscloset.com/video/8993)
+  - Changed title from `Team Fortress 2 #58` to `Team Fortress 2 #59`
+  - Changed number from `58` to `59`
+- Modified `v9001` [Team Fortress 2 #60](https://sovietscloset.com/video/9001)
+  - Changed title from `Team Fortress 2 #59` to `Team Fortress 2 #60`
+  - Changed number from `59` to `60`
+- Modified `v10121` [Team Fortress 2 #61](https://sovietscloset.com/video/10121)
+  - Changed title from `Team Fortress 2 #60` to `Team Fortress 2 #61`
+  - Changed number from `60` to `61`
+- Modified `v10104` [Team Fortress 2 #62](https://sovietscloset.com/video/10104)
+  - Changed title from `Team Fortress 2 #61` to `Team Fortress 2 #62`
+  - Changed number from `61` to `62`
+- Modified `v9103` [Team Fortress 2 #63](https://sovietscloset.com/video/9103)
+  - Changed title from `Team Fortress 2 #62` to `Team Fortress 2 #63`
+  - Changed number from `62` to `63`
+- Modified `v10076` [Team Fortress 2 #64](https://sovietscloset.com/video/10076)
+  - Changed title from `Team Fortress 2 #63` to `Team Fortress 2 #64`
+  - Changed number from `63` to `64`
+- Modified `v10120` [Team Fortress 2 #65](https://sovietscloset.com/video/10120)
+  - Changed title from `Team Fortress 2 #64` to `Team Fortress 2 #65`
+  - Changed number from `64` to `65`
+- Modified `v14171` [Team Fortress 2 #66](https://sovietscloset.com/video/14171)
+  - Changed title from `Team Fortress 2 #65` to `Team Fortress 2 #66`
+  - Changed number from `65` to `66`
+- Modified `v10195` [Team Fortress 2 #68](https://sovietscloset.com/video/10195)
+  - Changed title from `Team Fortress 2 #67` to `Team Fortress 2 #68`
+  - Changed number from `67` to `68`
+- Modified `v14346` [Team Fortress 2 #68](https://sovietscloset.com/video/14346)
+  - Changed title from `Team Fortress 2 #67` to `Team Fortress 2 #68`
+  - Changed number from `67` to `68`
+- Modified `v12097` [Team Fortress 2 #69](https://sovietscloset.com/video/12097)
+  - Changed title from `Team Fortress 2 #68` to `Team Fortress 2 #69`
+  - Changed number from `68` to `69`
+- Modified `v12098` [Team Fortress 2 #70](https://sovietscloset.com/video/12098)
+  - Changed title from `Team Fortress 2 #69` to `Team Fortress 2 #70`
+  - Changed number from `69` to `70`
+- Modified `v13084` [Team Fortress 2 #71](https://sovietscloset.com/video/13084)
+  - Changed title from `Team Fortress 2 #70` to `Team Fortress 2 #71`
+  - Changed number from `70` to `71`
+- Modified `v12112` [Team Fortress 2 #72](https://sovietscloset.com/video/12112)
+  - Changed title from `Team Fortress 2 #71` to `Team Fortress 2 #72`
+  - Changed number from `71` to `72`
+- Modified `v13081` [Team Fortress 2 #73](https://sovietscloset.com/video/13081)
+  - Changed title from `Team Fortress 2 #72` to `Team Fortress 2 #73`
+  - Changed number from `72` to `73`
+- Modified `v14105` [Team Fortress 2 #74](https://sovietscloset.com/video/14105)
+  - Changed title from `Team Fortress 2 #73` to `Team Fortress 2 #74`
+  - Changed number from `73` to `74`
+- Modified `v14170` [Team Fortress 2 #75](https://sovietscloset.com/video/14170)
+  - Changed title from `Team Fortress 2 #74` to `Team Fortress 2 #75`
+  - Changed number from `74` to `75`
+- Modified `v14172` [Team Fortress 2 #76](https://sovietscloset.com/video/14172)
+  - Changed title from `Team Fortress 2 #75` to `Team Fortress 2 #76`
+  - Changed number from `75` to `76`
+- Modified `v14100` [Team Fortress 2 #77](https://sovietscloset.com/video/14100)
+  - Changed title from `Team Fortress 2 #76` to `Team Fortress 2 #77`
+  - Changed number from `76` to `77`
+- Modified `v14098` [Team Fortress 2 #79](https://sovietscloset.com/video/14098)
+  - Changed title from `Team Fortress 2 #78` to `Team Fortress 2 #79`
+  - Changed number from `78` to `79`
+- Modified `v14167` [Team Fortress 2 #79](https://sovietscloset.com/video/14167)
+  - Changed title from `Team Fortress 2 #78` to `Team Fortress 2 #79`
+  - Changed number from `78` to `79`
+- Modified `v14097` [Team Fortress 2 #80](https://sovietscloset.com/video/14097)
+  - Changed title from `Team Fortress 2 #79` to `Team Fortress 2 #80`
+  - Changed number from `79` to `80`
+- Modified `v14168` [Team Fortress 2 #81](https://sovietscloset.com/video/14168)
+  - Changed title from `Team Fortress 2 #80` to `Team Fortress 2 #81`
+  - Changed number from `80` to `81`
+- Modified `v14099` [Team Fortress 2 #82](https://sovietscloset.com/video/14099)
+  - Changed title from `Team Fortress 2 #81` to `Team Fortress 2 #82`
+  - Changed number from `81` to `82`
+- Modified `v14169` [Team Fortress 2 #83](https://sovietscloset.com/video/14169)
+  - Changed title from `Team Fortress 2 #82` to `Team Fortress 2 #83`
+  - Changed number from `82` to `83`
+- Modified `v14166` [Team Fortress 2 #84](https://sovietscloset.com/video/14166)
+  - Changed title from `Team Fortress 2 #83` to `Team Fortress 2 #84`
+  - Changed number from `83` to `84`
+- Modified `v14165` [Team Fortress 2 #85](https://sovietscloset.com/video/14165)
+  - Changed title from `Team Fortress 2 #84` to `Team Fortress 2 #85`
+  - Changed number from `84` to `85`
+- Modified `v14161` [Team Fortress 2 #86](https://sovietscloset.com/video/14161)
+  - Changed title from `Team Fortress 2 #85` to `Team Fortress 2 #86`
+  - Changed number from `85` to `86`
+- Modified `v14163` [Team Fortress 2 #87](https://sovietscloset.com/video/14163)
+  - Changed title from `Team Fortress 2 #86` to `Team Fortress 2 #87`
+  - Changed number from `86` to `87`
+- Modified `v14160` [Team Fortress 2 #88](https://sovietscloset.com/video/14160)
+  - Changed title from `Team Fortress 2 #87` to `Team Fortress 2 #88`
+  - Changed number from `87` to `88`
+- Modified `v14162` [Team Fortress 2 #89](https://sovietscloset.com/video/14162)
+  - Changed title from `Team Fortress 2 #88` to `Team Fortress 2 #89`
+  - Changed number from `88` to `89`
+- Modified `v14164` [Team Fortress 2 #90](https://sovietscloset.com/video/14164)
+  - Changed title from `Team Fortress 2 #89` to `Team Fortress 2 #90`
+  - Changed number from `89` to `90`
+- Modified `v14270` [Team Fortress 2 #91](https://sovietscloset.com/video/14270)
+  - Changed title from `Team Fortress 2 #90` to `Team Fortress 2 #91`
+  - Changed number from `90` to `91`
+- Modified `v14245` [Team Fortress 2 #92](https://sovietscloset.com/video/14245)
+  - Changed title from `Team Fortress 2 #91` to `Team Fortress 2 #92`
+  - Changed number from `91` to `92`
+- Modified `v14240` [Team Fortress 2 #93](https://sovietscloset.com/video/14240)
+  - Changed title from `Team Fortress 2 #92` to `Team Fortress 2 #93`
+  - Changed number from `92` to `93`
+- Modified `v14287` [Team Fortress 2 #94](https://sovietscloset.com/video/14287)
+  - Changed title from `Team Fortress 2 #93` to `Team Fortress 2 #94`
+  - Changed number from `93` to `94`
+- Modified `v14348` [Team Fortress 2 #95](https://sovietscloset.com/video/14348)
+  - Changed title from `Team Fortress 2 #94` to `Team Fortress 2 #95`
+  - Changed number from `94` to `95`
+- Modified `v14316` [Team Fortress 2 #96](https://sovietscloset.com/video/14316)
+  - Changed title from `Team Fortress 2 #95` to `Team Fortress 2 #96`
+  - Changed number from `95` to `96`
+- Modified `v14318` [Team Fortress 2 #97](https://sovietscloset.com/video/14318)
+  - Changed title from `Team Fortress 2 #96` to `Team Fortress 2 #97`
+  - Changed number from `96` to `97`
+- Modified `v14317` [Team Fortress 2 #99](https://sovietscloset.com/video/14317)
+  - Changed title from `Team Fortress 2 #98` to `Team Fortress 2 #99`
+  - Changed number from `98` to `99`
+- Modified `v14347` [Team Fortress 2 #100](https://sovietscloset.com/video/14347)
+  - Changed title from `Team Fortress 2 #99` to `Team Fortress 2 #100`
+  - Changed number from `99` to `100`
+- Modified `v14450` [Team Fortress 2 #102](https://sovietscloset.com/video/14450)
+  - Changed title from `Team Fortress 2 #101` to `Team Fortress 2 #102`
+  - Changed number from `101` to `102`
+- Modified `v14459` [Team Fortress 2 #102](https://sovietscloset.com/video/14459)
+  - Changed title from `Team Fortress 2 #101` to `Team Fortress 2 #102`
+  - Changed number from `101` to `102`
+- Modified `v14381` [Team Fortress 2 #103](https://sovietscloset.com/video/14381)
+  - Changed title from `Team Fortress 2 #102` to `Team Fortress 2 #103`
+  - Changed number from `102` to `103`
+- Modified `v14390` [Team Fortress 2 #104](https://sovietscloset.com/video/14390)
+  - Changed title from `Team Fortress 2 #103` to `Team Fortress 2 #104`
+  - Changed number from `103` to `104`
+- Modified `v14422` [Team Fortress 2 #105](https://sovietscloset.com/video/14422)
+  - Changed title from `Team Fortress 2 #104` to `Team Fortress 2 #105`
+  - Changed number from `104` to `105`
+- Modified `v14423` [Team Fortress 2 #106](https://sovietscloset.com/video/14423)
+  - Changed title from `Team Fortress 2 #105` to `Team Fortress 2 #106`
+  - Changed number from `105` to `106`
+- Modified `v14482` [Team Fortress 2 #107](https://sovietscloset.com/video/14482)
+  - Changed title from `Team Fortress 2 #106` to `Team Fortress 2 #107`
+  - Changed number from `106` to `107`
+- Modified `v14481` [Team Fortress 2 #108](https://sovietscloset.com/video/14481)
+  - Changed title from `Team Fortress 2 #107` to `Team Fortress 2 #108`
+  - Changed number from `107` to `108`
+- Modified `v14484` [Team Fortress 2 #109](https://sovietscloset.com/video/14484)
+  - Changed title from `Team Fortress 2 #108` to `Team Fortress 2 #109`
+  - Changed number from `108` to `109`
+- Modified `v14483` [Team Fortress 2 #110](https://sovietscloset.com/video/14483)
+  - Changed title from `Team Fortress 2 #109` to `Team Fortress 2 #110`
+  - Changed number from `109` to `110`
+- Modified `v14554` [Team Fortress 2 #111](https://sovietscloset.com/video/14554)
+  - Changed title from `Team Fortress 2 #110` to `Team Fortress 2 #111`
+  - Changed number from `110` to `111`
+- Modified `v14555` [Team Fortress 2 #112](https://sovietscloset.com/video/14555)
+  - Changed title from `Team Fortress 2 #111` to `Team Fortress 2 #112`
+  - Changed number from `111` to `112`
+- Modified `v14553` [Team Fortress 2 #113](https://sovietscloset.com/video/14553)
+  - Changed title from `Team Fortress 2 #112` to `Team Fortress 2 #113`
+  - Changed number from `112` to `113`
+- Modified `v14586` [Team Fortress 2 #114](https://sovietscloset.com/video/14586)
+  - Changed title from `Team Fortress 2 #113` to `Team Fortress 2 #114`
+  - Changed number from `113` to `114`
+- Modified `v14582` [Team Fortress 2 #115](https://sovietscloset.com/video/14582)
+  - Changed title from `Team Fortress 2 #114` to `Team Fortress 2 #115`
+  - Changed number from `114` to `115`
+- Modified `v14585` [Team Fortress 2 #116](https://sovietscloset.com/video/14585)
+  - Changed title from `Team Fortress 2 #115` to `Team Fortress 2 #116`
+  - Changed number from `115` to `116`
+- Modified `v14584` [Team Fortress 2 #117](https://sovietscloset.com/video/14584)
+  - Changed title from `Team Fortress 2 #116` to `Team Fortress 2 #117`
+  - Changed number from `116` to `117`
+- Modified `v14583` [Team Fortress 2 #118](https://sovietscloset.com/video/14583)
+  - Changed title from `Team Fortress 2 #117` to `Team Fortress 2 #118`
+  - Changed number from `117` to `118`
+- Modified `v14587` [Team Fortress 2 #119](https://sovietscloset.com/video/14587)
+  - Changed title from `Team Fortress 2 #118` to `Team Fortress 2 #119`
+  - Changed number from `118` to `119`
+- Modified `v14622` [Team Fortress 2 #120](https://sovietscloset.com/video/14622)
+  - Changed title from `Team Fortress 2 #119` to `Team Fortress 2 #120`
+  - Changed number from `119` to `120`
+- Modified `v14632` [Team Fortress 2 #121](https://sovietscloset.com/video/14632)
+  - Changed title from `Team Fortress 2 #120` to `Team Fortress 2 #121`
+  - Changed number from `120` to `121`
+- Modified `v14638` [Team Fortress 2 #122](https://sovietscloset.com/video/14638)
+  - Changed title from `Team Fortress 2 #121` to `Team Fortress 2 #122`
+  - Changed number from `121` to `122`
+- Modified `v14641` [Team Fortress 2 #123](https://sovietscloset.com/video/14641)
+  - Changed title from `Team Fortress 2 #122` to `Team Fortress 2 #123`
+  - Changed number from `122` to `123`
+- Modified `v14640` [Team Fortress 2 #124](https://sovietscloset.com/video/14640)
+  - Changed title from `Team Fortress 2 #123` to `Team Fortress 2 #124`
+  - Changed number from `123` to `124`
+- Modified `v14639` [Team Fortress 2 #125](https://sovietscloset.com/video/14639)
+  - Changed title from `Team Fortress 2 #124` to `Team Fortress 2 #125`
+  - Changed number from `124` to `125`
+- Modified `v14637` [Team Fortress 2 #126](https://sovietscloset.com/video/14637)
+  - Changed title from `Team Fortress 2 #125` to `Team Fortress 2 #126`
+  - Changed number from `125` to `126`
+- Modified `v14705` [Team Fortress 2 #127](https://sovietscloset.com/video/14705)
+  - Changed title from `Team Fortress 2 #126` to `Team Fortress 2 #127`
+  - Changed number from `126` to `127`
+- Modified `v14666` [Team Fortress 2 #129](https://sovietscloset.com/video/14666)
+  - Changed title from `Team Fortress 2 #128` to `Team Fortress 2 #129`
+  - Changed number from `128` to `129`
+- Modified `v14719` [Team Fortress 2 #129](https://sovietscloset.com/video/14719)
+  - Changed title from `Team Fortress 2 #128` to `Team Fortress 2 #129`
+  - Changed number from `128` to `129`
+- Modified `v14668` [Team Fortress 2 #131](https://sovietscloset.com/video/14668)
+  - Changed title from `Team Fortress 2 #130` to `Team Fortress 2 #131`
+  - Changed number from `130` to `131`
+- Modified `v14724` [Team Fortress 2 #131](https://sovietscloset.com/video/14724)
+  - Changed title from `Team Fortress 2 #130` to `Team Fortress 2 #131`
+  - Changed number from `130` to `131`
+- Modified `v14665` [Team Fortress 2 #133](https://sovietscloset.com/video/14665)
+  - Changed title from `Team Fortress 2 #132` to `Team Fortress 2 #133`
+  - Changed number from `132` to `133`
+- Modified `v14688` [Team Fortress 2 #133](https://sovietscloset.com/video/14688)
+  - Changed title from `Team Fortress 2 #132` to `Team Fortress 2 #133`
+  - Changed number from `132` to `133`
+- Modified `v14667` [Team Fortress 2 #135](https://sovietscloset.com/video/14667)
+  - Changed title from `Team Fortress 2 #134` to `Team Fortress 2 #135`
+  - Changed number from `134` to `135`
+- Modified `v14689` [Team Fortress 2 #135](https://sovietscloset.com/video/14689)
+  - Changed title from `Team Fortress 2 #134` to `Team Fortress 2 #135`
+  - Changed number from `134` to `135`
+- Modified `v14768` [Team Fortress 2 #136](https://sovietscloset.com/video/14768)
+  - Changed title from `Team Fortress 2 #135` to `Team Fortress 2 #136`
+  - Changed number from `135` to `136`
+- Modified `v14785` [Team Fortress 2 #137](https://sovietscloset.com/video/14785)
+  - Changed title from `Team Fortress 2 #136` to `Team Fortress 2 #137`
+  - Changed number from `136` to `137`
+- Modified `v14781` [Team Fortress 2 #138](https://sovietscloset.com/video/14781)
+  - Changed title from `Team Fortress 2 #137` to `Team Fortress 2 #138`
+  - Changed number from `137` to `138`
+- Modified `v14690` [Team Fortress 2 #139](https://sovietscloset.com/video/14690)
+  - Changed title from `Team Fortress 2 #138` to `Team Fortress 2 #139`
+  - Changed number from `138` to `139`
+- Modified `v14804` [Team Fortress 2 #140](https://sovietscloset.com/video/14804)
+  - Changed title from `Team Fortress 2 #139` to `Team Fortress 2 #140`
+  - Changed number from `139` to `140`
+- Modified `v14799` [Team Fortress 2 #141](https://sovietscloset.com/video/14799)
+  - Changed title from `Team Fortress 2 #140` to `Team Fortress 2 #141`
+  - Changed number from `140` to `141`
+- Modified `v14798` [Team Fortress 2 #142](https://sovietscloset.com/video/14798)
+  - Changed title from `Team Fortress 2 #141` to `Team Fortress 2 #142`
+  - Changed number from `141` to `142`
+- Modified `v14800` [Team Fortress 2 #143](https://sovietscloset.com/video/14800)
+  - Changed title from `Team Fortress 2 #142` to `Team Fortress 2 #143`
+  - Changed number from `142` to `143`
+- Modified `v14797` [Team Fortress 2 #144](https://sovietscloset.com/video/14797)
+  - Changed title from `Team Fortress 2 #143` to `Team Fortress 2 #144`
+  - Changed number from `143` to `144`
+- Modified `v14806` [Team Fortress 2 #145](https://sovietscloset.com/video/14806)
+  - Changed title from `Team Fortress 2 #144` to `Team Fortress 2 #145`
+  - Changed number from `144` to `145`
+- Modified `v14891` [Team Fortress 2 #146](https://sovietscloset.com/video/14891)
+  - Changed title from `Team Fortress 2 #145` to `Team Fortress 2 #146`
+  - Changed number from `145` to `146`
+- Modified `v14892` [Team Fortress 2 #147](https://sovietscloset.com/video/14892)
+  - Changed title from `Team Fortress 2 #146` to `Team Fortress 2 #147`
+  - Changed number from `146` to `147`
+- Modified `v14893` [Team Fortress 2 #148](https://sovietscloset.com/video/14893)
+  - Changed title from `Team Fortress 2 #147` to `Team Fortress 2 #148`
+  - Changed number from `147` to `148`
+- Modified `v14912` [Team Fortress 2 #149](https://sovietscloset.com/video/14912)
+  - Changed title from `Team Fortress 2 #148` to `Team Fortress 2 #149`
+  - Changed number from `148` to `149`
+- Modified `v14919` [Team Fortress 2 #150](https://sovietscloset.com/video/14919)
+  - Changed title from `Team Fortress 2 #149` to `Team Fortress 2 #150`
+  - Changed number from `149` to `150`
+- Modified `v14920` [Team Fortress 2 #151](https://sovietscloset.com/video/14920)
+  - Changed title from `Team Fortress 2 #150` to `Team Fortress 2 #151`
+  - Changed number from `150` to `151`
+- Modified `v14825` [Team Fortress 2 #152](https://sovietscloset.com/video/14825)
+  - Changed title from `Team Fortress 2 #151` to `Team Fortress 2 #152`
+  - Changed number from `151` to `152`
+- Modified `v14845` [Team Fortress 2 #153](https://sovietscloset.com/video/14845)
+  - Changed title from `Team Fortress 2 #152` to `Team Fortress 2 #153`
+  - Changed number from `152` to `153`
+- Modified `v14862` [Team Fortress 2 #154](https://sovietscloset.com/video/14862)
+  - Changed title from `Team Fortress 2 #153` to `Team Fortress 2 #154`
+  - Changed number from `153` to `154`
+- Modified `v14863` [Team Fortress 2 #155](https://sovietscloset.com/video/14863)
+  - Changed title from `Team Fortress 2 #154` to `Team Fortress 2 #155`
+  - Changed number from `154` to `155`
+- Modified `v14947` [Team Fortress 2 #156](https://sovietscloset.com/video/14947)
+  - Changed title from `Team Fortress 2 #155` to `Team Fortress 2 #156`
+  - Changed number from `155` to `156`
+- Modified `v14966` [Team Fortress 2 #157](https://sovietscloset.com/video/14966)
+  - Changed title from `Team Fortress 2 #156` to `Team Fortress 2 #157`
+  - Changed number from `156` to `157`
+- Modified `v14968` [Team Fortress 2 #158](https://sovietscloset.com/video/14968)
+  - Changed title from `Team Fortress 2 #157` to `Team Fortress 2 #158`
+  - Changed number from `157` to `158`
+- Modified `v14967` [Team Fortress 2 #159](https://sovietscloset.com/video/14967)
+  - Changed title from `Team Fortress 2 #158` to `Team Fortress 2 #159`
+  - Changed number from `158` to `159`
+- Modified `v14994` [Team Fortress 2 #160](https://sovietscloset.com/video/14994)
+  - Changed title from `Team Fortress 2 #159` to `Team Fortress 2 #160`
+  - Changed number from `159` to `160`
+- Modified `v15005` [Team Fortress 2 #161](https://sovietscloset.com/video/15005)
+  - Changed title from `Team Fortress 2 #160` to `Team Fortress 2 #161`
+  - Changed number from `160` to `161`
+  - Is no longer marked as new.
+- Added `v15027` [Team Fortress 2 #162](https://sovietscloset.com/video/15027) (new)
+
+### Modified Game [VR Half Life: Alyx](https://sovietscloset.com/VR-Half-Life-Alyx)
+
+- Is now marked as recently updated.
+
+#### Added Playlist [VR Half Life: Alyx - Second Playthrough](https://sovietscloset.com/VR-Half-Life-Alyx/Second-Playthrough)
+
+##### Videos
+
+- Added `v15018` [VR Half Life: Alyx - Second Playthrough #1](https://sovietscloset.com/video/15018)
+- Added `v15017` [VR Half Life: Alyx - Second Playthrough #2](https://sovietscloset.com/video/15017)
+- Added `v15028` [VR Half Life: Alyx - Second Playthrough #3](https://sovietscloset.com/video/15028) (new)
+- Added `v15039` [VR Half Life: Alyx - Second Playthrough #4](https://sovietscloset.com/video/15039) (new)
+- Added `v15054` [VR Half Life: Alyx - Second Playthrough #5](https://sovietscloset.com/video/15054) (new)
+- Added `v15056` [VR Half Life: Alyx - Second Playthrough #6](https://sovietscloset.com/video/15056) (new)
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15015` [VR Walkabout Mini Golf #25](https://sovietscloset.com/video/15015)
+- Added `v15016` [VR Walkabout Mini Golf #26](https://sovietscloset.com/video/15016)
+- Added `v15055` [VR Walkabout Mini Golf #27](https://sovietscloset.com/video/15055) (new)
+
 ## 2023-09-22T18:50:12Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
