@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1016,
@@ -715,10 +715,22 @@
             "date": "2023-04-01 20:11",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15013,
+            "date": "2023-08-26 19:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15014,
+            "date": "2023-09-23 19:44",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       },
       {
         "id": 8085,
@@ -1088,6 +1100,30 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9093,
+    "name": "Baldur's Gate 3",
+    "slug": "Baldur-s-Gate-3",
+    "enabled": true,
+    "recentlyUpdated": true,
+    "subcategories": [
+      {
+        "id": 9117,
+        "name": "First playthrough - Soviet, Quebec, Social and Digby",
+        "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
+        "streams": [
+          {
+            "id": 15036,
+            "date": "2023-09-25 19:27",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -1859,6 +1895,18 @@
           {
             "id": 1703,
             "date": "2019-07-20 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15038,
+            "date": "2019-07-21 17:44",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15037,
+            "date": "2019-07-22 11:11",
             "new": false,
             "useBunny": true
           },
@@ -4440,6 +4488,12 @@
             "useBunny": true
           },
           {
+            "id": 15041,
+            "date": "2020-12-10 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 6813,
             "date": "2020-12-17 20:49",
             "new": false,
@@ -5300,6 +5354,12 @@
           {
             "id": 14985,
             "date": "2023-09-14 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15010,
+            "date": "2023-09-21 20:56",
             "new": false,
             "useBunny": true
           }
@@ -6196,7 +6256,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6068,
@@ -6296,12 +6356,18 @@
           {
             "id": 15004,
             "date": "2023-09-15 20:02",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15011,
+            "date": "2023-09-22 20:01",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6542,6 +6608,12 @@
           {
             "id": 14438,
             "date": "2022-08-09 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15012,
+            "date": "2023-07-14 11:22",
             "new": false,
             "useBunny": true
           }
@@ -7277,6 +7349,126 @@
           {
             "id": 14965,
             "date": "2017-04-27 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15042,
+            "date": "2017-04-28 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15043,
+            "date": "2017-05-01 11:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15046,
+            "date": "2017-05-05 16:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15045,
+            "date": "2017-05-12 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15044,
+            "date": "2017-05-26 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15047,
+            "date": "2017-05-29 10:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15051,
+            "date": "2017-06-12 20:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15052,
+            "date": "2017-06-16 20:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15048,
+            "date": "2017-06-18 11:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15049,
+            "date": "2017-06-19 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15050,
+            "date": "2017-07-04 20:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15053,
+            "date": "2017-07-07 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15058,
+            "date": "2017-07-12 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15057,
+            "date": "2017-08-07 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15060,
+            "date": "2017-08-10 20:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15059,
+            "date": "2017-09-05 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15063,
+            "date": "2017-09-06 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15064,
+            "date": "2017-09-16 16:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15062,
+            "date": "2017-09-16 22:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15061,
+            "date": "2017-09-17 21:52",
             "new": false,
             "useBunny": true
           },
@@ -8041,7 +8233,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1004,
@@ -9138,6 +9330,12 @@
             "useBunny": true
           },
           {
+            "id": 15025,
+            "date": "2020-12-23 10:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1778,
             "date": "2020-12-23 20:23",
             "new": false,
@@ -9761,48 +9959,48 @@
           {
             "id": 15000,
             "date": "2023-09-18 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15001,
             "date": "2023-09-18 20:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15002,
             "date": "2023-09-19 11:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15007,
             "date": "2023-09-19 20:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15009,
             "date": "2023-09-20 11:04",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15008,
             "date": "2023-09-20 20:13",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15006,
             "date": "2023-09-21 11:19",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -9887,6 +10085,12 @@
           {
             "id": 4684,
             "date": "2020-11-25 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15026,
+            "date": "2020-12-11 19:56",
             "new": false,
             "useBunny": true
           },
@@ -11319,14 +11523,74 @@
             "useBunny": true
           },
           {
+            "id": 15021,
+            "date": "2019-03-22 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1645,
             "date": "2019-03-23 20:11",
             "new": false,
             "useBunny": true
           },
           {
+            "id": 15024,
+            "date": "2019-03-24 18:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1644,
             "date": "2019-03-25 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15020,
+            "date": "2019-03-25 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15019,
+            "date": "2019-03-26 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15022,
+            "date": "2019-03-26 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15023,
+            "date": "2019-03-27 11:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15030,
+            "date": "2019-03-28 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15029,
+            "date": "2019-03-28 21:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15031,
+            "date": "2019-03-29 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15032,
+            "date": "2019-03-29 20:50",
             "new": false,
             "useBunny": true
           },
@@ -11397,8 +11661,26 @@
             "useBunny": true
           },
           {
+            "id": 15033,
+            "date": "2020-08-12 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15035,
+            "date": "2020-08-12 20:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1687,
             "date": "2020-08-16 13:46",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15034,
+            "date": "2020-08-17 20:12",
             "new": false,
             "useBunny": true
           },
@@ -12813,6 +13095,12 @@
             "useBunny": true
           },
           {
+            "id": 15040,
+            "date": "2020-12-06 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 1755,
             "date": "2020-12-13 19:56",
             "new": false,
@@ -13697,6 +13985,12 @@
           {
             "id": 15005,
             "date": "2023-09-17 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15027,
+            "date": "2023-09-24 20:02",
             "new": true,
             "useBunny": true
           }
@@ -15922,7 +16216,7 @@
     "name": "VR Half Life: Alyx",
     "slug": "VR-Half-Life-Alyx",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 5061,
@@ -15980,6 +16274,51 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9116,
+        "name": "Second Playthrough",
+        "slug": "Second-Playthrough",
+        "streams": [
+          {
+            "id": 15018,
+            "date": "2023-09-22 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15017,
+            "date": "2023-09-23 12:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15028,
+            "date": "2023-09-24 22:11",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15039,
+            "date": "2023-09-26 10:59",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15054,
+            "date": "2023-09-26 20:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15056,
+            "date": "2023-09-27 20:09",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -16372,7 +16711,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9100,
@@ -16522,10 +16861,28 @@
             "date": "2023-07-19 10:42",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15015,
+            "date": "2023-09-06 10:41",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15016,
+            "date": "2023-09-13 10:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15055,
+            "date": "2023-09-27 10:38",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },

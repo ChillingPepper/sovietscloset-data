@@ -1,0 +1,42 @@
+{
+  "streamId": 15017,
+  "date": "2023-09-23 12:59",
+  "game": {
+    "name": "VR Half Life: Alyx",
+    "slug": "VR-Half-Life-Alyx"
+  },
+  "subcategory": {
+    "name": "Second Playthrough",
+    "slug": "Second-Playthrough",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15018,
+        "date": "2023-09-22 11:33"
+      },
+      {
+        "streamId": 15017,
+        "date": "2023-09-23 12:59"
+      },
+      {
+        "streamId": 15028,
+        "date": "2023-09-24 22:11"
+      },
+      {
+        "streamId": 15039,
+        "date": "2023-09-26 10:59"
+      },
+      {
+        "streamId": 15054,
+        "date": "2023-09-26 20:14"
+      },
+      {
+        "streamId": 15056,
+        "date": "2023-09-27 20:09"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "97570cd9-f14d-439a-951e-abdc7ac21e61",
+  "useBunny": true
+}
