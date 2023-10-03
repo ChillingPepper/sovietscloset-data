@@ -286,7 +286,7 @@
     "name": "Arma 3",
     "slug": "Arma-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1016,
@@ -725,12 +725,12 @@
           {
             "id": 15014,
             "date": "2023-09-23 19:44",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       },
       {
         "id": 8085,
@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9117,
@@ -1118,12 +1118,12 @@
           {
             "id": 15036,
             "date": "2023-09-25 19:27",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3298,7 +3298,7 @@
     "name": "Factorio",
     "slug": "Factorio",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1045,
@@ -3616,10 +3616,16 @@
             "date": "2023-07-31 11:17",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15065,
+            "date": "2023-10-02 11:25",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6256,7 +6262,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6068,
@@ -6364,10 +6370,16 @@
             "date": "2023-09-22 20:01",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15067,
+            "date": "2023-09-29 20:00",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -13991,6 +14003,12 @@
           {
             "id": 15027,
             "date": "2023-09-24 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15066,
+            "date": "2023-10-01 19:56",
             "new": true,
             "useBunny": true
           }
@@ -16295,13 +16313,13 @@
           {
             "id": 15028,
             "date": "2023-09-24 22:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15039,
             "date": "2023-09-26 10:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
