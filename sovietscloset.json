@@ -1,5 +1,5 @@
 {
-  "timestamp": 1696082132,
+  "timestamp": 1696353697,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -420,7 +420,7 @@
       "name": "Arma 3",
       "slug": "Arma-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Arma 3 - Antistasi Games",
@@ -735,7 +735,7 @@
           "name": "Zeus Games",
           "slug": "Zeus-Games",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Arma 3 - Zeus Games #1",
@@ -1077,7 +1077,7 @@
               "date": "2023-09-23 19:44",
               "number": 38,
               "bunnyId": "b81357b8-2262-44a8-9b09-98c07c9d2ae7",
-              "new": true
+              "new": false
             }
           ]
         },
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1649,7 +1649,7 @@
               "date": "2023-09-25 19:27",
               "number": 1,
               "bunnyId": "b0a201e8-0175-4617-9566-8cd7fd060dab",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4784,7 +4784,7 @@
       "name": "Factorio",
       "slug": "Factorio",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Factorio",
@@ -4792,7 +4792,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Factorio #2",
@@ -5261,6 +5261,15 @@
               "number": 55,
               "bunnyId": "c503f9d1-2a4f-4e38-bba8-4fd779e1bf9c",
               "new": false
+            },
+            {
+              "title": "Factorio #56",
+              "url": "https://sovietscloset.com/video/15065",
+              "id": 15065,
+              "date": "2023-10-02 11:25",
+              "number": 56,
+              "bunnyId": "6e2908f8-e657-451d-b32f-d2a94b2e5405",
+              "new": true
             }
           ]
         }
@@ -9081,7 +9090,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9172,7 +9181,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9236,6 +9245,15 @@
               "number": 7,
               "bunnyId": "2e046969-cd6c-4f58-9c79-0493183dabb9",
               "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #8",
+              "url": "https://sovietscloset.com/video/15067",
+              "id": 15067,
+              "date": "2023-09-29 20:00",
+              "number": 8,
+              "bunnyId": "4e0704df-72db-47d9-8d4a-e28baf5c0849",
+              "new": true
             }
           ]
         }
@@ -20423,6 +20441,15 @@
               "date": "2023-09-24 20:02",
               "number": 162,
               "bunnyId": "53947c28-e851-4536-b3d1-d1c53e26ff6b",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #163",
+              "url": "https://sovietscloset.com/video/15066",
+              "id": 15066,
+              "date": "2023-10-01 19:56",
+              "number": 163,
+              "bunnyId": "78b20f52-b278-4ea1-bc2d-f296921d2592",
               "new": true
             }
           ]
@@ -23746,7 +23773,7 @@
               "date": "2023-09-24 22:11",
               "number": 3,
               "bunnyId": "a0ac4b99-2339-41de-8a99-a3914683a0a3",
-              "new": true
+              "new": false
             },
             {
               "title": "VR Half Life: Alyx - Second Playthrough #4",
@@ -23755,7 +23782,7 @@
               "date": "2023-09-26 10:59",
               "number": 4,
               "bunnyId": "1db607e2-7a19-4564-8121-f882c2ab1cae",
-              "new": true
+              "new": false
             },
             {
               "title": "VR Half Life: Alyx - Second Playthrough #5",

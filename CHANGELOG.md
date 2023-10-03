@@ -1,5 +1,78 @@
 # Changelog
 
+## 2023-10-03T17:21:37Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15014` [Arma 3 - Zeus Games #38](https://sovietscloset.com/video/15014)
+  - Is no longer marked as new.
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15036` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1](https://sovietscloset.com/video/15036)
+  - Is no longer marked as new.
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15065` [Factorio #56](https://sovietscloset.com/video/15065) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15067` [Left 4 Dead 2 - Versus #8](https://sovietscloset.com/video/15067) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Modified `v15027` [Team Fortress 2 #162](https://sovietscloset.com/video/15027)
+  - Is no longer marked as new.
+- Added `v15066` [Team Fortress 2 #163](https://sovietscloset.com/video/15066) (new)
+
+### Modified Game [VR Half Life: Alyx](https://sovietscloset.com/VR-Half-Life-Alyx)
+
+#### Modified Playlist [VR Half Life: Alyx - Second Playthrough](https://sovietscloset.com/VR-Half-Life-Alyx/Second-Playthrough)
+
+##### Videos
+
+- Modified `v15028` [VR Half Life: Alyx - Second Playthrough #3](https://sovietscloset.com/video/15028)
+  - Is no longer marked as new.
+- Modified `v15039` [VR Half Life: Alyx - Second Playthrough #4](https://sovietscloset.com/video/15039)
+  - Is no longer marked as new.
+
 ## 2023-09-30T13:55:32Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
