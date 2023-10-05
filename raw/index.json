@@ -3622,6 +3622,18 @@
             "date": "2023-10-02 11:25",
             "new": true,
             "useBunny": true
+          },
+          {
+            "id": 15069,
+            "date": "2023-10-03 11:12",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15068,
+            "date": "2023-10-03 20:11",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -16234,7 +16246,7 @@
     "name": "VR Half Life: Alyx",
     "slug": "VR-Half-Life-Alyx",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 5061,
@@ -16325,18 +16337,18 @@
           {
             "id": 15054,
             "date": "2023-09-26 20:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15056,
             "date": "2023-09-27 20:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -16729,7 +16741,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9100,
@@ -16895,12 +16907,12 @@
           {
             "id": 15055,
             "date": "2023-09-27 10:38",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
