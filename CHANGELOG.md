@@ -1,5 +1,44 @@
 # Changelog
 
+## 2023-10-05T01:06:36Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v15069` [Factorio #57](https://sovietscloset.com/video/15069) (new)
+- Added `v15068` [Factorio #58](https://sovietscloset.com/video/15068) (new)
+
+### Modified Game [VR Half Life: Alyx](https://sovietscloset.com/VR-Half-Life-Alyx)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Half Life: Alyx - Second Playthrough](https://sovietscloset.com/VR-Half-Life-Alyx/Second-Playthrough)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15054` [VR Half Life: Alyx - Second Playthrough #5](https://sovietscloset.com/video/15054)
+  - Is no longer marked as new.
+- Modified `v15056` [VR Half Life: Alyx - Second Playthrough #6](https://sovietscloset.com/video/15056)
+  - Is no longer marked as new.
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15055` [VR Walkabout Mini Golf #27](https://sovietscloset.com/video/15055)
+  - Is no longer marked as new.
+
 ## 2023-10-03T17:21:37Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

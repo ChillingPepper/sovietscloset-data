@@ -1,5 +1,5 @@
 {
-  "timestamp": 1696353697,
+  "timestamp": 1696467996,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5269,6 +5269,24 @@
               "date": "2023-10-02 11:25",
               "number": 56,
               "bunnyId": "6e2908f8-e657-451d-b32f-d2a94b2e5405",
+              "new": true
+            },
+            {
+              "title": "Factorio #57",
+              "url": "https://sovietscloset.com/video/15069",
+              "id": 15069,
+              "date": "2023-10-03 11:12",
+              "number": 57,
+              "bunnyId": "98ae6170-7ffb-46f4-a874-8024be9c4af0",
+              "new": true
+            },
+            {
+              "title": "Factorio #58",
+              "url": "https://sovietscloset.com/video/15068",
+              "id": 15068,
+              "date": "2023-10-03 20:11",
+              "number": 58,
+              "bunnyId": "6c7edc63-7d01-4f03-8f36-c204d0f85595",
               "new": true
             }
           ]
@@ -23656,7 +23674,7 @@
       "name": "VR Half Life: Alyx",
       "slug": "VR-Half-Life-Alyx",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "VR Half Life: Alyx",
@@ -23746,7 +23764,7 @@
           "name": "Second Playthrough",
           "slug": "Second-Playthrough",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "VR Half Life: Alyx - Second Playthrough #1",
@@ -23791,7 +23809,7 @@
               "date": "2023-09-26 20:14",
               "number": 5,
               "bunnyId": "b8b17922-366a-4684-8f14-d435491b68e9",
-              "new": true
+              "new": false
             },
             {
               "title": "VR Half Life: Alyx - Second Playthrough #6",
@@ -23800,7 +23818,7 @@
               "date": "2023-09-27 20:09",
               "number": 6,
               "bunnyId": "b1cca14a-d7a7-4598-879b-a236d2ac5dee",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -24346,7 +24364,7 @@
       "name": "VR Walkabout Mini Golf",
       "slug": "VR-Walkabout-Mini-Golf",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "VR Walkabout Mini Golf",
@@ -24354,7 +24372,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "VR Walkabout Mini Golf #1",
@@ -24597,7 +24615,7 @@
               "date": "2023-09-27 10:38",
               "number": 27,
               "bunnyId": "eeb14cfa-1f65-4036-b8b3-37c634f8bf8a",
-              "new": true
+              "new": false
             }
           ]
         }
