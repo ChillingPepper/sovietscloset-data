@@ -1,5 +1,5 @@
 {
-  "timestamp": 1696467996,
+  "timestamp": 1696782907,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5288,6 +5288,33 @@
               "number": 58,
               "bunnyId": "6c7edc63-7d01-4f03-8f36-c204d0f85595",
               "new": true
+            },
+            {
+              "title": "Factorio #59",
+              "url": "https://sovietscloset.com/video/15074",
+              "id": 15074,
+              "date": "2023-10-04 11:06",
+              "number": 59,
+              "bunnyId": "7bb85e42-010d-45bc-aaff-7f35384a115f",
+              "new": true
+            },
+            {
+              "title": "Factorio #60",
+              "url": "https://sovietscloset.com/video/15073",
+              "id": 15073,
+              "date": "2023-10-04 20:17",
+              "number": 60,
+              "bunnyId": "74a18b26-5526-4ffc-8dd4-6a38cb598a82",
+              "new": true
+            },
+            {
+              "title": "Factorio #61",
+              "url": "https://sovietscloset.com/video/15072",
+              "id": 15072,
+              "date": "2023-10-05 11:09",
+              "number": 61,
+              "bunnyId": "cd637047-9e0a-431c-b036-b59a3463a879",
+              "new": true
             }
           ]
         }
@@ -6243,7 +6270,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6251,7 +6278,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7809,6 +7836,15 @@
               "number": 174,
               "bunnyId": "9207645f-0abf-4998-bb0f-0eebb3a222aa",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #175",
+              "url": "https://sovietscloset.com/video/15071",
+              "id": 15071,
+              "date": "2023-10-05 20:48",
+              "number": 175,
+              "bunnyId": "ea33ce88-c946-460f-ab5c-30fe04fbdbc0",
+              "new": true
             }
           ]
         }
@@ -9271,6 +9307,15 @@
               "date": "2023-09-29 20:00",
               "number": 8,
               "bunnyId": "4e0704df-72db-47d9-8d4a-e28baf5c0849",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #9",
+              "url": "https://sovietscloset.com/video/15070",
+              "id": 15070,
+              "date": "2023-10-06 19:57",
+              "number": 9,
+              "bunnyId": "14d8aa5b-37c7-4e95-bba0-aa64f21e93f7",
               "new": true
             }
           ]

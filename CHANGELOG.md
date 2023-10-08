@@ -1,5 +1,39 @@
 # Changelog
 
+## 2023-10-08T16:35:07Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v15074` [Factorio #59](https://sovietscloset.com/video/15074) (new)
+- Added `v15073` [Factorio #60](https://sovietscloset.com/video/15073) (new)
+- Added `v15072` [Factorio #61](https://sovietscloset.com/video/15072) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15071` [Holdfast: Nations at War #175](https://sovietscloset.com/video/15071) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Modified `v15067` [Left 4 Dead 2 - Versus #8](https://sovietscloset.com/video/15067)
+  - Is no longer marked as new.
+- Added `v15070` [Left 4 Dead 2 - Versus #9](https://sovietscloset.com/video/15070) (new)
+
 ## 2023-10-05T01:06:36Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)
