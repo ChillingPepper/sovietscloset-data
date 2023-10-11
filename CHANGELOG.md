@@ -1,5 +1,46 @@
 # Changelog
 
+## 2023-10-11T18:41:37Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Modified `v15065` [Factorio #56](https://sovietscloset.com/video/15065)
+  - Is no longer marked as new.
+- Modified `v15069` [Factorio #57](https://sovietscloset.com/video/15069)
+  - Is no longer marked as new.
+- Modified `v15068` [Factorio #58](https://sovietscloset.com/video/15068)
+  - Is no longer marked as new.
+- Modified `v15074` [Factorio #59](https://sovietscloset.com/video/15074)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15066` [Team Fortress 2 #163](https://sovietscloset.com/video/15066)
+  - Is no longer marked as new.
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+- Is now marked as recently updated.
+
+#### Added Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Added `v15075` [Valheim - Bacon Bay #1](https://sovietscloset.com/video/15075) (new)
+- Added `v15076` [Valheim - Bacon Bay #2](https://sovietscloset.com/video/15076) (new)
+
 ## 2023-10-08T16:35:07Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

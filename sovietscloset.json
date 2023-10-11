@@ -1,5 +1,5 @@
 {
-  "timestamp": 1696782907,
+  "timestamp": 1697049697,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5269,7 +5269,7 @@
               "date": "2023-10-02 11:25",
               "number": 56,
               "bunnyId": "6e2908f8-e657-451d-b32f-d2a94b2e5405",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #57",
@@ -5278,7 +5278,7 @@
               "date": "2023-10-03 11:12",
               "number": 57,
               "bunnyId": "98ae6170-7ffb-46f4-a874-8024be9c4af0",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #58",
@@ -5287,7 +5287,7 @@
               "date": "2023-10-03 20:11",
               "number": 58,
               "bunnyId": "6c7edc63-7d01-4f03-8f36-c204d0f85595",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #59",
@@ -5296,7 +5296,7 @@
               "date": "2023-10-04 11:06",
               "number": 59,
               "bunnyId": "7bb85e42-010d-45bc-aaff-7f35384a115f",
-              "new": true
+              "new": false
             },
             {
               "title": "Factorio #60",
@@ -19065,7 +19065,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -19073,7 +19073,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -20513,7 +20513,7 @@
               "date": "2023-10-01 19:56",
               "number": 163,
               "bunnyId": "78b20f52-b278-4ea1-bc2d-f296921d2592",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -22599,7 +22599,7 @@
       "name": "Valheim",
       "slug": "Valheim",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Valheim - The Village of Knobheim",
@@ -22932,6 +22932,34 @@
               "number": 38,
               "bunnyId": "6e62698f-4f20-4035-a694-49e4eb538300",
               "new": false
+            }
+          ]
+        },
+        {
+          "title": "Valheim - Bacon Bay",
+          "url": "https://sovietscloset.com/Valheim/Bacon-Bay",
+          "name": "Bacon Bay",
+          "slug": "Bacon-Bay",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "Valheim - Bacon Bay #1",
+              "url": "https://sovietscloset.com/video/15075",
+              "id": 15075,
+              "date": "2023-10-09 11:05",
+              "number": 1,
+              "bunnyId": "e0b10b5f-3da7-40e1-a195-e0c794360b02",
+              "new": true
+            },
+            {
+              "title": "Valheim - Bacon Bay #2",
+              "url": "https://sovietscloset.com/video/15076",
+              "id": 15076,
+              "date": "2023-10-10 11:14",
+              "number": 2,
+              "bunnyId": "95bf6a85-c665-47ed-a9d0-805ba5b580bf",
+              "new": true
             }
           ]
         }
