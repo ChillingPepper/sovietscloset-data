@@ -8,7 +8,7 @@
   "subcategory": {
     "name": "The Village of Knobheim",
     "slug": "The-Village-of-Knobheim",
-    "onlyCategory": true,
+    "onlyCategory": false,
     "playlist": [
       {
         "streamId": 14658,

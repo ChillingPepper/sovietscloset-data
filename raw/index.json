@@ -3620,25 +3620,25 @@
           {
             "id": 15065,
             "date": "2023-10-02 11:25",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15069,
             "date": "2023-10-03 11:12",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15068,
             "date": "2023-10-03 20:11",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15074,
             "date": "2023-10-04 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -13087,7 +13087,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -14051,12 +14051,12 @@
           {
             "id": 15066,
             "date": "2023-10-01 19:56",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -15499,7 +15499,7 @@
     "name": "Valheim",
     "slug": "Valheim",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9104,
@@ -15725,6 +15725,27 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9118,
+        "name": "Bacon Bay",
+        "slug": "Bacon-Bay",
+        "streams": [
+          {
+            "id": 15075,
+            "date": "2023-10-09 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15076,
+            "date": "2023-10-10 11:14",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },

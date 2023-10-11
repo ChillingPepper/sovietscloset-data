@@ -1,0 +1,26 @@
+{
+  "streamId": 15075,
+  "date": "2023-10-09 11:05",
+  "game": {
+    "name": "Valheim",
+    "slug": "Valheim"
+  },
+  "subcategory": {
+    "name": "Bacon Bay",
+    "slug": "Bacon-Bay",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15075,
+        "date": "2023-10-09 11:05"
+      },
+      {
+        "streamId": 15076,
+        "date": "2023-10-10 11:14"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "e0b10b5f-3da7-40e1-a195-e0c794360b02",
+  "useBunny": true
+}
