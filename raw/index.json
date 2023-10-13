@@ -3298,7 +3298,7 @@
     "name": "Factorio",
     "slug": "Factorio",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1045,
@@ -3644,18 +3644,18 @@
           {
             "id": 15073,
             "date": "2023-10-04 20:17",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15072,
             "date": "2023-10-05 11:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4354,7 +4354,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -5402,12 +5402,12 @@
           {
             "id": 15071,
             "date": "2023-10-05 20:48",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -15740,6 +15740,24 @@
           {
             "id": 15076,
             "date": "2023-10-10 11:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15077,
+            "date": "2023-10-10 20:09",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15078,
+            "date": "2023-10-11 11:18",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15079,
+            "date": "2023-10-12 11:08",
             "new": true,
             "useBunny": true
           }
