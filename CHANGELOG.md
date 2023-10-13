@@ -1,5 +1,45 @@
 # Changelog
 
+## 2023-10-13T16:44:40Z
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15073` [Factorio #60](https://sovietscloset.com/video/15073)
+  - Is no longer marked as new.
+- Modified `v15072` [Factorio #61](https://sovietscloset.com/video/15072)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15071` [Holdfast: Nations at War #175](https://sovietscloset.com/video/15071)
+  - Is no longer marked as new.
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Added `v15077` [Valheim - Bacon Bay #3](https://sovietscloset.com/video/15077) (new)
+- Added `v15078` [Valheim - Bacon Bay #4](https://sovietscloset.com/video/15078) (new)
+- Added `v15079` [Valheim - Bacon Bay #5](https://sovietscloset.com/video/15079) (new)
+
 ## 2023-10-11T18:41:37Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)
