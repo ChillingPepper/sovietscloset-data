@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9117,
@@ -1120,10 +1120,16 @@
             "date": "2023-09-25 19:27",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15080,
+            "date": "2023-10-16 19:32",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6416,6 +6422,12 @@
           {
             "id": 15070,
             "date": "2023-10-06 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15082,
+            "date": "2023-10-13 20:03",
             "new": true,
             "useBunny": true
           }
@@ -13087,7 +13099,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -14053,10 +14065,16 @@
             "date": "2023-10-01 19:56",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15081,
+            "date": "2023-10-15 20:02",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -15734,19 +15752,19 @@
           {
             "id": 15075,
             "date": "2023-10-09 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15076,
             "date": "2023-10-10 11:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15077,
             "date": "2023-10-10 20:09",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -15758,6 +15776,12 @@
           {
             "id": 15079,
             "date": "2023-10-12 11:08",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15083,
+            "date": "2023-10-13 11:02",
             "new": true,
             "useBunny": true
           }
