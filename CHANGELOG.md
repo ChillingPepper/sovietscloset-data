@@ -1,5 +1,55 @@
 # Changelog
 
+## 2023-10-18T10:57:04Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15080` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2](https://sovietscloset.com/video/15080) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Modified `v15070` [Left 4 Dead 2 - Versus #9](https://sovietscloset.com/video/15070)
+  - Is no longer marked as new.
+- Added `v15082` [Left 4 Dead 2 - Versus #10](https://sovietscloset.com/video/15082) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15081` [Team Fortress 2 #164](https://sovietscloset.com/video/15081) (new)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Modified `v15075` [Valheim - Bacon Bay #1](https://sovietscloset.com/video/15075)
+  - Is no longer marked as new.
+- Modified `v15076` [Valheim - Bacon Bay #2](https://sovietscloset.com/video/15076)
+  - Is no longer marked as new.
+- Modified `v15077` [Valheim - Bacon Bay #3](https://sovietscloset.com/video/15077)
+  - Is no longer marked as new.
+- Added `v15083` [Valheim - Bacon Bay #6](https://sovietscloset.com/video/15083) (new)
+
 ## 2023-10-13T16:44:40Z
 
 ### Modified Game [Factorio](https://sovietscloset.com/Factorio)

@@ -1,5 +1,5 @@
 {
-  "timestamp": 1697215480,
+  "timestamp": 1697626624,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1650,6 +1650,15 @@
               "number": 1,
               "bunnyId": "b0a201e8-0175-4617-9566-8cd7fd060dab",
               "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2",
+              "url": "https://sovietscloset.com/video/15080",
+              "id": 15080,
+              "date": "2023-10-16 19:32",
+              "number": 2,
+              "bunnyId": "52edd975-f1bf-419f-b0b8-aca551bafd6c",
+              "new": true
             }
           ]
         }
@@ -9316,6 +9325,15 @@
               "date": "2023-10-06 19:57",
               "number": 9,
               "bunnyId": "14d8aa5b-37c7-4e95-bba0-aa64f21e93f7",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #10",
+              "url": "https://sovietscloset.com/video/15082",
+              "id": 15082,
+              "date": "2023-10-13 20:03",
+              "number": 10,
+              "bunnyId": "5197c9e6-b7a5-4301-a4c3-72a3d01bd6fe",
               "new": true
             }
           ]
@@ -19065,7 +19083,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -19073,7 +19091,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -20514,6 +20532,15 @@
               "number": 163,
               "bunnyId": "78b20f52-b278-4ea1-bc2d-f296921d2592",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #164",
+              "url": "https://sovietscloset.com/video/15081",
+              "id": 15081,
+              "date": "2023-10-15 20:02",
+              "number": 164,
+              "bunnyId": "eea7d2f2-af8f-472e-939b-e18b674f0082",
+              "new": true
             }
           ]
         }
@@ -22950,7 +22977,7 @@
               "date": "2023-10-09 11:05",
               "number": 1,
               "bunnyId": "e0b10b5f-3da7-40e1-a195-e0c794360b02",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #2",
@@ -22959,7 +22986,7 @@
               "date": "2023-10-10 11:14",
               "number": 2,
               "bunnyId": "95bf6a85-c665-47ed-a9d0-805ba5b580bf",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #3",
@@ -22968,7 +22995,7 @@
               "date": "2023-10-10 20:09",
               "number": 3,
               "bunnyId": "2c20be9b-f07d-431d-bc3d-04d9f775ac8f",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #4",
@@ -22986,6 +23013,15 @@
               "date": "2023-10-12 11:08",
               "number": 5,
               "bunnyId": "aa99a8a3-fbef-4be1-b022-a3b665307b54",
+              "new": true
+            },
+            {
+              "title": "Valheim - Bacon Bay #6",
+              "url": "https://sovietscloset.com/video/15083",
+              "id": 15083,
+              "date": "2023-10-13 11:02",
+              "number": 6,
+              "bunnyId": "289cb6b6-1543-4f83-b5e9-c919c71fed4f",
               "new": true
             }
           ]
