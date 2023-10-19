@@ -1,5 +1,5 @@
 {
-  "timestamp": 1697626624,
+  "timestamp": 1697732562,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -23004,7 +23004,7 @@
               "date": "2023-10-11 11:18",
               "number": 4,
               "bunnyId": "d9d0810a-462c-4e70-9351-c1b345bc0b35",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #5",
@@ -23013,7 +23013,7 @@
               "date": "2023-10-12 11:08",
               "number": 5,
               "bunnyId": "aa99a8a3-fbef-4be1-b022-a3b665307b54",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #6",
@@ -24500,7 +24500,7 @@
       "name": "VR Walkabout Mini Golf",
       "slug": "VR-Walkabout-Mini-Golf",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "VR Walkabout Mini Golf",
@@ -24508,7 +24508,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "VR Walkabout Mini Golf #1",
@@ -24752,6 +24752,15 @@
               "number": 27,
               "bunnyId": "eeb14cfa-1f65-4036-b8b3-37c634f8bf8a",
               "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #28",
+              "url": "https://sovietscloset.com/video/15084",
+              "id": 15084,
+              "date": "2023-10-18 10:42",
+              "number": 28,
+              "bunnyId": "b705fa14-6160-47bd-aec1-8a9a057a075a",
+              "new": true
             }
           ]
         }
