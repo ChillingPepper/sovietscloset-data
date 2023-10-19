@@ -15770,13 +15770,13 @@
           {
             "id": 15078,
             "date": "2023-10-11 11:18",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15079,
             "date": "2023-10-12 11:08",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -16834,7 +16834,7 @@
     "name": "VR Walkabout Mini Golf",
     "slug": "VR-Walkabout-Mini-Golf",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9100,
@@ -17002,10 +17002,16 @@
             "date": "2023-09-27 10:38",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15084,
+            "date": "2023-10-18 10:42",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
