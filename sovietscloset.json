@@ -1,5 +1,5 @@
 {
-  "timestamp": 1697732562,
+  "timestamp": 1698341786,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1658,7 +1658,7 @@
               "date": "2023-10-16 19:32",
               "number": 2,
               "bunnyId": "52edd975-f1bf-419f-b0b8-aca551bafd6c",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9153,7 +9153,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9244,7 +9244,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9334,7 +9334,7 @@
               "date": "2023-10-13 20:03",
               "number": 10,
               "bunnyId": "5197c9e6-b7a5-4301-a4c3-72a3d01bd6fe",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -19083,7 +19083,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -19091,7 +19091,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -20540,7 +20540,7 @@
               "date": "2023-10-15 20:02",
               "number": 164,
               "bunnyId": "eea7d2f2-af8f-472e-939b-e18b674f0082",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -23022,6 +23022,42 @@
               "date": "2023-10-13 11:02",
               "number": 6,
               "bunnyId": "289cb6b6-1543-4f83-b5e9-c919c71fed4f",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #7",
+              "url": "https://sovietscloset.com/video/15085",
+              "id": 15085,
+              "date": "2023-10-17 11:18",
+              "number": 7,
+              "bunnyId": "3376ac72-6ddd-4093-bcd9-ae554fc845b8",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #8",
+              "url": "https://sovietscloset.com/video/15087",
+              "id": 15087,
+              "date": "2023-10-19 11:26",
+              "number": 8,
+              "bunnyId": "759028d5-2700-45b9-b85e-3e4679be33cd",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #9",
+              "url": "https://sovietscloset.com/video/15088",
+              "id": 15088,
+              "date": "2023-10-23 11:34",
+              "number": 9,
+              "bunnyId": "cd29cd10-be16-4ebb-9598-68ceee5f6a36",
+              "new": true
+            },
+            {
+              "title": "Valheim - Bacon Bay #10",
+              "url": "https://sovietscloset.com/video/15086",
+              "id": 15086,
+              "date": "2023-10-24 11:20",
+              "number": 10,
+              "bunnyId": "c15eb283-1056-4cd9-909a-ec66ea06ef7d",
               "new": true
             }
           ]
@@ -24500,7 +24536,7 @@
       "name": "VR Walkabout Mini Golf",
       "slug": "VR-Walkabout-Mini-Golf",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "VR Walkabout Mini Golf",
@@ -24508,7 +24544,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "VR Walkabout Mini Golf #1",
@@ -24760,7 +24796,7 @@
               "date": "2023-10-18 10:42",
               "number": 28,
               "bunnyId": "b705fa14-6160-47bd-aec1-8a9a057a075a",
-              "new": true
+              "new": false
             }
           ]
         }

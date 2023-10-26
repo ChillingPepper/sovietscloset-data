@@ -1,5 +1,72 @@
 # Changelog
 
+## 2023-10-26T17:36:26Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15080` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2](https://sovietscloset.com/video/15080)
+  - Is no longer marked as new.
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15082` [Left 4 Dead 2 - Versus #10](https://sovietscloset.com/video/15082)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15081` [Team Fortress 2 #164](https://sovietscloset.com/video/15081)
+  - Is no longer marked as new.
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15084` [VR Walkabout Mini Golf #28](https://sovietscloset.com/video/15084)
+  - Is no longer marked as new.
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Modified `v15083` [Valheim - Bacon Bay #6](https://sovietscloset.com/video/15083)
+  - Is no longer marked as new.
+- Added `v15085` [Valheim - Bacon Bay #7](https://sovietscloset.com/video/15085)
+- Added `v15087` [Valheim - Bacon Bay #8](https://sovietscloset.com/video/15087)
+- Added `v15088` [Valheim - Bacon Bay #9](https://sovietscloset.com/video/15088) (new)
+- Added `v15086` [Valheim - Bacon Bay #10](https://sovietscloset.com/video/15086) (new)
+
 ## 2023-10-19T16:22:42Z
 
 ### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
