@@ -6304,7 +6304,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6068,
@@ -6430,10 +6430,16 @@
             "date": "2023-10-13 20:03",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15091,
+            "date": "2023-10-27 20:01",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -8299,7 +8305,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1004,
@@ -10063,10 +10069,16 @@
             "date": "2023-09-21 11:19",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15089,
+            "date": "2023-10-30 11:14",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -13099,7 +13111,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1035,
@@ -14071,10 +14083,16 @@
             "date": "2023-10-15 20:02",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15090,
+            "date": "2023-10-29 20:02",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -15800,12 +15818,18 @@
           {
             "id": 15088,
             "date": "2023-10-23 11:34",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15086,
             "date": "2023-10-24 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15092,
+            "date": "2023-10-27 11:05",
             "new": true,
             "useBunny": true
           }
