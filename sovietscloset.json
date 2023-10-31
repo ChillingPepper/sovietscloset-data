@@ -1,5 +1,5 @@
 {
-  "timestamp": 1698341786,
+  "timestamp": 1698779067,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -9153,7 +9153,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9244,7 +9244,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9335,6 +9335,15 @@
               "number": 10,
               "bunnyId": "5197c9e6-b7a5-4301-a4c3-72a3d01bd6fe",
               "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #11",
+              "url": "https://sovietscloset.com/video/15091",
+              "id": 15091,
+              "date": "2023-10-27 20:01",
+              "number": 11,
+              "bunnyId": "d6fa83e3-ed11-411d-8cb9-f4fa48817eb7",
+              "new": true
             }
           ]
         }
@@ -12002,7 +12011,7 @@
       "name": "Rimworld",
       "slug": "Rimworld",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Rimworld - Tundrafall",
@@ -13749,7 +13758,7 @@
           "name": "The Pale Ones",
           "slug": "The-Pale-Ones",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Rimworld - The Pale Ones #1",
@@ -14641,6 +14650,15 @@
               "number": 99,
               "bunnyId": "5f388aab-8a3f-4116-9a05-d50460a7544e",
               "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #100",
+              "url": "https://sovietscloset.com/video/15089",
+              "id": 15089,
+              "date": "2023-10-30 11:14",
+              "number": 100,
+              "bunnyId": "505d3ba6-2bc1-443e-90a9-5f0831e60557",
+              "new": true
             }
           ]
         }
@@ -19083,7 +19101,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -19091,7 +19109,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -20541,6 +20559,15 @@
               "number": 164,
               "bunnyId": "eea7d2f2-af8f-472e-939b-e18b674f0082",
               "new": false
+            },
+            {
+              "title": "Team Fortress 2 #165",
+              "url": "https://sovietscloset.com/video/15090",
+              "id": 15090,
+              "date": "2023-10-29 20:02",
+              "number": 165,
+              "bunnyId": "553fd4a5-a1f8-40c8-8d4e-bd35ad4d7c9f",
+              "new": true
             }
           ]
         }
@@ -23049,7 +23076,7 @@
               "date": "2023-10-23 11:34",
               "number": 9,
               "bunnyId": "cd29cd10-be16-4ebb-9598-68ceee5f6a36",
-              "new": true
+              "new": false
             },
             {
               "title": "Valheim - Bacon Bay #10",
@@ -23058,6 +23085,15 @@
               "date": "2023-10-24 11:20",
               "number": 10,
               "bunnyId": "c15eb283-1056-4cd9-909a-ec66ea06ef7d",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #11",
+              "url": "https://sovietscloset.com/video/15092",
+              "id": 15092,
+              "date": "2023-10-27 11:05",
+              "number": 11,
+              "bunnyId": "5d185eba-bbf4-40d5-95ed-00ea01e7d354",
               "new": true
             }
           ]

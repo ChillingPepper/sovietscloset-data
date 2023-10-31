@@ -1,5 +1,55 @@
 # Changelog
 
+## 2023-10-31T19:04:27Z
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15091` [Left 4 Dead 2 - Versus #11](https://sovietscloset.com/video/15091) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15089` [Rimworld - The Pale Ones #100](https://sovietscloset.com/video/15089) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15090` [Team Fortress 2 #165](https://sovietscloset.com/video/15090) (new)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Modified `v15088` [Valheim - Bacon Bay #9](https://sovietscloset.com/video/15088)
+  - Is no longer marked as new.
+- Modified `v15086` [Valheim - Bacon Bay #10](https://sovietscloset.com/video/15086)
+  - Is no longer marked as new.
+- Added `v15092` [Valheim - Bacon Bay #11](https://sovietscloset.com/video/15092) (new)
+
 ## 2023-10-26T17:36:26Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
