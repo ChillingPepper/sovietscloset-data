@@ -1,5 +1,5 @@
 {
-  "timestamp": 1698779067,
+  "timestamp": 1699096869,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6279,7 +6279,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6287,7 +6287,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7854,6 +7854,15 @@
               "number": 175,
               "bunnyId": "ea33ce88-c946-460f-ab5c-30fe04fbdbc0",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #176",
+              "url": "https://sovietscloset.com/video/15093",
+              "id": 15093,
+              "date": "2023-11-02 20:57",
+              "number": 176,
+              "bunnyId": "834c1476-fb68-4ed7-80ac-0fba004faffb",
+              "new": true
             }
           ]
         }
@@ -9153,7 +9162,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9244,7 +9253,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9343,7 +9352,7 @@
               "date": "2023-10-27 20:01",
               "number": 11,
               "bunnyId": "d6fa83e3-ed11-411d-8cb9-f4fa48817eb7",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -14658,6 +14667,33 @@
               "date": "2023-10-30 11:14",
               "number": 100,
               "bunnyId": "505d3ba6-2bc1-443e-90a9-5f0831e60557",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #101",
+              "url": "https://sovietscloset.com/video/15095",
+              "id": 15095,
+              "date": "2023-10-31 11:07",
+              "number": 101,
+              "bunnyId": "9cb92272-1532-4813-8c4a-3b0947e836fe",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #102",
+              "url": "https://sovietscloset.com/video/15096",
+              "id": 15096,
+              "date": "2023-10-31 20:27",
+              "number": 102,
+              "bunnyId": "8f35ac9c-cb75-453a-9a20-6bfb8cb2e571",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #103",
+              "url": "https://sovietscloset.com/video/15094",
+              "id": 15094,
+              "date": "2023-11-02 11:13",
+              "number": 103,
+              "bunnyId": "a8b74af6-2e54-46b0-b675-da2f12ebedcc",
               "new": true
             }
           ]
@@ -22653,7 +22689,7 @@
       "name": "Valheim",
       "slug": "Valheim",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Valheim - The Village of Knobheim",
@@ -22995,7 +23031,7 @@
           "name": "Bacon Bay",
           "slug": "Bacon-Bay",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Valheim - Bacon Bay #1",
@@ -23094,7 +23130,7 @@
               "date": "2023-10-27 11:05",
               "number": 11,
               "bunnyId": "5d185eba-bbf4-40d5-95ed-00ea01e7d354",
-              "new": true
+              "new": false
             }
           ]
         }

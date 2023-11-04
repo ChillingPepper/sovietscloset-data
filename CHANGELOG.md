@@ -1,5 +1,55 @@
 # Changelog
 
+## 2023-11-04T11:21:09Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15093` [Holdfast: Nations at War #176](https://sovietscloset.com/video/15093) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15091` [Left 4 Dead 2 - Versus #11](https://sovietscloset.com/video/15091)
+  - Is no longer marked as new.
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15095` [Rimworld - The Pale Ones #101](https://sovietscloset.com/video/15095) (new)
+- Added `v15096` [Rimworld - The Pale Ones #102](https://sovietscloset.com/video/15096) (new)
+- Added `v15094` [Rimworld - The Pale Ones #103](https://sovietscloset.com/video/15094) (new)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15092` [Valheim - Bacon Bay #11](https://sovietscloset.com/video/15092)
+  - Is no longer marked as new.
+
 ## 2023-10-31T19:04:27Z
 
 ### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
