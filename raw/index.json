@@ -4360,7 +4360,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -5410,10 +5410,16 @@
             "date": "2023-10-05 20:48",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15093,
+            "date": "2023-11-02 20:57",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6304,7 +6310,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6068,
@@ -6434,12 +6440,12 @@
           {
             "id": 15091,
             "date": "2023-10-27 20:01",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -10073,6 +10079,24 @@
           {
             "id": 15089,
             "date": "2023-10-30 11:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15095,
+            "date": "2023-10-31 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15096,
+            "date": "2023-10-31 20:27",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15094,
+            "date": "2023-11-02 11:13",
             "new": true,
             "useBunny": true
           }
@@ -15535,7 +15559,7 @@
     "name": "Valheim",
     "slug": "Valheim",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9104,
@@ -15830,12 +15854,12 @@
           {
             "id": 15092,
             "date": "2023-10-27 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
