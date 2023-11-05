@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9117,
@@ -1126,10 +1126,16 @@
             "date": "2023-10-16 19:32",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15099,
+            "date": "2023-11-01 19:33",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6310,7 +6316,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 6068,
@@ -6442,10 +6448,16 @@
             "date": "2023-10-27 20:01",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15097,
+            "date": "2023-11-03 19:59",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -10097,6 +10109,12 @@
           {
             "id": 15094,
             "date": "2023-11-02 11:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15098,
+            "date": "2023-11-03 12:10",
             "new": true,
             "useBunny": true
           }
