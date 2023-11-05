@@ -1,5 +1,5 @@
 {
-  "timestamp": 1699096869,
+  "timestamp": 1699192792,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1659,6 +1659,15 @@
               "number": 2,
               "bunnyId": "52edd975-f1bf-419f-b0b8-aca551bafd6c",
               "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3",
+              "url": "https://sovietscloset.com/video/15099",
+              "id": 15099,
+              "date": "2023-11-01 19:33",
+              "number": 3,
+              "bunnyId": "abf70103-87c2-4bdd-9d58-a8375a7dbdb9",
+              "new": true
             }
           ]
         }
@@ -9162,7 +9171,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9253,7 +9262,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9353,6 +9362,15 @@
               "number": 11,
               "bunnyId": "d6fa83e3-ed11-411d-8cb9-f4fa48817eb7",
               "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #12",
+              "url": "https://sovietscloset.com/video/15097",
+              "id": 15097,
+              "date": "2023-11-03 19:59",
+              "number": 12,
+              "bunnyId": "c8730f29-8920-4545-8fd5-960b68d80181",
+              "new": true
             }
           ]
         }
@@ -14694,6 +14712,15 @@
               "date": "2023-11-02 11:13",
               "number": 103,
               "bunnyId": "a8b74af6-2e54-46b0-b675-da2f12ebedcc",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #104",
+              "url": "https://sovietscloset.com/video/15098",
+              "id": 15098,
+              "date": "2023-11-03 12:10",
+              "number": 104,
+              "bunnyId": "a5709992-8f5d-4600-9432-6f4ec8891118",
               "new": true
             }
           ]

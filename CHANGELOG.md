@@ -1,5 +1,39 @@
 # Changelog
 
+## 2023-11-05T13:59:52Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15099` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3](https://sovietscloset.com/video/15099) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15097` [Left 4 Dead 2 - Versus #12](https://sovietscloset.com/video/15097) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15098` [Rimworld - The Pale Ones #104](https://sovietscloset.com/video/15098) (new)
+
 ## 2023-11-04T11:21:09Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
