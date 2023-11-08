@@ -1132,6 +1132,12 @@
             "date": "2023-11-01 19:33",
             "new": true,
             "useBunny": true
+          },
+          {
+            "id": 15101,
+            "date": "2023-11-06 19:32",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -10091,19 +10097,19 @@
           {
             "id": 15089,
             "date": "2023-10-30 11:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15095,
             "date": "2023-10-31 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15096,
             "date": "2023-10-31 20:27",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -10115,6 +10121,12 @@
           {
             "id": 15098,
             "date": "2023-11-03 12:10",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15100,
+            "date": "2023-11-07 11:07",
             "new": true,
             "useBunny": true
           }
@@ -14129,6 +14141,12 @@
           {
             "id": 15090,
             "date": "2023-10-29 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15102,
+            "date": "2023-11-05 19:59",
             "new": true,
             "useBunny": true
           }
