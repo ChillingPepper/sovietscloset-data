@@ -1,5 +1,68 @@
 # Changelog
 
+## 2023-11-10T21:33:01Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Modified `v15099` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3](https://sovietscloset.com/video/15099)
+  - Is no longer marked as new.
+
+### Modified Game [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15104` [Deep Rock Galactic #13](https://sovietscloset.com/video/15104) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15093` [Holdfast: Nations at War #176](https://sovietscloset.com/video/15093)
+  - Is no longer marked as new.
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15097` [Left 4 Dead 2 - Versus #12](https://sovietscloset.com/video/15097)
+  - Is no longer marked as new.
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v15094` [Rimworld - The Pale Ones #103](https://sovietscloset.com/video/15094)
+  - Is no longer marked as new.
+- Modified `v15098` [Rimworld - The Pale Ones #104](https://sovietscloset.com/video/15098)
+  - Is no longer marked as new.
+- Added `v15105` [Rimworld - The Pale Ones #106](https://sovietscloset.com/video/15105) (new)
+- Added `v15106` [Rimworld - The Pale Ones #107](https://sovietscloset.com/video/15106) (new)
+- Added `v15103` [Rimworld - The Pale Ones #108](https://sovietscloset.com/video/15103) (new)
+
 ## 2023-11-08T17:44:45Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

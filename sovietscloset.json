@@ -1,5 +1,5 @@
 {
-  "timestamp": 1699465485,
+  "timestamp": 1699651981,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1667,7 +1667,7 @@
               "date": "2023-11-01 19:33",
               "number": 3,
               "bunnyId": "abf70103-87c2-4bdd-9d58-a8375a7dbdb9",
-              "new": true
+              "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #4",
@@ -3656,7 +3656,7 @@
       "name": "Deep Rock Galactic",
       "slug": "Deep-Rock-Galactic",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Deep Rock Galactic",
@@ -3664,7 +3664,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Deep Rock Galactic #1",
@@ -3773,6 +3773,15 @@
               "number": 12,
               "bunnyId": "74757ecc-ba17-4fba-a303-ef59cac167b8",
               "new": false
+            },
+            {
+              "title": "Deep Rock Galactic #13",
+              "url": "https://sovietscloset.com/video/15104",
+              "id": 15104,
+              "date": "2023-11-08 20:12",
+              "number": 13,
+              "bunnyId": "d45ad813-bfa1-4f45-9e2b-82bbe462acc1",
+              "new": true
             }
           ]
         }
@@ -6297,7 +6306,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6305,7 +6314,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7880,7 +7889,7 @@
               "date": "2023-11-02 20:57",
               "number": 176,
               "bunnyId": "834c1476-fb68-4ed7-80ac-0fba004faffb",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9180,7 +9189,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9271,7 +9280,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9379,7 +9388,7 @@
               "date": "2023-11-03 19:59",
               "number": 12,
               "bunnyId": "c8730f29-8920-4545-8fd5-960b68d80181",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -14721,7 +14730,7 @@
               "date": "2023-11-02 11:13",
               "number": 103,
               "bunnyId": "a8b74af6-2e54-46b0-b675-da2f12ebedcc",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #104",
@@ -14730,7 +14739,7 @@
               "date": "2023-11-03 12:10",
               "number": 104,
               "bunnyId": "a5709992-8f5d-4600-9432-6f4ec8891118",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #105",
@@ -14739,6 +14748,33 @@
               "date": "2023-11-07 11:07",
               "number": 105,
               "bunnyId": "e284a49d-7207-4529-bd84-1538d6d843f2",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #106",
+              "url": "https://sovietscloset.com/video/15105",
+              "id": 15105,
+              "date": "2023-11-07 20:13",
+              "number": 106,
+              "bunnyId": "c70090ed-fa38-4036-9851-9e2ad539392f",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #107",
+              "url": "https://sovietscloset.com/video/15106",
+              "id": 15106,
+              "date": "2023-11-08 11:06",
+              "number": 107,
+              "bunnyId": "795ac9d3-734e-46e1-9b66-d4784f2909e5",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #108",
+              "url": "https://sovietscloset.com/video/15103",
+              "id": 15103,
+              "date": "2023-11-09 11:14",
+              "number": 108,
+              "bunnyId": "bed45524-ceb7-45da-ba0c-585c77232e98",
               "new": true
             }
           ]
