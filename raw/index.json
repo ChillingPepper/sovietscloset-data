@@ -1130,7 +1130,7 @@
           {
             "id": 15099,
             "date": "2023-11-01 19:33",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -2518,7 +2518,7 @@
     "name": "Deep Rock Galactic",
     "slug": "Deep-Rock-Galactic",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1050,
@@ -2596,10 +2596,16 @@
             "date": "2020-10-24 20:03",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15104,
+            "date": "2023-11-08 20:12",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -4372,7 +4378,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -5426,12 +5432,12 @@
           {
             "id": 15093,
             "date": "2023-11-02 20:57",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6322,7 +6328,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6068,
@@ -6458,12 +6464,12 @@
           {
             "id": 15097,
             "date": "2023-11-03 19:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -10115,18 +10121,36 @@
           {
             "id": 15094,
             "date": "2023-11-02 11:13",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15098,
             "date": "2023-11-03 12:10",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15100,
             "date": "2023-11-07 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15105,
+            "date": "2023-11-07 20:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15106,
+            "date": "2023-11-08 11:06",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15103,
+            "date": "2023-11-09 11:14",
             "new": true,
             "useBunny": true
           }
