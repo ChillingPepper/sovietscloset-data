@@ -1,5 +1,19 @@
 # Changelog
 
+## 2023-11-12T18:41:44Z
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15107` [Left 4 Dead 2 - Versus #13](https://sovietscloset.com/video/15107) (new)
+
 ## 2023-11-10T21:33:01Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
