@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9117,
@@ -1136,12 +1136,12 @@
           {
             "id": 15101,
             "date": "2023-11-06 19:32",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -10139,7 +10139,7 @@
           {
             "id": 15100,
             "date": "2023-11-07 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
@@ -10157,6 +10157,12 @@
           {
             "id": 15103,
             "date": "2023-11-09 11:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15108,
+            "date": "2023-11-13 11:12",
             "new": true,
             "useBunny": true
           }
@@ -14177,6 +14183,12 @@
           {
             "id": 15102,
             "date": "2023-11-05 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15109,
+            "date": "2023-11-12 19:59",
             "new": true,
             "useBunny": true
           }
