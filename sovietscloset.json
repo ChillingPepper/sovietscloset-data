@@ -1,5 +1,5 @@
 {
-  "timestamp": 1699814504,
+  "timestamp": 1699987930,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1676,7 +1676,7 @@
               "date": "2023-11-06 19:32",
               "number": 4,
               "bunnyId": "947fd189-29f8-453d-afbc-00285249975b",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -14757,7 +14757,7 @@
               "date": "2023-11-07 11:07",
               "number": 105,
               "bunnyId": "e284a49d-7207-4529-bd84-1538d6d843f2",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #106",
@@ -14784,6 +14784,15 @@
               "date": "2023-11-09 11:14",
               "number": 108,
               "bunnyId": "bed45524-ceb7-45da-ba0c-585c77232e98",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #109",
+              "url": "https://sovietscloset.com/video/15108",
+              "id": 15108,
+              "date": "2023-11-13 11:12",
+              "number": 109,
+              "bunnyId": "f4cb54e2-517f-427d-b787-f7c20642decf",
               "new": true
             }
           ]
@@ -20702,6 +20711,15 @@
               "date": "2023-11-05 19:59",
               "number": 166,
               "bunnyId": "78922086-19a4-42e2-81be-cf123b8a8f10",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #167",
+              "url": "https://sovietscloset.com/video/15109",
+              "id": 15109,
+              "date": "2023-11-12 19:59",
+              "number": 167,
+              "bunnyId": "ddb64379-649d-4bf6-a5b0-4fbbfa38d534",
               "new": true
             }
           ]
