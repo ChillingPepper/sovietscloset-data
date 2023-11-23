@@ -1,5 +1,93 @@
 # Changelog
 
+## 2023-11-23T18:04:32Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15115` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #5](https://sovietscloset.com/video/15115)
+- Added `v15114` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #6](https://sovietscloset.com/video/15114) (new)
+
+### Modified Game [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Deep Rock Galactic](https://sovietscloset.com/Deep-Rock-Galactic)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15104` [Deep Rock Galactic #13](https://sovietscloset.com/video/15104)
+  - Is no longer marked as new.
+- Added `v15125` [Deep Rock Galactic #14](https://sovietscloset.com/video/15125)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15117` [Holdfast: Nations at War #177](https://sovietscloset.com/video/15117) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Modified `v15107` [Left 4 Dead 2 - Versus #13](https://sovietscloset.com/video/15107)
+  - Is no longer marked as new.
+- Added `v15112` [Left 4 Dead 2 - Versus #14](https://sovietscloset.com/video/15112) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v15105` [Rimworld - The Pale Ones #106](https://sovietscloset.com/video/15105)
+  - Is no longer marked as new.
+- Modified `v15106` [Rimworld - The Pale Ones #107](https://sovietscloset.com/video/15106)
+  - Is no longer marked as new.
+- Modified `v15103` [Rimworld - The Pale Ones #108](https://sovietscloset.com/video/15103)
+  - Is no longer marked as new.
+- Added `v15120` [Rimworld - The Pale Ones #109](https://sovietscloset.com/video/15120)
+- Modified `v15108` [Rimworld - The Pale Ones #110](https://sovietscloset.com/video/15108)
+  - Changed title from `Rimworld - The Pale Ones #109` to `Rimworld - The Pale Ones #110`
+  - Changed number from `109` to `110`
+  - Is no longer marked as new.
+- Added `v15118` [Rimworld - The Pale Ones #111](https://sovietscloset.com/video/15118)
+- Added `v15122` [Rimworld - The Pale Ones #112](https://sovietscloset.com/video/15122)
+- Added `v15121` [Rimworld - The Pale Ones #113](https://sovietscloset.com/video/15121)
+- Added `v15119` [Rimworld - The Pale Ones #114](https://sovietscloset.com/video/15119)
+- Added `v15113` [Rimworld - The Pale Ones #115](https://sovietscloset.com/video/15113) (new)
+- Added `v15110` [Rimworld - The Pale Ones #116](https://sovietscloset.com/video/15110) (new)
+- Added `v15116` [Rimworld - The Pale Ones #117](https://sovietscloset.com/video/15116) (new)
+- Added `v15124` [Rimworld - The Pale Ones #118](https://sovietscloset.com/video/15124) (new)
+- Added `v15123` [Rimworld - The Pale Ones #119](https://sovietscloset.com/video/15123) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Modified `v15109` [Team Fortress 2 #167](https://sovietscloset.com/video/15109)
+  - Is no longer marked as new.
+- Added `v15111` [Team Fortress 2 #168](https://sovietscloset.com/video/15111) (new)
+
 ## 2023-11-14T18:52:10Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
