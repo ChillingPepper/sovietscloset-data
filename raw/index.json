@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9117,
@@ -1138,10 +1138,22 @@
             "date": "2023-11-06 19:32",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15115,
+            "date": "2023-11-13 19:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15114,
+            "date": "2023-11-20 19:32",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -2518,7 +2530,7 @@
     "name": "Deep Rock Galactic",
     "slug": "Deep-Rock-Galactic",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1050,
@@ -2600,12 +2612,18 @@
           {
             "id": 15104,
             "date": "2023-11-08 20:12",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15125,
+            "date": "2023-11-15 20:01",
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4378,7 +4396,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1006,
@@ -5434,10 +5452,16 @@
             "date": "2023-11-02 20:57",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15117,
+            "date": "2023-11-16 20:55",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6470,6 +6494,12 @@
           {
             "id": 15107,
             "date": "2023-11-10 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15112,
+            "date": "2023-11-17 19:58",
             "new": true,
             "useBunny": true
           }
@@ -10145,24 +10175,84 @@
           {
             "id": 15105,
             "date": "2023-11-07 20:13",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15106,
             "date": "2023-11-08 11:06",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15103,
             "date": "2023-11-09 11:14",
-            "new": true,
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15120,
+            "date": "2023-11-10 11:07",
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15108,
             "date": "2023-11-13 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15118,
+            "date": "2023-11-14 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15122,
+            "date": "2023-11-14 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15121,
+            "date": "2023-11-15 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15119,
+            "date": "2023-11-16 11:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15113,
+            "date": "2023-11-17 11:21",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15110,
+            "date": "2023-11-20 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15116,
+            "date": "2023-11-21 11:14",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15124,
+            "date": "2023-11-21 20:13",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15123,
+            "date": "2023-11-22 11:11",
             "new": true,
             "useBunny": true
           }
@@ -14189,6 +14279,12 @@
           {
             "id": 15109,
             "date": "2023-11-12 19:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15111,
+            "date": "2023-11-19 20:04",
             "new": true,
             "useBunny": true
           }

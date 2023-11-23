@@ -1,0 +1,74 @@
+{
+  "streamId": 15125,
+  "date": "2023-11-15 20:01",
+  "game": {
+    "name": "Deep Rock Galactic",
+    "slug": "Deep-Rock-Galactic"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 9023,
+        "date": "2019-03-16 19:58"
+      },
+      {
+        "streamId": 9024,
+        "date": "2019-03-17 19:55"
+      },
+      {
+        "streamId": 9021,
+        "date": "2019-03-21 20:11"
+      },
+      {
+        "streamId": 9022,
+        "date": "2019-04-22 20:27"
+      },
+      {
+        "streamId": 9025,
+        "date": "2019-04-23 20:05"
+      },
+      {
+        "streamId": 9026,
+        "date": "2019-04-26 20:04"
+      },
+      {
+        "streamId": 9027,
+        "date": "2019-04-30 19:59"
+      },
+      {
+        "streamId": 9028,
+        "date": "2019-05-19 19:55"
+      },
+      {
+        "streamId": 9029,
+        "date": "2020-06-03 20:03"
+      },
+      {
+        "streamId": 9030,
+        "date": "2020-06-10 20:00"
+      },
+      {
+        "streamId": 9020,
+        "date": "2020-06-17 20:01"
+      },
+      {
+        "streamId": 1516,
+        "date": "2020-10-24 20:03"
+      },
+      {
+        "streamId": 15104,
+        "date": "2023-11-08 20:12"
+      },
+      {
+        "streamId": 15125,
+        "date": "2023-11-15 20:01"
+      }
+    ]
+  },
+  "number": 14,
+  "bunnyId": "fcfa5a23-681e-4a52-bb82-8c884fa608f5",
+  "useBunny": true
+}
