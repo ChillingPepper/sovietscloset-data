@@ -1148,6 +1148,18 @@
           {
             "id": 15114,
             "date": "2023-11-20 19:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15126,
+            "date": "2023-11-22 19:30",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15134,
+            "date": "2023-11-27 19:30",
             "new": true,
             "useBunny": true
           }
@@ -2632,7 +2644,7 @@
     "name": "Divinity: Original Sin 2",
     "slug": "Divinity-Original-Sin-2",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1037,
@@ -3214,10 +3226,16 @@
             "date": "2022-05-26 11:10",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15133,
+            "date": "2023-11-28 11:33",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -5454,8 +5472,20 @@
             "useBunny": true
           },
           {
+            "id": 15128,
+            "date": "2023-11-09 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15117,
             "date": "2023-11-16 20:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15127,
+            "date": "2023-11-23 20:53",
             "new": true,
             "useBunny": true
           }
@@ -6500,6 +6530,12 @@
           {
             "id": 15112,
             "date": "2023-11-17 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15132,
+            "date": "2023-11-24 19:56",
             "new": true,
             "useBunny": true
           }
@@ -10229,30 +10265,42 @@
           {
             "id": 15113,
             "date": "2023-11-17 11:21",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15110,
             "date": "2023-11-20 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15116,
             "date": "2023-11-21 11:14",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15124,
             "date": "2023-11-21 20:13",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15123,
             "date": "2023-11-22 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15130,
+            "date": "2023-11-23 11:02",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15129,
+            "date": "2023-11-24 11:08",
             "new": true,
             "useBunny": true
           }
@@ -14285,6 +14333,12 @@
           {
             "id": 15111,
             "date": "2023-11-19 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15131,
+            "date": "2023-11-26 20:08",
             "new": true,
             "useBunny": true
           }
