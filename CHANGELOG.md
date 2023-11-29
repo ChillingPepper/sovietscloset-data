@@ -1,5 +1,82 @@
 # Changelog
 
+## 2023-11-29T19:30:10Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Modified `v15114` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #6](https://sovietscloset.com/video/15114)
+  - Is no longer marked as new.
+- Added `v15126` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #7](https://sovietscloset.com/video/15126) (new)
+- Added `v15134` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8](https://sovietscloset.com/video/15134) (new)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15133` [Divinity: Original Sin 2 - Audio gathering solo play #11](https://sovietscloset.com/video/15133) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15128` [Holdfast: Nations at War #177](https://sovietscloset.com/video/15128)
+- Modified `v15117` [Holdfast: Nations at War #178](https://sovietscloset.com/video/15117)
+  - Changed title from `Holdfast: Nations at War #177` to `Holdfast: Nations at War #178`
+  - Changed number from `177` to `178`
+  - Is no longer marked as new.
+- Added `v15127` [Holdfast: Nations at War #179](https://sovietscloset.com/video/15127) (new)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Modified `v15112` [Left 4 Dead 2 - Versus #14](https://sovietscloset.com/video/15112)
+  - Is no longer marked as new.
+- Added `v15132` [Left 4 Dead 2 - Versus #15](https://sovietscloset.com/video/15132) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Modified `v15113` [Rimworld - The Pale Ones #115](https://sovietscloset.com/video/15113)
+  - Is no longer marked as new.
+- Modified `v15110` [Rimworld - The Pale Ones #116](https://sovietscloset.com/video/15110)
+  - Is no longer marked as new.
+- Modified `v15116` [Rimworld - The Pale Ones #117](https://sovietscloset.com/video/15116)
+  - Is no longer marked as new.
+- Modified `v15124` [Rimworld - The Pale Ones #118](https://sovietscloset.com/video/15124)
+  - Is no longer marked as new.
+- Modified `v15123` [Rimworld - The Pale Ones #119](https://sovietscloset.com/video/15123)
+  - Is no longer marked as new.
+- Added `v15130` [Rimworld - The Pale Ones #120](https://sovietscloset.com/video/15130) (new)
+- Added `v15129` [Rimworld - The Pale Ones #121](https://sovietscloset.com/video/15129) (new)
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Modified `v15111` [Team Fortress 2 #168](https://sovietscloset.com/video/15111)
+  - Is no longer marked as new.
+- Added `v15131` [Team Fortress 2 #169](https://sovietscloset.com/video/15131) (new)
+
 ## 2023-11-23T18:04:32Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

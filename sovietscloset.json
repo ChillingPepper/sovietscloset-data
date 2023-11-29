@@ -1,5 +1,5 @@
 {
-  "timestamp": 1700762672,
+  "timestamp": 1701286210,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1694,6 +1694,24 @@
               "date": "2023-11-20 19:32",
               "number": 6,
               "bunnyId": "d3bf59f5-2f28-4997-8c2e-59a4c8edf8df",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #7",
+              "url": "https://sovietscloset.com/video/15126",
+              "id": 15126,
+              "date": "2023-11-22 19:30",
+              "number": 7,
+              "bunnyId": "ba55f7f1-649f-4b69-804f-f11f0f15ec5e",
+              "new": true
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8",
+              "url": "https://sovietscloset.com/video/15134",
+              "id": 15134,
+              "date": "2023-11-27 19:30",
+              "number": 8,
+              "bunnyId": "80401005-bfdd-49b9-9885-e53da89557db",
               "new": true
             }
           ]
@@ -3820,7 +3838,7 @@
       "name": "Divinity: Original Sin 2",
       "slug": "Divinity-Original-Sin-2",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Divinity: Original Sin 2 - First Playthrough",
@@ -4595,7 +4613,7 @@
           "name": "Audio gathering solo play",
           "slug": "Audio-gathering-solo-play",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Divinity: Original Sin 2 - Audio gathering solo play #1",
@@ -4686,6 +4704,15 @@
               "number": 10,
               "bunnyId": "470c6202-8891-468a-847e-3c0d329b419d",
               "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #11",
+              "url": "https://sovietscloset.com/video/15133",
+              "id": 15133,
+              "date": "2023-11-28 11:33",
+              "number": 11,
+              "bunnyId": "c3b8b1c8-5c2f-4568-b5be-49ce56b98710",
+              "new": true
             }
           ]
         }
@@ -7920,11 +7947,29 @@
             },
             {
               "title": "Holdfast: Nations at War #177",
+              "url": "https://sovietscloset.com/video/15128",
+              "id": 15128,
+              "date": "2023-11-09 20:52",
+              "number": 177,
+              "bunnyId": "a7d425ab-a5d9-47b1-bfad-dd0f04f45495",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #178",
               "url": "https://sovietscloset.com/video/15117",
               "id": 15117,
               "date": "2023-11-16 20:55",
-              "number": 177,
+              "number": 178,
               "bunnyId": "b04bca1a-3824-4629-8abe-ff3c55d71087",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #179",
+              "url": "https://sovietscloset.com/video/15127",
+              "id": 15127,
+              "date": "2023-11-23 20:53",
+              "number": 179,
+              "bunnyId": "4ff34663-d1a4-406a-a431-e43dffc2e813",
               "new": true
             }
           ]
@@ -9442,6 +9487,15 @@
               "date": "2023-11-17 19:58",
               "number": 14,
               "bunnyId": "426043b4-b5cd-4010-9882-b3c17f43b33a",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #15",
+              "url": "https://sovietscloset.com/video/15132",
+              "id": 15132,
+              "date": "2023-11-24 19:56",
+              "number": 15,
+              "bunnyId": "995430fe-0078-4715-8a13-f7c3e2230d8d",
               "new": true
             }
           ]
@@ -14892,7 +14946,7 @@
               "date": "2023-11-17 11:21",
               "number": 115,
               "bunnyId": "98722264-c913-43cd-981e-8025772ebbcc",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #116",
@@ -14901,7 +14955,7 @@
               "date": "2023-11-20 11:07",
               "number": 116,
               "bunnyId": "65244d06-83c5-458c-ae85-6707102eb061",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #117",
@@ -14910,7 +14964,7 @@
               "date": "2023-11-21 11:14",
               "number": 117,
               "bunnyId": "9575c5b4-15f8-410d-8a6b-2166258ed489",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #118",
@@ -14919,7 +14973,7 @@
               "date": "2023-11-21 20:13",
               "number": 118,
               "bunnyId": "44e0577d-4560-417b-b38d-1a8da3aad71a",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #119",
@@ -14928,6 +14982,24 @@
               "date": "2023-11-22 11:11",
               "number": 119,
               "bunnyId": "c465c890-4292-4abb-9b86-27b973f3b8d4",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #120",
+              "url": "https://sovietscloset.com/video/15130",
+              "id": 15130,
+              "date": "2023-11-23 11:02",
+              "number": 120,
+              "bunnyId": "3411f8fb-567d-4841-bb5a-44420b089618",
+              "new": true
+            },
+            {
+              "title": "Rimworld - The Pale Ones #121",
+              "url": "https://sovietscloset.com/video/15129",
+              "id": 15129,
+              "date": "2023-11-24 11:08",
+              "number": 121,
+              "bunnyId": "a2695766-8a72-4e86-8a79-db23affe1abb",
               "new": true
             }
           ]
@@ -20864,6 +20936,15 @@
               "date": "2023-11-19 20:04",
               "number": 168,
               "bunnyId": "3e9300a2-a9e0-4452-bc36-9d9f005fabdc",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #169",
+              "url": "https://sovietscloset.com/video/15131",
+              "id": 15131,
+              "date": "2023-11-26 20:08",
+              "number": 169,
+              "bunnyId": "63a0c18f-09c8-4c40-a854-cee10f9441dd",
               "new": true
             }
           ]
