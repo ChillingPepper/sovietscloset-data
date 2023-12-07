@@ -1122,8 +1122,38 @@
             "useBunny": true
           },
           {
+            "id": 15136,
+            "date": "2023-10-02 19:29",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15137,
+            "date": "2023-10-09 19:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15080,
             "date": "2023-10-16 19:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15142,
+            "date": "2023-10-23 19:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15138,
+            "date": "2023-10-25 19:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15139,
+            "date": "2023-10-30 19:33",
             "new": false,
             "useBunny": true
           },
@@ -1146,6 +1176,12 @@
             "useBunny": true
           },
           {
+            "id": 15135,
+            "date": "2023-11-13 19:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15114,
             "date": "2023-11-20 19:32",
             "new": false,
@@ -1154,12 +1190,24 @@
           {
             "id": 15126,
             "date": "2023-11-22 19:30",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15134,
             "date": "2023-11-27 19:30",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15141,
+            "date": "2023-11-29 19:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15140,
+            "date": "2023-12-04 19:29",
             "new": true,
             "useBunny": true
           }
@@ -2644,7 +2692,7 @@
     "name": "Divinity: Original Sin 2",
     "slug": "Divinity-Original-Sin-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1037,
@@ -3230,12 +3278,12 @@
           {
             "id": 15133,
             "date": "2023-11-28 11:33",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -4414,7 +4462,7 @@
     "name": "Holdfast: Nations at War",
     "slug": "Holdfast-Nations-at-War",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1006,
@@ -5466,7 +5514,31 @@
             "useBunny": true
           },
           {
+            "id": 15147,
+            "date": "2023-10-12 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15144,
+            "date": "2023-10-19 20:50",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15146,
+            "date": "2023-10-26 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15093,
+            "date": "2023-11-02 20:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15145,
             "date": "2023-11-02 20:57",
             "new": false,
             "useBunny": true
@@ -5486,12 +5558,12 @@
           {
             "id": 15127,
             "date": "2023-11-23 20:53",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6382,7 +6454,7 @@
     "name": "Left 4 Dead 2",
     "slug": "Left-4-Dead-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 6068,
@@ -6536,12 +6608,12 @@
           {
             "id": 15132,
             "date": "2023-11-24 19:56",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -8407,7 +8479,7 @@
     "name": "Rimworld",
     "slug": "Rimworld",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1004,
@@ -10295,18 +10367,18 @@
           {
             "id": 15130,
             "date": "2023-11-23 11:02",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15129,
             "date": "2023-11-24 11:08",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -13339,7 +13411,7 @@
     "name": "Team Fortress 2",
     "slug": "Team-Fortress-2",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1035,
@@ -14307,6 +14379,12 @@
             "useBunny": true
           },
           {
+            "id": 15143,
+            "date": "2023-10-08 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15081,
             "date": "2023-10-15 20:02",
             "new": false,
@@ -14339,12 +14417,12 @@
           {
             "id": 15131,
             "date": "2023-11-26 20:08",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },

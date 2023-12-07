@@ -1,0 +1,82 @@
+{
+  "streamId": 15138,
+  "date": "2023-10-25 19:30",
+  "game": {
+    "name": "Baldur's Gate 3",
+    "slug": "Baldur-s-Gate-3"
+  },
+  "subcategory": {
+    "name": "First playthrough - Soviet, Quebec, Social and Digby",
+    "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15036,
+        "date": "2023-09-25 19:27"
+      },
+      {
+        "streamId": 15136,
+        "date": "2023-10-02 19:29"
+      },
+      {
+        "streamId": 15137,
+        "date": "2023-10-09 19:31"
+      },
+      {
+        "streamId": 15080,
+        "date": "2023-10-16 19:32"
+      },
+      {
+        "streamId": 15142,
+        "date": "2023-10-23 19:27"
+      },
+      {
+        "streamId": 15138,
+        "date": "2023-10-25 19:30"
+      },
+      {
+        "streamId": 15139,
+        "date": "2023-10-30 19:33"
+      },
+      {
+        "streamId": 15099,
+        "date": "2023-11-01 19:33"
+      },
+      {
+        "streamId": 15101,
+        "date": "2023-11-06 19:32"
+      },
+      {
+        "streamId": 15115,
+        "date": "2023-11-13 19:33"
+      },
+      {
+        "streamId": 15135,
+        "date": "2023-11-13 19:33"
+      },
+      {
+        "streamId": 15114,
+        "date": "2023-11-20 19:32"
+      },
+      {
+        "streamId": 15126,
+        "date": "2023-11-22 19:30"
+      },
+      {
+        "streamId": 15134,
+        "date": "2023-11-27 19:30"
+      },
+      {
+        "streamId": 15141,
+        "date": "2023-11-29 19:34"
+      },
+      {
+        "streamId": 15140,
+        "date": "2023-12-04 19:29"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "b67922d3-eeb2-4822-9fc4-1943bbc9a147",
+  "useBunny": true
+}
