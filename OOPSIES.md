@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-11-29T19:30:10Z.
+Last updated at 2023-12-07T11:20:07Z.
 
 ## Wrong Tags
 
@@ -35,6 +35,8 @@ Missing videos are only detected if they are followed by a video that is already
   - 7 Days to Die #34
   - 7 Days to Die #36
   - 7 Days to Die #38
+- [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+  - Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #10
 - [Blackwake](https://sovietscloset.com/Blackwake)
   - Blackwake #14
 - [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
@@ -94,6 +96,7 @@ Missing videos are only detected if they are followed by a video that is already
   - Holdfast: Nations at War #135
   - Holdfast: Nations at War #137
   - Holdfast: Nations at War #139
+  - Holdfast: Nations at War #179
 - [Just Chatting](https://sovietscloset.com/Just-Chatting)
   - Just Chatting #16
 - [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
@@ -557,6 +560,12 @@ This list includes all videos that have the same date.
 - Date: 2023-05-16 20:00
   - [Just Chatting #17](https://sovietscloset.com/video/14821) (id: 14821)
   - [Just Chatting #17](https://sovietscloset.com/video/14894) (id: 14894)
+- Date: 2023-11-02 20:57
+  - [Holdfast: Nations at War #180](https://sovietscloset.com/video/15093) (id: 15093)
+  - [Holdfast: Nations at War #180](https://sovietscloset.com/video/15145) (id: 15145)
+- Date: 2023-11-13 19:33
+  - [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15115) (id: 15115)
+  - [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15135) (id: 15135)
 
 ### Dupes by Number
 
@@ -600,6 +609,8 @@ This list includes all videos that have the same number.
   - [VR Pavlov #10](https://sovietscloset.com/video/1795) (id: 1795)
   - [VR Pavlov #10](https://sovietscloset.com/video/1806) (id: 1806)
 - Number: 11
+  - [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15115) (id: 15115)
+  - [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15135) (id: 15135)
   - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1602) (id: 1602)
   - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/1694) (id: 1694)
   - [Rising Storm 2: Vietnam #11](https://sovietscloset.com/video/4688) (id: 4688)
@@ -856,6 +867,9 @@ This list includes all videos that have the same number.
 - Number: 140
   - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14615) (id: 14615)
   - [Holdfast: Nations at War #140](https://sovietscloset.com/video/14618) (id: 14618)
+- Number: 180
+  - [Holdfast: Nations at War #180](https://sovietscloset.com/video/15093) (id: 15093)
+  - [Holdfast: Nations at War #180](https://sovietscloset.com/video/15145) (id: 15145)
 
 ### Dupes by BunnyCDN ID
 

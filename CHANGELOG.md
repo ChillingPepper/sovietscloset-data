@@ -1,5 +1,145 @@
 # Changelog
 
+## 2023-12-07T11:20:07Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15136` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2](https://sovietscloset.com/video/15136)
+- Added `v15137` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3](https://sovietscloset.com/video/15137)
+- Modified `v15080` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #4](https://sovietscloset.com/video/15080)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #4`
+  - Changed number from `2` to `4`
+- Added `v15142` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #5](https://sovietscloset.com/video/15142)
+- Added `v15138` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #6](https://sovietscloset.com/video/15138)
+- Added `v15139` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #7](https://sovietscloset.com/video/15139)
+- Modified `v15099` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8](https://sovietscloset.com/video/15099)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8`
+  - Changed number from `3` to `8`
+- Modified `v15101` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #9](https://sovietscloset.com/video/15101)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #4` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #9`
+  - Changed number from `4` to `9`
+- Added `v15135` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15135)
+- Modified `v15115` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11](https://sovietscloset.com/video/15115)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #5` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11`
+  - Changed number from `5` to `11`
+- Modified `v15114` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #12](https://sovietscloset.com/video/15114)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #6` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #12`
+  - Changed number from `6` to `12`
+- Modified `v15126` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #13](https://sovietscloset.com/video/15126)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #7` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #13`
+  - Changed number from `7` to `13`
+  - Is no longer marked as new.
+- Modified `v15134` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #14](https://sovietscloset.com/video/15134)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #14`
+  - Changed number from `8` to `14`
+  - Is no longer marked as new.
+- Added `v15141` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #15](https://sovietscloset.com/video/15141)
+- Added `v15140` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #16](https://sovietscloset.com/video/15140) (new)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15133` [Divinity: Original Sin 2 - Audio gathering solo play #11](https://sovietscloset.com/video/15133)
+  - Is no longer marked as new.
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v15147` [Holdfast: Nations at War #176](https://sovietscloset.com/video/15147)
+- Added `v15144` [Holdfast: Nations at War #177](https://sovietscloset.com/video/15144)
+- Added `v15146` [Holdfast: Nations at War #178](https://sovietscloset.com/video/15146)
+- Added `v15145` [Holdfast: Nations at War #180](https://sovietscloset.com/video/15145)
+- Modified `v15093` [Holdfast: Nations at War #180](https://sovietscloset.com/video/15093)
+  - Changed title from `Holdfast: Nations at War #176` to `Holdfast: Nations at War #180`
+  - Changed number from `176` to `180`
+- Modified `v15128` [Holdfast: Nations at War #181](https://sovietscloset.com/video/15128)
+  - Changed title from `Holdfast: Nations at War #177` to `Holdfast: Nations at War #181`
+  - Changed number from `177` to `181`
+- Modified `v15117` [Holdfast: Nations at War #182](https://sovietscloset.com/video/15117)
+  - Changed title from `Holdfast: Nations at War #178` to `Holdfast: Nations at War #182`
+  - Changed number from `178` to `182`
+- Modified `v15127` [Holdfast: Nations at War #183](https://sovietscloset.com/video/15127)
+  - Changed title from `Holdfast: Nations at War #179` to `Holdfast: Nations at War #183`
+  - Changed number from `179` to `183`
+  - Is no longer marked as new.
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15132` [Left 4 Dead 2 - Versus #15](https://sovietscloset.com/video/15132)
+  - Is no longer marked as new.
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15130` [Rimworld - The Pale Ones #120](https://sovietscloset.com/video/15130)
+  - Is no longer marked as new.
+- Modified `v15129` [Rimworld - The Pale Ones #121](https://sovietscloset.com/video/15129)
+  - Is no longer marked as new.
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Added `v15143` [Team Fortress 2 #164](https://sovietscloset.com/video/15143)
+- Modified `v15081` [Team Fortress 2 #165](https://sovietscloset.com/video/15081)
+  - Changed title from `Team Fortress 2 #164` to `Team Fortress 2 #165`
+  - Changed number from `164` to `165`
+- Modified `v15090` [Team Fortress 2 #166](https://sovietscloset.com/video/15090)
+  - Changed title from `Team Fortress 2 #165` to `Team Fortress 2 #166`
+  - Changed number from `165` to `166`
+- Modified `v15102` [Team Fortress 2 #167](https://sovietscloset.com/video/15102)
+  - Changed title from `Team Fortress 2 #166` to `Team Fortress 2 #167`
+  - Changed number from `166` to `167`
+- Modified `v15109` [Team Fortress 2 #168](https://sovietscloset.com/video/15109)
+  - Changed title from `Team Fortress 2 #167` to `Team Fortress 2 #168`
+  - Changed number from `167` to `168`
+- Modified `v15111` [Team Fortress 2 #169](https://sovietscloset.com/video/15111)
+  - Changed title from `Team Fortress 2 #168` to `Team Fortress 2 #169`
+  - Changed number from `168` to `169`
+- Modified `v15131` [Team Fortress 2 #170](https://sovietscloset.com/video/15131)
+  - Changed title from `Team Fortress 2 #169` to `Team Fortress 2 #170`
+  - Changed number from `169` to `170`
+  - Is no longer marked as new.
+
 ## 2023-11-29T19:30:10Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

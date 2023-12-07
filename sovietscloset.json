@@ -1,5 +1,5 @@
 {
-  "timestamp": 1701286210,
+  "timestamp": 1701948007,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1653,65 +1653,137 @@
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #2",
-              "url": "https://sovietscloset.com/video/15080",
-              "id": 15080,
-              "date": "2023-10-16 19:32",
+              "url": "https://sovietscloset.com/video/15136",
+              "id": 15136,
+              "date": "2023-10-02 19:29",
               "number": 2,
-              "bunnyId": "52edd975-f1bf-419f-b0b8-aca551bafd6c",
+              "bunnyId": "d69b1b7a-5868-4d16-96d0-8b5ea9bb3d97",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #3",
-              "url": "https://sovietscloset.com/video/15099",
-              "id": 15099,
-              "date": "2023-11-01 19:33",
+              "url": "https://sovietscloset.com/video/15137",
+              "id": 15137,
+              "date": "2023-10-09 19:31",
               "number": 3,
-              "bunnyId": "abf70103-87c2-4bdd-9d58-a8375a7dbdb9",
+              "bunnyId": "aa0947aa-5ae3-46ec-a6c3-69072f625133",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #4",
-              "url": "https://sovietscloset.com/video/15101",
-              "id": 15101,
-              "date": "2023-11-06 19:32",
+              "url": "https://sovietscloset.com/video/15080",
+              "id": 15080,
+              "date": "2023-10-16 19:32",
               "number": 4,
-              "bunnyId": "947fd189-29f8-453d-afbc-00285249975b",
+              "bunnyId": "52edd975-f1bf-419f-b0b8-aca551bafd6c",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #5",
-              "url": "https://sovietscloset.com/video/15115",
-              "id": 15115,
-              "date": "2023-11-13 19:33",
+              "url": "https://sovietscloset.com/video/15142",
+              "id": 15142,
+              "date": "2023-10-23 19:27",
               "number": 5,
-              "bunnyId": "3df20c1a-2a0e-4f73-a0ba-193e054fb640",
+              "bunnyId": "97232d77-ffe1-409b-bc16-4669ce4b3379",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #6",
-              "url": "https://sovietscloset.com/video/15114",
-              "id": 15114,
-              "date": "2023-11-20 19:32",
+              "url": "https://sovietscloset.com/video/15138",
+              "id": 15138,
+              "date": "2023-10-25 19:30",
               "number": 6,
-              "bunnyId": "d3bf59f5-2f28-4997-8c2e-59a4c8edf8df",
+              "bunnyId": "b67922d3-eeb2-4822-9fc4-1943bbc9a147",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #7",
-              "url": "https://sovietscloset.com/video/15126",
-              "id": 15126,
-              "date": "2023-11-22 19:30",
+              "url": "https://sovietscloset.com/video/15139",
+              "id": 15139,
+              "date": "2023-10-30 19:33",
               "number": 7,
-              "bunnyId": "ba55f7f1-649f-4b69-804f-f11f0f15ec5e",
-              "new": true
+              "bunnyId": "b5ca7e7a-662c-4e1e-932f-ed105ef7710d",
+              "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #8",
+              "url": "https://sovietscloset.com/video/15099",
+              "id": 15099,
+              "date": "2023-11-01 19:33",
+              "number": 8,
+              "bunnyId": "abf70103-87c2-4bdd-9d58-a8375a7dbdb9",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #9",
+              "url": "https://sovietscloset.com/video/15101",
+              "id": 15101,
+              "date": "2023-11-06 19:32",
+              "number": 9,
+              "bunnyId": "947fd189-29f8-453d-afbc-00285249975b",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11",
+              "url": "https://sovietscloset.com/video/15115",
+              "id": 15115,
+              "date": "2023-11-13 19:33",
+              "number": 11,
+              "bunnyId": "3df20c1a-2a0e-4f73-a0ba-193e054fb640",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #11",
+              "url": "https://sovietscloset.com/video/15135",
+              "id": 15135,
+              "date": "2023-11-13 19:33",
+              "number": 11,
+              "bunnyId": "ec99912c-6402-4ba4-9c62-491c15a6c2c0",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #12",
+              "url": "https://sovietscloset.com/video/15114",
+              "id": 15114,
+              "date": "2023-11-20 19:32",
+              "number": 12,
+              "bunnyId": "d3bf59f5-2f28-4997-8c2e-59a4c8edf8df",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #13",
+              "url": "https://sovietscloset.com/video/15126",
+              "id": 15126,
+              "date": "2023-11-22 19:30",
+              "number": 13,
+              "bunnyId": "ba55f7f1-649f-4b69-804f-f11f0f15ec5e",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #14",
               "url": "https://sovietscloset.com/video/15134",
               "id": 15134,
               "date": "2023-11-27 19:30",
-              "number": 8,
+              "number": 14,
               "bunnyId": "80401005-bfdd-49b9-9885-e53da89557db",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #15",
+              "url": "https://sovietscloset.com/video/15141",
+              "id": 15141,
+              "date": "2023-11-29 19:34",
+              "number": 15,
+              "bunnyId": "118ced4a-4af4-428f-bad5-48fec46e0b82",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #16",
+              "url": "https://sovietscloset.com/video/15140",
+              "id": 15140,
+              "date": "2023-12-04 19:29",
+              "number": 16,
+              "bunnyId": "3b34830a-a145-43f5-ac7e-c3afa6a0c0d0",
               "new": true
             }
           ]
@@ -3838,7 +3910,7 @@
       "name": "Divinity: Original Sin 2",
       "slug": "Divinity-Original-Sin-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Divinity: Original Sin 2 - First Playthrough",
@@ -4613,7 +4685,7 @@
           "name": "Audio gathering solo play",
           "slug": "Audio-gathering-solo-play",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Divinity: Original Sin 2 - Audio gathering solo play #1",
@@ -4712,7 +4784,7 @@
               "date": "2023-11-28 11:33",
               "number": 11,
               "bunnyId": "c3b8b1c8-5c2f-4568-b5be-49ce56b98710",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -6360,7 +6432,7 @@
       "name": "Holdfast: Nations at War",
       "slug": "Holdfast-Nations-at-War",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Holdfast: Nations at War",
@@ -6368,7 +6440,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Holdfast: Nations at War #1",
@@ -7938,39 +8010,75 @@
             },
             {
               "title": "Holdfast: Nations at War #176",
-              "url": "https://sovietscloset.com/video/15093",
-              "id": 15093,
-              "date": "2023-11-02 20:57",
+              "url": "https://sovietscloset.com/video/15147",
+              "id": 15147,
+              "date": "2023-10-12 20:52",
               "number": 176,
-              "bunnyId": "834c1476-fb68-4ed7-80ac-0fba004faffb",
+              "bunnyId": "576a49de-877c-481c-87be-9e79dd5ac406",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #177",
-              "url": "https://sovietscloset.com/video/15128",
-              "id": 15128,
-              "date": "2023-11-09 20:52",
+              "url": "https://sovietscloset.com/video/15144",
+              "id": 15144,
+              "date": "2023-10-19 20:50",
               "number": 177,
-              "bunnyId": "a7d425ab-a5d9-47b1-bfad-dd0f04f45495",
+              "bunnyId": "be0afffe-c68b-4f54-9083-09a36fecf8f5",
               "new": false
             },
             {
               "title": "Holdfast: Nations at War #178",
+              "url": "https://sovietscloset.com/video/15146",
+              "id": 15146,
+              "date": "2023-10-26 20:49",
+              "number": 178,
+              "bunnyId": "9128b705-a6d6-479f-9725-921593889581",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #180",
+              "url": "https://sovietscloset.com/video/15093",
+              "id": 15093,
+              "date": "2023-11-02 20:57",
+              "number": 180,
+              "bunnyId": "834c1476-fb68-4ed7-80ac-0fba004faffb",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #180",
+              "url": "https://sovietscloset.com/video/15145",
+              "id": 15145,
+              "date": "2023-11-02 20:57",
+              "number": 180,
+              "bunnyId": "28c4dbec-6d81-46a0-b191-8a4b79d1f375",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #181",
+              "url": "https://sovietscloset.com/video/15128",
+              "id": 15128,
+              "date": "2023-11-09 20:52",
+              "number": 181,
+              "bunnyId": "a7d425ab-a5d9-47b1-bfad-dd0f04f45495",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #182",
               "url": "https://sovietscloset.com/video/15117",
               "id": 15117,
               "date": "2023-11-16 20:55",
-              "number": 178,
+              "number": 182,
               "bunnyId": "b04bca1a-3824-4629-8abe-ff3c55d71087",
               "new": false
             },
             {
-              "title": "Holdfast: Nations at War #179",
+              "title": "Holdfast: Nations at War #183",
               "url": "https://sovietscloset.com/video/15127",
               "id": 15127,
               "date": "2023-11-23 20:53",
-              "number": 179,
+              "number": 183,
               "bunnyId": "4ff34663-d1a4-406a-a431-e43dffc2e813",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -9270,7 +9378,7 @@
       "name": "Left 4 Dead 2",
       "slug": "Left-4-Dead-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Left 4 Dead 2",
@@ -9361,7 +9469,7 @@
           "name": "Versus",
           "slug": "Versus",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Left 4 Dead 2 - Versus #1",
@@ -9496,7 +9604,7 @@
               "date": "2023-11-24 19:56",
               "number": 15,
               "bunnyId": "995430fe-0078-4715-8a13-f7c3e2230d8d",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -12164,7 +12272,7 @@
       "name": "Rimworld",
       "slug": "Rimworld",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Rimworld - Tundrafall",
@@ -13911,7 +14019,7 @@
           "name": "The Pale Ones",
           "slug": "The-Pale-Ones",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Rimworld - The Pale Ones #1",
@@ -14991,7 +15099,7 @@
               "date": "2023-11-23 11:02",
               "number": 120,
               "bunnyId": "3411f8fb-567d-4841-bb5a-44420b089618",
-              "new": true
+              "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #121",
@@ -15000,7 +15108,7 @@
               "date": "2023-11-24 11:08",
               "number": 121,
               "bunnyId": "a2695766-8a72-4e86-8a79-db23affe1abb",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -19443,7 +19551,7 @@
       "name": "Team Fortress 2",
       "slug": "Team-Fortress-2",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Team Fortress 2",
@@ -19451,7 +19559,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Team Fortress 2 #1",
@@ -20895,57 +21003,66 @@
             },
             {
               "title": "Team Fortress 2 #164",
-              "url": "https://sovietscloset.com/video/15081",
-              "id": 15081,
-              "date": "2023-10-15 20:02",
+              "url": "https://sovietscloset.com/video/15143",
+              "id": 15143,
+              "date": "2023-10-08 20:02",
               "number": 164,
-              "bunnyId": "eea7d2f2-af8f-472e-939b-e18b674f0082",
+              "bunnyId": "91ff1733-3065-4db4-9317-23b5bddc1e63",
               "new": false
             },
             {
               "title": "Team Fortress 2 #165",
-              "url": "https://sovietscloset.com/video/15090",
-              "id": 15090,
-              "date": "2023-10-29 20:02",
+              "url": "https://sovietscloset.com/video/15081",
+              "id": 15081,
+              "date": "2023-10-15 20:02",
               "number": 165,
-              "bunnyId": "553fd4a5-a1f8-40c8-8d4e-bd35ad4d7c9f",
+              "bunnyId": "eea7d2f2-af8f-472e-939b-e18b674f0082",
               "new": false
             },
             {
               "title": "Team Fortress 2 #166",
-              "url": "https://sovietscloset.com/video/15102",
-              "id": 15102,
-              "date": "2023-11-05 19:59",
+              "url": "https://sovietscloset.com/video/15090",
+              "id": 15090,
+              "date": "2023-10-29 20:02",
               "number": 166,
-              "bunnyId": "78922086-19a4-42e2-81be-cf123b8a8f10",
+              "bunnyId": "553fd4a5-a1f8-40c8-8d4e-bd35ad4d7c9f",
               "new": false
             },
             {
               "title": "Team Fortress 2 #167",
-              "url": "https://sovietscloset.com/video/15109",
-              "id": 15109,
-              "date": "2023-11-12 19:59",
+              "url": "https://sovietscloset.com/video/15102",
+              "id": 15102,
+              "date": "2023-11-05 19:59",
               "number": 167,
-              "bunnyId": "ddb64379-649d-4bf6-a5b0-4fbbfa38d534",
+              "bunnyId": "78922086-19a4-42e2-81be-cf123b8a8f10",
               "new": false
             },
             {
               "title": "Team Fortress 2 #168",
-              "url": "https://sovietscloset.com/video/15111",
-              "id": 15111,
-              "date": "2023-11-19 20:04",
+              "url": "https://sovietscloset.com/video/15109",
+              "id": 15109,
+              "date": "2023-11-12 19:59",
               "number": 168,
-              "bunnyId": "3e9300a2-a9e0-4452-bc36-9d9f005fabdc",
+              "bunnyId": "ddb64379-649d-4bf6-a5b0-4fbbfa38d534",
               "new": false
             },
             {
               "title": "Team Fortress 2 #169",
+              "url": "https://sovietscloset.com/video/15111",
+              "id": 15111,
+              "date": "2023-11-19 20:04",
+              "number": 169,
+              "bunnyId": "3e9300a2-a9e0-4452-bc36-9d9f005fabdc",
+              "new": false
+            },
+            {
+              "title": "Team Fortress 2 #170",
               "url": "https://sovietscloset.com/video/15131",
               "id": 15131,
               "date": "2023-11-26 20:08",
-              "number": 169,
+              "number": 170,
               "bunnyId": "63a0c18f-09c8-4c40-a854-cee10f9441dd",
-              "new": true
+              "new": false
             }
           ]
         }
