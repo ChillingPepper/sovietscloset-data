@@ -1,5 +1,70 @@
 # Changelog
 
+## 2023-12-08T18:49:43Z
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Coop](https://sovietscloset.com/Left-4-Dead-2/Coop)
+
+##### Videos
+
+- Added `v15150` [Left 4 Dead 2 - Coop #7](https://sovietscloset.com/video/15150)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15148` [Left 4 Dead 2 - Versus #11](https://sovietscloset.com/video/15148)
+- Modified `v15091` [Left 4 Dead 2 - Versus #12](https://sovietscloset.com/video/15091)
+  - Changed title from `Left 4 Dead 2 - Versus #11` to `Left 4 Dead 2 - Versus #12`
+  - Changed number from `11` to `12`
+- Modified `v15097` [Left 4 Dead 2 - Versus #13](https://sovietscloset.com/video/15097)
+  - Changed title from `Left 4 Dead 2 - Versus #12` to `Left 4 Dead 2 - Versus #13`
+  - Changed number from `12` to `13`
+- Modified `v15107` [Left 4 Dead 2 - Versus #14](https://sovietscloset.com/video/15107)
+  - Changed title from `Left 4 Dead 2 - Versus #13` to `Left 4 Dead 2 - Versus #14`
+  - Changed number from `13` to `14`
+- Modified `v15112` [Left 4 Dead 2 - Versus #15](https://sovietscloset.com/video/15112)
+  - Changed title from `Left 4 Dead 2 - Versus #14` to `Left 4 Dead 2 - Versus #15`
+  - Changed number from `14` to `15`
+- Modified `v15132` [Left 4 Dead 2 - Versus #16](https://sovietscloset.com/video/15132)
+  - Changed title from `Left 4 Dead 2 - Versus #15` to `Left 4 Dead 2 - Versus #16`
+  - Changed number from `15` to `16`
+
+### Modified Game [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+#### Modified Playlist [Team Fortress 2](https://sovietscloset.com/Team-Fortress-2)
+
+##### Videos
+
+- Added `v15149` [Team Fortress 2 #166](https://sovietscloset.com/video/15149)
+- Modified `v15090` [Team Fortress 2 #167](https://sovietscloset.com/video/15090)
+  - Changed title from `Team Fortress 2 #166` to `Team Fortress 2 #167`
+  - Changed number from `166` to `167`
+- Modified `v15102` [Team Fortress 2 #168](https://sovietscloset.com/video/15102)
+  - Changed title from `Team Fortress 2 #167` to `Team Fortress 2 #168`
+  - Changed number from `167` to `168`
+- Modified `v15109` [Team Fortress 2 #169](https://sovietscloset.com/video/15109)
+  - Changed title from `Team Fortress 2 #168` to `Team Fortress 2 #169`
+  - Changed number from `168` to `169`
+- Modified `v15111` [Team Fortress 2 #170](https://sovietscloset.com/video/15111)
+  - Changed title from `Team Fortress 2 #169` to `Team Fortress 2 #170`
+  - Changed number from `169` to `170`
+- Modified `v15131` [Team Fortress 2 #171](https://sovietscloset.com/video/15131)
+  - Changed title from `Team Fortress 2 #170` to `Team Fortress 2 #171`
+  - Changed number from `170` to `171`
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Added `v15151` [Valheim - Bacon Bay #11](https://sovietscloset.com/video/15151)
+- Modified `v15092` [Valheim - Bacon Bay #12](https://sovietscloset.com/video/15092)
+  - Changed title from `Valheim - Bacon Bay #11` to `Valheim - Bacon Bay #12`
+  - Changed number from `11` to `12`
+
 ## 2023-12-07T11:20:07Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
