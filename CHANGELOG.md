@@ -1,5 +1,102 @@
 # Changelog
 
+## 2023-12-16T19:19:36Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15140` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #16](https://sovietscloset.com/video/15140)
+  - Is no longer marked as new.
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15155` [Divinity: Original Sin 2 - Audio gathering solo play #12](https://sovietscloset.com/video/15155)
+- Added `v15154` [Divinity: Original Sin 2 - Audio gathering solo play #13](https://sovietscloset.com/video/15154)
+- Added `v15153` [Divinity: Original Sin 2 - Audio gathering solo play #14](https://sovietscloset.com/video/15153)
+- Added `v15158` [Divinity: Original Sin 2 - Audio gathering solo play #15](https://sovietscloset.com/video/15158)
+- Added `v15159` [Divinity: Original Sin 2 - Audio gathering solo play #16](https://sovietscloset.com/video/15159)
+- Added `v15160` [Divinity: Original Sin 2 - Audio gathering solo play #17](https://sovietscloset.com/video/15160)
+- Added `v15157` [Divinity: Original Sin 2 - Audio gathering solo play #18](https://sovietscloset.com/video/15157)
+- Added `v15161` [Divinity: Original Sin 2 - Audio gathering solo play #19](https://sovietscloset.com/video/15161)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15156` [Holdfast: Nations at War #184](https://sovietscloset.com/video/15156)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15152` [Rimworld - The Pale Ones #105](https://sovietscloset.com/video/15152)
+- Modified `v15100` [Rimworld - The Pale Ones #106](https://sovietscloset.com/video/15100)
+  - Changed title from `Rimworld - The Pale Ones #105` to `Rimworld - The Pale Ones #106`
+  - Changed number from `105` to `106`
+- Modified `v15105` [Rimworld - The Pale Ones #107](https://sovietscloset.com/video/15105)
+  - Changed title from `Rimworld - The Pale Ones #106` to `Rimworld - The Pale Ones #107`
+  - Changed number from `106` to `107`
+- Modified `v15106` [Rimworld - The Pale Ones #108](https://sovietscloset.com/video/15106)
+  - Changed title from `Rimworld - The Pale Ones #107` to `Rimworld - The Pale Ones #108`
+  - Changed number from `107` to `108`
+- Modified `v15103` [Rimworld - The Pale Ones #109](https://sovietscloset.com/video/15103)
+  - Changed title from `Rimworld - The Pale Ones #108` to `Rimworld - The Pale Ones #109`
+  - Changed number from `108` to `109`
+- Modified `v15120` [Rimworld - The Pale Ones #110](https://sovietscloset.com/video/15120)
+  - Changed title from `Rimworld - The Pale Ones #109` to `Rimworld - The Pale Ones #110`
+  - Changed number from `109` to `110`
+- Modified `v15108` [Rimworld - The Pale Ones #111](https://sovietscloset.com/video/15108)
+  - Changed title from `Rimworld - The Pale Ones #110` to `Rimworld - The Pale Ones #111`
+  - Changed number from `110` to `111`
+- Modified `v15118` [Rimworld - The Pale Ones #112](https://sovietscloset.com/video/15118)
+  - Changed title from `Rimworld - The Pale Ones #111` to `Rimworld - The Pale Ones #112`
+  - Changed number from `111` to `112`
+- Modified `v15122` [Rimworld - The Pale Ones #113](https://sovietscloset.com/video/15122)
+  - Changed title from `Rimworld - The Pale Ones #112` to `Rimworld - The Pale Ones #113`
+  - Changed number from `112` to `113`
+- Modified `v15121` [Rimworld - The Pale Ones #114](https://sovietscloset.com/video/15121)
+  - Changed title from `Rimworld - The Pale Ones #113` to `Rimworld - The Pale Ones #114`
+  - Changed number from `113` to `114`
+- Modified `v15119` [Rimworld - The Pale Ones #115](https://sovietscloset.com/video/15119)
+  - Changed title from `Rimworld - The Pale Ones #114` to `Rimworld - The Pale Ones #115`
+  - Changed number from `114` to `115`
+- Modified `v15113` [Rimworld - The Pale Ones #116](https://sovietscloset.com/video/15113)
+  - Changed title from `Rimworld - The Pale Ones #115` to `Rimworld - The Pale Ones #116`
+  - Changed number from `115` to `116`
+- Modified `v15110` [Rimworld - The Pale Ones #117](https://sovietscloset.com/video/15110)
+  - Changed title from `Rimworld - The Pale Ones #116` to `Rimworld - The Pale Ones #117`
+  - Changed number from `116` to `117`
+- Modified `v15116` [Rimworld - The Pale Ones #118](https://sovietscloset.com/video/15116)
+  - Changed title from `Rimworld - The Pale Ones #117` to `Rimworld - The Pale Ones #118`
+  - Changed number from `117` to `118`
+- Modified `v15124` [Rimworld - The Pale Ones #119](https://sovietscloset.com/video/15124)
+  - Changed title from `Rimworld - The Pale Ones #118` to `Rimworld - The Pale Ones #119`
+  - Changed number from `118` to `119`
+- Modified `v15123` [Rimworld - The Pale Ones #120](https://sovietscloset.com/video/15123)
+  - Changed title from `Rimworld - The Pale Ones #119` to `Rimworld - The Pale Ones #120`
+  - Changed number from `119` to `120`
+- Modified `v15130` [Rimworld - The Pale Ones #121](https://sovietscloset.com/video/15130)
+  - Changed title from `Rimworld - The Pale Ones #120` to `Rimworld - The Pale Ones #121`
+  - Changed number from `120` to `121`
+- Modified `v15129` [Rimworld - The Pale Ones #122](https://sovietscloset.com/video/15129)
+  - Changed title from `Rimworld - The Pale Ones #121` to `Rimworld - The Pale Ones #122`
+  - Changed number from `121` to `122`
+
 ## 2023-12-08T18:49:43Z
 
 ### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)

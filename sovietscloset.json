@@ -1,5 +1,5 @@
 {
-  "timestamp": 1702061383,
+  "timestamp": 1702754376,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1632,7 +1632,7 @@
       "name": "Baldur's Gate 3",
       "slug": "Baldur-s-Gate-3",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby",
@@ -1640,7 +1640,7 @@
           "name": "First playthrough - Soviet, Quebec, Social and Digby",
           "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #1",
@@ -1784,7 +1784,7 @@
               "date": "2023-12-04 19:29",
               "number": 16,
               "bunnyId": "3b34830a-a145-43f5-ac7e-c3afa6a0c0d0",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -4784,6 +4784,78 @@
               "date": "2023-11-28 11:33",
               "number": 11,
               "bunnyId": "c3b8b1c8-5c2f-4568-b5be-49ce56b98710",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #12",
+              "url": "https://sovietscloset.com/video/15155",
+              "id": 15155,
+              "date": "2023-11-28 20:17",
+              "number": 12,
+              "bunnyId": "09ef63c1-29b2-448f-9d3d-9df16aef4220",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #13",
+              "url": "https://sovietscloset.com/video/15154",
+              "id": 15154,
+              "date": "2023-11-29 11:20",
+              "number": 13,
+              "bunnyId": "f6ff14f6-22a8-4753-9bbe-8c8ea947095e",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #14",
+              "url": "https://sovietscloset.com/video/15153",
+              "id": 15153,
+              "date": "2023-11-30 11:11",
+              "number": 14,
+              "bunnyId": "95d2d3f9-e14c-483e-b08f-0848bb26d757",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #15",
+              "url": "https://sovietscloset.com/video/15158",
+              "id": 15158,
+              "date": "2023-12-01 11:19",
+              "number": 15,
+              "bunnyId": "307f26fa-878d-4286-8cb7-e85782ab6a7c",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #16",
+              "url": "https://sovietscloset.com/video/15159",
+              "id": 15159,
+              "date": "2023-12-04 11:17",
+              "number": 16,
+              "bunnyId": "40d30c09-f324-4955-a3b0-9884c1de9bde",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #17",
+              "url": "https://sovietscloset.com/video/15160",
+              "id": 15160,
+              "date": "2023-12-05 11:06",
+              "number": 17,
+              "bunnyId": "bfce32ec-5ee3-4ec6-ae27-c36152762d8e",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #18",
+              "url": "https://sovietscloset.com/video/15157",
+              "id": 15157,
+              "date": "2023-12-05 20:16",
+              "number": 18,
+              "bunnyId": "83561a41-bdc2-428e-bd8e-b3203eb29a32",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #19",
+              "url": "https://sovietscloset.com/video/15161",
+              "id": 15161,
+              "date": "2023-12-06 11:03",
+              "number": 19,
+              "bunnyId": "7ae5cc42-788f-4915-81d6-e0e340e52f6f",
               "new": false
             }
           ]
@@ -8078,6 +8150,15 @@
               "date": "2023-11-23 20:53",
               "number": 183,
               "bunnyId": "4ff34663-d1a4-406a-a431-e43dffc2e813",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #184",
+              "url": "https://sovietscloset.com/video/15156",
+              "id": 15156,
+              "date": "2023-11-30 20:56",
+              "number": 184,
+              "bunnyId": "bb7e2750-8abb-4b66-8e11-ec6e519c97c3",
               "new": false
             }
           ]
@@ -14977,154 +15058,163 @@
             },
             {
               "title": "Rimworld - The Pale Ones #105",
-              "url": "https://sovietscloset.com/video/15100",
-              "id": 15100,
-              "date": "2023-11-07 11:07",
+              "url": "https://sovietscloset.com/video/15152",
+              "id": 15152,
+              "date": "2023-11-06 11:07",
               "number": 105,
-              "bunnyId": "e284a49d-7207-4529-bd84-1538d6d843f2",
+              "bunnyId": "901b0189-0fa9-4ff4-ba43-028f05f22ce2",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #106",
-              "url": "https://sovietscloset.com/video/15105",
-              "id": 15105,
-              "date": "2023-11-07 20:13",
+              "url": "https://sovietscloset.com/video/15100",
+              "id": 15100,
+              "date": "2023-11-07 11:07",
               "number": 106,
-              "bunnyId": "c70090ed-fa38-4036-9851-9e2ad539392f",
+              "bunnyId": "e284a49d-7207-4529-bd84-1538d6d843f2",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #107",
-              "url": "https://sovietscloset.com/video/15106",
-              "id": 15106,
-              "date": "2023-11-08 11:06",
+              "url": "https://sovietscloset.com/video/15105",
+              "id": 15105,
+              "date": "2023-11-07 20:13",
               "number": 107,
-              "bunnyId": "795ac9d3-734e-46e1-9b66-d4784f2909e5",
+              "bunnyId": "c70090ed-fa38-4036-9851-9e2ad539392f",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #108",
-              "url": "https://sovietscloset.com/video/15103",
-              "id": 15103,
-              "date": "2023-11-09 11:14",
+              "url": "https://sovietscloset.com/video/15106",
+              "id": 15106,
+              "date": "2023-11-08 11:06",
               "number": 108,
-              "bunnyId": "bed45524-ceb7-45da-ba0c-585c77232e98",
+              "bunnyId": "795ac9d3-734e-46e1-9b66-d4784f2909e5",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #109",
-              "url": "https://sovietscloset.com/video/15120",
-              "id": 15120,
-              "date": "2023-11-10 11:07",
+              "url": "https://sovietscloset.com/video/15103",
+              "id": 15103,
+              "date": "2023-11-09 11:14",
               "number": 109,
-              "bunnyId": "2a210900-04ee-4fd9-a917-9b05fd543fa2",
+              "bunnyId": "bed45524-ceb7-45da-ba0c-585c77232e98",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #110",
-              "url": "https://sovietscloset.com/video/15108",
-              "id": 15108,
-              "date": "2023-11-13 11:12",
+              "url": "https://sovietscloset.com/video/15120",
+              "id": 15120,
+              "date": "2023-11-10 11:07",
               "number": 110,
-              "bunnyId": "f4cb54e2-517f-427d-b787-f7c20642decf",
+              "bunnyId": "2a210900-04ee-4fd9-a917-9b05fd543fa2",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #111",
-              "url": "https://sovietscloset.com/video/15118",
-              "id": 15118,
-              "date": "2023-11-14 11:06",
+              "url": "https://sovietscloset.com/video/15108",
+              "id": 15108,
+              "date": "2023-11-13 11:12",
               "number": 111,
-              "bunnyId": "6b03f232-2af2-46f2-8eb7-fcdfe865f254",
+              "bunnyId": "f4cb54e2-517f-427d-b787-f7c20642decf",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #112",
-              "url": "https://sovietscloset.com/video/15122",
-              "id": 15122,
-              "date": "2023-11-14 20:12",
+              "url": "https://sovietscloset.com/video/15118",
+              "id": 15118,
+              "date": "2023-11-14 11:06",
               "number": 112,
-              "bunnyId": "9ccad6ab-d472-49a2-86d4-fc5d6cb80df3",
+              "bunnyId": "6b03f232-2af2-46f2-8eb7-fcdfe865f254",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #113",
-              "url": "https://sovietscloset.com/video/15121",
-              "id": 15121,
-              "date": "2023-11-15 11:08",
+              "url": "https://sovietscloset.com/video/15122",
+              "id": 15122,
+              "date": "2023-11-14 20:12",
               "number": 113,
-              "bunnyId": "7accd158-9e9b-4311-9f45-0d8cfc1d69ef",
+              "bunnyId": "9ccad6ab-d472-49a2-86d4-fc5d6cb80df3",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #114",
-              "url": "https://sovietscloset.com/video/15119",
-              "id": 15119,
-              "date": "2023-11-16 11:09",
+              "url": "https://sovietscloset.com/video/15121",
+              "id": 15121,
+              "date": "2023-11-15 11:08",
               "number": 114,
-              "bunnyId": "b6eedcc5-d7fe-4c04-a6a7-09995fdc78f5",
+              "bunnyId": "7accd158-9e9b-4311-9f45-0d8cfc1d69ef",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #115",
-              "url": "https://sovietscloset.com/video/15113",
-              "id": 15113,
-              "date": "2023-11-17 11:21",
+              "url": "https://sovietscloset.com/video/15119",
+              "id": 15119,
+              "date": "2023-11-16 11:09",
               "number": 115,
-              "bunnyId": "98722264-c913-43cd-981e-8025772ebbcc",
+              "bunnyId": "b6eedcc5-d7fe-4c04-a6a7-09995fdc78f5",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #116",
-              "url": "https://sovietscloset.com/video/15110",
-              "id": 15110,
-              "date": "2023-11-20 11:07",
+              "url": "https://sovietscloset.com/video/15113",
+              "id": 15113,
+              "date": "2023-11-17 11:21",
               "number": 116,
-              "bunnyId": "65244d06-83c5-458c-ae85-6707102eb061",
+              "bunnyId": "98722264-c913-43cd-981e-8025772ebbcc",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #117",
-              "url": "https://sovietscloset.com/video/15116",
-              "id": 15116,
-              "date": "2023-11-21 11:14",
+              "url": "https://sovietscloset.com/video/15110",
+              "id": 15110,
+              "date": "2023-11-20 11:07",
               "number": 117,
-              "bunnyId": "9575c5b4-15f8-410d-8a6b-2166258ed489",
+              "bunnyId": "65244d06-83c5-458c-ae85-6707102eb061",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #118",
-              "url": "https://sovietscloset.com/video/15124",
-              "id": 15124,
-              "date": "2023-11-21 20:13",
+              "url": "https://sovietscloset.com/video/15116",
+              "id": 15116,
+              "date": "2023-11-21 11:14",
               "number": 118,
-              "bunnyId": "44e0577d-4560-417b-b38d-1a8da3aad71a",
+              "bunnyId": "9575c5b4-15f8-410d-8a6b-2166258ed489",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #119",
-              "url": "https://sovietscloset.com/video/15123",
-              "id": 15123,
-              "date": "2023-11-22 11:11",
+              "url": "https://sovietscloset.com/video/15124",
+              "id": 15124,
+              "date": "2023-11-21 20:13",
               "number": 119,
-              "bunnyId": "c465c890-4292-4abb-9b86-27b973f3b8d4",
+              "bunnyId": "44e0577d-4560-417b-b38d-1a8da3aad71a",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #120",
-              "url": "https://sovietscloset.com/video/15130",
-              "id": 15130,
-              "date": "2023-11-23 11:02",
+              "url": "https://sovietscloset.com/video/15123",
+              "id": 15123,
+              "date": "2023-11-22 11:11",
               "number": 120,
-              "bunnyId": "3411f8fb-567d-4841-bb5a-44420b089618",
+              "bunnyId": "c465c890-4292-4abb-9b86-27b973f3b8d4",
               "new": false
             },
             {
               "title": "Rimworld - The Pale Ones #121",
+              "url": "https://sovietscloset.com/video/15130",
+              "id": 15130,
+              "date": "2023-11-23 11:02",
+              "number": 121,
+              "bunnyId": "3411f8fb-567d-4841-bb5a-44420b089618",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #122",
               "url": "https://sovietscloset.com/video/15129",
               "id": 15129,
               "date": "2023-11-24 11:08",
-              "number": 121,
+              "number": 122,
               "bunnyId": "a2695766-8a72-4e86-8a79-db23affe1abb",
               "new": false
             }
