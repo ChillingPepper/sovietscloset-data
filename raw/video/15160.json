@@ -1,0 +1,94 @@
+{
+  "streamId": 15160,
+  "date": "2023-12-05 11:06",
+  "game": {
+    "name": "Divinity: Original Sin 2",
+    "slug": "Divinity-Original-Sin-2"
+  },
+  "subcategory": {
+    "name": "Audio gathering solo play",
+    "slug": "Audio-gathering-solo-play",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 10082,
+        "date": "2021-05-31 11:30"
+      },
+      {
+        "streamId": 10164,
+        "date": "2021-06-03 11:22"
+      },
+      {
+        "streamId": 10099,
+        "date": "2021-06-04 11:13"
+      },
+      {
+        "streamId": 10101,
+        "date": "2021-06-04 20:22"
+      },
+      {
+        "streamId": 10097,
+        "date": "2021-06-07 11:20"
+      },
+      {
+        "streamId": 10098,
+        "date": "2021-06-08 12:04"
+      },
+      {
+        "streamId": 10100,
+        "date": "2021-06-09 11:15"
+      },
+      {
+        "streamId": 10102,
+        "date": "2021-06-10 11:19"
+      },
+      {
+        "streamId": 10103,
+        "date": "2021-06-11 11:28"
+      },
+      {
+        "streamId": 14273,
+        "date": "2022-05-26 11:10"
+      },
+      {
+        "streamId": 15133,
+        "date": "2023-11-28 11:33"
+      },
+      {
+        "streamId": 15155,
+        "date": "2023-11-28 20:17"
+      },
+      {
+        "streamId": 15154,
+        "date": "2023-11-29 11:20"
+      },
+      {
+        "streamId": 15153,
+        "date": "2023-11-30 11:11"
+      },
+      {
+        "streamId": 15158,
+        "date": "2023-12-01 11:19"
+      },
+      {
+        "streamId": 15159,
+        "date": "2023-12-04 11:17"
+      },
+      {
+        "streamId": 15160,
+        "date": "2023-12-05 11:06"
+      },
+      {
+        "streamId": 15157,
+        "date": "2023-12-05 20:16"
+      },
+      {
+        "streamId": 15161,
+        "date": "2023-12-06 11:03"
+      }
+    ]
+  },
+  "number": 17,
+  "bunnyId": "bfce32ec-5ee3-4ec6-ae27-c36152762d8e",
+  "useBunny": true
+}

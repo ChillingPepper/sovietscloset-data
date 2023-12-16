@@ -1108,7 +1108,7 @@
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9117,
@@ -1208,12 +1208,12 @@
           {
             "id": 15140,
             "date": "2023-12-04 19:29",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3278,6 +3278,54 @@
           {
             "id": 15133,
             "date": "2023-11-28 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15155,
+            "date": "2023-11-28 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15154,
+            "date": "2023-11-29 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15153,
+            "date": "2023-11-30 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15158,
+            "date": "2023-12-01 11:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15159,
+            "date": "2023-12-04 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15160,
+            "date": "2023-12-05 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15157,
+            "date": "2023-12-05 20:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15161,
+            "date": "2023-12-06 11:03",
             "new": false,
             "useBunny": true
           }
@@ -5558,6 +5606,12 @@
           {
             "id": 15127,
             "date": "2023-11-23 20:53",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15156,
+            "date": "2023-11-30 20:56",
             "new": false,
             "useBunny": true
           }
@@ -10283,6 +10337,12 @@
           {
             "id": 15098,
             "date": "2023-11-03 12:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15152,
+            "date": "2023-11-06 11:07",
             "new": false,
             "useBunny": true
           },
