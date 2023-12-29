@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2023-12-16T19:19:36Z.
+Last updated at 2023-12-29T21:29:05Z.
 
 ## Wrong Tags
 
@@ -17,7 +17,6 @@ All videos are tagged correctly. :tada:
 This list includes all videos that used to be available on Vimeo but are not available on BunnyCDN yet.
 
 - [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
-- [Rimworld - Tundrafall #33](https://sovietscloset.com/video/1060)
 - [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
 
 ### Missing from Playlist

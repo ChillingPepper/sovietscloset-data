@@ -1,5 +1,213 @@
 # Changelog
 
+## 2023-12-29T21:29:05Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15166` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #17](https://sovietscloset.com/video/15166)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15168` [Divinity: Original Sin 2 - Audio gathering solo play #20](https://sovietscloset.com/video/15168)
+- Added `v15169` [Divinity: Original Sin 2 - Audio gathering solo play #21](https://sovietscloset.com/video/15169)
+- Added `v15170` [Divinity: Original Sin 2 - Audio gathering solo play #22](https://sovietscloset.com/video/15170)
+- Added `v15167` [Divinity: Original Sin 2 - Audio gathering solo play #23](https://sovietscloset.com/video/15167)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15164` [Left 4 Dead 2 - Versus #17](https://sovietscloset.com/video/15164)
+- Added `v15165` [Left 4 Dead 2 - Versus #18](https://sovietscloset.com/video/15165)
+- Added `v15162` [Left 4 Dead 2 - Versus #19](https://sovietscloset.com/video/15162)
+- Added `v15163` [Left 4 Dead 2 - Versus #20](https://sovietscloset.com/video/15163)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - Tundrafall](https://sovietscloset.com/Rimworld/Tundrafall)
+
+##### Videos
+
+- Deleted `v1060` [Rimworld - Tundrafall #33](https://sovietscloset.com/video/1060)
+- Modified `v1062` [Rimworld - Tundrafall #33](https://sovietscloset.com/video/1062)
+  - Changed title from `Rimworld - Tundrafall #34` to `Rimworld - Tundrafall #33`
+  - Changed number from `34` to `33`
+- Modified `v1063` [Rimworld - Tundrafall #34](https://sovietscloset.com/video/1063)
+  - Changed title from `Rimworld - Tundrafall #35` to `Rimworld - Tundrafall #34`
+  - Changed number from `35` to `34`
+- Modified `v1175` [Rimworld - Tundrafall #35](https://sovietscloset.com/video/1175)
+  - Changed title from `Rimworld - Tundrafall #36` to `Rimworld - Tundrafall #35`
+  - Changed number from `36` to `35`
+- Modified `v1061` [Rimworld - Tundrafall #36](https://sovietscloset.com/video/1061)
+  - Changed title from `Rimworld - Tundrafall #37` to `Rimworld - Tundrafall #36`
+  - Changed number from `37` to `36`
+- Modified `v1065` [Rimworld - Tundrafall #37](https://sovietscloset.com/video/1065)
+  - Changed title from `Rimworld - Tundrafall #38` to `Rimworld - Tundrafall #37`
+  - Changed number from `38` to `37`
+- Modified `v1066` [Rimworld - Tundrafall #38](https://sovietscloset.com/video/1066)
+  - Changed title from `Rimworld - Tundrafall #39` to `Rimworld - Tundrafall #38`
+  - Changed number from `39` to `38`
+- Modified `v1068` [Rimworld - Tundrafall #39](https://sovietscloset.com/video/1068)
+  - Changed title from `Rimworld - Tundrafall #40` to `Rimworld - Tundrafall #39`
+  - Changed number from `40` to `39`
+- Modified `v1106` [Rimworld - Tundrafall #40](https://sovietscloset.com/video/1106)
+  - Changed title from `Rimworld - Tundrafall #41` to `Rimworld - Tundrafall #40`
+  - Changed number from `41` to `40`
+- Modified `v1110` [Rimworld - Tundrafall #41](https://sovietscloset.com/video/1110)
+  - Changed title from `Rimworld - Tundrafall #42` to `Rimworld - Tundrafall #41`
+  - Changed number from `42` to `41`
+- Modified `v1108` [Rimworld - Tundrafall #42](https://sovietscloset.com/video/1108)
+  - Changed title from `Rimworld - Tundrafall #43` to `Rimworld - Tundrafall #42`
+  - Changed number from `43` to `42`
+- Modified `v1111` [Rimworld - Tundrafall #43](https://sovietscloset.com/video/1111)
+  - Changed title from `Rimworld - Tundrafall #44` to `Rimworld - Tundrafall #43`
+  - Changed number from `44` to `43`
+- Modified `v1112` [Rimworld - Tundrafall #44](https://sovietscloset.com/video/1112)
+  - Changed title from `Rimworld - Tundrafall #45` to `Rimworld - Tundrafall #44`
+  - Changed number from `45` to `44`
+- Modified `v1107` [Rimworld - Tundrafall #45](https://sovietscloset.com/video/1107)
+  - Changed title from `Rimworld - Tundrafall #46` to `Rimworld - Tundrafall #45`
+  - Changed number from `46` to `45`
+- Modified `v1109` [Rimworld - Tundrafall #46](https://sovietscloset.com/video/1109)
+  - Changed title from `Rimworld - Tundrafall #47` to `Rimworld - Tundrafall #46`
+  - Changed number from `47` to `46`
+- Modified `v1132` [Rimworld - Tundrafall #47](https://sovietscloset.com/video/1132)
+  - Changed title from `Rimworld - Tundrafall #48` to `Rimworld - Tundrafall #47`
+  - Changed number from `48` to `47`
+- Modified `v1134` [Rimworld - Tundrafall #48](https://sovietscloset.com/video/1134)
+  - Changed title from `Rimworld - Tundrafall #49` to `Rimworld - Tundrafall #48`
+  - Changed number from `49` to `48`
+- Modified `v1131` [Rimworld - Tundrafall #49](https://sovietscloset.com/video/1131)
+  - Changed title from `Rimworld - Tundrafall #50` to `Rimworld - Tundrafall #49`
+  - Changed number from `50` to `49`
+- Modified `v1133` [Rimworld - Tundrafall #50](https://sovietscloset.com/video/1133)
+  - Changed title from `Rimworld - Tundrafall #51` to `Rimworld - Tundrafall #50`
+  - Changed number from `51` to `50`
+- Modified `v1136` [Rimworld - Tundrafall #51](https://sovietscloset.com/video/1136)
+  - Changed title from `Rimworld - Tundrafall #52` to `Rimworld - Tundrafall #51`
+  - Changed number from `52` to `51`
+- Modified `v1135` [Rimworld - Tundrafall #52](https://sovietscloset.com/video/1135)
+  - Changed title from `Rimworld - Tundrafall #53` to `Rimworld - Tundrafall #52`
+  - Changed number from `53` to `52`
+- Modified `v1137` [Rimworld - Tundrafall #53](https://sovietscloset.com/video/1137)
+  - Changed title from `Rimworld - Tundrafall #54` to `Rimworld - Tundrafall #53`
+  - Changed number from `54` to `53`
+- Modified `v1139` [Rimworld - Tundrafall #54](https://sovietscloset.com/video/1139)
+  - Changed title from `Rimworld - Tundrafall #55` to `Rimworld - Tundrafall #54`
+  - Changed number from `55` to `54`
+- Modified `v1138` [Rimworld - Tundrafall #55](https://sovietscloset.com/video/1138)
+  - Changed title from `Rimworld - Tundrafall #56` to `Rimworld - Tundrafall #55`
+  - Changed number from `56` to `55`
+- Modified `v1140` [Rimworld - Tundrafall #56](https://sovietscloset.com/video/1140)
+  - Changed title from `Rimworld - Tundrafall #57` to `Rimworld - Tundrafall #56`
+  - Changed number from `57` to `56`
+- Modified `v1143` [Rimworld - Tundrafall #57](https://sovietscloset.com/video/1143)
+  - Changed title from `Rimworld - Tundrafall #58` to `Rimworld - Tundrafall #57`
+  - Changed number from `58` to `57`
+- Modified `v1141` [Rimworld - Tundrafall #58](https://sovietscloset.com/video/1141)
+  - Changed title from `Rimworld - Tundrafall #59` to `Rimworld - Tundrafall #58`
+  - Changed number from `59` to `58`
+- Modified `v1142` [Rimworld - Tundrafall #59](https://sovietscloset.com/video/1142)
+  - Changed title from `Rimworld - Tundrafall #60` to `Rimworld - Tundrafall #59`
+  - Changed number from `60` to `59`
+- Modified `v1144` [Rimworld - Tundrafall #60](https://sovietscloset.com/video/1144)
+  - Changed title from `Rimworld - Tundrafall #61` to `Rimworld - Tundrafall #60`
+  - Changed number from `61` to `60`
+- Modified `v1167` [Rimworld - Tundrafall #61](https://sovietscloset.com/video/1167)
+  - Changed title from `Rimworld - Tundrafall #62` to `Rimworld - Tundrafall #61`
+  - Changed number from `62` to `61`
+- Modified `v1168` [Rimworld - Tundrafall #62](https://sovietscloset.com/video/1168)
+  - Changed title from `Rimworld - Tundrafall #63` to `Rimworld - Tundrafall #62`
+  - Changed number from `63` to `62`
+- Modified `v1169` [Rimworld - Tundrafall #63](https://sovietscloset.com/video/1169)
+  - Changed title from `Rimworld - Tundrafall #64` to `Rimworld - Tundrafall #63`
+  - Changed number from `64` to `63`
+- Modified `v1156` [Rimworld - Tundrafall #64](https://sovietscloset.com/video/1156)
+  - Changed title from `Rimworld - Tundrafall #65` to `Rimworld - Tundrafall #64`
+  - Changed number from `65` to `64`
+- Modified `v1159` [Rimworld - Tundrafall #65](https://sovietscloset.com/video/1159)
+  - Changed title from `Rimworld - Tundrafall #66` to `Rimworld - Tundrafall #65`
+  - Changed number from `66` to `65`
+- Modified `v1157` [Rimworld - Tundrafall #66](https://sovietscloset.com/video/1157)
+  - Changed title from `Rimworld - Tundrafall #67` to `Rimworld - Tundrafall #66`
+  - Changed number from `67` to `66`
+- Modified `v1154` [Rimworld - Tundrafall #67](https://sovietscloset.com/video/1154)
+  - Changed title from `Rimworld - Tundrafall #68` to `Rimworld - Tundrafall #67`
+  - Changed number from `68` to `67`
+- Modified `v1155` [Rimworld - Tundrafall #68](https://sovietscloset.com/video/1155)
+  - Changed title from `Rimworld - Tundrafall #69` to `Rimworld - Tundrafall #68`
+  - Changed number from `69` to `68`
+- Modified `v1158` [Rimworld - Tundrafall #69](https://sovietscloset.com/video/1158)
+  - Changed title from `Rimworld - Tundrafall #70` to `Rimworld - Tundrafall #69`
+  - Changed number from `70` to `69`
+- Modified `v1160` [Rimworld - Tundrafall #70](https://sovietscloset.com/video/1160)
+  - Changed title from `Rimworld - Tundrafall #71` to `Rimworld - Tundrafall #70`
+  - Changed number from `71` to `70`
+- Modified `v1161` [Rimworld - Tundrafall #71](https://sovietscloset.com/video/1161)
+  - Changed title from `Rimworld - Tundrafall #72` to `Rimworld - Tundrafall #71`
+  - Changed number from `72` to `71`
+- Modified `v1164` [Rimworld - Tundrafall #72](https://sovietscloset.com/video/1164)
+  - Changed title from `Rimworld - Tundrafall #73` to `Rimworld - Tundrafall #72`
+  - Changed number from `73` to `72`
+- Modified `v1165` [Rimworld - Tundrafall #73](https://sovietscloset.com/video/1165)
+  - Changed title from `Rimworld - Tundrafall #74` to `Rimworld - Tundrafall #73`
+  - Changed number from `74` to `73`
+- Modified `v1163` [Rimworld - Tundrafall #74](https://sovietscloset.com/video/1163)
+  - Changed title from `Rimworld - Tundrafall #75` to `Rimworld - Tundrafall #74`
+  - Changed number from `75` to `74`
+- Modified `v1166` [Rimworld - Tundrafall #75](https://sovietscloset.com/video/1166)
+  - Changed title from `Rimworld - Tundrafall #76` to `Rimworld - Tundrafall #75`
+  - Changed number from `76` to `75`
+- Modified `v1162` [Rimworld - Tundrafall #76](https://sovietscloset.com/video/1162)
+  - Changed title from `Rimworld - Tundrafall #77` to `Rimworld - Tundrafall #76`
+  - Changed number from `77` to `76`
+- Modified `v1170` [Rimworld - Tundrafall #77](https://sovietscloset.com/video/1170)
+  - Changed title from `Rimworld - Tundrafall #78` to `Rimworld - Tundrafall #77`
+  - Changed number from `78` to `77`
+- Modified `v1173` [Rimworld - Tundrafall #78](https://sovietscloset.com/video/1173)
+  - Changed title from `Rimworld - Tundrafall #79` to `Rimworld - Tundrafall #78`
+  - Changed number from `79` to `78`
+- Modified `v1174` [Rimworld - Tundrafall #79](https://sovietscloset.com/video/1174)
+  - Changed title from `Rimworld - Tundrafall #80` to `Rimworld - Tundrafall #79`
+  - Changed number from `80` to `79`
+- Modified `v1172` [Rimworld - Tundrafall #80](https://sovietscloset.com/video/1172)
+  - Changed title from `Rimworld - Tundrafall #81` to `Rimworld - Tundrafall #80`
+  - Changed number from `81` to `80`
+- Modified `v1171` [Rimworld - Tundrafall #81](https://sovietscloset.com/video/1171)
+  - Changed title from `Rimworld - Tundrafall #82` to `Rimworld - Tundrafall #81`
+  - Changed number from `82` to `81`
+- Modified `v1176` [Rimworld - Tundrafall #82](https://sovietscloset.com/video/1176)
+  - Changed title from `Rimworld - Tundrafall #83` to `Rimworld - Tundrafall #82`
+  - Changed number from `83` to `82`
+- Modified `v1181` [Rimworld - Tundrafall #83](https://sovietscloset.com/video/1181)
+  - Changed title from `Rimworld - Tundrafall #84` to `Rimworld - Tundrafall #83`
+  - Changed number from `84` to `83`
+- Modified `v1177` [Rimworld - Tundrafall #84](https://sovietscloset.com/video/1177)
+  - Changed title from `Rimworld - Tundrafall #85` to `Rimworld - Tundrafall #84`
+  - Changed number from `85` to `84`
+- Modified `v1178` [Rimworld - Tundrafall #85](https://sovietscloset.com/video/1178)
+  - Changed title from `Rimworld - Tundrafall #86` to `Rimworld - Tundrafall #85`
+  - Changed number from `86` to `85`
+- Modified `v1180` [Rimworld - Tundrafall #86](https://sovietscloset.com/video/1180)
+  - Changed title from `Rimworld - Tundrafall #87` to `Rimworld - Tundrafall #86`
+  - Changed number from `87` to `86`
+- Modified `v1179` [Rimworld - Tundrafall #87](https://sovietscloset.com/video/1179)
+  - Changed title from `Rimworld - Tundrafall #88` to `Rimworld - Tundrafall #87`
+  - Changed number from `88` to `87`
+- Modified `v1182` [Rimworld - Tundrafall #88](https://sovietscloset.com/video/1182)
+  - Changed title from `Rimworld - Tundrafall #89` to `Rimworld - Tundrafall #88`
+  - Changed number from `89` to `88`
+
 ## 2023-12-16T19:19:36Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
