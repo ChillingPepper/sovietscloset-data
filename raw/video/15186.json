@@ -1,0 +1,50 @@
+{
+  "streamId": 15186,
+  "date": "2023-12-16 19:59",
+  "game": {
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 10197,
+        "date": "2021-12-23 19:52"
+      },
+      {
+        "streamId": 10196,
+        "date": "2021-12-28 19:50"
+      },
+      {
+        "streamId": 13089,
+        "date": "2021-12-30 19:56"
+      },
+      {
+        "streamId": 12091,
+        "date": "2022-01-04 20:00"
+      },
+      {
+        "streamId": 12104,
+        "date": "2022-01-11 20:12"
+      },
+      {
+        "streamId": 14356,
+        "date": "2022-02-01 19:59"
+      },
+      {
+        "streamId": 14435,
+        "date": "2022-07-05 20:00"
+      },
+      {
+        "streamId": 15186,
+        "date": "2023-12-16 19:59"
+      }
+    ]
+  },
+  "number": 8,
+  "bunnyId": "2b2025f7-1dc2-48e3-a9bb-256025bda52f",
+  "useBunny": true
+}

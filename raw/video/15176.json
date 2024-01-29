@@ -1,0 +1,94 @@
+{
+  "streamId": 15176,
+  "date": "2023-12-11 11:11",
+  "game": {
+    "name": "Valheim",
+    "slug": "Valheim"
+  },
+  "subcategory": {
+    "name": "Bacon Bay",
+    "slug": "Bacon-Bay",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15075,
+        "date": "2023-10-09 11:05"
+      },
+      {
+        "streamId": 15076,
+        "date": "2023-10-10 11:14"
+      },
+      {
+        "streamId": 15077,
+        "date": "2023-10-10 20:09"
+      },
+      {
+        "streamId": 15078,
+        "date": "2023-10-11 11:18"
+      },
+      {
+        "streamId": 15079,
+        "date": "2023-10-12 11:08"
+      },
+      {
+        "streamId": 15083,
+        "date": "2023-10-13 11:02"
+      },
+      {
+        "streamId": 15085,
+        "date": "2023-10-17 11:18"
+      },
+      {
+        "streamId": 15087,
+        "date": "2023-10-19 11:26"
+      },
+      {
+        "streamId": 15088,
+        "date": "2023-10-23 11:34"
+      },
+      {
+        "streamId": 15086,
+        "date": "2023-10-24 11:20"
+      },
+      {
+        "streamId": 15151,
+        "date": "2023-10-25 11:05"
+      },
+      {
+        "streamId": 15092,
+        "date": "2023-10-27 11:05"
+      },
+      {
+        "streamId": 15176,
+        "date": "2023-12-11 11:11"
+      },
+      {
+        "streamId": 15178,
+        "date": "2023-12-11 20:06"
+      },
+      {
+        "streamId": 15179,
+        "date": "2023-12-12 11:06"
+      },
+      {
+        "streamId": 15182,
+        "date": "2023-12-12 20:17"
+      },
+      {
+        "streamId": 15181,
+        "date": "2023-12-13 11:12"
+      },
+      {
+        "streamId": 15180,
+        "date": "2023-12-14 11:08"
+      },
+      {
+        "streamId": 15185,
+        "date": "2023-12-15 11:02"
+      }
+    ]
+  },
+  "number": 13,
+  "bunnyId": "fa356b03-4347-4477-bd82-6b2006a5a336",
+  "useBunny": true
+}

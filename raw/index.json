@@ -1216,6 +1216,12 @@
             "date": "2023-12-06 19:41",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15177,
+            "date": "2023-12-13 19:32",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -5644,6 +5650,12 @@
             "date": "2023-11-30 20:56",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15171,
+            "date": "2023-12-07 20:53",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -8431,6 +8443,12 @@
             "date": "2022-07-05 20:00",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15186,
+            "date": "2023-12-16 19:59",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -8795,6 +8813,12 @@
           {
             "id": 1064,
             "date": "2018-05-11 11:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15184,
+            "date": "2018-05-11 20:23",
             "new": false,
             "useBunny": true
           },
@@ -13519,6 +13543,54 @@
             "date": "2020-03-15 20:12",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15183,
+            "date": "2023-12-17 19:57",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9094,
+    "name": "Tabletop Simulator",
+    "slug": "Tabletop-Simulator",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9119,
+        "name": "Escape from Colditz",
+        "slug": "Escape-from-Colditz",
+        "streams": [
+          {
+            "id": 15175,
+            "date": "2018-03-02 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15174,
+            "date": "2018-08-03 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15173,
+            "date": "2018-11-26 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15172,
+            "date": "2023-12-09 20:03",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -16292,6 +16364,48 @@
           {
             "id": 15092,
             "date": "2023-10-27 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15176,
+            "date": "2023-12-11 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15178,
+            "date": "2023-12-11 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15179,
+            "date": "2023-12-12 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15182,
+            "date": "2023-12-12 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15181,
+            "date": "2023-12-13 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15180,
+            "date": "2023-12-14 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15185,
+            "date": "2023-12-15 11:02",
             "new": false,
             "useBunny": true
           }
