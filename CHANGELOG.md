@@ -1,5 +1,25 @@
 # Changelog
 
+## 2024-02-04T14:18:55Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15190` [Holdfast: Nations at War #186](https://sovietscloset.com/video/15190)
+
+### Modified Game [SWAT 4](https://sovietscloset.com/SWAT-4)
+
+#### Modified Playlist [SWAT 4](https://sovietscloset.com/SWAT-4)
+
+##### Videos
+
+- Added `v15188` [SWAT 4 #16](https://sovietscloset.com/video/15188)
+- Added `v15189` [SWAT 4 #17](https://sovietscloset.com/video/15189)
+- Added `v15187` [SWAT 4 #18](https://sovietscloset.com/video/15187)
+
 ## 2024-01-29T18:47:02Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
