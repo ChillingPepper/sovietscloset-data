@@ -1,5 +1,33 @@
 # Changelog
 
+## 2024-02-13T20:59:45Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v15192` [DayZ - Standalone #110](https://sovietscloset.com/video/15192)
+- Added `v15193` [DayZ - Standalone #111](https://sovietscloset.com/video/15193)
+- Added `v15194` [DayZ - Standalone #112](https://sovietscloset.com/video/15194)
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v15191` [Factorio #62](https://sovietscloset.com/video/15191)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15195` [Holdfast: Nations at War #187](https://sovietscloset.com/video/15195)
+
 ## 2024-02-04T14:18:55Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
