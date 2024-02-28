@@ -1,5 +1,31 @@
 # Changelog
 
+## 2024-02-28T20:48:19Z
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+#### Modified Playlist [DayZ - Standalone](https://sovietscloset.com/DayZ/Standalone)
+
+##### Videos
+
+- Added `v15196` [DayZ - Standalone #113](https://sovietscloset.com/video/15196)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15197` [Left 4 Dead 2 - Versus #21](https://sovietscloset.com/video/15197)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15198` [Ready or Not #9](https://sovietscloset.com/video/15198)
+
 ## 2024-02-13T20:59:45Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)
