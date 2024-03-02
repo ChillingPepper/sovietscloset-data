@@ -1,0 +1,26 @@
+{
+  "streamId": 15201,
+  "date": "2024-01-11 11:08",
+  "game": {
+    "name": "Dredge",
+    "slug": "Dredge"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15200,
+        "date": "2024-01-08 11:07"
+      },
+      {
+        "streamId": 15201,
+        "date": "2024-01-11 11:08"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "3ed2d273-bf83-4880-a253-f19b4bdca6b1",
+  "useBunny": true
+}
