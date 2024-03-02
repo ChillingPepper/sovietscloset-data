@@ -1,5 +1,32 @@
 # Changelog
 
+## 2024-03-02T17:45:41Z
+
+### Added Game [Dredge](https://sovietscloset.com/Dredge)
+
+#### Added Playlist [Dredge](https://sovietscloset.com/Dredge)
+
+##### Videos
+
+- Added `v15200` [Dredge #1](https://sovietscloset.com/video/15200)
+- Added `v15201` [Dredge #2](https://sovietscloset.com/video/15201)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15202` [Holdfast: Nations at War #188](https://sovietscloset.com/video/15202)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15199` [Ready or Not #10](https://sovietscloset.com/video/15199)
+
 ## 2024-02-28T20:48:19Z
 
 ### Modified Game [DayZ](https://sovietscloset.com/DayZ)

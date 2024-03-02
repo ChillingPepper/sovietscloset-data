@@ -1,5 +1,5 @@
 {
-  "timestamp": 1709153299,
+  "timestamp": 1709401541,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -4953,6 +4953,44 @@
       ]
     },
     {
+      "title": "Dredge",
+      "url": "https://sovietscloset.com/Dredge",
+      "name": "Dredge",
+      "slug": "Dredge",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Dredge",
+          "url": "https://sovietscloset.com/Dredge",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Dredge #1",
+              "url": "https://sovietscloset.com/video/15200",
+              "id": 15200,
+              "date": "2024-01-08 11:07",
+              "number": 1,
+              "bunnyId": "5824eabc-ea2b-46f6-8314-07267153cbc4",
+              "new": false
+            },
+            {
+              "title": "Dredge #2",
+              "url": "https://sovietscloset.com/video/15201",
+              "id": 15201,
+              "date": "2024-01-11 11:08",
+              "number": 2,
+              "bunnyId": "3ed2d273-bf83-4880-a253-f19b4bdca6b1",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Eco",
       "url": "https://sovietscloset.com/Eco",
       "name": "Eco",
@@ -8285,6 +8323,15 @@
               "date": "2024-01-04 20:56",
               "number": 187,
               "bunnyId": "4d63b74b-74cd-42bb-a92a-196825fc1084",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #188",
+              "url": "https://sovietscloset.com/video/15202",
+              "id": 15202,
+              "date": "2024-01-11 20:51",
+              "number": 188,
+              "bunnyId": "b775d10a-30e5-4b8b-9340-f4034701d8e5",
               "new": false
             }
           ]
@@ -12328,6 +12375,15 @@
               "date": "2024-01-06 20:03",
               "number": 9,
               "bunnyId": "adf12e12-fcb4-4ef9-8c33-0fe6754d5d75",
+              "new": false
+            },
+            {
+              "title": "Ready or Not #10",
+              "url": "https://sovietscloset.com/video/15199",
+              "id": 15199,
+              "date": "2024-01-07 19:59",
+              "number": 10,
+              "bunnyId": "07daec1d-ced9-48dc-8020-e46a09b3fa03",
               "new": false
             }
           ]
