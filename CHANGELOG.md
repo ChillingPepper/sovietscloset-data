@@ -1,5 +1,15 @@
 # Changelog
 
+## 2024-03-08T19:34:16Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15206` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #19](https://sovietscloset.com/video/15206)
+
 ## 2024-03-03T17:28:29Z
 
 ### Modified Game [Dredge](https://sovietscloset.com/Dredge)
