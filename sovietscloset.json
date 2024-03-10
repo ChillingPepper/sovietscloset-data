@@ -1,5 +1,5 @@
 {
-  "timestamp": 1709926456,
+  "timestamp": 1710086864,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1811,6 +1811,15 @@
               "date": "2024-01-15 19:36",
               "number": 19,
               "bunnyId": "a818cbf7-6964-4b9b-ae1d-1587cd70e395",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #20",
+              "url": "https://sovietscloset.com/video/15207",
+              "id": 15207,
+              "date": "2024-01-17 19:33",
+              "number": 20,
+              "bunnyId": "9a5be7e7-a854-4d38-9d7b-68deca6bdc41",
               "new": false
             }
           ]
@@ -5020,6 +5029,15 @@
               "date": "2024-01-16 20:15",
               "number": 5,
               "bunnyId": "dc2f8ff8-41db-473a-968b-f79d56ea0814",
+              "new": false
+            },
+            {
+              "title": "Dredge #6",
+              "url": "https://sovietscloset.com/video/15208",
+              "id": 15208,
+              "date": "2024-01-18 11:19",
+              "number": 6,
+              "bunnyId": "f665cd55-fb05-40fb-a127-18cedb16f59b",
               "new": false
             }
           ]
@@ -8368,6 +8386,15 @@
               "date": "2024-01-11 20:51",
               "number": 188,
               "bunnyId": "b775d10a-30e5-4b8b-9340-f4034701d8e5",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #189",
+              "url": "https://sovietscloset.com/video/15209",
+              "id": 15209,
+              "date": "2024-01-18 20:53",
+              "number": 189,
+              "bunnyId": "ad1b7d72-e0f8-4e7c-9908-bd933e0d1e3e",
               "new": false
             }
           ]

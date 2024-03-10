@@ -1,5 +1,31 @@
 # Changelog
 
+## 2024-03-10T16:07:44Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15207` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #20](https://sovietscloset.com/video/15207)
+
+### Modified Game [Dredge](https://sovietscloset.com/Dredge)
+
+#### Modified Playlist [Dredge](https://sovietscloset.com/Dredge)
+
+##### Videos
+
+- Added `v15208` [Dredge #6](https://sovietscloset.com/video/15208)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15209` [Holdfast: Nations at War #189](https://sovietscloset.com/video/15209)
+
 ## 2024-03-08T19:34:16Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
