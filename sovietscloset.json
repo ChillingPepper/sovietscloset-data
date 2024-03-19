@@ -1,5 +1,5 @@
 {
-  "timestamp": 1710086864,
+  "timestamp": 1710879986,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1820,6 +1820,15 @@
               "date": "2024-01-17 19:33",
               "number": 20,
               "bunnyId": "9a5be7e7-a854-4d38-9d7b-68deca6bdc41",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #21",
+              "url": "https://sovietscloset.com/video/15211",
+              "id": 15211,
+              "date": "2024-01-22 19:32",
+              "number": 21,
+              "bunnyId": "687f076b-46c0-40cd-a9c5-7a4f3d02de0f",
               "new": false
             }
           ]
@@ -9984,6 +9993,15 @@
               "date": "2024-01-05 19:58",
               "number": 21,
               "bunnyId": "13b40deb-0036-4053-915c-462badf0b83f",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #22",
+              "url": "https://sovietscloset.com/video/15210",
+              "id": 15210,
+              "date": "2024-01-19 20:01",
+              "number": 22,
+              "bunnyId": "cc81c925-957d-46fb-a649-edf36e917e80",
               "new": false
             }
           ]

@@ -1,5 +1,23 @@
 # Changelog
 
+## 2024-03-19T20:26:26Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15211` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #21](https://sovietscloset.com/video/15211)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15210` [Left 4 Dead 2 - Versus #22](https://sovietscloset.com/video/15210)
+
 ## 2024-03-10T16:07:44Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
