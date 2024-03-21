@@ -1,5 +1,15 @@
 # Changelog
 
+## 2024-03-21T10:09:50Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15212` [Holdfast: Nations at War #190](https://sovietscloset.com/video/15212)
+
 ## 2024-03-19T20:26:26Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
