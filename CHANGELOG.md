@@ -1,5 +1,49 @@
 # Changelog
 
+## 2024-03-26T16:25:36Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15217` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #22](https://sovietscloset.com/video/15217)
+
+### Modified Game [Dredge](https://sovietscloset.com/Dredge)
+
+#### Modified Playlist [Dredge](https://sovietscloset.com/Dredge)
+
+##### Videos
+
+- Added `v15213` [Dredge #7](https://sovietscloset.com/video/15213)
+- Added `v15214` [Dredge #8](https://sovietscloset.com/video/15214)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15215` [Left 4 Dead 2 - Versus #23](https://sovietscloset.com/video/15215)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15216` [Ready or Not #11](https://sovietscloset.com/video/15216)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Added `v15218` [Valheim - Bacon Bay #20](https://sovietscloset.com/video/15218)
+- Added `v15219` [Valheim - Bacon Bay #21](https://sovietscloset.com/video/15219)
+
 ## 2024-03-21T10:09:50Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)

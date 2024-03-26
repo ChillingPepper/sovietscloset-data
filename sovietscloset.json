@@ -1,5 +1,5 @@
 {
-  "timestamp": 1711015790,
+  "timestamp": 1711470336,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1829,6 +1829,15 @@
               "date": "2024-01-22 19:32",
               "number": 21,
               "bunnyId": "687f076b-46c0-40cd-a9c5-7a4f3d02de0f",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #22",
+              "url": "https://sovietscloset.com/video/15217",
+              "id": 15217,
+              "date": "2024-01-29 19:31",
+              "number": 22,
+              "bunnyId": "71ef7ef3-f7bd-47e1-86a8-fb278e9734a9",
               "new": false
             }
           ]
@@ -5047,6 +5056,24 @@
               "date": "2024-01-18 11:19",
               "number": 6,
               "bunnyId": "f665cd55-fb05-40fb-a127-18cedb16f59b",
+              "new": false
+            },
+            {
+              "title": "Dredge #7",
+              "url": "https://sovietscloset.com/video/15213",
+              "id": 15213,
+              "date": "2024-01-26 11:16",
+              "number": 7,
+              "bunnyId": "4abb2497-72d5-4379-9dc5-f212dc6ffa6e",
+              "new": false
+            },
+            {
+              "title": "Dredge #8",
+              "url": "https://sovietscloset.com/video/15214",
+              "id": 15214,
+              "date": "2024-01-29 11:09",
+              "number": 8,
+              "bunnyId": "f2098ab3-0bff-484f-a583-7926d9084f4a",
               "new": false
             }
           ]
@@ -10012,6 +10039,15 @@
               "number": 22,
               "bunnyId": "cc81c925-957d-46fb-a649-edf36e917e80",
               "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #23",
+              "url": "https://sovietscloset.com/video/15215",
+              "id": 15215,
+              "date": "2024-01-26 19:53",
+              "number": 23,
+              "bunnyId": "cbd213c6-c028-4d9a-9004-af63534aba5e",
+              "new": false
             }
           ]
         }
@@ -12474,6 +12510,15 @@
               "date": "2024-01-07 19:59",
               "number": 10,
               "bunnyId": "07daec1d-ced9-48dc-8020-e46a09b3fa03",
+              "new": false
+            },
+            {
+              "title": "Ready or Not #11",
+              "url": "https://sovietscloset.com/video/15216",
+              "id": 15216,
+              "date": "2024-01-28 20:04",
+              "number": 11,
+              "bunnyId": "25027a97-48b1-462c-becf-6eadc0c96dcb",
               "new": false
             }
           ]
@@ -24205,6 +24250,24 @@
               "date": "2023-12-15 11:02",
               "number": 19,
               "bunnyId": "d3c43b94-9743-4eb5-bca2-db15657d5e7e",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #20",
+              "url": "https://sovietscloset.com/video/15218",
+              "id": 15218,
+              "date": "2024-01-30 12:18",
+              "number": 20,
+              "bunnyId": "f399c955-0d04-4d1c-abeb-7de378310d5b",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #21",
+              "url": "https://sovietscloset.com/video/15219",
+              "id": 15219,
+              "date": "2024-01-31 11:07",
+              "number": 21,
+              "bunnyId": "64c00ec6-ba5f-4fe0-9197-a03b68cef0f1",
               "new": false
             }
           ]
