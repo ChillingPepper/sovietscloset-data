@@ -1,6 +1,6 @@
 {
-  "streamId": 15140,
-  "date": "2023-12-04 19:29",
+  "streamId": 15221,
+  "date": "2024-01-24 19:34",
   "game": {
     "name": "Baldur's Gate 3",
     "slug": "Baldur-s-Gate-3"
@@ -124,7 +124,7 @@
       }
     ]
   },
-  "number": 16,
-  "bunnyId": "3b34830a-a145-43f5-ac7e-c3afa6a0c0d0",
+  "number": 26,
+  "bunnyId": "becb368b-2ab2-4bd4-98a3-0b01e31c10b2",
   "useBunny": true
 }

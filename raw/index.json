@@ -1224,6 +1224,30 @@
             "useBunny": true
           },
           {
+            "id": 15225,
+            "date": "2023-12-18 19:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15226,
+            "date": "2024-01-03 19:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15227,
+            "date": "2024-01-08 19:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15228,
+            "date": "2024-01-10 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15206,
             "date": "2024-01-15 19:36",
             "new": false,
@@ -1242,8 +1266,20 @@
             "useBunny": true
           },
           {
+            "id": 15221,
+            "date": "2024-01-24 19:34",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15217,
             "date": "2024-01-29 19:31",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15222,
+            "date": "2024-01-31 19:31",
             "new": false,
             "useBunny": true
           }
@@ -4586,6 +4622,21 @@
           {
             "id": 9109,
             "date": "2019-01-05 14:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9121,
+        "name": "Halo: Reach - Coop",
+        "slug": "Halo-Reach---Coop",
+        "streams": [
+          {
+            "id": 15220,
+            "date": "2024-01-30 19:58",
             "new": false,
             "useBunny": true
           }
@@ -16622,6 +16673,18 @@
           {
             "id": 15219,
             "date": "2024-01-31 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15223,
+            "date": "2024-02-01 11:28",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15224,
+            "date": "2024-02-01 12:01",
             "new": false,
             "useBunny": true
           }

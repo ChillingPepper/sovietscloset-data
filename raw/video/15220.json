@@ -1,0 +1,22 @@
+{
+  "streamId": 15220,
+  "date": "2024-01-30 19:58",
+  "game": {
+    "name": "Halo: The Master Chief Collection",
+    "slug": "Halo-The-Master-Chief-Collection"
+  },
+  "subcategory": {
+    "name": "Halo: Reach - Coop",
+    "slug": "Halo-Reach---Coop",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15220,
+        "date": "2024-01-30 19:58"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "a9655dfa-4c37-4301-9629-90323f9ebc6a",
+  "useBunny": true
+}
