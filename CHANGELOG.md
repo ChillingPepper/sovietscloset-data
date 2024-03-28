@@ -1,5 +1,49 @@
 # Changelog
 
+## 2024-03-28T07:44:39Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15225` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #19](https://sovietscloset.com/video/15225)
+- Added `v15226` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #20](https://sovietscloset.com/video/15226)
+- Added `v15227` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #21](https://sovietscloset.com/video/15227)
+- Added `v15228` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #22](https://sovietscloset.com/video/15228)
+- Modified `v15206` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #23](https://sovietscloset.com/video/15206)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #19` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #23`
+  - Changed number from `19` to `23`
+- Modified `v15207` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #24](https://sovietscloset.com/video/15207)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #20` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #24`
+  - Changed number from `20` to `24`
+- Modified `v15211` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #25](https://sovietscloset.com/video/15211)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #21` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #25`
+  - Changed number from `21` to `25`
+- Added `v15221` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #26](https://sovietscloset.com/video/15221)
+- Modified `v15217` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #27](https://sovietscloset.com/video/15217)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #22` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #27`
+  - Changed number from `22` to `27`
+- Added `v15222` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #28](https://sovietscloset.com/video/15222)
+
+### Modified Game [Halo: The Master Chief Collection](https://sovietscloset.com/Halo-The-Master-Chief-Collection)
+
+#### Added Playlist [Halo: The Master Chief Collection - Halo: Reach - Coop](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-Reach---Coop)
+
+##### Videos
+
+- Added `v15220` [Halo: The Master Chief Collection - Halo: Reach - Coop #1](https://sovietscloset.com/video/15220)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Bacon Bay](https://sovietscloset.com/Valheim/Bacon-Bay)
+
+##### Videos
+
+- Added `v15223` [Valheim - Bacon Bay #22](https://sovietscloset.com/video/15223)
+- Added `v15224` [Valheim - Bacon Bay #23](https://sovietscloset.com/video/15224)
+
 ## 2024-03-26T16:25:36Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

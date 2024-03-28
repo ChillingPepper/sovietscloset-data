@@ -1,5 +1,5 @@
 {
-  "timestamp": 1711470336,
+  "timestamp": 1711611879,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1806,38 +1806,92 @@
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #19",
-              "url": "https://sovietscloset.com/video/15206",
-              "id": 15206,
-              "date": "2024-01-15 19:36",
+              "url": "https://sovietscloset.com/video/15225",
+              "id": 15225,
+              "date": "2023-12-18 19:33",
               "number": 19,
-              "bunnyId": "a818cbf7-6964-4b9b-ae1d-1587cd70e395",
+              "bunnyId": "46177746-c10d-4323-b2d8-2bdaf19e7d5c",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #20",
-              "url": "https://sovietscloset.com/video/15207",
-              "id": 15207,
-              "date": "2024-01-17 19:33",
+              "url": "https://sovietscloset.com/video/15226",
+              "id": 15226,
+              "date": "2024-01-03 19:34",
               "number": 20,
-              "bunnyId": "9a5be7e7-a854-4d38-9d7b-68deca6bdc41",
+              "bunnyId": "3bcfaeb9-efc5-411b-a728-10ddb03d6653",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #21",
-              "url": "https://sovietscloset.com/video/15211",
-              "id": 15211,
-              "date": "2024-01-22 19:32",
+              "url": "https://sovietscloset.com/video/15227",
+              "id": 15227,
+              "date": "2024-01-08 19:32",
               "number": 21,
-              "bunnyId": "687f076b-46c0-40cd-a9c5-7a4f3d02de0f",
+              "bunnyId": "8b32b7ad-a495-482d-b719-9def83117270",
               "new": false
             },
             {
               "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #22",
+              "url": "https://sovietscloset.com/video/15228",
+              "id": 15228,
+              "date": "2024-01-10 20:23",
+              "number": 22,
+              "bunnyId": "3cc43bde-6916-40ff-ab0c-537549d189dd",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #23",
+              "url": "https://sovietscloset.com/video/15206",
+              "id": 15206,
+              "date": "2024-01-15 19:36",
+              "number": 23,
+              "bunnyId": "a818cbf7-6964-4b9b-ae1d-1587cd70e395",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #24",
+              "url": "https://sovietscloset.com/video/15207",
+              "id": 15207,
+              "date": "2024-01-17 19:33",
+              "number": 24,
+              "bunnyId": "9a5be7e7-a854-4d38-9d7b-68deca6bdc41",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #25",
+              "url": "https://sovietscloset.com/video/15211",
+              "id": 15211,
+              "date": "2024-01-22 19:32",
+              "number": 25,
+              "bunnyId": "687f076b-46c0-40cd-a9c5-7a4f3d02de0f",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #26",
+              "url": "https://sovietscloset.com/video/15221",
+              "id": 15221,
+              "date": "2024-01-24 19:34",
+              "number": 26,
+              "bunnyId": "becb368b-2ab2-4bd4-98a3-0b01e31c10b2",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #27",
               "url": "https://sovietscloset.com/video/15217",
               "id": 15217,
               "date": "2024-01-29 19:31",
-              "number": 22,
+              "number": 27,
               "bunnyId": "71ef7ef3-f7bd-47e1-86a8-fb278e9734a9",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #28",
+              "url": "https://sovietscloset.com/video/15222",
+              "id": 15222,
+              "date": "2024-01-31 19:31",
+              "number": 28,
+              "bunnyId": "31a8199b-6fd3-4078-860e-9580c25f574f",
               "new": false
             }
           ]
@@ -6627,6 +6681,25 @@
               "date": "2019-01-05 14:59",
               "number": 2,
               "bunnyId": "e490adda-6318-482b-bf9f-eccd049fbb0f",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Halo: The Master Chief Collection - Halo: Reach - Coop",
+          "url": "https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-Reach---Coop",
+          "name": "Halo: Reach - Coop",
+          "slug": "Halo-Reach---Coop",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Halo: The Master Chief Collection - Halo: Reach - Coop #1",
+              "url": "https://sovietscloset.com/video/15220",
+              "id": 15220,
+              "date": "2024-01-30 19:58",
+              "number": 1,
+              "bunnyId": "a9655dfa-4c37-4301-9629-90323f9ebc6a",
               "new": false
             }
           ]
@@ -24268,6 +24341,24 @@
               "date": "2024-01-31 11:07",
               "number": 21,
               "bunnyId": "64c00ec6-ba5f-4fe0-9197-a03b68cef0f1",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #22",
+              "url": "https://sovietscloset.com/video/15223",
+              "id": 15223,
+              "date": "2024-02-01 11:28",
+              "number": 22,
+              "bunnyId": "33463a7d-a7b3-456a-ad9a-4268e5c7d7d9",
+              "new": false
+            },
+            {
+              "title": "Valheim - Bacon Bay #23",
+              "url": "https://sovietscloset.com/video/15224",
+              "id": 15224,
+              "date": "2024-02-01 12:01",
+              "number": 23,
+              "bunnyId": "85c28504-0006-4d20-99ba-44d1338767b2",
               "new": false
             }
           ]
