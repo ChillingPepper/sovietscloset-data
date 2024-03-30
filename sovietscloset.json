@@ -1,5 +1,5 @@
 {
-  "timestamp": 1711611879,
+  "timestamp": 1711827572,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1892,6 +1892,15 @@
               "date": "2024-01-31 19:31",
               "number": 28,
               "bunnyId": "31a8199b-6fd3-4078-860e-9580c25f574f",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #29",
+              "url": "https://sovietscloset.com/video/15233",
+              "id": 15233,
+              "date": "2024-02-07 20:00",
+              "number": 29,
+              "bunnyId": "b535632b-fd0d-45f9-a4bb-3185dd1e2650",
               "new": false
             }
           ]
@@ -5037,6 +5046,24 @@
               "number": 23,
               "bunnyId": "dee4c5fd-de70-4217-9cc3-9886d1ceb52e",
               "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #24",
+              "url": "https://sovietscloset.com/video/15236",
+              "id": 15236,
+              "date": "2024-02-05 20:25",
+              "number": 24,
+              "bunnyId": "d51fc48b-1130-4564-bc61-4ad8323a92fe",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #25",
+              "url": "https://sovietscloset.com/video/15235",
+              "id": 15235,
+              "date": "2024-02-06 10:58",
+              "number": 25,
+              "bunnyId": "8c884be1-e297-4f78-a191-2f6bcbf183db",
+              "new": false
             }
           ]
         }
@@ -6700,6 +6727,15 @@
               "date": "2024-01-30 19:58",
               "number": 1,
               "bunnyId": "a9655dfa-4c37-4301-9629-90323f9ebc6a",
+              "new": false
+            },
+            {
+              "title": "Halo: The Master Chief Collection - Halo: Reach - Coop #2",
+              "url": "https://sovietscloset.com/video/15237",
+              "id": 15237,
+              "date": "2024-02-06 20:06",
+              "number": 2,
+              "bunnyId": "1d5606b3-2578-40de-8b42-f041436c3576",
               "new": false
             }
           ]
@@ -8514,6 +8550,15 @@
               "number": 190,
               "bunnyId": "4ef00652-6f21-4696-a68b-f3cd4a5acc9b",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #191",
+              "url": "https://sovietscloset.com/video/15230",
+              "id": 15230,
+              "date": "2024-02-01 20:55",
+              "number": 191,
+              "bunnyId": "aa4d2e62-cedf-42cb-a4d8-e1850800eb74",
+              "new": false
             }
           ]
         }
@@ -10106,20 +10151,38 @@
             },
             {
               "title": "Left 4 Dead 2 - Versus #22",
-              "url": "https://sovietscloset.com/video/15210",
-              "id": 15210,
-              "date": "2024-01-19 20:01",
+              "url": "https://sovietscloset.com/video/15229",
+              "id": 15229,
+              "date": "2024-01-12 20:02",
               "number": 22,
-              "bunnyId": "cc81c925-957d-46fb-a649-edf36e917e80",
+              "bunnyId": "96c84d47-4172-455c-bc73-8ac43395b5d6",
               "new": false
             },
             {
               "title": "Left 4 Dead 2 - Versus #23",
+              "url": "https://sovietscloset.com/video/15210",
+              "id": 15210,
+              "date": "2024-01-19 20:01",
+              "number": 23,
+              "bunnyId": "cc81c925-957d-46fb-a649-edf36e917e80",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #24",
               "url": "https://sovietscloset.com/video/15215",
               "id": 15215,
               "date": "2024-01-26 19:53",
-              "number": 23,
+              "number": 24,
               "bunnyId": "cbd213c6-c028-4d9a-9004-af63534aba5e",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #25",
+              "url": "https://sovietscloset.com/video/15234",
+              "id": 15234,
+              "date": "2024-02-02 19:58",
+              "number": 25,
+              "bunnyId": "33c7ac65-0f2f-45c6-a47a-c30ec3c41d30",
               "new": false
             }
           ]
@@ -24142,6 +24205,24 @@
               "date": "2023-03-10 11:02",
               "number": 38,
               "bunnyId": "6e62698f-4f20-4035-a694-49e4eb538300",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #39",
+              "url": "https://sovietscloset.com/video/15232",
+              "id": 15232,
+              "date": "2024-02-02 11:01",
+              "number": 39,
+              "bunnyId": "c034f64f-1472-47fd-a6c8-4bee19041bac",
+              "new": false
+            },
+            {
+              "title": "Valheim - The Village of Knobheim #40",
+              "url": "https://sovietscloset.com/video/15231",
+              "id": 15231,
+              "date": "2024-02-05 11:18",
+              "number": 40,
+              "bunnyId": "fe1a142b-f226-4163-a9ef-a7ea3d033cc9",
               "new": false
             }
           ]

@@ -1,5 +1,64 @@
 # Changelog
 
+## 2024-03-30T19:39:32Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15233` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #29](https://sovietscloset.com/video/15233)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15236` [Divinity: Original Sin 2 - Audio gathering solo play #24](https://sovietscloset.com/video/15236)
+- Added `v15235` [Divinity: Original Sin 2 - Audio gathering solo play #25](https://sovietscloset.com/video/15235)
+
+### Modified Game [Halo: The Master Chief Collection](https://sovietscloset.com/Halo-The-Master-Chief-Collection)
+
+#### Modified Playlist [Halo: The Master Chief Collection - Halo: Reach - Coop](https://sovietscloset.com/Halo-The-Master-Chief-Collection/Halo-Reach---Coop)
+
+##### Videos
+
+- Added `v15237` [Halo: The Master Chief Collection - Halo: Reach - Coop #2](https://sovietscloset.com/video/15237)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15230` [Holdfast: Nations at War #191](https://sovietscloset.com/video/15230)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15229` [Left 4 Dead 2 - Versus #22](https://sovietscloset.com/video/15229)
+- Modified `v15210` [Left 4 Dead 2 - Versus #23](https://sovietscloset.com/video/15210)
+  - Changed title from `Left 4 Dead 2 - Versus #22` to `Left 4 Dead 2 - Versus #23`
+  - Changed number from `22` to `23`
+- Modified `v15215` [Left 4 Dead 2 - Versus #24](https://sovietscloset.com/video/15215)
+  - Changed title from `Left 4 Dead 2 - Versus #23` to `Left 4 Dead 2 - Versus #24`
+  - Changed number from `23` to `24`
+- Added `v15234` [Left 4 Dead 2 - Versus #25](https://sovietscloset.com/video/15234)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - The Village of Knobheim](https://sovietscloset.com/Valheim/The-Village-of-Knobheim)
+
+##### Videos
+
+- Added `v15232` [Valheim - The Village of Knobheim #39](https://sovietscloset.com/video/15232)
+- Added `v15231` [Valheim - The Village of Knobheim #40](https://sovietscloset.com/video/15231)
+
 ## 2024-03-28T07:44:39Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
