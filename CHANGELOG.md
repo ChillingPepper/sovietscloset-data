@@ -1,5 +1,19 @@
 # Changelog
 
+## 2024-04-02T19:14:19Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15238` [Rimworld - The Pale Ones #123](https://sovietscloset.com/video/15238)
+- Added `v15239` [Rimworld - The Pale Ones #124](https://sovietscloset.com/video/15239)
+- Added `v15240` [Rimworld - The Pale Ones #125](https://sovietscloset.com/video/15240)
+- Added `v15241` [Rimworld - The Pale Ones #126](https://sovietscloset.com/video/15241)
+- Added `v15242` [Rimworld - The Pale Ones #127](https://sovietscloset.com/video/15242)
+
 ## 2024-03-30T19:39:32Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
