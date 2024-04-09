@@ -1,5 +1,34 @@
 # Changelog
 
+## 2024-04-09T18:34:41Z
+
+### Added Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Added Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15247` [Helldivers 2 #1](https://sovietscloset.com/video/15247)
+- Added `v15244` [Helldivers 2 #2](https://sovietscloset.com/video/15244)
+- Added `v15245` [Helldivers 2 #3](https://sovietscloset.com/video/15245)
+- Added `v15246` [Helldivers 2 #4](https://sovietscloset.com/video/15246)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15248` [Holdfast: Nations at War #192](https://sovietscloset.com/video/15248)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15243` [Left 4 Dead 2 - Versus #26](https://sovietscloset.com/video/15243)
+
 ## 2024-04-02T19:14:19Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)

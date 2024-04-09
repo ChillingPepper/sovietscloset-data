@@ -1,5 +1,5 @@
 {
-  "timestamp": 1712085259,
+  "timestamp": 1712687681,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6835,6 +6835,62 @@
       ]
     },
     {
+      "title": "Helldivers 2",
+      "url": "https://sovietscloset.com/Helldivers-2",
+      "name": "Helldivers 2",
+      "slug": "Helldivers-2",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Helldivers 2",
+          "url": "https://sovietscloset.com/Helldivers-2",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Helldivers 2 #1",
+              "url": "https://sovietscloset.com/video/15247",
+              "id": 15247,
+              "date": "2024-02-21 19:30",
+              "number": 1,
+              "bunnyId": "02e801b1-4937-4c6b-8c55-74c68767e885",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #2",
+              "url": "https://sovietscloset.com/video/15244",
+              "id": 15244,
+              "date": "2024-02-22 21:59",
+              "number": 2,
+              "bunnyId": "e27d5307-5043-4bbb-a9e7-7688ae5f10da",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #3",
+              "url": "https://sovietscloset.com/video/15245",
+              "id": 15245,
+              "date": "2024-02-23 20:01",
+              "number": 3,
+              "bunnyId": "2ca814a8-2e80-443e-b796-2aa78d2c6e49",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #4",
+              "url": "https://sovietscloset.com/video/15246",
+              "id": 15246,
+              "date": "2024-02-24 20:03",
+              "number": 4,
+              "bunnyId": "fe465f19-dd01-4694-b768-401af9822daa",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Holdfast: Nations at War",
       "url": "https://sovietscloset.com/Holdfast-Nations-at-War",
       "name": "Holdfast: Nations at War",
@@ -8559,6 +8615,15 @@
               "number": 191,
               "bunnyId": "aa4d2e62-cedf-42cb-a4d8-e1850800eb74",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #192",
+              "url": "https://sovietscloset.com/video/15248",
+              "id": 15248,
+              "date": "2024-02-22 20:49",
+              "number": 192,
+              "bunnyId": "b370b467-e479-4153-8e33-715af8dd3678",
+              "new": false
             }
           ]
         }
@@ -10183,6 +10248,15 @@
               "date": "2024-02-02 19:58",
               "number": 25,
               "bunnyId": "33c7ac65-0f2f-45c6-a47a-c30ec3c41d30",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #26",
+              "url": "https://sovietscloset.com/video/15243",
+              "id": 15243,
+              "date": "2024-02-09 20:01",
+              "number": 26,
+              "bunnyId": "1ec0b63b-08c9-4d7f-9e46-7bdd3071ff2f",
               "new": false
             }
           ]
