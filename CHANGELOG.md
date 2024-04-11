@@ -1,5 +1,42 @@
 # Changelog
 
+## 2024-04-11T18:03:46Z
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15250` [Helldivers 2 #5](https://sovietscloset.com/video/15250)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15255` [Holdfast: Nations at War #193](https://sovietscloset.com/video/15255)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15249` [Ready or Not #12](https://sovietscloset.com/video/15249)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15252` [Rimworld - The Pale Ones #128](https://sovietscloset.com/video/15252)
+- Added `v15254` [Rimworld - The Pale Ones #129](https://sovietscloset.com/video/15254)
+- Added `v15253` [Rimworld - The Pale Ones #130](https://sovietscloset.com/video/15253)
+- Added `v15251` [Rimworld - The Pale Ones #131](https://sovietscloset.com/video/15251)
+
 ## 2024-04-09T18:34:41Z
 
 ### Added Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
