@@ -1,0 +1,22 @@
+{
+  "streamId": 15262,
+  "date": "2024-03-18 11:06",
+  "game": {
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not"
+  },
+  "subcategory": {
+    "name": "Solo with bots",
+    "slug": "Solo-with-bots",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15262,
+        "date": "2024-03-18 11:06"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "0d8f5fa1-0f39-4af0-90b4-6565f57ef00d",
+  "useBunny": true
+}

@@ -1,0 +1,46 @@
+{
+  "streamId": 15258,
+  "date": "2024-03-04 20:00",
+  "game": {
+    "name": "Helldivers 2",
+    "slug": "Helldivers-2"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15247,
+        "date": "2024-02-21 19:30"
+      },
+      {
+        "streamId": 15244,
+        "date": "2024-02-22 21:59"
+      },
+      {
+        "streamId": 15245,
+        "date": "2024-02-23 20:01"
+      },
+      {
+        "streamId": 15246,
+        "date": "2024-02-24 20:03"
+      },
+      {
+        "streamId": 15250,
+        "date": "2024-02-26 20:00"
+      },
+      {
+        "streamId": 15258,
+        "date": "2024-03-04 20:00"
+      },
+      {
+        "streamId": 15260,
+        "date": "2024-03-14 20:03"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "d3e1f993-901a-4df4-8b8e-8a8deeea1d2d",
+  "useBunny": true
+}

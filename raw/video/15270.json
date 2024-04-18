@@ -1,0 +1,22 @@
+{
+  "streamId": 15270,
+  "date": "2024-03-21 19:36",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Liberation",
+    "slug": "Liberation",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15270,
+        "date": "2024-03-21 19:36"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "ce1a8246-1c8e-4952-9807-57a6f3a5f4f7",
+  "useBunny": true
+}
