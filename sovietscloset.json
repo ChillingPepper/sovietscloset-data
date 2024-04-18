@@ -1,5 +1,5 @@
 {
-  "timestamp": 1712858626,
+  "timestamp": 1713476246,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1623,6 +1623,25 @@
               "new": false
             }
           ]
+        },
+        {
+          "title": "Arma 3 - Liberation",
+          "url": "https://sovietscloset.com/Arma-3/Liberation",
+          "name": "Liberation",
+          "slug": "Liberation",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Arma 3 - Liberation #1",
+              "url": "https://sovietscloset.com/video/15270",
+              "id": 15270,
+              "date": "2024-03-21 19:36",
+              "number": 1,
+              "bunnyId": "ce1a8246-1c8e-4952-9807-57a6f3a5f4f7",
+              "new": false
+            }
+          ]
         }
       ]
     },
@@ -1901,6 +1920,24 @@
               "date": "2024-02-07 20:00",
               "number": 29,
               "bunnyId": "b535632b-fd0d-45f9-a4bb-3185dd1e2650",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #30",
+              "url": "https://sovietscloset.com/video/15259",
+              "id": 15259,
+              "date": "2024-03-06 19:30",
+              "number": 30,
+              "bunnyId": "4c37b10a-3872-45ce-9718-2bc092d87e88",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #31",
+              "url": "https://sovietscloset.com/video/15263",
+              "id": 15263,
+              "date": "2024-03-18 19:30",
+              "number": 31,
+              "bunnyId": "c2b461a4-687c-405f-995d-e47c5b82e2b7",
               "new": false
             }
           ]
@@ -5064,6 +5101,87 @@
               "number": 25,
               "bunnyId": "8c884be1-e297-4f78-a191-2f6bcbf183db",
               "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #26",
+              "url": "https://sovietscloset.com/video/15265",
+              "id": 15265,
+              "date": "2024-03-19 11:16",
+              "number": 26,
+              "bunnyId": "20f0b32f-d178-42ad-a789-0390b085e92d",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #27",
+              "url": "https://sovietscloset.com/video/15264",
+              "id": 15264,
+              "date": "2024-03-19 20:13",
+              "number": 27,
+              "bunnyId": "b1af27e9-1ade-4a37-b042-377d6e414702",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #28",
+              "url": "https://sovietscloset.com/video/15267",
+              "id": 15267,
+              "date": "2024-03-20 11:20",
+              "number": 28,
+              "bunnyId": "8088d61d-8fa2-4de7-bb9a-bd35397d9579",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #29",
+              "url": "https://sovietscloset.com/video/15266",
+              "id": 15266,
+              "date": "2024-03-20 20:11",
+              "number": 29,
+              "bunnyId": "33fbbf39-84ac-4964-9ad1-1c8b1ec68a60",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #30",
+              "url": "https://sovietscloset.com/video/15269",
+              "id": 15269,
+              "date": "2024-03-21 11:10",
+              "number": 30,
+              "bunnyId": "0b15d2f3-1845-4631-bf15-6c3105b3fd8c",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #31",
+              "url": "https://sovietscloset.com/video/15268",
+              "id": 15268,
+              "date": "2024-03-22 11:02",
+              "number": 31,
+              "bunnyId": "0d33621b-fa97-4a42-b7fc-680c56a357f5",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #32",
+              "url": "https://sovietscloset.com/video/15271",
+              "id": 15271,
+              "date": "2024-03-22 20:16",
+              "number": 32,
+              "bunnyId": "39b11893-74c9-45ec-84e1-752aab00150a",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #33",
+              "url": "https://sovietscloset.com/video/15273",
+              "id": 15273,
+              "date": "2024-03-23 14:14",
+              "number": 33,
+              "bunnyId": "b03014a2-0127-4ec5-a77f-3fec8b9ef4d6",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #34",
+              "url": "https://sovietscloset.com/video/15272",
+              "id": 15272,
+              "date": "2024-03-23 21:44",
+              "number": 34,
+              "bunnyId": "e5b04a41-ddc2-4079-af6b-fae8797f94cd",
+              "new": false
             }
           ]
         }
@@ -6893,6 +7011,24 @@
               "date": "2024-02-26 20:00",
               "number": 5,
               "bunnyId": "9565fae2-cc8a-42eb-b02a-9954707080ac",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #6",
+              "url": "https://sovietscloset.com/video/15258",
+              "id": 15258,
+              "date": "2024-03-04 20:00",
+              "number": 6,
+              "bunnyId": "d3e1f993-901a-4df4-8b8e-8a8deeea1d2d",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #7",
+              "url": "https://sovietscloset.com/video/15260",
+              "id": 15260,
+              "date": "2024-03-14 20:03",
+              "number": 7,
+              "bunnyId": "2fdb85dc-a730-4703-b2a8-050349c58a23",
               "new": false
             }
           ]
@@ -12757,6 +12893,43 @@
               "number": 12,
               "bunnyId": "2be5625a-f591-4b28-b4fe-5f4580e95e5e",
               "new": false
+            },
+            {
+              "title": "Ready or Not #13",
+              "url": "https://sovietscloset.com/video/15257",
+              "id": 15257,
+              "date": "2024-03-03 19:59",
+              "number": 13,
+              "bunnyId": "d4b83b58-90f0-406c-a3cc-5a16ee42c7c7",
+              "new": false
+            },
+            {
+              "title": "Ready or Not #14",
+              "url": "https://sovietscloset.com/video/15261",
+              "id": 15261,
+              "date": "2024-03-17 20:07",
+              "number": 14,
+              "bunnyId": "7fe06c3a-538b-426f-8654-3632638de8ee",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Ready or Not - Solo with bots",
+          "url": "https://sovietscloset.com/Ready-or-Not/Solo-with-bots",
+          "name": "Solo with bots",
+          "slug": "Solo-with-bots",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Ready or Not - Solo with bots #1",
+              "url": "https://sovietscloset.com/video/15262",
+              "id": 15262,
+              "date": "2024-03-18 11:06",
+              "number": 1,
+              "bunnyId": "0d8f5fa1-0f39-4af0-90b4-6565f57ef00d",
+              "new": false
             }
           ]
         }
@@ -15914,6 +16087,15 @@
               "date": "2024-02-29 11:04",
               "number": 131,
               "bunnyId": "9756a801-e523-412a-a422-ec827a6cfcb1",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #132",
+              "url": "https://sovietscloset.com/video/15256",
+              "id": 15256,
+              "date": "2024-03-01 11:10",
+              "number": 132,
+              "bunnyId": "34ec8597-ee8c-4b3b-941d-ea36db94a679",
               "new": false
             }
           ]

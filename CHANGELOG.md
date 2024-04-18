@@ -1,5 +1,72 @@
 # Changelog
 
+## 2024-04-18T21:37:26Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Added Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15270` [Arma 3 - Liberation #1](https://sovietscloset.com/video/15270)
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15259` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #30](https://sovietscloset.com/video/15259)
+- Added `v15263` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #31](https://sovietscloset.com/video/15263)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15265` [Divinity: Original Sin 2 - Audio gathering solo play #26](https://sovietscloset.com/video/15265)
+- Added `v15264` [Divinity: Original Sin 2 - Audio gathering solo play #27](https://sovietscloset.com/video/15264)
+- Added `v15267` [Divinity: Original Sin 2 - Audio gathering solo play #28](https://sovietscloset.com/video/15267)
+- Added `v15266` [Divinity: Original Sin 2 - Audio gathering solo play #29](https://sovietscloset.com/video/15266)
+- Added `v15269` [Divinity: Original Sin 2 - Audio gathering solo play #30](https://sovietscloset.com/video/15269)
+- Added `v15268` [Divinity: Original Sin 2 - Audio gathering solo play #31](https://sovietscloset.com/video/15268)
+- Added `v15271` [Divinity: Original Sin 2 - Audio gathering solo play #32](https://sovietscloset.com/video/15271)
+- Added `v15273` [Divinity: Original Sin 2 - Audio gathering solo play #33](https://sovietscloset.com/video/15273)
+- Added `v15272` [Divinity: Original Sin 2 - Audio gathering solo play #34](https://sovietscloset.com/video/15272)
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15258` [Helldivers 2 #6](https://sovietscloset.com/video/15258)
+- Added `v15260` [Helldivers 2 #7](https://sovietscloset.com/video/15260)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15257` [Ready or Not #13](https://sovietscloset.com/video/15257)
+- Added `v15261` [Ready or Not #14](https://sovietscloset.com/video/15261)
+
+#### Added Playlist [Ready or Not - Solo with bots](https://sovietscloset.com/Ready-or-Not/Solo-with-bots)
+
+##### Videos
+
+- Added `v15262` [Ready or Not - Solo with bots #1](https://sovietscloset.com/video/15262)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15256` [Rimworld - The Pale Ones #132](https://sovietscloset.com/video/15256)
+
 ## 2024-04-11T18:03:46Z
 
 ### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
