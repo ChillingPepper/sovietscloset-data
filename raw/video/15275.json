@@ -1,0 +1,146 @@
+{
+  "streamId": 15275,
+  "date": "2024-03-27 19:32",
+  "game": {
+    "name": "Baldur's Gate 3",
+    "slug": "Baldur-s-Gate-3"
+  },
+  "subcategory": {
+    "name": "First playthrough - Soviet, Quebec, Social and Digby",
+    "slug": "First-playthrough---Soviet-Quebec-Social-and-Digby",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15036,
+        "date": "2023-09-25 19:27"
+      },
+      {
+        "streamId": 15136,
+        "date": "2023-10-02 19:29"
+      },
+      {
+        "streamId": 15137,
+        "date": "2023-10-09 19:31"
+      },
+      {
+        "streamId": 15080,
+        "date": "2023-10-16 19:32"
+      },
+      {
+        "streamId": 15142,
+        "date": "2023-10-23 19:27"
+      },
+      {
+        "streamId": 15138,
+        "date": "2023-10-25 19:30"
+      },
+      {
+        "streamId": 15139,
+        "date": "2023-10-30 19:33"
+      },
+      {
+        "streamId": 15099,
+        "date": "2023-11-01 19:33"
+      },
+      {
+        "streamId": 15101,
+        "date": "2023-11-06 19:32"
+      },
+      {
+        "streamId": 15115,
+        "date": "2023-11-13 19:33"
+      },
+      {
+        "streamId": 15135,
+        "date": "2023-11-13 19:33"
+      },
+      {
+        "streamId": 15114,
+        "date": "2023-11-20 19:32"
+      },
+      {
+        "streamId": 15126,
+        "date": "2023-11-22 19:30"
+      },
+      {
+        "streamId": 15134,
+        "date": "2023-11-27 19:30"
+      },
+      {
+        "streamId": 15141,
+        "date": "2023-11-29 19:34"
+      },
+      {
+        "streamId": 15140,
+        "date": "2023-12-04 19:29"
+      },
+      {
+        "streamId": 15166,
+        "date": "2023-12-06 19:41"
+      },
+      {
+        "streamId": 15177,
+        "date": "2023-12-13 19:32"
+      },
+      {
+        "streamId": 15225,
+        "date": "2023-12-18 19:33"
+      },
+      {
+        "streamId": 15226,
+        "date": "2024-01-03 19:34"
+      },
+      {
+        "streamId": 15227,
+        "date": "2024-01-08 19:32"
+      },
+      {
+        "streamId": 15228,
+        "date": "2024-01-10 20:23"
+      },
+      {
+        "streamId": 15206,
+        "date": "2024-01-15 19:36"
+      },
+      {
+        "streamId": 15207,
+        "date": "2024-01-17 19:33"
+      },
+      {
+        "streamId": 15211,
+        "date": "2024-01-22 19:32"
+      },
+      {
+        "streamId": 15221,
+        "date": "2024-01-24 19:34"
+      },
+      {
+        "streamId": 15217,
+        "date": "2024-01-29 19:31"
+      },
+      {
+        "streamId": 15222,
+        "date": "2024-01-31 19:31"
+      },
+      {
+        "streamId": 15233,
+        "date": "2024-02-07 20:00"
+      },
+      {
+        "streamId": 15259,
+        "date": "2024-03-06 19:30"
+      },
+      {
+        "streamId": 15263,
+        "date": "2024-03-18 19:30"
+      },
+      {
+        "streamId": 15275,
+        "date": "2024-03-27 19:32"
+      }
+    ]
+  },
+  "number": 32,
+  "bunnyId": "0a9cf806-885c-4adf-8f69-c517c9527478",
+  "useBunny": true
+}

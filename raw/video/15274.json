@@ -1,0 +1,78 @@
+{
+  "streamId": 15274,
+  "date": "2024-03-24 19:59",
+  "game": {
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 10197,
+        "date": "2021-12-23 19:52"
+      },
+      {
+        "streamId": 10196,
+        "date": "2021-12-28 19:50"
+      },
+      {
+        "streamId": 13089,
+        "date": "2021-12-30 19:56"
+      },
+      {
+        "streamId": 12091,
+        "date": "2022-01-04 20:00"
+      },
+      {
+        "streamId": 12104,
+        "date": "2022-01-11 20:12"
+      },
+      {
+        "streamId": 14356,
+        "date": "2022-02-01 19:59"
+      },
+      {
+        "streamId": 14435,
+        "date": "2022-07-05 20:00"
+      },
+      {
+        "streamId": 15186,
+        "date": "2023-12-16 19:59"
+      },
+      {
+        "streamId": 15198,
+        "date": "2024-01-06 20:03"
+      },
+      {
+        "streamId": 15199,
+        "date": "2024-01-07 19:59"
+      },
+      {
+        "streamId": 15216,
+        "date": "2024-01-28 20:04"
+      },
+      {
+        "streamId": 15249,
+        "date": "2024-02-25 19:56"
+      },
+      {
+        "streamId": 15257,
+        "date": "2024-03-03 19:59"
+      },
+      {
+        "streamId": 15261,
+        "date": "2024-03-17 20:07"
+      },
+      {
+        "streamId": 15274,
+        "date": "2024-03-24 19:59"
+      }
+    ]
+  },
+  "number": 15,
+  "bunnyId": "6ea460a6-b214-4a5b-b2a9-3cb2978b728d",
+  "useBunny": true
+}
