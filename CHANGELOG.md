@@ -1,5 +1,45 @@
 # Changelog
 
+## 2024-04-21T17:36:07Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15275` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #32](https://sovietscloset.com/video/15275)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15276` [Divinity: Original Sin 2 - Audio gathering solo play #35](https://sovietscloset.com/video/15276)
+- Added `v15277` [Divinity: Original Sin 2 - Audio gathering solo play #36](https://sovietscloset.com/video/15277)
+- Added `v15278` [Divinity: Original Sin 2 - Audio gathering solo play #37](https://sovietscloset.com/video/15278)
+- Added `v15279` [Divinity: Original Sin 2 - Audio gathering solo play #38](https://sovietscloset.com/video/15279)
+- Added `v15280` [Divinity: Original Sin 2 - Audio gathering solo play #39](https://sovietscloset.com/video/15280)
+- Added `v15283` [Divinity: Original Sin 2 - Audio gathering solo play #40](https://sovietscloset.com/video/15283)
+- Added `v15282` [Divinity: Original Sin 2 - Audio gathering solo play #41](https://sovietscloset.com/video/15282)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15281` [Holdfast: Nations at War #194](https://sovietscloset.com/video/15281)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Modified Playlist [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+##### Videos
+
+- Added `v15274` [Ready or Not #15](https://sovietscloset.com/video/15274)
+
 ## 2024-04-18T21:37:26Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
