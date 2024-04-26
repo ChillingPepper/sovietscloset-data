@@ -1,5 +1,31 @@
 # Changelog
 
+## 2024-04-26T17:14:35Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15286` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #33](https://sovietscloset.com/video/15286)
+
+### Modified Game [Ready or Not](https://sovietscloset.com/Ready-or-Not)
+
+#### Added Playlist [Ready or Not - PvP](https://sovietscloset.com/Ready-or-Not/PvP)
+
+##### Videos
+
+- Added `v15285` [Ready or Not - PvP #1](https://sovietscloset.com/video/15285)
+
+### Added Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Added Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15284` [Warhammer 40k: Dawn of War - Multiplayer #1](https://sovietscloset.com/video/15284)
+
 ## 2024-04-21T17:36:07Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

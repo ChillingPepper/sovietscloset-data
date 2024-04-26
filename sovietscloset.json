@@ -1,5 +1,5 @@
 {
-  "timestamp": 1713720967,
+  "timestamp": 1714151675,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1947,6 +1947,15 @@
               "date": "2024-03-27 19:32",
               "number": 32,
               "bunnyId": "0a9cf806-885c-4adf-8f69-c517c9527478",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #33",
+              "url": "https://sovietscloset.com/video/15286",
+              "id": 15286,
+              "date": "2024-04-01 19:41",
+              "number": 33,
+              "bunnyId": "d1cf910c-095d-458a-9966-092490c2675b",
               "new": false
             }
           ]
@@ -13019,6 +13028,25 @@
               "date": "2024-03-18 11:06",
               "number": 1,
               "bunnyId": "0d8f5fa1-0f39-4af0-90b4-6565f57ef00d",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Ready or Not - PvP",
+          "url": "https://sovietscloset.com/Ready-or-Not/PvP",
+          "name": "PvP",
+          "slug": "PvP",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Ready or Not - PvP #1",
+              "url": "https://sovietscloset.com/video/15285",
+              "id": 15285,
+              "date": "2024-03-31 20:06",
+              "number": 1,
+              "bunnyId": "f62ef823-ef5e-4e63-b6ea-a8c6739e5d09",
               "new": false
             }
           ]
@@ -26632,6 +26660,35 @@
               "date": "2023-10-18 10:42",
               "number": 28,
               "bunnyId": "b705fa14-6160-47bd-aec1-8a9a057a075a",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Warhammer 40k: Dawn of War",
+      "url": "https://sovietscloset.com/Warhammer-40k-Dawn-of-War",
+      "name": "Warhammer 40k: Dawn of War",
+      "slug": "Warhammer-40k-Dawn-of-War",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Warhammer 40k: Dawn of War - Multiplayer",
+          "url": "https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer",
+          "name": "Multiplayer",
+          "slug": "Multiplayer",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #1",
+              "url": "https://sovietscloset.com/video/15284",
+              "id": 15284,
+              "date": "2024-03-30 18:58",
+              "number": 1,
+              "bunnyId": "e9ade631-c84a-49ad-be09-185d972f063d",
               "new": false
             }
           ]
