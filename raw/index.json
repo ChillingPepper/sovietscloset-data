@@ -1321,6 +1321,12 @@
             "date": "2024-03-27 19:32",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15286,
+            "date": "2024-04-01 19:41",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -8978,6 +8984,21 @@
           {
             "id": 15262,
             "date": "2024-03-18 11:06",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9126,
+        "name": "PvP",
+        "slug": "PvP",
+        "streams": [
+          {
+            "id": 15285,
+            "date": "2024-03-31 20:06",
             "new": false,
             "useBunny": true
           }
@@ -18275,6 +18296,30 @@
           {
             "id": 15084,
             "date": "2023-10-18 10:42",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9097,
+    "name": "Warhammer 40k: Dawn of War",
+    "slug": "Warhammer-40k-Dawn-of-War",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9125,
+        "name": "Multiplayer",
+        "slug": "Multiplayer",
+        "streams": [
+          {
+            "id": 15284,
+            "date": "2024-03-30 18:58",
             "new": false,
             "useBunny": true
           }

@@ -1,0 +1,22 @@
+{
+  "streamId": 15285,
+  "date": "2024-03-31 20:06",
+  "game": {
+    "name": "Ready or Not",
+    "slug": "Ready-or-Not"
+  },
+  "subcategory": {
+    "name": "PvP",
+    "slug": "PvP",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15285,
+        "date": "2024-03-31 20:06"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "f62ef823-ef5e-4e63-b6ea-a8c6739e5d09",
+  "useBunny": true
+}
