@@ -1,5 +1,55 @@
 # Changelog
 
+## 2024-05-11T13:58:23Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15291` [Arma 3 - Liberation #2](https://sovietscloset.com/video/15291)
+- Added `v15298` [Arma 3 - Liberation #3](https://sovietscloset.com/video/15298)
+- Added `v15297` [Arma 3 - Liberation #4](https://sovietscloset.com/video/15297)
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15289` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #34](https://sovietscloset.com/video/15289)
+- Added `v15296` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #35](https://sovietscloset.com/video/15296)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v15288` [Kerbal Space Program #105](https://sovietscloset.com/video/15288)
+- Added `v15287` [Kerbal Space Program #106](https://sovietscloset.com/video/15287)
+- Added `v15290` [Kerbal Space Program #107](https://sovietscloset.com/video/15290)
+- Added `v15292` [Kerbal Space Program #108](https://sovietscloset.com/video/15292)
+- Added `v15295` [Kerbal Space Program #109](https://sovietscloset.com/video/15295)
+- Added `v15299` [Kerbal Space Program #110](https://sovietscloset.com/video/15299)
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v15293` [VR Walkabout Mini Golf #29](https://sovietscloset.com/video/15293)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15294` [Warhammer 40k: Dawn of War - Multiplayer #2](https://sovietscloset.com/video/15294)
+
 ## 2024-04-26T17:14:35Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

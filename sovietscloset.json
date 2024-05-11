@@ -1,5 +1,5 @@
 {
-  "timestamp": 1714151675,
+  "timestamp": 1715435903,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1640,6 +1640,33 @@
               "number": 1,
               "bunnyId": "ce1a8246-1c8e-4952-9807-57a6f3a5f4f7",
               "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #2",
+              "url": "https://sovietscloset.com/video/15291",
+              "id": 15291,
+              "date": "2024-04-04 19:49",
+              "number": 2,
+              "bunnyId": "bf8bc16d-a3ba-4af7-9d8a-f79d5b24ff2c",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #3",
+              "url": "https://sovietscloset.com/video/15298",
+              "id": 15298,
+              "date": "2024-04-09 19:31",
+              "number": 3,
+              "bunnyId": "8a4d4759-2a1e-4ab1-b46b-cec5bb28daaf",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #4",
+              "url": "https://sovietscloset.com/video/15297",
+              "id": 15297,
+              "date": "2024-04-09 20:56",
+              "number": 4,
+              "bunnyId": "55294f3c-8412-43b2-aaea-cfe71e65ab3f",
+              "new": false
             }
           ]
         }
@@ -1956,6 +1983,24 @@
               "date": "2024-04-01 19:41",
               "number": 33,
               "bunnyId": "d1cf910c-095d-458a-9966-092490c2675b",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #34",
+              "url": "https://sovietscloset.com/video/15289",
+              "id": 15289,
+              "date": "2024-04-03 19:39",
+              "number": 34,
+              "bunnyId": "f48e6f15-ada7-449a-b761-3a9c1a06dcdb",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #35",
+              "url": "https://sovietscloset.com/video/15296",
+              "id": 15296,
+              "date": "2024-04-08 19:27",
+              "number": 35,
+              "bunnyId": "70bd3f7d-26cd-4d81-8908-075aab51f9e0",
               "new": false
             }
           ]
@@ -10081,6 +10126,60 @@
               "date": "2023-08-25 11:20",
               "number": 104,
               "bunnyId": "a1ab9c4a-8359-4ec3-b6c4-a2cac514fb3c",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #105",
+              "url": "https://sovietscloset.com/video/15288",
+              "id": 15288,
+              "date": "2024-04-02 11:24",
+              "number": 105,
+              "bunnyId": "12c8a8c4-6ab0-4ff7-ade4-67a2e3b1fb5e",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #106",
+              "url": "https://sovietscloset.com/video/15287",
+              "id": 15287,
+              "date": "2024-04-02 20:15",
+              "number": 106,
+              "bunnyId": "a70399d5-848d-4508-9646-477eeeab357b",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #107",
+              "url": "https://sovietscloset.com/video/15290",
+              "id": 15290,
+              "date": "2024-04-04 11:13",
+              "number": 107,
+              "bunnyId": "9ddad8fe-95b8-4cd6-8ae3-3ae3a4ce0217",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #108",
+              "url": "https://sovietscloset.com/video/15292",
+              "id": 15292,
+              "date": "2024-04-05 11:13",
+              "number": 108,
+              "bunnyId": "389acb3b-d8e6-42a3-b3bc-ab45fbc86bfa",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #109",
+              "url": "https://sovietscloset.com/video/15295",
+              "id": 15295,
+              "date": "2024-04-08 11:05",
+              "number": 109,
+              "bunnyId": "e0d40a1d-aa1a-49ca-94b8-482d8f38dc41",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #110",
+              "url": "https://sovietscloset.com/video/15299",
+              "id": 15299,
+              "date": "2024-04-10 11:07",
+              "number": 110,
+              "bunnyId": "b204607a-d351-4abc-9d0a-4c7df51ec5c6",
               "new": false
             }
           ]
@@ -26661,6 +26760,15 @@
               "number": 28,
               "bunnyId": "b705fa14-6160-47bd-aec1-8a9a057a075a",
               "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #29",
+              "url": "https://sovietscloset.com/video/15293",
+              "id": 15293,
+              "date": "2024-04-05 19:59",
+              "number": 29,
+              "bunnyId": "28c3555c-5061-4592-a8ab-dc7ab78a87ff",
+              "new": false
             }
           ]
         }
@@ -26689,6 +26797,15 @@
               "date": "2024-03-30 18:58",
               "number": 1,
               "bunnyId": "e9ade631-c84a-49ad-be09-185d972f063d",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #2",
+              "url": "https://sovietscloset.com/video/15294",
+              "id": 15294,
+              "date": "2024-04-06 18:59",
+              "number": 2,
+              "bunnyId": "27fd874f-9678-4035-ab98-e9c6dd5e421f",
               "new": false
             }
           ]
