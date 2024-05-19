@@ -1,0 +1,26 @@
+{
+  "streamId": 15300,
+  "date": "2024-03-04 11:05",
+  "game": {
+    "name": "The Forest 2: Sons of the Forest",
+    "slug": "The-Forest-2-Sons-of-the-Forest"
+  },
+  "subcategory": {
+    "name": "Single player",
+    "slug": "Single-player",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15300,
+        "date": "2024-03-04 11:05"
+      },
+      {
+        "streamId": 15301,
+        "date": "2024-03-05 11:06"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "eac76ac5-b73c-40d5-933a-d5ea412bad12",
+  "useBunny": true
+}

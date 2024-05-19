@@ -15405,6 +15405,36 @@
     ]
   },
   {
+    "id": 9098,
+    "name": "The Forest 2: Sons of the Forest",
+    "slug": "The-Forest-2-Sons-of-the-Forest",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9127,
+        "name": "Single player",
+        "slug": "Single-player",
+        "streams": [
+          {
+            "id": 15300,
+            "date": "2024-03-04 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15301,
+            "date": "2024-03-05 11:06",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 1035,
     "name": "The Isle",
     "slug": "The-Isle",
