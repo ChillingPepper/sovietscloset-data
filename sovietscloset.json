@@ -1,5 +1,5 @@
 {
-  "timestamp": 1715435903,
+  "timestamp": 1716110976,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -22487,6 +22487,44 @@
               "date": "2021-09-02 22:08",
               "number": 11,
               "bunnyId": "982037dd-e829-463c-9db1-ffca6b0714a3",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Forest 2: Sons of the Forest",
+      "url": "https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest",
+      "name": "The Forest 2: Sons of the Forest",
+      "slug": "The-Forest-2-Sons-of-the-Forest",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "The Forest 2: Sons of the Forest - Single player",
+          "url": "https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest/Single-player",
+          "name": "Single player",
+          "slug": "Single-player",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "The Forest 2: Sons of the Forest - Single player #1",
+              "url": "https://sovietscloset.com/video/15300",
+              "id": 15300,
+              "date": "2024-03-04 11:05",
+              "number": 1,
+              "bunnyId": "eac76ac5-b73c-40d5-933a-d5ea412bad12",
+              "new": false
+            },
+            {
+              "title": "The Forest 2: Sons of the Forest - Single player #2",
+              "url": "https://sovietscloset.com/video/15301",
+              "id": 15301,
+              "date": "2024-03-05 11:06",
+              "number": 2,
+              "bunnyId": "e62e0d5b-ce59-41bc-98d8-b04c7820a6e1",
               "new": false
             }
           ]
