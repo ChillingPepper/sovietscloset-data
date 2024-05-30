@@ -1,5 +1,17 @@
 # Changelog
 
+## 2024-05-30T18:18:32Z
+
+### Modified Game [The Forest 2: Sons of the Forest](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest)
+
+#### Modified Playlist [The Forest 2: Sons of the Forest - Single player](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest/Single-player)
+
+##### Videos
+
+- Added `v15306` [The Forest 2: Sons of the Forest - Single player #7](https://sovietscloset.com/video/15306)
+- Added `v15307` [The Forest 2: Sons of the Forest - Single player #8](https://sovietscloset.com/video/15307)
+- Added `v15308` [The Forest 2: Sons of the Forest - Single player #9](https://sovietscloset.com/video/15308)
+
 ## 2024-05-22T13:00:33Z
 
 ### Modified Game [The Forest 2: Sons of the Forest](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest)
