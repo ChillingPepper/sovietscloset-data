@@ -1,5 +1,29 @@
 # Changelog
 
+## 2024-06-05T08:10:36Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v15317` [Kerbal Space Program #111](https://sovietscloset.com/video/15317)
+- Added `v15318` [Kerbal Space Program #112](https://sovietscloset.com/video/15318)
+
+### Modified Game [The Forest 2: Sons of the Forest](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest)
+
+#### Modified Playlist [The Forest 2: Sons of the Forest - Single player](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest/Single-player)
+
+##### Videos
+
+- Added `v15311` [The Forest 2: Sons of the Forest - Single player #12](https://sovietscloset.com/video/15311)
+- Added `v15312` [The Forest 2: Sons of the Forest - Single player #13](https://sovietscloset.com/video/15312)
+- Added `v15313` [The Forest 2: Sons of the Forest - Single player #14](https://sovietscloset.com/video/15313)
+- Added `v15314` [The Forest 2: Sons of the Forest - Single player #15](https://sovietscloset.com/video/15314)
+- Added `v15316` [The Forest 2: Sons of the Forest - Single player #16](https://sovietscloset.com/video/15316)
+- Added `v15315` [The Forest 2: Sons of the Forest - Single player #17](https://sovietscloset.com/video/15315)
+
 ## 2024-06-01T19:46:11Z
 
 ### Modified Game [The Forest 2: Sons of the Forest](https://sovietscloset.com/The-Forest-2-Sons-of-the-Forest)
