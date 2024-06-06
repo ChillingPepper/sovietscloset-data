@@ -1,5 +1,17 @@
 # Changelog
 
+## 2024-06-06T17:30:02Z
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15323` [Rimworld - The Pale Ones #133](https://sovietscloset.com/video/15323)
+- Added `v15321` [Rimworld - The Pale Ones #135](https://sovietscloset.com/video/15321)
+- Added `v15322` [Rimworld - The Pale Ones #136](https://sovietscloset.com/video/15322)
+
 ## 2024-06-05T16:27:09Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
