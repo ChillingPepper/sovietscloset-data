@@ -1,0 +1,30 @@
+{
+  "streamId": 15328,
+  "date": "2024-04-20 19:02",
+  "game": {
+    "name": "Warhammer 40k: Dawn of War",
+    "slug": "Warhammer-40k-Dawn-of-War"
+  },
+  "subcategory": {
+    "name": "Multiplayer",
+    "slug": "Multiplayer",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15284,
+        "date": "2024-03-30 18:58"
+      },
+      {
+        "streamId": 15294,
+        "date": "2024-04-06 18:59"
+      },
+      {
+        "streamId": 15328,
+        "date": "2024-04-20 19:02"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "2d00451e-38ad-4b29-ad7b-2dd4410bd46a",
+  "useBunny": true
+}
