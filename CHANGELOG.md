@@ -1,5 +1,70 @@
 # Changelog
 
+## 2024-06-12T18:47:05Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15327` [Arma 3 - Liberation #5](https://sovietscloset.com/video/15327)
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15325` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #36](https://sovietscloset.com/video/15325)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15326` [Holdfast: Nations at War #196](https://sovietscloset.com/video/15326)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15329` [Left 4 Dead 2 - Versus #27](https://sovietscloset.com/video/15329)
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v15332` [Stormworks: Build and Rescue #14](https://sovietscloset.com/video/15332)
+- Added `v15331` [Stormworks: Build and Rescue #15](https://sovietscloset.com/video/15331)
+- Added `v15333` [Stormworks: Build and Rescue #16](https://sovietscloset.com/video/15333)
+- Added `v15330` [Stormworks: Build and Rescue #17](https://sovietscloset.com/video/15330)
+- Added `v15337` [Stormworks: Build and Rescue #18](https://sovietscloset.com/video/15337)
+- Added `v15335` [Stormworks: Build and Rescue #19](https://sovietscloset.com/video/15335)
+- Added `v15334` [Stormworks: Build and Rescue #20](https://sovietscloset.com/video/15334)
+- Added `v15336` [Stormworks: Build and Rescue #21](https://sovietscloset.com/video/15336)
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v15324` [VR Walkabout Mini Golf #30](https://sovietscloset.com/video/15324)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15328` [Warhammer 40k: Dawn of War - Multiplayer #3](https://sovietscloset.com/video/15328)
+
 ## 2024-06-06T17:30:02Z
 
 ### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)

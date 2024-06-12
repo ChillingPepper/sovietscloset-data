@@ -1,5 +1,5 @@
 {
-  "timestamp": 1717695002,
+  "timestamp": 1718218025,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1667,6 +1667,15 @@
               "number": 4,
               "bunnyId": "55294f3c-8412-43b2-aaea-cfe71e65ab3f",
               "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #5",
+              "url": "https://sovietscloset.com/video/15327",
+              "id": 15327,
+              "date": "2024-04-19 19:31",
+              "number": 5,
+              "bunnyId": "d268ccdf-43d6-4980-b3fa-8abca062ec54",
+              "new": false
             }
           ]
         }
@@ -2001,6 +2010,15 @@
               "date": "2024-04-08 19:27",
               "number": 35,
               "bunnyId": "70bd3f7d-26cd-4d81-8908-075aab51f9e0",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #36",
+              "url": "https://sovietscloset.com/video/15325",
+              "id": 15325,
+              "date": "2024-04-17 19:34",
+              "number": 36,
+              "bunnyId": "daa30db3-7f1b-4d90-9baf-160a80a268fd",
               "new": false
             }
           ]
@@ -8922,6 +8940,15 @@
               "number": 195,
               "bunnyId": "224191ca-07d9-4e8a-b78c-e38116c3aa31",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #196",
+              "url": "https://sovietscloset.com/video/15326",
+              "id": 15326,
+              "date": "2024-04-18 20:49",
+              "number": 196,
+              "bunnyId": "6e0246a1-e131-4735-bca9-321c9db5686c",
+              "new": false
             }
           ]
         }
@@ -10627,6 +10654,15 @@
               "date": "2024-02-09 20:01",
               "number": 26,
               "bunnyId": "1ec0b63b-08c9-4d7f-9e46-7bdd3071ff2f",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #27",
+              "url": "https://sovietscloset.com/video/15329",
+              "id": 15329,
+              "date": "2024-04-21 19:54",
+              "number": 27,
+              "bunnyId": "04c107a0-eaa8-4087-b4da-934b248a64c3",
               "new": false
             }
           ]
@@ -20325,6 +20361,78 @@
               "number": 13,
               "bunnyId": "8e79284b-b9a1-4696-b8b8-e4fe79a18de4",
               "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #14",
+              "url": "https://sovietscloset.com/video/15332",
+              "id": 15332,
+              "date": "2024-04-22 11:24",
+              "number": 14,
+              "bunnyId": "05b0eb9c-c3d3-4985-9c8b-75cf549bee70",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #15",
+              "url": "https://sovietscloset.com/video/15331",
+              "id": 15331,
+              "date": "2024-04-22 20:21",
+              "number": 15,
+              "bunnyId": "2a9cce0d-5d40-472b-a00a-65334bec25e7",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #16",
+              "url": "https://sovietscloset.com/video/15333",
+              "id": 15333,
+              "date": "2024-04-23 11:05",
+              "number": 16,
+              "bunnyId": "b80df4a2-0c43-461a-bf37-6db1018eb11f",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #17",
+              "url": "https://sovietscloset.com/video/15330",
+              "id": 15330,
+              "date": "2024-04-24 11:07",
+              "number": 17,
+              "bunnyId": "a8248dd2-bb6a-4746-92a5-13304f6b4241",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #18",
+              "url": "https://sovietscloset.com/video/15337",
+              "id": 15337,
+              "date": "2024-04-24 20:03",
+              "number": 18,
+              "bunnyId": "b15a1d1d-6820-4403-a1cd-d9d14522af0a",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #19",
+              "url": "https://sovietscloset.com/video/15335",
+              "id": 15335,
+              "date": "2024-04-25 11:08",
+              "number": 19,
+              "bunnyId": "d6ddc444-ee95-4a63-8d15-c53cca2a7bf7",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #20",
+              "url": "https://sovietscloset.com/video/15334",
+              "id": 15334,
+              "date": "2024-04-26 11:06",
+              "number": 20,
+              "bunnyId": "fceff0dc-1f3e-41bc-b4db-f9dd2d44d931",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #21",
+              "url": "https://sovietscloset.com/video/15336",
+              "id": 15336,
+              "date": "2024-04-26 20:21",
+              "number": 21,
+              "bunnyId": "0bf0c5eb-fe0f-47b5-ac15-f3a84c725e8f",
+              "new": false
             }
           ]
         }
@@ -27005,6 +27113,15 @@
               "number": 29,
               "bunnyId": "28c3555c-5061-4592-a8ab-dc7ab78a87ff",
               "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #30",
+              "url": "https://sovietscloset.com/video/15324",
+              "id": 15324,
+              "date": "2024-04-17 10:41",
+              "number": 30,
+              "bunnyId": "95ea33cc-4f65-424c-a184-036d09040427",
+              "new": false
             }
           ]
         }
@@ -27042,6 +27159,15 @@
               "date": "2024-04-06 18:59",
               "number": 2,
               "bunnyId": "27fd874f-9678-4035-ab98-e9c6dd5e421f",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #3",
+              "url": "https://sovietscloset.com/video/15328",
+              "id": 15328,
+              "date": "2024-04-20 19:02",
+              "number": 3,
+              "bunnyId": "2d00451e-38ad-4b29-ad7b-2dd4410bd46a",
               "new": false
             }
           ]
