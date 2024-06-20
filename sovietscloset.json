@@ -1,5 +1,5 @@
 {
-  "timestamp": 1718218025,
+  "timestamp": 1718906513,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5500,6 +5500,35 @@
       ]
     },
     {
+      "title": "Escape Simulator",
+      "url": "https://sovietscloset.com/Escape-Simulator",
+      "name": "Escape Simulator",
+      "slug": "Escape-Simulator",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Escape Simulator - Alasdair and Soviet",
+          "url": "https://sovietscloset.com/Escape-Simulator/Alasdair-and-Soviet",
+          "name": "Alasdair and Soviet",
+          "slug": "Alasdair-and-Soviet",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Escape Simulator - Alasdair and Soviet #1",
+              "url": "https://sovietscloset.com/video/15340",
+              "id": 15340,
+              "date": "2024-04-28 20:37",
+              "number": 1,
+              "bunnyId": "de97789b-b335-4429-b242-538e7f0e448a",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "European Air War",
       "url": "https://sovietscloset.com/European-Air-War",
       "name": "European Air War",
@@ -6829,6 +6858,35 @@
       ]
     },
     {
+      "title": "Grounded",
+      "url": "https://sovietscloset.com/Grounded",
+      "name": "Grounded",
+      "slug": "Grounded",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag",
+          "url": "https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag",
+          "name": "First Game - Umlaut, Cake, Soviet and Mag",
+          "slug": "First-Game---Umlaut-Cake-Soviet-and-Mag",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #1",
+              "url": "https://sovietscloset.com/video/15341",
+              "id": 15341,
+              "date": "2024-04-29 19:04",
+              "number": 1,
+              "bunnyId": "daa2600d-9ad4-4e13-a937-4d1109f361b7",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Halo: The Master Chief Collection",
       "url": "https://sovietscloset.com/Halo-The-Master-Chief-Collection",
       "name": "Halo: The Master Chief Collection",
@@ -7173,6 +7231,15 @@
               "date": "2024-03-14 20:03",
               "number": 7,
               "bunnyId": "2fdb85dc-a730-4703-b2a8-050349c58a23",
+              "new": false
+            },
+            {
+              "title": "Helldivers 2 #8",
+              "url": "https://sovietscloset.com/video/15342",
+              "id": 15342,
+              "date": "2024-04-30 20:12",
+              "number": 8,
+              "bunnyId": "a10a86ae-8acc-47e2-9ade-5b14be810d45",
               "new": false
             }
           ]
@@ -8948,6 +9015,24 @@
               "date": "2024-04-18 20:49",
               "number": 196,
               "bunnyId": "6e0246a1-e131-4735-bca9-321c9db5686c",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #197",
+              "url": "https://sovietscloset.com/video/15339",
+              "id": 15339,
+              "date": "2024-04-25 20:51",
+              "number": 197,
+              "bunnyId": "aab9c7cb-a4f1-4840-a423-2b52db82f5e2",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #198",
+              "url": "https://sovietscloset.com/video/15343",
+              "id": 15343,
+              "date": "2024-05-02 20:50",
+              "number": 198,
+              "bunnyId": "d21c18a3-707a-4913-95ad-7d4dd54b2104",
               "new": false
             }
           ]
@@ -18482,6 +18567,33 @@
               "number": 68,
               "bunnyId": "c199978a-45f9-4b52-b2ee-90c3b678116a",
               "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #69",
+              "url": "https://sovietscloset.com/video/15344",
+              "id": 15344,
+              "date": "2024-05-02 22:15",
+              "number": 69,
+              "bunnyId": "ae9d866b-efe0-47ef-895a-6a3f2a3d62bb",
+              "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #70",
+              "url": "https://sovietscloset.com/video/15346",
+              "id": 15346,
+              "date": "2024-05-03 11:12",
+              "number": 70,
+              "bunnyId": "6131aa8c-d9cd-4bcb-b548-eadb7ef9e7d4",
+              "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #71",
+              "url": "https://sovietscloset.com/video/15345",
+              "id": 15345,
+              "date": "2024-05-06 11:21",
+              "number": 71,
+              "bunnyId": "038fb63e-1939-4017-bd09-8383970aa2b6",
+              "new": false
             }
           ]
         }
@@ -27168,6 +27280,15 @@
               "date": "2024-04-20 19:02",
               "number": 3,
               "bunnyId": "2d00451e-38ad-4b29-ad7b-2dd4410bd46a",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #4",
+              "url": "https://sovietscloset.com/video/15338",
+              "id": 15338,
+              "date": "2024-04-27 19:00",
+              "number": 4,
+              "bunnyId": "756dba49-af10-4e12-97e6-5845ae08553e",
               "new": false
             }
           ]

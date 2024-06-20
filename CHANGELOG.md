@@ -1,5 +1,58 @@
 # Changelog
 
+## 2024-06-20T18:01:53Z
+
+### Added Game [Escape Simulator](https://sovietscloset.com/Escape-Simulator)
+
+#### Added Playlist [Escape Simulator - Alasdair and Soviet](https://sovietscloset.com/Escape-Simulator/Alasdair-and-Soviet)
+
+##### Videos
+
+- Added `v15340` [Escape Simulator - Alasdair and Soviet #1](https://sovietscloset.com/video/15340)
+
+### Added Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Added Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15341` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #1](https://sovietscloset.com/video/15341)
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15342` [Helldivers 2 #8](https://sovietscloset.com/video/15342)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15339` [Holdfast: Nations at War #197](https://sovietscloset.com/video/15339)
+- Added `v15343` [Holdfast: Nations at War #198](https://sovietscloset.com/video/15343)
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v15344` [Silent Hunter 3 #69](https://sovietscloset.com/video/15344)
+- Added `v15346` [Silent Hunter 3 #70](https://sovietscloset.com/video/15346)
+- Added `v15345` [Silent Hunter 3 #71](https://sovietscloset.com/video/15345)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15338` [Warhammer 40k: Dawn of War - Multiplayer #4](https://sovietscloset.com/video/15338)
+
 ## 2024-06-12T18:47:05Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
