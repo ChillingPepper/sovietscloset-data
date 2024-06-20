@@ -1,0 +1,22 @@
+{
+  "streamId": 15340,
+  "date": "2024-04-28 20:37",
+  "game": {
+    "name": "Escape Simulator",
+    "slug": "Escape-Simulator"
+  },
+  "subcategory": {
+    "name": "Alasdair and Soviet",
+    "slug": "Alasdair-and-Soviet",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15340,
+        "date": "2024-04-28 20:37"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "de97789b-b335-4429-b242-538e7f0e448a",
+  "useBunny": true
+}

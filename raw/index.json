@@ -3777,6 +3777,30 @@
     ]
   },
   {
+    "id": 9099,
+    "name": "Escape Simulator",
+    "slug": "Escape-Simulator",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9128,
+        "name": "Alasdair and Soviet",
+        "slug": "Alasdair-and-Soviet",
+        "streams": [
+          {
+            "id": 15340,
+            "date": "2024-04-28 20:37",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 9074,
     "name": "European Air War",
     "slug": "European-Air-War",
@@ -4719,6 +4743,30 @@
     ]
   },
   {
+    "id": 9100,
+    "name": "Grounded",
+    "slug": "Grounded",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9129,
+        "name": "First Game - Umlaut, Cake, Soviet and Mag",
+        "slug": "First-Game---Umlaut-Cake-Soviet-and-Mag",
+        "streams": [
+          {
+            "id": 15341,
+            "date": "2024-04-29 19:04",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 1019,
     "name": "Halo: The Master Chief Collection",
     "slug": "Halo-The-Master-Chief-Collection",
@@ -4964,6 +5012,12 @@
           {
             "id": 15260,
             "date": "2024-03-14 20:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15342,
+            "date": "2024-04-30 20:12",
             "new": false,
             "useBunny": true
           }
@@ -6152,6 +6206,18 @@
           {
             "id": 15326,
             "date": "2024-04-18 20:49",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15339,
+            "date": "2024-04-25 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15343,
+            "date": "2024-05-02 20:50",
             "new": false,
             "useBunny": true
           }
@@ -12661,6 +12727,24 @@
             "date": "2023-07-06 20:52",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15344,
+            "date": "2024-05-02 22:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15346,
+            "date": "2024-05-03 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15345,
+            "date": "2024-05-06 11:21",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -18644,6 +18728,12 @@
           {
             "id": 15328,
             "date": "2024-04-20 19:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15338,
+            "date": "2024-04-27 19:00",
             "new": false,
             "useBunny": true
           }
