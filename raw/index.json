@@ -1107,6 +1107,18 @@
         "slug": "Liberation",
         "streams": [
           {
+            "id": 15354,
+            "date": "2024-03-08 19:35",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15355,
+            "date": "2024-03-15 19:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15270,
             "date": "2024-03-21 19:36",
             "new": false,
@@ -5020,6 +5032,12 @@
             "date": "2024-04-30 20:12",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15353,
+            "date": "2024-05-15 20:12",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6228,6 +6246,60 @@
     ]
   },
   {
+    "id": 9101,
+    "name": "Homeworld: Cataclysm",
+    "slug": "Homeworld-Cataclysm",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9130,
+        "name": "2024 session",
+        "slug": "2024-session",
+        "streams": [
+          {
+            "id": 15349,
+            "date": "2024-05-16 22:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15348,
+            "date": "2024-05-17 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15347,
+            "date": "2024-05-20 11:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15351,
+            "date": "2024-05-20 20:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15350,
+            "date": "2024-05-21 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15352,
+            "date": "2024-05-21 20:05",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 4050,
     "name": "Hydroneer",
     "slug": "Hydroneer",
@@ -7225,6 +7297,18 @@
             "date": "2023-10-24 20:02",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15356,
+            "date": "2024-04-14 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15357,
+            "date": "2024-04-14 20:25",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -7736,6 +7820,51 @@
           {
             "id": 1628,
             "date": "2020-11-27 20:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9102,
+    "name": "Mount & Blade: Warband",
+    "slug": "Mount-Blade-Warband",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9131,
+        "name": "PvP Games",
+        "slug": "PvP-Games",
+        "streams": [
+          {
+            "id": 15360,
+            "date": "2018-03-05 20:22",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15358,
+            "date": "2018-05-07 20:27",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9132,
+        "name": "Singleplayer",
+        "slug": "Singleplayer",
+        "streams": [
+          {
+            "id": 15359,
+            "date": "2017-06-26 11:05",
             "new": false,
             "useBunny": true
           }

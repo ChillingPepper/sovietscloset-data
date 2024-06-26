@@ -1,0 +1,22 @@
+{
+  "streamId": 15359,
+  "date": "2017-06-26 11:05",
+  "game": {
+    "name": "Mount & Blade: Warband",
+    "slug": "Mount-Blade-Warband"
+  },
+  "subcategory": {
+    "name": "Singleplayer",
+    "slug": "Singleplayer",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15359,
+        "date": "2017-06-26 11:05"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "23b3694f-499b-40f9-9ef5-f393b2a04459",
+  "useBunny": true
+}

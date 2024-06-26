@@ -1,6 +1,6 @@
 {
-  "streamId": 15297,
-  "date": "2024-04-09 20:56",
+  "streamId": 15354,
+  "date": "2024-03-08 19:35",
   "game": {
     "name": "Arma 3",
     "slug": "Arma-3"
@@ -40,7 +40,7 @@
       }
     ]
   },
-  "number": 6,
-  "bunnyId": "55294f3c-8412-43b2-aaea-cfe71e65ab3f",
+  "number": 1,
+  "bunnyId": "c48a2c20-c1fe-4630-8fa9-671a1cd97b57",
   "useBunny": true
 }

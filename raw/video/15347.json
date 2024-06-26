@@ -1,0 +1,42 @@
+{
+  "streamId": 15347,
+  "date": "2024-05-20 11:27",
+  "game": {
+    "name": "Homeworld: Cataclysm",
+    "slug": "Homeworld-Cataclysm"
+  },
+  "subcategory": {
+    "name": "2024 session",
+    "slug": "2024-session",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15349,
+        "date": "2024-05-16 22:04"
+      },
+      {
+        "streamId": 15348,
+        "date": "2024-05-17 11:24"
+      },
+      {
+        "streamId": 15347,
+        "date": "2024-05-20 11:27"
+      },
+      {
+        "streamId": 15351,
+        "date": "2024-05-20 20:33"
+      },
+      {
+        "streamId": 15350,
+        "date": "2024-05-21 11:10"
+      },
+      {
+        "streamId": 15352,
+        "date": "2024-05-21 20:05"
+      }
+    ]
+  },
+  "number": 3,
+  "bunnyId": "87a85312-a33b-4022-8771-f07ffd2e1bd6",
+  "useBunny": true
+}

@@ -1,0 +1,26 @@
+{
+  "streamId": 15358,
+  "date": "2018-05-07 20:27",
+  "game": {
+    "name": "Mount & Blade: Warband",
+    "slug": "Mount-Blade-Warband"
+  },
+  "subcategory": {
+    "name": "PvP Games",
+    "slug": "PvP-Games",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15360,
+        "date": "2018-03-05 20:22"
+      },
+      {
+        "streamId": 15358,
+        "date": "2018-05-07 20:27"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "f22384df-6460-448d-8ac3-69035e2e21e6",
+  "useBunny": true
+}
