@@ -1,5 +1,76 @@
 # Changelog
 
+## 2024-06-26T19:34:03Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15354` [Arma 3 - Liberation #1](https://sovietscloset.com/video/15354)
+- Added `v15355` [Arma 3 - Liberation #2](https://sovietscloset.com/video/15355)
+- Modified `v15270` [Arma 3 - Liberation #3](https://sovietscloset.com/video/15270)
+  - Changed title from `Arma 3 - Liberation #1` to `Arma 3 - Liberation #3`
+  - Changed number from `1` to `3`
+- Modified `v15291` [Arma 3 - Liberation #4](https://sovietscloset.com/video/15291)
+  - Changed title from `Arma 3 - Liberation #2` to `Arma 3 - Liberation #4`
+  - Changed number from `2` to `4`
+- Modified `v15298` [Arma 3 - Liberation #5](https://sovietscloset.com/video/15298)
+  - Changed title from `Arma 3 - Liberation #3` to `Arma 3 - Liberation #5`
+  - Changed number from `3` to `5`
+- Modified `v15297` [Arma 3 - Liberation #6](https://sovietscloset.com/video/15297)
+  - Changed title from `Arma 3 - Liberation #4` to `Arma 3 - Liberation #6`
+  - Changed number from `4` to `6`
+- Modified `v15327` [Arma 3 - Liberation #7](https://sovietscloset.com/video/15327)
+  - Changed title from `Arma 3 - Liberation #5` to `Arma 3 - Liberation #7`
+  - Changed number from `5` to `7`
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15353` [Helldivers 2 #9](https://sovietscloset.com/video/15353)
+
+### Added Game [Homeworld: Cataclysm](https://sovietscloset.com/Homeworld-Cataclysm)
+
+#### Added Playlist [Homeworld: Cataclysm - 2024 session](https://sovietscloset.com/Homeworld-Cataclysm/2024-session)
+
+##### Videos
+
+- Added `v15349` [Homeworld: Cataclysm - 2024 session #1](https://sovietscloset.com/video/15349)
+- Added `v15348` [Homeworld: Cataclysm - 2024 session #2](https://sovietscloset.com/video/15348)
+- Added `v15347` [Homeworld: Cataclysm - 2024 session #3](https://sovietscloset.com/video/15347)
+- Added `v15351` [Homeworld: Cataclysm - 2024 session #4](https://sovietscloset.com/video/15351)
+- Added `v15350` [Homeworld: Cataclysm - 2024 session #5](https://sovietscloset.com/video/15350)
+- Added `v15352` [Homeworld: Cataclysm - 2024 session #6](https://sovietscloset.com/video/15352)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Coop](https://sovietscloset.com/Left-4-Dead-2/Coop)
+
+##### Videos
+
+- Added `v15356` [Left 4 Dead 2 - Coop #8](https://sovietscloset.com/video/15356)
+- Added `v15357` [Left 4 Dead 2 - Coop #9](https://sovietscloset.com/video/15357)
+
+### Added Game [Mount & Blade: Warband](https://sovietscloset.com/Mount-Blade-Warband)
+
+#### Added Playlist [Mount & Blade: Warband - Singleplayer](https://sovietscloset.com/Mount-Blade-Warband/Singleplayer)
+
+##### Videos
+
+- Added `v15359` [Mount & Blade: Warband - Singleplayer #1](https://sovietscloset.com/video/15359)
+
+#### Added Playlist [Mount & Blade: Warband - PvP Games](https://sovietscloset.com/Mount-Blade-Warband/PvP-Games)
+
+##### Videos
+
+- Added `v15360` [Mount & Blade: Warband - PvP Games #1](https://sovietscloset.com/video/15360)
+- Added `v15358` [Mount & Blade: Warband - PvP Games #2](https://sovietscloset.com/video/15358)
+
 ## 2024-06-20T18:01:53Z
 
 ### Added Game [Escape Simulator](https://sovietscloset.com/Escape-Simulator)
