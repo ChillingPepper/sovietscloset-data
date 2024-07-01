@@ -1,5 +1,25 @@
 # Changelog
 
+## 2024-07-01T14:23:31Z
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15361` [Warhammer 40k: Dawn of War - Multiplayer #3](https://sovietscloset.com/video/15361)
+- Modified `v15328` [Warhammer 40k: Dawn of War - Multiplayer #4](https://sovietscloset.com/video/15328)
+  - Changed title from `Warhammer 40k: Dawn of War - Multiplayer #3` to `Warhammer 40k: Dawn of War - Multiplayer #4`
+  - Changed number from `3` to `4`
+- Modified `v15338` [Warhammer 40k: Dawn of War - Multiplayer #5](https://sovietscloset.com/video/15338)
+  - Changed title from `Warhammer 40k: Dawn of War - Multiplayer #4` to `Warhammer 40k: Dawn of War - Multiplayer #5`
+  - Changed number from `4` to `5`
+- Added `v15362` [Warhammer 40k: Dawn of War - Multiplayer #6](https://sovietscloset.com/video/15362)
+- Added `v15365` [Warhammer 40k: Dawn of War - Multiplayer #7](https://sovietscloset.com/video/15365)
+- Added `v15363` [Warhammer 40k: Dawn of War - Multiplayer #8](https://sovietscloset.com/video/15363)
+- Added `v15364` [Warhammer 40k: Dawn of War - Multiplayer #9](https://sovietscloset.com/video/15364)
+
 ## 2024-06-26T19:34:03Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
