@@ -67,10 +67,6 @@
         "date": "2021-06-08 20:04"
       },
       {
-        "streamId": 6949,
-        "date": "2021-06-08 20:04"
-      },
-      {
         "streamId": 10122,
         "date": "2021-06-15 20:00"
       },
@@ -80,7 +76,7 @@
       }
     ]
   },
-  "number": 16,
+  "number": 15,
   "bunnyId": "94afa6a9-26ba-446e-b0b2-f2df92fbd7be",
   "useBunny": true
 }

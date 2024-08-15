@@ -67,10 +67,6 @@
         "date": "2021-09-17 11:18"
       },
       {
-        "streamId": 10147,
-        "date": "2021-09-17 11:18"
-      },
-      {
         "streamId": 13080,
         "date": "2022-01-31 11:22"
       },
@@ -152,7 +148,7 @@
       }
     ]
   },
-  "number": 26,
+  "number": 25,
   "bunnyId": "242bdd24-32ca-43ec-8721-fded7e38ddde",
   "useBunny": true
 }

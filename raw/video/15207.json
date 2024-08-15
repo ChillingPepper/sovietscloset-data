@@ -51,10 +51,6 @@
         "date": "2023-11-13 19:33"
       },
       {
-        "streamId": 15135,
-        "date": "2023-11-13 19:33"
-      },
-      {
         "streamId": 15114,
         "date": "2023-11-20 19:32"
       },
@@ -156,7 +152,7 @@
       }
     ]
   },
-  "number": 24,
+  "number": 23,
   "bunnyId": "9a5be7e7-a854-4d38-9d7b-68deca6bdc41",
   "useBunny": true
 }

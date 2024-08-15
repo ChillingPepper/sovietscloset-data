@@ -27,10 +27,6 @@
         "date": "2021-02-04 11:21"
       },
       {
-        "streamId": 3679,
-        "date": "2021-02-04 11:21"
-      },
-      {
         "streamId": 2684,
         "date": "2021-02-05 11:31"
       },
@@ -136,7 +132,7 @@
       }
     ]
   },
-  "number": 33,
+  "number": 32,
   "bunnyId": "57aef54f-dd71-4543-98da-c4f105ac3b8e",
   "useBunny": true
 }
