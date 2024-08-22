@@ -1,5 +1,77 @@
 # Changelog
 
+## 2024-08-22T18:00:11Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Antistasi Games](https://sovietscloset.com/Arma-3/Antistasi-Games)
+
+##### Videos
+
+- Modified `v1088` [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
+  - Changed bunnyId from `None` to `e6003f75-fab7-44a0-a56b-78095a0eb2b6`
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15373` [Arma 3 - Liberation #8](https://sovietscloset.com/video/15373)
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby](https://sovietscloset.com/Baldur-s-Gate-3/First-playthrough---Soviet-Quebec-Social-and-Digby)
+
+##### Videos
+
+- Added `v15389` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #35](https://sovietscloset.com/video/15389)
+- Modified `v15325` [Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #36](https://sovietscloset.com/video/15325)
+  - Changed title from `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #35` to `Baldur's Gate 3 - First playthrough - Soviet, Quebec, Social and Digby #36`
+  - Changed number from `35` to `36`
+
+### Modified Game [The Witcher 3: Wild Hunt](https://sovietscloset.com/The-Witcher-3-Wild-Hunt)
+
+#### Modified Playlist [The Witcher 3: Wild Hunt](https://sovietscloset.com/The-Witcher-3-Wild-Hunt)
+
+##### Videos
+
+- Modified `v1403` [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
+  - Changed bunnyId from `None` to `30a3ad9c-3761-4bb1-9fdc-66886357284a`
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Added Playlist [Valheim - Knobgard](https://sovietscloset.com/Valheim/Knobgard)
+
+##### Videos
+
+- Added `v15367` [Valheim - Knobgard #1](https://sovietscloset.com/video/15367)
+- Added `v15370` [Valheim - Knobgard #2](https://sovietscloset.com/video/15370)
+- Added `v15369` [Valheim - Knobgard #3](https://sovietscloset.com/video/15369)
+- Added `v15368` [Valheim - Knobgard #4](https://sovietscloset.com/video/15368)
+- Added `v15371` [Valheim - Knobgard #5](https://sovietscloset.com/video/15371)
+- Added `v15372` [Valheim - Knobgard #6](https://sovietscloset.com/video/15372)
+- Added `v15374` [Valheim - Knobgard #7](https://sovietscloset.com/video/15374)
+- Added `v15375` [Valheim - Knobgard #8](https://sovietscloset.com/video/15375)
+- Added `v15377` [Valheim - Knobgard #9](https://sovietscloset.com/video/15377)
+- Added `v15376` [Valheim - Knobgard #10](https://sovietscloset.com/video/15376)
+- Added `v15378` [Valheim - Knobgard #11](https://sovietscloset.com/video/15378)
+- Added `v15383` [Valheim - Knobgard #12](https://sovietscloset.com/video/15383)
+- Added `v15381` [Valheim - Knobgard #13](https://sovietscloset.com/video/15381)
+- Added `v15382` [Valheim - Knobgard #14](https://sovietscloset.com/video/15382)
+- Added `v15380` [Valheim - Knobgard #15](https://sovietscloset.com/video/15380)
+- Added `v15379` [Valheim - Knobgard #16](https://sovietscloset.com/video/15379)
+- Added `v15385` [Valheim - Knobgard #17](https://sovietscloset.com/video/15385)
+- Added `v15384` [Valheim - Knobgard #18](https://sovietscloset.com/video/15384)
+- Added `v15386` [Valheim - Knobgard #19](https://sovietscloset.com/video/15386)
+- Added `v15387` [Valheim - Knobgard #20](https://sovietscloset.com/video/15387)
+- Added `v15388` [Valheim - Knobgard #21](https://sovietscloset.com/video/15388)
+- Added `v15392` [Valheim - Knobgard #22](https://sovietscloset.com/video/15392)
+- Added `v15390` [Valheim - Knobgard #23](https://sovietscloset.com/video/15390)
+- Added `v15391` [Valheim - Knobgard #24](https://sovietscloset.com/video/15391)
+- Added `v15393` [Valheim - Knobgard #25](https://sovietscloset.com/video/15393)
+- Added `v15395` [Valheim - Knobgard #26](https://sovietscloset.com/video/15395)
+- Added `v15394` [Valheim - Knobgard #27](https://sovietscloset.com/video/15394)
+- Added `v15396` [Valheim - Knobgard #28](https://sovietscloset.com/video/15396)
+
 ## 2024-08-15T19:32:31Z
 
 ### Modified Game [7 Days to Die](https://sovietscloset.com/7-Days-to-Die)

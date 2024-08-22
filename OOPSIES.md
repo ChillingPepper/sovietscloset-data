@@ -1,6 +1,6 @@
 # Oopsies
 
-Last updated at 2024-08-15T19:32:31Z.
+Last updated at 2024-08-22T18:00:11Z.
 
 ## Wrong Tags
 
@@ -8,7 +8,8 @@ Last updated at 2024-08-15T19:32:31Z.
 
 This list includes all videos that are available on BunnyCDN but are tagged as though they aren't.
 
-All videos are tagged correctly. :tada:
+- [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
+- [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
 
 ## Missing
 
@@ -16,8 +17,7 @@ All videos are tagged correctly. :tada:
 
 This list includes all videos that used to be available on Vimeo but are not available on BunnyCDN yet.
 
-- [Arma 3 - Antistasi Games #28](https://sovietscloset.com/video/1088)
-- [The Witcher 3: Wild Hunt #6](https://sovietscloset.com/video/1403)
+All videos are on BunnyCDN. :tada:
 
 ### Missing from Playlist
 
