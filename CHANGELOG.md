@@ -1,5 +1,17 @@
 # Changelog
 
+## 2024-09-03T18:43:51Z
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Knobgard](https://sovietscloset.com/Valheim/Knobgard)
+
+##### Videos
+
+- Added `v15399` [Valheim - Knobgard #31](https://sovietscloset.com/video/15399)
+- Added `v15401` [Valheim - Knobgard #32](https://sovietscloset.com/video/15401)
+- Added `v15400` [Valheim - Knobgard #33](https://sovietscloset.com/video/15400)
+
 ## 2024-08-23T19:44:57Z
 
 ### Modified Game [Valheim](https://sovietscloset.com/Valheim)
