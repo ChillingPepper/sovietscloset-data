@@ -1,5 +1,56 @@
 # Changelog
 
+## 2024-09-11T17:05:50Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15408` [Arma 3 - Liberation #9](https://sovietscloset.com/video/15408)
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15403` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #2](https://sovietscloset.com/video/15403)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15407` [Holdfast: Nations at War #174](https://sovietscloset.com/video/15407)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15402` [Left 4 Dead 2 - Versus #28](https://sovietscloset.com/video/15402)
+
+### Modified Game [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+#### Modified Playlist [Silent Hunter 3](https://sovietscloset.com/Silent-Hunter-3)
+
+##### Videos
+
+- Added `v15405` [Silent Hunter 3 #72](https://sovietscloset.com/video/15405)
+- Added `v15404` [Silent Hunter 3 #73](https://sovietscloset.com/video/15404)
+
+### Added Game [V Rising](https://sovietscloset.com/V-Rising)
+
+#### Added Playlist [V Rising - Solo](https://sovietscloset.com/V-Rising/Solo)
+
+##### Videos
+
+- Added `v15406` [V Rising - Solo #1](https://sovietscloset.com/video/15406)
+
 ## 2024-09-03T18:43:51Z
 
 ### Modified Game [Valheim](https://sovietscloset.com/Valheim)

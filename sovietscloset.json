@@ -1,5 +1,5 @@
 {
-  "timestamp": 1725389031,
+  "timestamp": 1726074350,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1621,6 +1621,15 @@
               "date": "2024-05-03 19:45",
               "number": 8,
               "bunnyId": "6d3cfe32-d3e7-46a2-bcca-87122c37bb5d",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #9",
+              "url": "https://sovietscloset.com/video/15408",
+              "id": 15408,
+              "date": "2024-05-10 19:43",
+              "number": 9,
+              "bunnyId": "e87d4801-f7fc-4361-a129-137dde858d00",
               "new": false
             }
           ]
@@ -6620,6 +6629,15 @@
               "number": 1,
               "bunnyId": "daa2600d-9ad4-4e13-a937-4d1109f361b7",
               "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #2",
+              "url": "https://sovietscloset.com/video/15403",
+              "id": 15403,
+              "date": "2024-05-06 19:05",
+              "number": 2,
+              "bunnyId": "91a4773f-4d42-40a5-b21b-5c882647a2f1",
+              "new": false
             }
           ]
         }
@@ -8557,6 +8575,15 @@
               "number": 173,
               "bunnyId": "d21c18a3-707a-4913-95ad-7d4dd54b2104",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #174",
+              "url": "https://sovietscloset.com/video/15407",
+              "id": 15407,
+              "date": "2024-05-09 20:48",
+              "number": 174,
+              "bunnyId": "857d45ec-e341-4d2d-befd-836cade027ae",
+              "new": false
             }
           ]
         }
@@ -10354,6 +10381,15 @@
               "date": "2024-04-21 19:54",
               "number": 27,
               "bunnyId": "04c107a0-eaa8-4087-b4da-934b248a64c3",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #28",
+              "url": "https://sovietscloset.com/video/15402",
+              "id": 15402,
+              "date": "2024-05-05 19:58",
+              "number": 28,
+              "bunnyId": "a70a4787-3e7c-4694-b932-c470bf57a5a9",
               "new": false
             }
           ]
@@ -18086,6 +18122,24 @@
               "number": 71,
               "bunnyId": "038fb63e-1939-4017-bd09-8383970aa2b6",
               "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #72",
+              "url": "https://sovietscloset.com/video/15405",
+              "id": 15405,
+              "date": "2024-05-07 20:04",
+              "number": 72,
+              "bunnyId": "2e860cc6-7e59-4773-9e69-f62d0fbc4094",
+              "new": false
+            },
+            {
+              "title": "Silent Hunter 3 #73",
+              "url": "https://sovietscloset.com/video/15404",
+              "id": 15404,
+              "date": "2024-05-08 11:05",
+              "number": 73,
+              "bunnyId": "029e5488-0e68-48b7-a2b3-7ef18ab45ab0",
+              "new": false
             }
           ]
         }
@@ -24192,6 +24246,35 @@
               "date": "2021-07-09 20:10",
               "number": 2,
               "bunnyId": "e6cd6a81-1796-4e6d-af21-c285007b221d",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "V Rising",
+      "url": "https://sovietscloset.com/V-Rising",
+      "name": "V Rising",
+      "slug": "V-Rising",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "V Rising - Solo",
+          "url": "https://sovietscloset.com/V-Rising/Solo",
+          "name": "Solo",
+          "slug": "Solo",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "V Rising - Solo #1",
+              "url": "https://sovietscloset.com/video/15406",
+              "id": 15406,
+              "date": "2024-05-09 11:03",
+              "number": 1,
+              "bunnyId": "e26a6bcc-4be6-4576-bc30-b0df495b38a3",
               "new": false
             }
           ]
