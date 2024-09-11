@@ -1099,6 +1099,12 @@
             "date": "2024-05-03 19:45",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15408,
+            "date": "2024-05-10 19:43",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -4585,6 +4591,12 @@
             "date": "2024-04-29 19:04",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15403,
+            "date": "2024-05-06 19:05",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -5902,6 +5914,12 @@
             "date": "2024-05-02 20:50",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15407,
+            "date": "2024-05-09 20:48",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -7136,6 +7154,12 @@
           {
             "id": 15329,
             "date": "2024-04-21 19:54",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15402,
+            "date": "2024-05-05 19:58",
             "new": false,
             "useBunny": true
           }
@@ -12418,6 +12442,18 @@
             "date": "2024-05-06 11:21",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15405,
+            "date": "2024-05-07 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15404,
+            "date": "2024-05-08 11:05",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -16604,6 +16640,30 @@
           {
             "id": 5681,
             "date": "2021-07-09 20:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9103,
+    "name": "V Rising",
+    "slug": "V-Rising",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9134,
+        "name": "Solo",
+        "slug": "Solo",
+        "streams": [
+          {
+            "id": 15406,
+            "date": "2024-05-09 11:03",
             "new": false,
             "useBunny": true
           }

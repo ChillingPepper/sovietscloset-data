@@ -1,0 +1,22 @@
+{
+  "streamId": 15406,
+  "date": "2024-05-09 11:03",
+  "game": {
+    "name": "V Rising",
+    "slug": "V-Rising"
+  },
+  "subcategory": {
+    "name": "Solo",
+    "slug": "Solo",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15406,
+        "date": "2024-05-09 11:03"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "e26a6bcc-4be6-4576-bc30-b0df495b38a3",
+  "useBunny": true
+}
