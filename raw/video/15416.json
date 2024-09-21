@@ -1,0 +1,58 @@
+{
+  "streamId": 15416,
+  "date": "2024-05-17 19:38",
+  "game": {
+    "name": "Arma 3",
+    "slug": "Arma-3"
+  },
+  "subcategory": {
+    "name": "Liberation",
+    "slug": "Liberation",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15354,
+        "date": "2024-03-08 19:35"
+      },
+      {
+        "streamId": 15355,
+        "date": "2024-03-15 19:45"
+      },
+      {
+        "streamId": 15270,
+        "date": "2024-03-21 19:36"
+      },
+      {
+        "streamId": 15291,
+        "date": "2024-04-04 19:49"
+      },
+      {
+        "streamId": 15298,
+        "date": "2024-04-09 19:31"
+      },
+      {
+        "streamId": 15297,
+        "date": "2024-04-09 20:56"
+      },
+      {
+        "streamId": 15327,
+        "date": "2024-04-19 19:31"
+      },
+      {
+        "streamId": 15373,
+        "date": "2024-05-03 19:45"
+      },
+      {
+        "streamId": 15408,
+        "date": "2024-05-10 19:43"
+      },
+      {
+        "streamId": 15416,
+        "date": "2024-05-17 19:38"
+      }
+    ]
+  },
+  "number": 10,
+  "bunnyId": "1b87cb4e-5446-40af-88f2-59f92ad0134c",
+  "useBunny": true
+}
