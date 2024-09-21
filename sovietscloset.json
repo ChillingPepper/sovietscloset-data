@@ -1,5 +1,5 @@
 {
-  "timestamp": 1726074350,
+  "timestamp": 1726938921,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1630,6 +1630,15 @@
               "date": "2024-05-10 19:43",
               "number": 9,
               "bunnyId": "e87d4801-f7fc-4361-a129-137dde858d00",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #10",
+              "url": "https://sovietscloset.com/video/15416",
+              "id": 15416,
+              "date": "2024-05-17 19:38",
+              "number": 10,
+              "bunnyId": "1b87cb4e-5446-40af-88f2-59f92ad0134c",
               "new": false
             }
           ]
@@ -5905,6 +5914,15 @@
               "number": 55,
               "bunnyId": "55e4e00c-b956-4b41-a8c3-3e4a9136e1a7",
               "new": false
+            },
+            {
+              "title": "Factorio #56",
+              "url": "https://sovietscloset.com/video/15422",
+              "id": 15422,
+              "date": "2024-05-27 11:12",
+              "number": 56,
+              "bunnyId": "1d1b1c53-4293-4cb3-8005-094690710890",
+              "new": false
             }
           ]
         }
@@ -6637,6 +6655,15 @@
               "date": "2024-05-06 19:05",
               "number": 2,
               "bunnyId": "91a4773f-4d42-40a5-b21b-5c882647a2f1",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #3",
+              "url": "https://sovietscloset.com/video/15411",
+              "id": 15411,
+              "date": "2024-05-13 19:09",
+              "number": 3,
+              "bunnyId": "bebe04bc-28c0-4929-8d19-cf78eb5871db",
               "new": false
             }
           ]
@@ -8584,6 +8611,24 @@
               "number": 174,
               "bunnyId": "857d45ec-e341-4d2d-befd-836cade027ae",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #175",
+              "url": "https://sovietscloset.com/video/15417",
+              "id": 15417,
+              "date": "2024-05-16 20:51",
+              "number": 175,
+              "bunnyId": "5bf5823e-a509-48cb-82a6-efc031307772",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #176",
+              "url": "https://sovietscloset.com/video/15421",
+              "id": 15421,
+              "date": "2024-05-23 20:53",
+              "number": 176,
+              "bunnyId": "6ed7ee4c-a313-4ee7-9dec-e216d599f172",
+              "new": false
             }
           ]
         }
@@ -8924,6 +8969,15 @@
               "date": "2023-05-16 20:00",
               "number": 16,
               "bunnyId": "a123ca7f-6b04-432c-b794-0346b76976bc",
+              "new": false
+            },
+            {
+              "title": "Just Chatting #17",
+              "url": "https://sovietscloset.com/video/15410",
+              "id": 15410,
+              "date": "2024-05-13 11:12",
+              "number": 17,
+              "bunnyId": "d62be373-83c5-44a3-a00a-393cc52e8a6d",
               "new": false
             }
           ]
@@ -10390,6 +10444,24 @@
               "date": "2024-05-05 19:58",
               "number": 28,
               "bunnyId": "a70a4787-3e7c-4694-b932-c470bf57a5a9",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #29",
+              "url": "https://sovietscloset.com/video/15409",
+              "id": 15409,
+              "date": "2024-05-12 19:53",
+              "number": 29,
+              "bunnyId": "3907ff3b-d3d7-4f8e-9d3b-56ce0f9f8f49",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Versus #30",
+              "url": "https://sovietscloset.com/video/15418",
+              "id": 15418,
+              "date": "2024-05-19 19:58",
+              "number": 30,
+              "bunnyId": "4e0a72bd-5e84-458b-b6d6-cf53bb40bc67",
               "new": false
             }
           ]
@@ -18972,6 +19044,42 @@
               "number": 82,
               "bunnyId": "b7438c5a-f524-424a-bfab-5c293b58ff14",
               "new": false
+            },
+            {
+              "title": "Space Engineers #83",
+              "url": "https://sovietscloset.com/video/15413",
+              "id": 15413,
+              "date": "2024-05-14 11:13",
+              "number": 83,
+              "bunnyId": "735f149b-5ddf-410d-820c-c61bd706a738",
+              "new": false
+            },
+            {
+              "title": "Space Engineers #84",
+              "url": "https://sovietscloset.com/video/15412",
+              "id": 15412,
+              "date": "2024-05-14 20:11",
+              "number": 84,
+              "bunnyId": "f206e118-e5e0-4c0c-9e05-4db1013cdf10",
+              "new": false
+            },
+            {
+              "title": "Space Engineers #85",
+              "url": "https://sovietscloset.com/video/15414",
+              "id": 15414,
+              "date": "2024-05-15 11:17",
+              "number": 85,
+              "bunnyId": "beff4e9b-729b-4fc9-8a08-86b1f1d1f848",
+              "new": false
+            },
+            {
+              "title": "Space Engineers #86",
+              "url": "https://sovietscloset.com/video/15420",
+              "id": 15420,
+              "date": "2024-05-23 11:04",
+              "number": 86,
+              "bunnyId": "7dd0e87f-bd2b-4f10-bfe1-dc69414a906c",
+              "new": false
             }
           ]
         }
@@ -25718,6 +25826,15 @@
               "number": 51,
               "bunnyId": "ee3d55cb-1a38-44f0-b30e-99786412b55e",
               "new": false
+            },
+            {
+              "title": "VR Blade & Sorcery #52",
+              "url": "https://sovietscloset.com/video/15415",
+              "id": 15415,
+              "date": "2024-05-16 11:12",
+              "number": 52,
+              "bunnyId": "d5f257db-1e68-4302-b532-f9bb542116ec",
+              "new": false
             }
           ]
         }
@@ -26746,6 +26863,15 @@
               "date": "2024-04-17 10:41",
               "number": 30,
               "bunnyId": "95ea33cc-4f65-424c-a184-036d09040427",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #31",
+              "url": "https://sovietscloset.com/video/15419",
+              "id": 15419,
+              "date": "2024-05-22 10:38",
+              "number": 31,
+              "bunnyId": "fb14cf7a-d491-433a-9449-1fbbced6c272",
               "new": false
             }
           ]

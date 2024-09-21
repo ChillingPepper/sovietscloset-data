@@ -1,5 +1,84 @@
 # Changelog
 
+## 2024-09-21T17:15:21Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Liberation](https://sovietscloset.com/Arma-3/Liberation)
+
+##### Videos
+
+- Added `v15416` [Arma 3 - Liberation #10](https://sovietscloset.com/video/15416)
+
+### Modified Game [Factorio](https://sovietscloset.com/Factorio)
+
+#### Modified Playlist [Factorio](https://sovietscloset.com/Factorio)
+
+##### Videos
+
+- Added `v15422` [Factorio #56](https://sovietscloset.com/video/15422)
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15411` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #3](https://sovietscloset.com/video/15411)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15417` [Holdfast: Nations at War #175](https://sovietscloset.com/video/15417)
+- Added `v15421` [Holdfast: Nations at War #176](https://sovietscloset.com/video/15421)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v15410` [Just Chatting #17](https://sovietscloset.com/video/15410)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Versus](https://sovietscloset.com/Left-4-Dead-2/Versus)
+
+##### Videos
+
+- Added `v15409` [Left 4 Dead 2 - Versus #29](https://sovietscloset.com/video/15409)
+- Added `v15418` [Left 4 Dead 2 - Versus #30](https://sovietscloset.com/video/15418)
+
+### Modified Game [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+#### Modified Playlist [Space Engineers](https://sovietscloset.com/Space-Engineers)
+
+##### Videos
+
+- Added `v15413` [Space Engineers #83](https://sovietscloset.com/video/15413)
+- Added `v15412` [Space Engineers #84](https://sovietscloset.com/video/15412)
+- Added `v15414` [Space Engineers #85](https://sovietscloset.com/video/15414)
+- Added `v15420` [Space Engineers #86](https://sovietscloset.com/video/15420)
+
+### Modified Game [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+#### Modified Playlist [VR Blade & Sorcery](https://sovietscloset.com/VR-Blade-Sorcery)
+
+##### Videos
+
+- Added `v15415` [VR Blade & Sorcery #52](https://sovietscloset.com/video/15415)
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v15419` [VR Walkabout Mini Golf #31](https://sovietscloset.com/video/15419)
+
 ## 2024-09-11T17:05:50Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
