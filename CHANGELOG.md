@@ -1,5 +1,23 @@
 # Changelog
 
+## 2024-09-23T14:20:59Z
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15423` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #4](https://sovietscloset.com/video/15423)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15424` [Holdfast: Nations at War #177](https://sovietscloset.com/video/15424)
+
 ## 2024-09-21T17:15:21Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

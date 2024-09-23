@@ -1,5 +1,5 @@
 {
-  "timestamp": 1726938921,
+  "timestamp": 1727101259,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6665,6 +6665,15 @@
               "number": 3,
               "bunnyId": "bebe04bc-28c0-4929-8d19-cf78eb5871db",
               "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #4",
+              "url": "https://sovietscloset.com/video/15423",
+              "id": 15423,
+              "date": "2024-05-27 19:03",
+              "number": 4,
+              "bunnyId": "e78aed7f-884a-4618-8063-3310b51a1053",
+              "new": false
             }
           ]
         }
@@ -8628,6 +8637,15 @@
               "date": "2024-05-23 20:53",
               "number": 176,
               "bunnyId": "6ed7ee4c-a313-4ee7-9dec-e216d599f172",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #177",
+              "url": "https://sovietscloset.com/video/15424",
+              "id": 15424,
+              "date": "2024-05-30 20:48",
+              "number": 177,
+              "bunnyId": "c3680ed8-e148-4f7c-9796-e23c057dbc30",
               "new": false
             }
           ]
