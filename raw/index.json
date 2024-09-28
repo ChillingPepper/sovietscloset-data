@@ -673,6 +673,12 @@
             "date": "2023-09-23 19:44",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15427,
+            "date": "2024-06-07 19:07",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -1109,6 +1115,12 @@
           {
             "id": 15416,
             "date": "2024-05-17 19:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15425,
+            "date": "2024-05-31 19:31",
             "new": false,
             "useBunny": true
           }
@@ -4619,6 +4631,18 @@
           {
             "id": 15423,
             "date": "2024-05-27 19:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15426,
+            "date": "2024-06-03 19:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15428,
+            "date": "2024-06-10 18:59",
             "new": false,
             "useBunny": true
           }
