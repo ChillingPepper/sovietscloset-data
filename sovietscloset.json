@@ -1,5 +1,5 @@
 {
-  "timestamp": 1727101259,
+  "timestamp": 1727550568,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -997,6 +997,15 @@
               "number": 38,
               "bunnyId": "b81357b8-2262-44a8-9b09-98c07c9d2ae7",
               "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #39",
+              "url": "https://sovietscloset.com/video/15427",
+              "id": 15427,
+              "date": "2024-06-07 19:07",
+              "number": 39,
+              "bunnyId": "8a1dc3c9-5e66-459f-b5a7-0ca666c5e684",
+              "new": false
             }
           ]
         },
@@ -1639,6 +1648,15 @@
               "date": "2024-05-17 19:38",
               "number": 10,
               "bunnyId": "1b87cb4e-5446-40af-88f2-59f92ad0134c",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Liberation #11",
+              "url": "https://sovietscloset.com/video/15425",
+              "id": 15425,
+              "date": "2024-05-31 19:31",
+              "number": 11,
+              "bunnyId": "bc3aa378-3716-427f-81ad-f030b9c18a4b",
               "new": false
             }
           ]
@@ -6673,6 +6691,24 @@
               "date": "2024-05-27 19:03",
               "number": 4,
               "bunnyId": "e78aed7f-884a-4618-8063-3310b51a1053",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #5",
+              "url": "https://sovietscloset.com/video/15426",
+              "id": 15426,
+              "date": "2024-06-03 19:09",
+              "number": 5,
+              "bunnyId": "9aaf6809-d354-4365-a59d-ba1bb2b7dc2f",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #6",
+              "url": "https://sovietscloset.com/video/15428",
+              "id": 15428,
+              "date": "2024-06-10 18:59",
+              "number": 6,
+              "bunnyId": "fcf1f237-452e-421a-9436-4bf47b22b703",
               "new": false
             }
           ]
