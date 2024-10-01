@@ -1,5 +1,31 @@
 # Changelog
 
+## 2024-10-01T15:46:49Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15430` [Holdfast: Nations at War #178](https://sovietscloset.com/video/15430)
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v15429` [VR Walkabout Mini Golf #32](https://sovietscloset.com/video/15429)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Knobgard](https://sovietscloset.com/Valheim/Knobgard)
+
+##### Videos
+
+- Added `v15431` [Valheim - Knobgard #34](https://sovietscloset.com/video/15431)
+
 ## 2024-09-28T19:09:28Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)

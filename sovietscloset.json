@@ -1,5 +1,5 @@
 {
-  "timestamp": 1727550568,
+  "timestamp": 1727797609,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -8682,6 +8682,15 @@
               "date": "2024-05-30 20:48",
               "number": 177,
               "bunnyId": "c3680ed8-e148-4f7c-9796-e23c057dbc30",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #178",
+              "url": "https://sovietscloset.com/video/15430",
+              "id": 15430,
+              "date": "2024-06-13 20:51",
+              "number": 178,
+              "bunnyId": "f679b92e-c6cd-436e-9b04-b194a76775d0",
               "new": false
             }
           ]
@@ -25279,6 +25288,15 @@
               "number": 33,
               "bunnyId": "91621e25-4c3d-488e-93e0-d0a2a5dbb611",
               "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #34",
+              "url": "https://sovietscloset.com/video/15431",
+              "id": 15431,
+              "date": "2024-06-17 11:05",
+              "number": 34,
+              "bunnyId": "d6abfe0e-d438-4f49-b0a3-55309c3dd0b2",
+              "new": false
             }
           ]
         }
@@ -26926,6 +26944,15 @@
               "date": "2024-05-22 10:38",
               "number": 31,
               "bunnyId": "fb14cf7a-d491-433a-9449-1fbbced6c272",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #32",
+              "url": "https://sovietscloset.com/video/15429",
+              "id": 15429,
+              "date": "2024-06-12 10:40",
+              "number": 32,
+              "bunnyId": "1fb3bf9f-7c91-45a1-87b3-7deddabb4ae5",
               "new": false
             }
           ]
