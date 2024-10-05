@@ -1,0 +1,62 @@
+{
+  "streamId": 15433,
+  "date": "2024-07-22 19:20",
+  "game": {
+    "name": "Grounded",
+    "slug": "Grounded"
+  },
+  "subcategory": {
+    "name": "First Game - Umlaut, Cake, Soviet and Mag",
+    "slug": "First-Game---Umlaut-Cake-Soviet-and-Mag",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15341,
+        "date": "2024-04-29 19:04"
+      },
+      {
+        "streamId": 15403,
+        "date": "2024-05-06 19:05"
+      },
+      {
+        "streamId": 15411,
+        "date": "2024-05-13 19:09"
+      },
+      {
+        "streamId": 15423,
+        "date": "2024-05-27 19:03"
+      },
+      {
+        "streamId": 15426,
+        "date": "2024-06-03 19:09"
+      },
+      {
+        "streamId": 15428,
+        "date": "2024-06-10 18:59"
+      },
+      {
+        "streamId": 15435,
+        "date": "2024-06-17 19:04"
+      },
+      {
+        "streamId": 15434,
+        "date": "2024-06-24 19:03"
+      },
+      {
+        "streamId": 15436,
+        "date": "2024-07-15 19:02"
+      },
+      {
+        "streamId": 15432,
+        "date": "2024-07-22 19:04"
+      },
+      {
+        "streamId": 15433,
+        "date": "2024-07-22 19:20"
+      }
+    ]
+  },
+  "number": 11,
+  "bunnyId": "e0c6b9ce-8d9b-41ba-b32f-f532c7294f35",
+  "useBunny": true
+}
