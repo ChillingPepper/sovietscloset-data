@@ -1,5 +1,42 @@
 # Changelog
 
+## 2024-10-05T17:58:07Z
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15435` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #7](https://sovietscloset.com/video/15435)
+- Added `v15434` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #8](https://sovietscloset.com/video/15434)
+- Added `v15436` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #9](https://sovietscloset.com/video/15436)
+- Added `v15432` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #10](https://sovietscloset.com/video/15432)
+- Added `v15433` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #11](https://sovietscloset.com/video/15433)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15445` [Holdfast: Nations at War #179](https://sovietscloset.com/video/15445)
+
+### Modified Game [Valheim](https://sovietscloset.com/Valheim)
+
+#### Modified Playlist [Valheim - Knobgard](https://sovietscloset.com/Valheim/Knobgard)
+
+##### Videos
+
+- Added `v15437` [Valheim - Knobgard #35](https://sovietscloset.com/video/15437)
+- Added `v15439` [Valheim - Knobgard #36](https://sovietscloset.com/video/15439)
+- Added `v15441` [Valheim - Knobgard #37](https://sovietscloset.com/video/15441)
+- Added `v15440` [Valheim - Knobgard #38](https://sovietscloset.com/video/15440)
+- Added `v15438` [Valheim - Knobgard #39](https://sovietscloset.com/video/15438)
+- Added `v15442` [Valheim - Knobgard #40](https://sovietscloset.com/video/15442)
+- Added `v15444` [Valheim - Knobgard #41](https://sovietscloset.com/video/15444)
+- Added `v15443` [Valheim - Knobgard #42](https://sovietscloset.com/video/15443)
+
 ## 2024-10-01T15:46:49Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)

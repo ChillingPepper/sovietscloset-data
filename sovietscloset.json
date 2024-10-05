@@ -1,5 +1,5 @@
 {
-  "timestamp": 1727797609,
+  "timestamp": 1728151087,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6710,6 +6710,51 @@
               "number": 6,
               "bunnyId": "fcf1f237-452e-421a-9436-4bf47b22b703",
               "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #7",
+              "url": "https://sovietscloset.com/video/15435",
+              "id": 15435,
+              "date": "2024-06-17 19:04",
+              "number": 7,
+              "bunnyId": "e6cdd60b-3430-4d61-b527-5c2473bd5816",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #8",
+              "url": "https://sovietscloset.com/video/15434",
+              "id": 15434,
+              "date": "2024-06-24 19:03",
+              "number": 8,
+              "bunnyId": "19daa07a-0d14-4de4-91e1-4d62b0e39bf6",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #9",
+              "url": "https://sovietscloset.com/video/15436",
+              "id": 15436,
+              "date": "2024-07-15 19:02",
+              "number": 9,
+              "bunnyId": "ce3b64d2-7fc2-470b-876e-726c38bd79bf",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #10",
+              "url": "https://sovietscloset.com/video/15432",
+              "id": 15432,
+              "date": "2024-07-22 19:04",
+              "number": 10,
+              "bunnyId": "b84a0b79-71b0-4f26-bb33-04e067ceca61",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #11",
+              "url": "https://sovietscloset.com/video/15433",
+              "id": 15433,
+              "date": "2024-07-22 19:20",
+              "number": 11,
+              "bunnyId": "e0c6b9ce-8d9b-41ba-b32f-f532c7294f35",
+              "new": false
             }
           ]
         }
@@ -8691,6 +8736,15 @@
               "date": "2024-06-13 20:51",
               "number": 178,
               "bunnyId": "f679b92e-c6cd-436e-9b04-b194a76775d0",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #179",
+              "url": "https://sovietscloset.com/video/15445",
+              "id": 15445,
+              "date": "2024-06-20 20:54",
+              "number": 179,
+              "bunnyId": "951f6eac-76e1-4205-91c9-70b7607e43c0",
               "new": false
             }
           ]
@@ -25296,6 +25350,78 @@
               "date": "2024-06-17 11:05",
               "number": 34,
               "bunnyId": "d6abfe0e-d438-4f49-b0a3-55309c3dd0b2",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #35",
+              "url": "https://sovietscloset.com/video/15437",
+              "id": 15437,
+              "date": "2024-06-18 11:13",
+              "number": 35,
+              "bunnyId": "d37fe265-2c31-43dc-a67b-c294994dc2c3",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #36",
+              "url": "https://sovietscloset.com/video/15439",
+              "id": 15439,
+              "date": "2024-06-19 11:09",
+              "number": 36,
+              "bunnyId": "fef5fae6-c2ff-4f7a-b2bc-8d6ba0f63143",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #37",
+              "url": "https://sovietscloset.com/video/15441",
+              "id": 15441,
+              "date": "2024-06-19 20:08",
+              "number": 37,
+              "bunnyId": "ba11b60d-884d-4051-acea-896c22dd70a2",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #38",
+              "url": "https://sovietscloset.com/video/15440",
+              "id": 15440,
+              "date": "2024-06-19 22:07",
+              "number": 38,
+              "bunnyId": "222a2bb8-aebb-49fc-a169-a20bfdbee96c",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #39",
+              "url": "https://sovietscloset.com/video/15438",
+              "id": 15438,
+              "date": "2024-06-20 11:06",
+              "number": 39,
+              "bunnyId": "04f97749-1b25-42d4-85fe-0f93e1277e0b",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #40",
+              "url": "https://sovietscloset.com/video/15442",
+              "id": 15442,
+              "date": "2024-06-20 22:04",
+              "number": 40,
+              "bunnyId": "f02ac351-590e-4b8c-abaf-e7a080a92343",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #41",
+              "url": "https://sovietscloset.com/video/15444",
+              "id": 15444,
+              "date": "2024-06-21 20:03",
+              "number": 41,
+              "bunnyId": "a3405521-452b-4771-9d70-b5e48bf3d317",
+              "new": false
+            },
+            {
+              "title": "Valheim - Knobgard #42",
+              "url": "https://sovietscloset.com/video/15443",
+              "id": 15443,
+              "date": "2024-06-23 18:55",
+              "number": 42,
+              "bunnyId": "5bbd4de2-7255-4555-b8b6-d119f0001294",
               "new": false
             }
           ]
