@@ -1,5 +1,50 @@
 # Changelog
 
+## 2024-10-09T08:25:54Z
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15457` [Helldivers 2 #10](https://sovietscloset.com/video/15457)
+- Added `v15456` [Helldivers 2 #11](https://sovietscloset.com/video/15456)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15453` [Holdfast: Nations at War #180](https://sovietscloset.com/video/15453)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v15446` [Just Chatting #18](https://sovietscloset.com/video/15446)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15447` [Rimworld - The Pale Ones #137](https://sovietscloset.com/video/15447)
+- Added `v15449` [Rimworld - The Pale Ones #138](https://sovietscloset.com/video/15449)
+- Added `v15448` [Rimworld - The Pale Ones #139](https://sovietscloset.com/video/15448)
+- Added `v15450` [Rimworld - The Pale Ones #140](https://sovietscloset.com/video/15450)
+- Added `v15451` [Rimworld - The Pale Ones #141](https://sovietscloset.com/video/15451)
+- Added `v15452` [Rimworld - The Pale Ones #142](https://sovietscloset.com/video/15452)
+- Added `v15455` [Rimworld - The Pale Ones #143](https://sovietscloset.com/video/15455)
+- Added `v15454` [Rimworld - The Pale Ones #144](https://sovietscloset.com/video/15454)
+- Added `v15459` [Rimworld - The Pale Ones #145](https://sovietscloset.com/video/15459)
+- Added `v15460` [Rimworld - The Pale Ones #146](https://sovietscloset.com/video/15460)
+- Added `v15458` [Rimworld - The Pale Ones #147](https://sovietscloset.com/video/15458)
+
 ## 2024-10-05T17:58:07Z
 
 ### Modified Game [Grounded](https://sovietscloset.com/Grounded)
