@@ -1,5 +1,23 @@
 # Changelog
 
+## 2024-10-10T18:01:50Z
+
+### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+#### Modified Playlist [Helldivers 2](https://sovietscloset.com/Helldivers-2)
+
+##### Videos
+
+- Added `v15462` [Helldivers 2 #12](https://sovietscloset.com/video/15462)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15461` [Holdfast: Nations at War #181](https://sovietscloset.com/video/15461)
+
 ## 2024-10-09T08:25:54Z
 
 ### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)

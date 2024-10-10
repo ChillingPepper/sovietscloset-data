@@ -1,5 +1,5 @@
 {
-  "timestamp": 1728462354,
+  "timestamp": 1728583310,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -7142,6 +7142,15 @@
               "number": 11,
               "bunnyId": "1aa4ef02-8b30-4efd-88b3-0161f38e78a6",
               "new": false
+            },
+            {
+              "title": "Helldivers 2 #12",
+              "url": "https://sovietscloset.com/video/15462",
+              "id": 15462,
+              "date": "2024-07-12 20:04",
+              "number": 12,
+              "bunnyId": "b8a8d95e-0b4d-44cc-bcf1-86e54f25f505",
+              "new": false
             }
           ]
         }
@@ -8772,6 +8781,15 @@
               "date": "2024-06-27 20:46",
               "number": 180,
               "bunnyId": "26c3222a-ebd7-43e3-868d-7818131e493e",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #181",
+              "url": "https://sovietscloset.com/video/15461",
+              "id": 15461,
+              "date": "2024-07-11 20:52",
+              "number": 181,
+              "bunnyId": "cf780181-aee3-4ab8-8982-889b4d324b6e",
               "new": false
             }
           ]
