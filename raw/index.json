@@ -6058,6 +6058,12 @@
             "date": "2024-07-11 20:52",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15465,
+            "date": "2024-07-18 20:43",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6314,6 +6320,48 @@
           {
             "id": 15446,
             "date": "2024-06-24 11:10",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9104,
+    "name": "Kenshi",
+    "slug": "Kenshi",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9136,
+        "name": "Misc",
+        "slug": "Misc",
+        "streams": [
+          {
+            "id": 15466,
+            "date": "2024-07-22 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15467,
+            "date": "2024-07-23 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15468,
+            "date": "2024-07-24 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15469,
+            "date": "2024-07-24 20:07",
             "new": false,
             "useBunny": true
           }
@@ -18782,6 +18830,27 @@
           {
             "id": 15364,
             "date": "2024-05-25 18:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15463,
+            "date": "2024-07-13 18:59",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9135,
+        "name": "Singleplayer",
+        "slug": "Singleplayer",
+        "streams": [
+          {
+            "id": 15464,
+            "date": "2024-07-16 20:12",
             "new": false,
             "useBunny": true
           }

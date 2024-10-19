@@ -1,0 +1,34 @@
+{
+  "streamId": 15466,
+  "date": "2024-07-22 11:04",
+  "game": {
+    "name": "Kenshi",
+    "slug": "Kenshi"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15466,
+        "date": "2024-07-22 11:04"
+      },
+      {
+        "streamId": 15467,
+        "date": "2024-07-23 11:11"
+      },
+      {
+        "streamId": 15468,
+        "date": "2024-07-24 11:07"
+      },
+      {
+        "streamId": 15469,
+        "date": "2024-07-24 20:07"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "3ef6ee9b-5292-445d-b4ab-a7f70e955202",
+  "useBunny": true
+}
