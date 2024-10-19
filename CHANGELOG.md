@@ -1,5 +1,40 @@
 # Changelog
 
+## 2024-10-19T17:01:47Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15465` [Holdfast: Nations at War #182](https://sovietscloset.com/video/15465)
+
+### Added Game [Kenshi](https://sovietscloset.com/Kenshi)
+
+#### Added Playlist [Kenshi](https://sovietscloset.com/Kenshi)
+
+##### Videos
+
+- Added `v15466` [Kenshi #1](https://sovietscloset.com/video/15466)
+- Added `v15467` [Kenshi #2](https://sovietscloset.com/video/15467)
+- Added `v15468` [Kenshi #3](https://sovietscloset.com/video/15468)
+- Added `v15469` [Kenshi #4](https://sovietscloset.com/video/15469)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15463` [Warhammer 40k: Dawn of War - Multiplayer #10](https://sovietscloset.com/video/15463)
+
+#### Added Playlist [Warhammer 40k: Dawn of War - Singleplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Singleplayer)
+
+##### Videos
+
+- Added `v15464` [Warhammer 40k: Dawn of War - Singleplayer #1](https://sovietscloset.com/video/15464)
+
 ## 2024-10-10T18:01:50Z
 
 ### Modified Game [Helldivers 2](https://sovietscloset.com/Helldivers-2)

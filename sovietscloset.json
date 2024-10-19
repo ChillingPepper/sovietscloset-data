@@ -1,5 +1,5 @@
 {
-  "timestamp": 1728583310,
+  "timestamp": 1729357307,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -8791,6 +8791,15 @@
               "number": 181,
               "bunnyId": "cf780181-aee3-4ab8-8982-889b4d324b6e",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #182",
+              "url": "https://sovietscloset.com/video/15465",
+              "id": 15465,
+              "date": "2024-07-18 20:43",
+              "number": 182,
+              "bunnyId": "e6f25d35-3702-4861-9712-a122eb707512",
+              "new": false
             }
           ]
         }
@@ -9149,6 +9158,62 @@
               "date": "2024-06-24 11:10",
               "number": 18,
               "bunnyId": "7a212ea4-65b7-4dae-af78-bca2eb3b6636",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kenshi",
+      "url": "https://sovietscloset.com/Kenshi",
+      "name": "Kenshi",
+      "slug": "Kenshi",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Kenshi",
+          "url": "https://sovietscloset.com/Kenshi",
+          "name": "Misc",
+          "slug": "Misc",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Kenshi #1",
+              "url": "https://sovietscloset.com/video/15466",
+              "id": 15466,
+              "date": "2024-07-22 11:04",
+              "number": 1,
+              "bunnyId": "3ef6ee9b-5292-445d-b4ab-a7f70e955202",
+              "new": false
+            },
+            {
+              "title": "Kenshi #2",
+              "url": "https://sovietscloset.com/video/15467",
+              "id": 15467,
+              "date": "2024-07-23 11:11",
+              "number": 2,
+              "bunnyId": "eb94cb53-97b7-42e2-9ab7-8054e38b0346",
+              "new": false
+            },
+            {
+              "title": "Kenshi #3",
+              "url": "https://sovietscloset.com/video/15468",
+              "id": 15468,
+              "date": "2024-07-24 11:07",
+              "number": 3,
+              "bunnyId": "a97dd27b-1fde-44b3-af55-9f3a1a0fea01",
+              "new": false
+            },
+            {
+              "title": "Kenshi #4",
+              "url": "https://sovietscloset.com/video/15469",
+              "id": 15469,
+              "date": "2024-07-24 20:07",
+              "number": 4,
+              "bunnyId": "89e576fb-4d43-484d-8187-ed549e462ee1",
               "new": false
             }
           ]
@@ -27333,6 +27398,34 @@
               "date": "2024-05-25 18:59",
               "number": 9,
               "bunnyId": "ec06d4ac-45dd-466d-839a-0d802a7a00c6",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #10",
+              "url": "https://sovietscloset.com/video/15463",
+              "id": 15463,
+              "date": "2024-07-13 18:59",
+              "number": 10,
+              "bunnyId": "feb23228-896a-4e52-ac2e-ebe3adbce3e7",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Warhammer 40k: Dawn of War - Singleplayer",
+          "url": "https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Singleplayer",
+          "name": "Singleplayer",
+          "slug": "Singleplayer",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Warhammer 40k: Dawn of War - Singleplayer #1",
+              "url": "https://sovietscloset.com/video/15464",
+              "id": 15464,
+              "date": "2024-07-16 20:12",
+              "number": 1,
+              "bunnyId": "ac2de401-1665-45b7-97f5-98da7a1903af",
               "new": false
             }
           ]
