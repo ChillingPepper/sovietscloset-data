@@ -1,0 +1,22 @@
+{
+  "streamId": 15470,
+  "date": "2024-07-23 20:05",
+  "game": {
+    "name": "PHOGS",
+    "slug": "PHOGS"
+  },
+  "subcategory": {
+    "name": "Cyanide and Soviet",
+    "slug": "Cyanide-and-Soviet",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15470,
+        "date": "2024-07-23 20:05"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "f43b4199-94ee-47d6-817b-ed303616c701",
+  "useBunny": true
+}

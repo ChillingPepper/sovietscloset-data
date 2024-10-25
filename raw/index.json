@@ -8204,6 +8204,21 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9137,
+        "name": "Cyanide and Soviet",
+        "slug": "Cyanide-and-Soviet",
+        "streams": [
+          {
+            "id": 15470,
+            "date": "2024-07-23 20:05",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
