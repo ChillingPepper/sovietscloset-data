@@ -1,5 +1,15 @@
 # Changelog
 
+## 2024-10-25T09:33:20Z
+
+### Modified Game [PHOGS](https://sovietscloset.com/PHOGS)
+
+#### Added Playlist [PHOGS - Cyanide and Soviet](https://sovietscloset.com/PHOGS/Cyanide-and-Soviet)
+
+##### Videos
+
+- Added `v15470` [PHOGS - Cyanide and Soviet #1](https://sovietscloset.com/video/15470)
+
 ## 2024-10-19T17:01:47Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
