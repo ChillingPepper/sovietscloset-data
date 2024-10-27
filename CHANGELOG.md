@@ -1,5 +1,52 @@
 # Changelog
 
+## 2024-10-27T20:47:07Z
+
+### Modified Game [7 Days to Die](https://sovietscloset.com/7-Days-to-Die)
+
+#### Added Playlist [7 Days to Die - July 2024 Session](https://sovietscloset.com/7-Days-to-Die/July-2024-Session)
+
+##### Videos
+
+- Added `v15475` [7 Days to Die - July 2024 Session #1](https://sovietscloset.com/video/15475)
+- Added `v15476` [7 Days to Die - July 2024 Session #2](https://sovietscloset.com/video/15476)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15474` [Holdfast: Nations at War #183](https://sovietscloset.com/video/15474)
+
+### Modified Game [Kenshi](https://sovietscloset.com/Kenshi)
+
+#### Modified Playlist [Kenshi](https://sovietscloset.com/Kenshi)
+
+##### Videos
+
+- Added `v15471` [Kenshi #5](https://sovietscloset.com/video/15471)
+- Added `v15473` [Kenshi #6](https://sovietscloset.com/video/15473)
+- Added `v15472` [Kenshi #7](https://sovietscloset.com/video/15472)
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v15479` [Stormworks: Build and Rescue #22](https://sovietscloset.com/video/15479)
+- Added `v15478` [Stormworks: Build and Rescue #23](https://sovietscloset.com/video/15478)
+- Added `v15480` [Stormworks: Build and Rescue #24](https://sovietscloset.com/video/15480)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15477` [Warhammer 40k: Dawn of War - Multiplayer #11](https://sovietscloset.com/video/15477)
+
 ## 2024-10-25T09:33:20Z
 
 ### Modified Game [PHOGS](https://sovietscloset.com/PHOGS)

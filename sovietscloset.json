@@ -1,5 +1,5 @@
 {
-  "timestamp": 1729848800,
+  "timestamp": 1730062027,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -289,6 +289,34 @@
               "date": "2020-09-09 11:21",
               "number": 30,
               "bunnyId": "7334d006-c557-44a8-807b-b66a6074305d",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "7 Days to Die - July 2024 Session",
+          "url": "https://sovietscloset.com/7-Days-to-Die/July-2024-Session",
+          "name": "July 2024 Session",
+          "slug": "July-2024-Session",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "7 Days to Die - July 2024 Session #1",
+              "url": "https://sovietscloset.com/video/15475",
+              "id": 15475,
+              "date": "2024-07-26 11:20",
+              "number": 1,
+              "bunnyId": "c6de8b9d-4505-4b63-9c5a-c8a9b5b25079",
+              "new": false
+            },
+            {
+              "title": "7 Days to Die - July 2024 Session #2",
+              "url": "https://sovietscloset.com/video/15476",
+              "id": 15476,
+              "date": "2024-07-26 20:03",
+              "number": 2,
+              "bunnyId": "02150c75-74bf-4ec4-a8ba-71bcaf941581",
               "new": false
             }
           ]
@@ -8800,6 +8828,15 @@
               "number": 182,
               "bunnyId": "e6f25d35-3702-4861-9712-a122eb707512",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #183",
+              "url": "https://sovietscloset.com/video/15474",
+              "id": 15474,
+              "date": "2024-07-25 20:53",
+              "number": 183,
+              "bunnyId": "2929016e-c3c4-4af4-abca-dbed29aa106e",
+              "new": false
             }
           ]
         }
@@ -9214,6 +9251,33 @@
               "date": "2024-07-24 20:07",
               "number": 4,
               "bunnyId": "89e576fb-4d43-484d-8187-ed549e462ee1",
+              "new": false
+            },
+            {
+              "title": "Kenshi #5",
+              "url": "https://sovietscloset.com/video/15471",
+              "id": 15471,
+              "date": "2024-07-25 11:06",
+              "number": 5,
+              "bunnyId": "3ea0ecbe-9baa-4f81-9d03-51a0fb16ce85",
+              "new": false
+            },
+            {
+              "title": "Kenshi #6",
+              "url": "https://sovietscloset.com/video/15473",
+              "id": 15473,
+              "date": "2024-07-29 11:05",
+              "number": 6,
+              "bunnyId": "88e2fbdc-51d3-44a8-a2d5-d8f306b183c0",
+              "new": false
+            },
+            {
+              "title": "Kenshi #7",
+              "url": "https://sovietscloset.com/video/15472",
+              "id": 15472,
+              "date": "2024-07-30 20:16",
+              "number": 7,
+              "bunnyId": "b1ab474b-fb12-49ef-ab2b-5d34add2372b",
               "new": false
             }
           ]
@@ -20499,6 +20563,33 @@
               "number": 21,
               "bunnyId": "0bf0c5eb-fe0f-47b5-ac15-f3a84c725e8f",
               "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #22",
+              "url": "https://sovietscloset.com/video/15479",
+              "id": 15479,
+              "date": "2024-08-01 11:24",
+              "number": 22,
+              "bunnyId": "fc6ef790-a13f-4916-bcfc-eb72ab81aec8",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #23",
+              "url": "https://sovietscloset.com/video/15478",
+              "id": 15478,
+              "date": "2024-08-02 10:36",
+              "number": 23,
+              "bunnyId": "3bd2b421-9996-40b6-88e0-dfd17345d7a4",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #24",
+              "url": "https://sovietscloset.com/video/15480",
+              "id": 15480,
+              "date": "2024-08-02 20:08",
+              "number": 24,
+              "bunnyId": "2d38a16b-c4c1-4957-854a-46996a453fa1",
+              "new": false
             }
           ]
         }
@@ -27426,6 +27517,15 @@
               "date": "2024-07-13 18:59",
               "number": 10,
               "bunnyId": "feb23228-896a-4e52-ac2e-ebe3adbce3e7",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #11",
+              "url": "https://sovietscloset.com/video/15477",
+              "id": 15477,
+              "date": "2024-07-27 19:07",
+              "number": 11,
+              "bunnyId": "6f1911ef-b574-4f2c-be21-28e3c3859c43",
               "new": false
             }
           ]
