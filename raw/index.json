@@ -194,6 +194,27 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9138,
+        "name": "July 2024 Session",
+        "slug": "July-2024-Session",
+        "streams": [
+          {
+            "id": 15475,
+            "date": "2024-07-26 11:20",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15476,
+            "date": "2024-07-26 20:03",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -6064,6 +6085,12 @@
             "date": "2024-07-18 20:43",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15474,
+            "date": "2024-07-25 20:53",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6362,6 +6389,24 @@
           {
             "id": 15469,
             "date": "2024-07-24 20:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15471,
+            "date": "2024-07-25 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15473,
+            "date": "2024-07-29 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15472,
+            "date": "2024-07-30 20:16",
             "new": false,
             "useBunny": true
           }
@@ -14071,6 +14116,24 @@
             "date": "2024-04-26 20:21",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15479,
+            "date": "2024-08-01 11:24",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15478,
+            "date": "2024-08-02 10:36",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15480,
+            "date": "2024-08-02 20:08",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -18851,6 +18914,12 @@
           {
             "id": 15463,
             "date": "2024-07-13 18:59",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15477,
+            "date": "2024-07-27 19:07",
             "new": false,
             "useBunny": true
           }

@@ -1,0 +1,26 @@
+{
+  "streamId": 15475,
+  "date": "2024-07-26 11:20",
+  "game": {
+    "name": "7 Days to Die",
+    "slug": "7-Days-to-Die"
+  },
+  "subcategory": {
+    "name": "July 2024 Session",
+    "slug": "July-2024-Session",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15475,
+        "date": "2024-07-26 11:20"
+      },
+      {
+        "streamId": 15476,
+        "date": "2024-07-26 20:03"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "c6de8b9d-4505-4b63-9c5a-c8a9b5b25079",
+  "useBunny": true
+}
