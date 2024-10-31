@@ -1,5 +1,15 @@
 # Changelog
 
+## 2024-10-31T14:46:34Z
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15481` [Holdfast: Nations at War #184](https://sovietscloset.com/video/15481)
+
 ## 2024-10-27T20:47:07Z
 
 ### Modified Game [7 Days to Die](https://sovietscloset.com/7-Days-to-Die)
