@@ -1,5 +1,5 @@
 {
-  "timestamp": 1730385994,
+  "timestamp": 1730573866,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6782,6 +6782,33 @@
               "date": "2024-07-22 19:20",
               "number": 11,
               "bunnyId": "e0c6b9ce-8d9b-41ba-b32f-f532c7294f35",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #12",
+              "url": "https://sovietscloset.com/video/15486",
+              "id": 15486,
+              "date": "2024-08-05 19:17",
+              "number": 12,
+              "bunnyId": "0b7f69c5-bf19-45d6-831a-823b0ae325bb",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #13",
+              "url": "https://sovietscloset.com/video/15484",
+              "id": 15484,
+              "date": "2024-08-12 19:04",
+              "number": 13,
+              "bunnyId": "cb94c34f-778c-4819-aead-ce849a86b2f5",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #14",
+              "url": "https://sovietscloset.com/video/15485",
+              "id": 15485,
+              "date": "2024-08-19 19:00",
+              "number": 14,
+              "bunnyId": "12015259-8392-43d6-9f76-08de300cc799",
               "new": false
             }
           ]
@@ -20599,6 +20626,15 @@
               "number": 24,
               "bunnyId": "2d38a16b-c4c1-4957-854a-46996a453fa1",
               "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #25",
+              "url": "https://sovietscloset.com/video/15483",
+              "id": 15483,
+              "date": "2024-08-05 10:09",
+              "number": 25,
+              "bunnyId": "dc211839-17fc-4249-af4c-9b91b70e3e2e",
+              "new": false
             }
           ]
         }
@@ -27535,6 +27571,15 @@
               "date": "2024-07-27 19:07",
               "number": 11,
               "bunnyId": "6f1911ef-b574-4f2c-be21-28e3c3859c43",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #12",
+              "url": "https://sovietscloset.com/video/15482",
+              "id": 15482,
+              "date": "2024-08-03 19:00",
+              "number": 12,
+              "bunnyId": "1f2d6922-a23a-4574-9be1-001c50830195",
               "new": false
             }
           ]

@@ -1,5 +1,33 @@
 # Changelog
 
+## 2024-11-02T18:57:46Z
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15486` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #12](https://sovietscloset.com/video/15486)
+- Added `v15484` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #13](https://sovietscloset.com/video/15484)
+- Added `v15485` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #14](https://sovietscloset.com/video/15485)
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v15483` [Stormworks: Build and Rescue #25](https://sovietscloset.com/video/15483)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15482` [Warhammer 40k: Dawn of War - Multiplayer #12](https://sovietscloset.com/video/15482)
+
 ## 2024-10-31T14:46:34Z
 
 ### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
