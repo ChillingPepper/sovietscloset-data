@@ -1,5 +1,19 @@
 # Changelog
 
+## 2024-11-06T19:35:56Z
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v15490` [Stormworks: Build and Rescue #26](https://sovietscloset.com/video/15490)
+- Added `v15488` [Stormworks: Build and Rescue #27](https://sovietscloset.com/video/15488)
+- Added `v15489` [Stormworks: Build and Rescue #28](https://sovietscloset.com/video/15489)
+- Added `v15491` [Stormworks: Build and Rescue #29](https://sovietscloset.com/video/15491)
+- Added `v15487` [Stormworks: Build and Rescue #30](https://sovietscloset.com/video/15487)
+
 ## 2024-11-02T18:57:46Z
 
 ### Modified Game [Grounded](https://sovietscloset.com/Grounded)
