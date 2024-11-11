@@ -1,0 +1,70 @@
+{
+  "streamId": 15506,
+  "date": "2024-09-09 11:08",
+  "game": {
+    "name": "Prey",
+    "slug": "Prey"
+  },
+  "subcategory": {
+    "name": "Second Playthrough",
+    "slug": "Second-Playthrough",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15494,
+        "date": "2024-08-29 11:12"
+      },
+      {
+        "streamId": 15493,
+        "date": "2024-08-30 11:05"
+      },
+      {
+        "streamId": 15495,
+        "date": "2024-09-02 11:25"
+      },
+      {
+        "streamId": 15492,
+        "date": "2024-09-03 11:08"
+      },
+      {
+        "streamId": 15496,
+        "date": "2024-09-03 20:10"
+      },
+      {
+        "streamId": 15497,
+        "date": "2024-09-04 11:06"
+      },
+      {
+        "streamId": 15499,
+        "date": "2024-09-04 20:13"
+      },
+      {
+        "streamId": 15498,
+        "date": "2024-09-06 11:05"
+      },
+      {
+        "streamId": 15506,
+        "date": "2024-09-09 11:08"
+      },
+      {
+        "streamId": 15509,
+        "date": "2024-09-09 20:13"
+      },
+      {
+        "streamId": 15507,
+        "date": "2024-09-10 11:17"
+      },
+      {
+        "streamId": 15505,
+        "date": "2024-09-10 20:21"
+      },
+      {
+        "streamId": 15508,
+        "date": "2024-09-12 11:08"
+      }
+    ]
+  },
+  "number": 9,
+  "bunnyId": "6904955a-a2c7-425f-b99e-c39ec4810dcd",
+  "useBunny": true
+}

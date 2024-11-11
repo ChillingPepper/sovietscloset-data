@@ -3562,6 +3562,24 @@
             "date": "2024-03-29 20:17",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15504,
+            "date": "2024-08-18 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15502,
+            "date": "2024-08-19 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15503,
+            "date": "2024-08-19 11:14",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6113,6 +6131,12 @@
           {
             "id": 15481,
             "date": "2024-08-01 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15500,
+            "date": "2024-08-08 20:50",
             "new": false,
             "useBunny": true
           }
@@ -8720,6 +8744,93 @@
           {
             "id": 14880,
             "date": "2023-06-06 20:26",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      },
+      {
+        "id": 9139,
+        "name": "Second Playthrough",
+        "slug": "Second-Playthrough",
+        "streams": [
+          {
+            "id": 15494,
+            "date": "2024-08-29 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15493,
+            "date": "2024-08-30 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15495,
+            "date": "2024-09-02 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15492,
+            "date": "2024-09-03 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15496,
+            "date": "2024-09-03 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15497,
+            "date": "2024-09-04 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15499,
+            "date": "2024-09-04 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15498,
+            "date": "2024-09-06 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15506,
+            "date": "2024-09-09 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15509,
+            "date": "2024-09-09 20:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15507,
+            "date": "2024-09-10 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15505,
+            "date": "2024-09-10 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15508,
+            "date": "2024-09-12 11:08",
             "new": false,
             "useBunny": true
           }
@@ -18986,6 +19097,12 @@
           {
             "id": 15482,
             "date": "2024-08-03 19:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15501,
+            "date": "2024-08-10 19:00",
             "new": false,
             "useBunny": true
           }

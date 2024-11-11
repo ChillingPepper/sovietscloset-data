@@ -8,7 +8,7 @@
   "subcategory": {
     "name": "Misc",
     "slug": "Misc",
-    "onlyCategory": true,
+    "onlyCategory": false,
     "playlist": [
       {
         "streamId": 14813,
