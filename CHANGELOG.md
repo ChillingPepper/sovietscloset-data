@@ -1,5 +1,53 @@
 # Changelog
 
+## 2024-11-11T14:48:02Z
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15504` [Divinity: Original Sin 2 - Audio gathering solo play #42](https://sovietscloset.com/video/15504)
+- Added `v15502` [Divinity: Original Sin 2 - Audio gathering solo play #43](https://sovietscloset.com/video/15502)
+- Added `v15503` [Divinity: Original Sin 2 - Audio gathering solo play #44](https://sovietscloset.com/video/15503)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15500` [Holdfast: Nations at War #185](https://sovietscloset.com/video/15500)
+
+### Modified Game [Prey](https://sovietscloset.com/Prey)
+
+#### Added Playlist [Prey - Second Playthrough](https://sovietscloset.com/Prey/Second-Playthrough)
+
+##### Videos
+
+- Added `v15494` [Prey - Second Playthrough #1](https://sovietscloset.com/video/15494)
+- Added `v15493` [Prey - Second Playthrough #2](https://sovietscloset.com/video/15493)
+- Added `v15495` [Prey - Second Playthrough #3](https://sovietscloset.com/video/15495)
+- Added `v15492` [Prey - Second Playthrough #4](https://sovietscloset.com/video/15492)
+- Added `v15496` [Prey - Second Playthrough #5](https://sovietscloset.com/video/15496)
+- Added `v15497` [Prey - Second Playthrough #6](https://sovietscloset.com/video/15497)
+- Added `v15499` [Prey - Second Playthrough #7](https://sovietscloset.com/video/15499)
+- Added `v15498` [Prey - Second Playthrough #8](https://sovietscloset.com/video/15498)
+- Added `v15506` [Prey - Second Playthrough #9](https://sovietscloset.com/video/15506)
+- Added `v15509` [Prey - Second Playthrough #10](https://sovietscloset.com/video/15509)
+- Added `v15507` [Prey - Second Playthrough #11](https://sovietscloset.com/video/15507)
+- Added `v15505` [Prey - Second Playthrough #12](https://sovietscloset.com/video/15505)
+- Added `v15508` [Prey - Second Playthrough #13](https://sovietscloset.com/video/15508)
+
+### Modified Game [Warhammer 40k: Dawn of War](https://sovietscloset.com/Warhammer-40k-Dawn-of-War)
+
+#### Modified Playlist [Warhammer 40k: Dawn of War - Multiplayer](https://sovietscloset.com/Warhammer-40k-Dawn-of-War/Multiplayer)
+
+##### Videos
+
+- Added `v15501` [Warhammer 40k: Dawn of War - Multiplayer #13](https://sovietscloset.com/video/15501)
+
 ## 2024-11-06T19:35:56Z
 
 ### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)

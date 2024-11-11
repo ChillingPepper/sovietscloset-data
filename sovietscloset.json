@@ -1,5 +1,5 @@
 {
-  "timestamp": 1730921756,
+  "timestamp": 1731336482,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -5201,6 +5201,33 @@
               "number": 41,
               "bunnyId": "8701ffc5-aa46-4da6-bab4-a2106977936e",
               "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #42",
+              "url": "https://sovietscloset.com/video/15504",
+              "id": 15504,
+              "date": "2024-08-18 20:15",
+              "number": 42,
+              "bunnyId": "9d052ad6-66f2-4591-b406-60a1f849b572",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #43",
+              "url": "https://sovietscloset.com/video/15502",
+              "id": 15502,
+              "date": "2024-08-19 11:06",
+              "number": 43,
+              "bunnyId": "efd8f6fc-80d6-4e0c-97fa-235400813bfd",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #44",
+              "url": "https://sovietscloset.com/video/15503",
+              "id": 15503,
+              "date": "2024-08-19 11:14",
+              "number": 44,
+              "bunnyId": "7f0bba1c-7c0b-4437-ab04-8742a654d11a",
+              "new": false
             }
           ]
         }
@@ -8872,6 +8899,15 @@
               "date": "2024-08-01 20:51",
               "number": 184,
               "bunnyId": "16d7baef-d40a-4477-b655-924fac5a88d4",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #185",
+              "url": "https://sovietscloset.com/video/15500",
+              "id": 15500,
+              "date": "2024-08-08 20:50",
+              "number": 185,
+              "bunnyId": "a2d63af9-18aa-4262-9c80-acc14e13dfae",
               "new": false
             }
           ]
@@ -12618,6 +12654,133 @@
               "date": "2023-06-06 20:26",
               "number": 13,
               "bunnyId": "9fbf84b0-4fa5-46a8-8a3c-6aed04fc4093",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Prey - Second Playthrough",
+          "url": "https://sovietscloset.com/Prey/Second-Playthrough",
+          "name": "Second Playthrough",
+          "slug": "Second-Playthrough",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Prey - Second Playthrough #1",
+              "url": "https://sovietscloset.com/video/15494",
+              "id": 15494,
+              "date": "2024-08-29 11:12",
+              "number": 1,
+              "bunnyId": "47a868ef-287b-4051-8a06-7dd94444d840",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #2",
+              "url": "https://sovietscloset.com/video/15493",
+              "id": 15493,
+              "date": "2024-08-30 11:05",
+              "number": 2,
+              "bunnyId": "589a72c9-36fa-47a2-9378-4ef36d4a73bc",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #3",
+              "url": "https://sovietscloset.com/video/15495",
+              "id": 15495,
+              "date": "2024-09-02 11:25",
+              "number": 3,
+              "bunnyId": "16ff4049-65f9-40d9-bb6d-d7ad79207e4d",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #4",
+              "url": "https://sovietscloset.com/video/15492",
+              "id": 15492,
+              "date": "2024-09-03 11:08",
+              "number": 4,
+              "bunnyId": "25b06e59-037b-477e-843b-84a4f7ed92c6",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #5",
+              "url": "https://sovietscloset.com/video/15496",
+              "id": 15496,
+              "date": "2024-09-03 20:10",
+              "number": 5,
+              "bunnyId": "1fb7bd6f-1a4e-4d1b-b1b3-ce00c47e0b11",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #6",
+              "url": "https://sovietscloset.com/video/15497",
+              "id": 15497,
+              "date": "2024-09-04 11:06",
+              "number": 6,
+              "bunnyId": "70417c30-8773-4baf-b942-68e4a6bb75f9",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #7",
+              "url": "https://sovietscloset.com/video/15499",
+              "id": 15499,
+              "date": "2024-09-04 20:13",
+              "number": 7,
+              "bunnyId": "c18424ee-6bd1-4bf9-b3ca-af50843b76ba",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #8",
+              "url": "https://sovietscloset.com/video/15498",
+              "id": 15498,
+              "date": "2024-09-06 11:05",
+              "number": 8,
+              "bunnyId": "245a4167-77f8-4524-ab31-731699010f43",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #9",
+              "url": "https://sovietscloset.com/video/15506",
+              "id": 15506,
+              "date": "2024-09-09 11:08",
+              "number": 9,
+              "bunnyId": "6904955a-a2c7-425f-b99e-c39ec4810dcd",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #10",
+              "url": "https://sovietscloset.com/video/15509",
+              "id": 15509,
+              "date": "2024-09-09 20:13",
+              "number": 10,
+              "bunnyId": "eea96425-ceaf-4006-a7c0-0351e970aef1",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #11",
+              "url": "https://sovietscloset.com/video/15507",
+              "id": 15507,
+              "date": "2024-09-10 11:17",
+              "number": 11,
+              "bunnyId": "0efdca44-d5f8-47ed-86d8-45a0fee80f97",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #12",
+              "url": "https://sovietscloset.com/video/15505",
+              "id": 15505,
+              "date": "2024-09-10 20:21",
+              "number": 12,
+              "bunnyId": "0f403fd2-4c80-4c9c-9174-2d63539b15fc",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #13",
+              "url": "https://sovietscloset.com/video/15508",
+              "id": 15508,
+              "date": "2024-09-12 11:08",
+              "number": 13,
+              "bunnyId": "65e8e308-eb38-4b66-b631-dffb8959d72d",
               "new": false
             }
           ]
@@ -27625,6 +27788,15 @@
               "date": "2024-08-03 19:00",
               "number": 12,
               "bunnyId": "1f2d6922-a23a-4574-9be1-001c50830195",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Dawn of War - Multiplayer #13",
+              "url": "https://sovietscloset.com/video/15501",
+              "id": 15501,
+              "date": "2024-08-10 19:00",
+              "number": 13,
+              "bunnyId": "cc1e7373-6167-4738-a5b1-ec0bfd5c19f0",
               "new": false
             }
           ]
