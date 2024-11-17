@@ -1,5 +1,5 @@
 {
-  "timestamp": 1731336482,
+  "timestamp": 1731858774,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2593,6 +2593,71 @@
               "date": "2021-09-07 11:19",
               "number": 3,
               "bunnyId": "916e7f72-51e1-4557-b1c9-e7868c0a70e5",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cosmoteer",
+      "url": "https://sovietscloset.com/Cosmoteer",
+      "name": "Cosmoteer",
+      "slug": "Cosmoteer",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Cosmoteer - Singleplayer",
+          "url": "https://sovietscloset.com/Cosmoteer/Singleplayer",
+          "name": "Singleplayer",
+          "slug": "Singleplayer",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Cosmoteer - Singleplayer #1",
+              "url": "https://sovietscloset.com/video/15534",
+              "id": 15534,
+              "date": "2024-10-04 11:03",
+              "number": 1,
+              "bunnyId": "0b003e71-db41-4670-b4bc-08055145c402",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #2",
+              "url": "https://sovietscloset.com/video/15535",
+              "id": 15535,
+              "date": "2024-10-05 19:38",
+              "number": 2,
+              "bunnyId": "9d5ddad5-b265-4205-af93-8510386a32c2",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #3",
+              "url": "https://sovietscloset.com/video/15536",
+              "id": 15536,
+              "date": "2024-10-07 11:16",
+              "number": 3,
+              "bunnyId": "e2c710de-4201-4dc7-bfb5-a475d94319be",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #4",
+              "url": "https://sovietscloset.com/video/15532",
+              "id": 15532,
+              "date": "2024-10-08 11:10",
+              "number": 4,
+              "bunnyId": "142abe88-90a9-4422-84d3-b06638ded4f1",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #5",
+              "url": "https://sovietscloset.com/video/15533",
+              "id": 15533,
+              "date": "2024-10-09 11:14",
+              "number": 5,
+              "bunnyId": "b790ecc1-0919-4a66-93ee-f22670cc6fd6",
               "new": false
             }
           ]
@@ -5204,29 +5269,137 @@
             },
             {
               "title": "Divinity: Original Sin 2 - Audio gathering solo play #42",
-              "url": "https://sovietscloset.com/video/15504",
-              "id": 15504,
-              "date": "2024-08-18 20:15",
+              "url": "https://sovietscloset.com/video/15511",
+              "id": 15511,
+              "date": "2024-08-13 11:23",
               "number": 42,
-              "bunnyId": "9d052ad6-66f2-4591-b406-60a1f849b572",
+              "bunnyId": "26c083bf-ee89-4a26-af2e-a923c2667f57",
               "new": false
             },
             {
               "title": "Divinity: Original Sin 2 - Audio gathering solo play #43",
-              "url": "https://sovietscloset.com/video/15502",
-              "id": 15502,
-              "date": "2024-08-19 11:06",
+              "url": "https://sovietscloset.com/video/15514",
+              "id": 15514,
+              "date": "2024-08-14 20:18",
               "number": 43,
-              "bunnyId": "efd8f6fc-80d6-4e0c-97fa-235400813bfd",
+              "bunnyId": "7dfb1ebc-bcba-4fe3-a0ba-7d6f10e7d282",
               "new": false
             },
             {
               "title": "Divinity: Original Sin 2 - Audio gathering solo play #44",
+              "url": "https://sovietscloset.com/video/15512",
+              "id": 15512,
+              "date": "2024-08-15 11:08",
+              "number": 44,
+              "bunnyId": "b88b5336-309e-4ef9-b8a4-8cd9e1d869f3",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #45",
+              "url": "https://sovietscloset.com/video/15510",
+              "id": 15510,
+              "date": "2024-08-15 20:12",
+              "number": 45,
+              "bunnyId": "af5678c9-abb0-456a-893a-ac0adfad5bae",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #46",
+              "url": "https://sovietscloset.com/video/15515",
+              "id": 15515,
+              "date": "2024-08-15 20:27",
+              "number": 46,
+              "bunnyId": "bd5f14c5-8ef2-4488-9d07-a04c20ee573f",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #47",
+              "url": "https://sovietscloset.com/video/15513",
+              "id": 15513,
+              "date": "2024-08-16 20:12",
+              "number": 47,
+              "bunnyId": "bd34517c-2a4c-4cec-9f95-14b0048728bb",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #48",
+              "url": "https://sovietscloset.com/video/15516",
+              "id": 15516,
+              "date": "2024-08-18 11:25",
+              "number": 48,
+              "bunnyId": "ddd31b62-c743-4713-849e-9b4b9a3f7370",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #49",
+              "url": "https://sovietscloset.com/video/15504",
+              "id": 15504,
+              "date": "2024-08-18 20:15",
+              "number": 49,
+              "bunnyId": "9d052ad6-66f2-4591-b406-60a1f849b572",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #50",
+              "url": "https://sovietscloset.com/video/15525",
+              "id": 15525,
+              "date": "2024-08-19 11:00",
+              "number": 50,
+              "bunnyId": "738f5a46-c1a6-4dea-b33d-065121d9273f",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #51",
+              "url": "https://sovietscloset.com/video/15502",
+              "id": 15502,
+              "date": "2024-08-19 11:06",
+              "number": 51,
+              "bunnyId": "efd8f6fc-80d6-4e0c-97fa-235400813bfd",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #52",
               "url": "https://sovietscloset.com/video/15503",
               "id": 15503,
               "date": "2024-08-19 11:14",
-              "number": 44,
+              "number": 52,
               "bunnyId": "7f0bba1c-7c0b-4437-ab04-8742a654d11a",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #53",
+              "url": "https://sovietscloset.com/video/15526",
+              "id": 15526,
+              "date": "2024-08-20 11:12",
+              "number": 53,
+              "bunnyId": "5be057af-d6eb-4703-9178-8f25a22d9d29",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #54",
+              "url": "https://sovietscloset.com/video/15527",
+              "id": 15527,
+              "date": "2024-08-20 20:23",
+              "number": 54,
+              "bunnyId": "775c4470-573f-4bce-96b0-fb9997ec57ef",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #55",
+              "url": "https://sovietscloset.com/video/15524",
+              "id": 15524,
+              "date": "2024-08-21 20:11",
+              "number": 55,
+              "bunnyId": "966333a0-07f2-4f2c-8543-f09451ff4417",
+              "new": false
+            },
+            {
+              "title": "Divinity: Original Sin 2 - Audio gathering solo play #56",
+              "url": "https://sovietscloset.com/video/15528",
+              "id": 15528,
+              "date": "2024-08-22 11:08",
+              "number": 56,
+              "bunnyId": "a5732cfc-fbb3-4ab4-b46c-c02c08522c73",
               "new": false
             }
           ]
@@ -6007,7 +6180,7 @@
       "name": "Fallout Tactics",
       "slug": "Fallout-Tactics",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "Fallout Tactics",
@@ -6015,7 +6188,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": false,
+          "recentlyUpdated": true,
           "videos": [
             {
               "title": "Fallout Tactics #1",
@@ -6097,6 +6270,96 @@
               "number": 9,
               "bunnyId": "e338012e-9096-4f61-97b3-09de6ed84ab2",
               "new": false
+            },
+            {
+              "title": "Fallout Tactics #10",
+              "url": "https://sovietscloset.com/video/15517",
+              "id": 15517,
+              "date": "2024-11-06 11:51",
+              "number": 10,
+              "bunnyId": "098b0304-188a-45be-acae-6aef38e1f7b1",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #11",
+              "url": "https://sovietscloset.com/video/15518",
+              "id": 15518,
+              "date": "2024-11-06 11:55",
+              "number": 11,
+              "bunnyId": "ecf4d1b2-14c6-44c5-843a-4a156018123a",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #12",
+              "url": "https://sovietscloset.com/video/15519",
+              "id": 15519,
+              "date": "2024-11-06 20:10",
+              "number": 12,
+              "bunnyId": "e2fa394c-a5e2-469f-b619-48242ae56397",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #13",
+              "url": "https://sovietscloset.com/video/15520",
+              "id": 15520,
+              "date": "2024-11-07 11:12",
+              "number": 13,
+              "bunnyId": "4a2f62ef-0544-4c85-afa3-3ae133c36c21",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #14",
+              "url": "https://sovietscloset.com/video/15521",
+              "id": 15521,
+              "date": "2024-11-08 11:05",
+              "number": 14,
+              "bunnyId": "1c807887-282f-42c9-8b69-5ca24cb057dc",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #15",
+              "url": "https://sovietscloset.com/video/15522",
+              "id": 15522,
+              "date": "2024-11-08 20:10",
+              "number": 15,
+              "bunnyId": "66a26ede-b82d-4a33-b28d-3e7f6f0b9af4",
+              "new": false
+            },
+            {
+              "title": "Fallout Tactics #16",
+              "url": "https://sovietscloset.com/video/15523",
+              "id": 15523,
+              "date": "2024-11-11 10:59",
+              "number": 16,
+              "bunnyId": "4cc10b2f-5e43-4e4d-a104-7cc26efa4050",
+              "new": true
+            },
+            {
+              "title": "Fallout Tactics #17",
+              "url": "https://sovietscloset.com/video/15530",
+              "id": 15530,
+              "date": "2024-11-12 11:05",
+              "number": 17,
+              "bunnyId": "4141979e-62eb-4d4c-9516-80d3afa9c63a",
+              "new": true
+            },
+            {
+              "title": "Fallout Tactics #18",
+              "url": "https://sovietscloset.com/video/15531",
+              "id": 15531,
+              "date": "2024-11-13 11:07",
+              "number": 18,
+              "bunnyId": "62c89eff-ed36-449e-b577-d5c6a1488cfd",
+              "new": true
+            },
+            {
+              "title": "Fallout Tactics #19",
+              "url": "https://sovietscloset.com/video/15529",
+              "id": 15529,
+              "date": "2024-11-13 20:24",
+              "number": 19,
+              "bunnyId": "57e0e9b1-27ea-49ee-84cc-4da294d07f19",
+              "new": true
             }
           ]
         }
@@ -8909,6 +9172,15 @@
               "number": 185,
               "bunnyId": "a2d63af9-18aa-4262-9c80-acc14e13dfae",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #186",
+              "url": "https://sovietscloset.com/video/15537",
+              "id": 15537,
+              "date": "2024-08-22 20:50",
+              "number": 186,
+              "bunnyId": "e36e9ed6-af80-4c63-bf56-7aea1565a7f5",
+              "new": false
             }
           ]
         }
@@ -9267,6 +9539,15 @@
               "date": "2024-06-24 11:10",
               "number": 18,
               "bunnyId": "7a212ea4-65b7-4dae-af78-bca2eb3b6636",
+              "new": false
+            },
+            {
+              "title": "Just Chatting #19",
+              "url": "https://sovietscloset.com/video/15538",
+              "id": 15538,
+              "date": "2024-08-28 20:06",
+              "number": 19,
+              "bunnyId": "165cd0cf-3594-4dd2-a0e7-cdea6dc54c9b",
               "new": false
             }
           ]

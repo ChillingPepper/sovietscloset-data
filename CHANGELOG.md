@@ -1,5 +1,84 @@
 # Changelog
 
+## 2024-11-17T15:52:54Z
+
+### Added Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)
+
+#### Added Playlist [Cosmoteer - Singleplayer](https://sovietscloset.com/Cosmoteer/Singleplayer)
+
+##### Videos
+
+- Added `v15534` [Cosmoteer - Singleplayer #1](https://sovietscloset.com/video/15534)
+- Added `v15535` [Cosmoteer - Singleplayer #2](https://sovietscloset.com/video/15535)
+- Added `v15536` [Cosmoteer - Singleplayer #3](https://sovietscloset.com/video/15536)
+- Added `v15532` [Cosmoteer - Singleplayer #4](https://sovietscloset.com/video/15532)
+- Added `v15533` [Cosmoteer - Singleplayer #5](https://sovietscloset.com/video/15533)
+
+### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
+
+#### Modified Playlist [Divinity: Original Sin 2 - Audio gathering solo play](https://sovietscloset.com/Divinity-Original-Sin-2/Audio-gathering-solo-play)
+
+##### Videos
+
+- Added `v15511` [Divinity: Original Sin 2 - Audio gathering solo play #42](https://sovietscloset.com/video/15511)
+- Added `v15514` [Divinity: Original Sin 2 - Audio gathering solo play #43](https://sovietscloset.com/video/15514)
+- Added `v15512` [Divinity: Original Sin 2 - Audio gathering solo play #44](https://sovietscloset.com/video/15512)
+- Added `v15510` [Divinity: Original Sin 2 - Audio gathering solo play #45](https://sovietscloset.com/video/15510)
+- Added `v15515` [Divinity: Original Sin 2 - Audio gathering solo play #46](https://sovietscloset.com/video/15515)
+- Added `v15513` [Divinity: Original Sin 2 - Audio gathering solo play #47](https://sovietscloset.com/video/15513)
+- Added `v15516` [Divinity: Original Sin 2 - Audio gathering solo play #48](https://sovietscloset.com/video/15516)
+- Modified `v15504` [Divinity: Original Sin 2 - Audio gathering solo play #49](https://sovietscloset.com/video/15504)
+  - Changed title from `Divinity: Original Sin 2 - Audio gathering solo play #42` to `Divinity: Original Sin 2 - Audio gathering solo play #49`
+  - Changed number from `42` to `49`
+- Added `v15525` [Divinity: Original Sin 2 - Audio gathering solo play #50](https://sovietscloset.com/video/15525)
+- Modified `v15502` [Divinity: Original Sin 2 - Audio gathering solo play #51](https://sovietscloset.com/video/15502)
+  - Changed title from `Divinity: Original Sin 2 - Audio gathering solo play #43` to `Divinity: Original Sin 2 - Audio gathering solo play #51`
+  - Changed number from `43` to `51`
+- Modified `v15503` [Divinity: Original Sin 2 - Audio gathering solo play #52](https://sovietscloset.com/video/15503)
+  - Changed title from `Divinity: Original Sin 2 - Audio gathering solo play #44` to `Divinity: Original Sin 2 - Audio gathering solo play #52`
+  - Changed number from `44` to `52`
+- Added `v15526` [Divinity: Original Sin 2 - Audio gathering solo play #53](https://sovietscloset.com/video/15526)
+- Added `v15527` [Divinity: Original Sin 2 - Audio gathering solo play #54](https://sovietscloset.com/video/15527)
+- Added `v15524` [Divinity: Original Sin 2 - Audio gathering solo play #55](https://sovietscloset.com/video/15524)
+- Added `v15528` [Divinity: Original Sin 2 - Audio gathering solo play #56](https://sovietscloset.com/video/15528)
+
+### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+- Is now marked as recently updated.
+
+#### Modified Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+- Is now marked as recently updated.
+
+##### Videos
+
+- Added `v15517` [Fallout Tactics #10](https://sovietscloset.com/video/15517)
+- Added `v15518` [Fallout Tactics #11](https://sovietscloset.com/video/15518)
+- Added `v15519` [Fallout Tactics #12](https://sovietscloset.com/video/15519)
+- Added `v15520` [Fallout Tactics #13](https://sovietscloset.com/video/15520)
+- Added `v15521` [Fallout Tactics #14](https://sovietscloset.com/video/15521)
+- Added `v15522` [Fallout Tactics #15](https://sovietscloset.com/video/15522)
+- Added `v15523` [Fallout Tactics #16](https://sovietscloset.com/video/15523) (new)
+- Added `v15530` [Fallout Tactics #17](https://sovietscloset.com/video/15530) (new)
+- Added `v15531` [Fallout Tactics #18](https://sovietscloset.com/video/15531) (new)
+- Added `v15529` [Fallout Tactics #19](https://sovietscloset.com/video/15529) (new)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15537` [Holdfast: Nations at War #186](https://sovietscloset.com/video/15537)
+
+### Modified Game [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+#### Modified Playlist [Just Chatting](https://sovietscloset.com/Just-Chatting)
+
+##### Videos
+
+- Added `v15538` [Just Chatting #19](https://sovietscloset.com/video/15538)
+
 ## 2024-11-11T14:48:02Z
 
 ### Modified Game [Divinity: Original Sin 2](https://sovietscloset.com/Divinity-Original-Sin-2)
