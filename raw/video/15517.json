@@ -1,0 +1,94 @@
+{
+  "streamId": 15517,
+  "date": "2024-11-06 11:51",
+  "game": {
+    "name": "Fallout Tactics",
+    "slug": "Fallout-Tactics"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 14295,
+        "date": "2022-06-29 11:08"
+      },
+      {
+        "streamId": 14292,
+        "date": "2022-06-29 20:21"
+      },
+      {
+        "streamId": 14293,
+        "date": "2022-07-01 11:19"
+      },
+      {
+        "streamId": 14294,
+        "date": "2022-07-01 20:18"
+      },
+      {
+        "streamId": 14298,
+        "date": "2022-07-03 13:14"
+      },
+      {
+        "streamId": 14299,
+        "date": "2022-07-04 11:12"
+      },
+      {
+        "streamId": 14296,
+        "date": "2022-07-04 20:20"
+      },
+      {
+        "streamId": 14297,
+        "date": "2022-07-05 11:08"
+      },
+      {
+        "streamId": 14303,
+        "date": "2022-07-06 11:17"
+      },
+      {
+        "streamId": 15517,
+        "date": "2024-11-06 11:51"
+      },
+      {
+        "streamId": 15518,
+        "date": "2024-11-06 11:55"
+      },
+      {
+        "streamId": 15519,
+        "date": "2024-11-06 20:10"
+      },
+      {
+        "streamId": 15520,
+        "date": "2024-11-07 11:12"
+      },
+      {
+        "streamId": 15521,
+        "date": "2024-11-08 11:05"
+      },
+      {
+        "streamId": 15522,
+        "date": "2024-11-08 20:10"
+      },
+      {
+        "streamId": 15523,
+        "date": "2024-11-11 10:59"
+      },
+      {
+        "streamId": 15530,
+        "date": "2024-11-12 11:05"
+      },
+      {
+        "streamId": 15531,
+        "date": "2024-11-13 11:07"
+      },
+      {
+        "streamId": 15529,
+        "date": "2024-11-13 20:24"
+      }
+    ]
+  },
+  "number": 10,
+  "bunnyId": "098b0304-188a-45be-acae-6aef38e1f7b1",
+  "useBunny": true
+}

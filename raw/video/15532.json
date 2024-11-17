@@ -1,0 +1,38 @@
+{
+  "streamId": 15532,
+  "date": "2024-10-08 11:10",
+  "game": {
+    "name": "Cosmoteer",
+    "slug": "Cosmoteer"
+  },
+  "subcategory": {
+    "name": "Singleplayer",
+    "slug": "Singleplayer",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15534,
+        "date": "2024-10-04 11:03"
+      },
+      {
+        "streamId": 15535,
+        "date": "2024-10-05 19:38"
+      },
+      {
+        "streamId": 15536,
+        "date": "2024-10-07 11:16"
+      },
+      {
+        "streamId": 15532,
+        "date": "2024-10-08 11:10"
+      },
+      {
+        "streamId": 15533,
+        "date": "2024-10-09 11:14"
+      }
+    ]
+  },
+  "number": 4,
+  "bunnyId": "142abe88-90a9-4422-84d3-b06638ded4f1",
+  "useBunny": true
+}

@@ -1,0 +1,94 @@
+{
+  "streamId": 15538,
+  "date": "2024-08-28 20:06",
+  "game": {
+    "name": "Just Chatting",
+    "slug": "Just-Chatting"
+  },
+  "subcategory": {
+    "name": "Misc",
+    "slug": "Misc",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 1210,
+        "date": "2020-09-25 11:39"
+      },
+      {
+        "streamId": 3749,
+        "date": "2021-03-02 20:20"
+      },
+      {
+        "streamId": 10135,
+        "date": "2021-06-16 20:15"
+      },
+      {
+        "streamId": 6713,
+        "date": "2021-07-30 20:33"
+      },
+      {
+        "streamId": 6821,
+        "date": "2021-09-03 11:13"
+      },
+      {
+        "streamId": 14121,
+        "date": "2021-11-02 20:09"
+      },
+      {
+        "streamId": 10144,
+        "date": "2021-12-15 11:06"
+      },
+      {
+        "streamId": 12113,
+        "date": "2022-01-21 11:23"
+      },
+      {
+        "streamId": 14370,
+        "date": "2022-03-17 11:12"
+      },
+      {
+        "streamId": 14271,
+        "date": "2022-03-25 20:15"
+      },
+      {
+        "streamId": 14272,
+        "date": "2022-05-27 11:24"
+      },
+      {
+        "streamId": 14353,
+        "date": "2022-07-12 20:06"
+      },
+      {
+        "streamId": 14436,
+        "date": "2022-07-25 11:06"
+      },
+      {
+        "streamId": 14621,
+        "date": "2022-12-14 11:18"
+      },
+      {
+        "streamId": 14650,
+        "date": "2023-01-13 11:25"
+      },
+      {
+        "streamId": 14821,
+        "date": "2023-05-16 20:00"
+      },
+      {
+        "streamId": 15410,
+        "date": "2024-05-13 11:12"
+      },
+      {
+        "streamId": 15446,
+        "date": "2024-06-24 11:10"
+      },
+      {
+        "streamId": 15538,
+        "date": "2024-08-28 20:06"
+      }
+    ]
+  },
+  "number": 19,
+  "bunnyId": "165cd0cf-3594-4dd2-a0e7-cdea6dc54c9b",
+  "useBunny": true
+}

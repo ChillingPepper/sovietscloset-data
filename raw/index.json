@@ -1797,6 +1797,54 @@
     ]
   },
   {
+    "id": 9105,
+    "name": "Cosmoteer",
+    "slug": "Cosmoteer",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9140,
+        "name": "Singleplayer",
+        "slug": "Singleplayer",
+        "streams": [
+          {
+            "id": 15534,
+            "date": "2024-10-04 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15535,
+            "date": "2024-10-05 19:38",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15536,
+            "date": "2024-10-07 11:16",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15532,
+            "date": "2024-10-08 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15533,
+            "date": "2024-10-09 11:14",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 8067,
     "name": "Crab Game",
     "slug": "Crab-Game",
@@ -3564,8 +3612,56 @@
             "useBunny": true
           },
           {
+            "id": 15511,
+            "date": "2024-08-13 11:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15514,
+            "date": "2024-08-14 20:18",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15512,
+            "date": "2024-08-15 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15510,
+            "date": "2024-08-15 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15515,
+            "date": "2024-08-15 20:27",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15513,
+            "date": "2024-08-16 20:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15516,
+            "date": "2024-08-18 11:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
             "id": 15504,
             "date": "2024-08-18 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15525,
+            "date": "2024-08-19 11:00",
             "new": false,
             "useBunny": true
           },
@@ -3578,6 +3674,30 @@
           {
             "id": 15503,
             "date": "2024-08-19 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15526,
+            "date": "2024-08-20 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15527,
+            "date": "2024-08-20 20:23",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15524,
+            "date": "2024-08-21 20:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15528,
+            "date": "2024-08-22 11:08",
             "new": false,
             "useBunny": true
           }
@@ -4132,7 +4252,7 @@
     "name": "Fallout Tactics",
     "slug": "Fallout-Tactics",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 9084,
@@ -4192,10 +4312,70 @@
             "date": "2022-07-06 11:17",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15517,
+            "date": "2024-11-06 11:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15518,
+            "date": "2024-11-06 11:55",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15519,
+            "date": "2024-11-06 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15520,
+            "date": "2024-11-07 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15521,
+            "date": "2024-11-08 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15522,
+            "date": "2024-11-08 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15523,
+            "date": "2024-11-11 10:59",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15530,
+            "date": "2024-11-12 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15531,
+            "date": "2024-11-13 11:07",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15529,
+            "date": "2024-11-13 20:24",
+            "new": true,
+            "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": false
+        "recentlyUpdated": true
       }
     ]
   },
@@ -6139,6 +6319,12 @@
             "date": "2024-08-08 20:50",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15537,
+            "date": "2024-08-22 20:50",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -6395,6 +6581,12 @@
           {
             "id": 15446,
             "date": "2024-06-24 11:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15538,
+            "date": "2024-08-28 20:06",
             "new": false,
             "useBunny": true
           }
