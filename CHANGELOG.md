@@ -1,5 +1,29 @@
 # Changelog
 
+## 2024-11-19T14:02:42Z
+
+### Modified Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)
+
+#### Modified Playlist [Cosmoteer - Singleplayer](https://sovietscloset.com/Cosmoteer/Singleplayer)
+
+##### Videos
+
+- Added `v15542` [Cosmoteer - Singleplayer #6](https://sovietscloset.com/video/15542)
+- Added `v15540` [Cosmoteer - Singleplayer #7](https://sovietscloset.com/video/15540)
+- Added `v15539` [Cosmoteer - Singleplayer #8](https://sovietscloset.com/video/15539)
+- Added `v15541` [Cosmoteer - Singleplayer #9](https://sovietscloset.com/video/15541)
+
+### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+#### Modified Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+##### Videos
+
+- Modified `v15523` [Fallout Tactics #16](https://sovietscloset.com/video/15523)
+  - Is no longer marked as new.
+- Modified `v15530` [Fallout Tactics #17](https://sovietscloset.com/video/15530)
+  - Is no longer marked as new.
+
 ## 2024-11-17T15:52:54Z
 
 ### Added Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)

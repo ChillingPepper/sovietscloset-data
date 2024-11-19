@@ -1,5 +1,5 @@
 {
-  "timestamp": 1731858774,
+  "timestamp": 1732024962,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2658,6 +2658,42 @@
               "date": "2024-10-09 11:14",
               "number": 5,
               "bunnyId": "b790ecc1-0919-4a66-93ee-f22670cc6fd6",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #6",
+              "url": "https://sovietscloset.com/video/15542",
+              "id": 15542,
+              "date": "2024-10-09 20:10",
+              "number": 6,
+              "bunnyId": "6290e581-e047-480f-93fe-d026bd483279",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #7",
+              "url": "https://sovietscloset.com/video/15540",
+              "id": 15540,
+              "date": "2024-10-10 11:13",
+              "number": 7,
+              "bunnyId": "c77128f4-c854-496d-a029-469bc340bcde",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #8",
+              "url": "https://sovietscloset.com/video/15539",
+              "id": 15539,
+              "date": "2024-10-11 11:05",
+              "number": 8,
+              "bunnyId": "9dc0efa6-6abb-4039-beb2-dd86e1dd5f16",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Singleplayer #9",
+              "url": "https://sovietscloset.com/video/15541",
+              "id": 15541,
+              "date": "2024-10-13 20:05",
+              "number": 9,
+              "bunnyId": "a71b7194-d6d9-422f-97e1-fb60732ab6d9",
               "new": false
             }
           ]
@@ -6332,7 +6368,7 @@
               "date": "2024-11-11 10:59",
               "number": 16,
               "bunnyId": "4cc10b2f-5e43-4e4d-a104-7cc26efa4050",
-              "new": true
+              "new": false
             },
             {
               "title": "Fallout Tactics #17",
@@ -6341,7 +6377,7 @@
               "date": "2024-11-12 11:05",
               "number": 17,
               "bunnyId": "4141979e-62eb-4d4c-9516-80d3afa9c63a",
-              "new": true
+              "new": false
             },
             {
               "title": "Fallout Tactics #18",
