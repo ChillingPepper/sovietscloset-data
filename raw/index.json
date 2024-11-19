@@ -1837,6 +1837,30 @@
             "date": "2024-10-09 11:14",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15542,
+            "date": "2024-10-09 20:10",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15540,
+            "date": "2024-10-10 11:13",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15539,
+            "date": "2024-10-11 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15541,
+            "date": "2024-10-13 20:05",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -4352,13 +4376,13 @@
           {
             "id": 15523,
             "date": "2024-11-11 10:59",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15530,
             "date": "2024-11-12 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
