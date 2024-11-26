@@ -1,5 +1,5 @@
 {
-  "timestamp": 1732024962,
+  "timestamp": 1732637420,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -6216,7 +6216,7 @@
       "name": "Fallout Tactics",
       "slug": "Fallout-Tactics",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "Fallout Tactics",
@@ -6224,7 +6224,7 @@
           "name": "Misc",
           "slug": "Misc",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "Fallout Tactics #1",
@@ -6386,7 +6386,7 @@
               "date": "2024-11-13 11:07",
               "number": 18,
               "bunnyId": "62c89eff-ed36-449e-b577-d5c6a1488cfd",
-              "new": true
+              "new": false
             },
             {
               "title": "Fallout Tactics #19",
@@ -6395,7 +6395,7 @@
               "date": "2024-11-13 20:24",
               "number": 19,
               "bunnyId": "57e0e9b1-27ea-49ee-84cc-4da294d07f19",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -13098,6 +13098,24 @@
               "date": "2024-09-12 11:08",
               "number": 13,
               "bunnyId": "65e8e308-eb38-4b66-b631-dffb8959d72d",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #14",
+              "url": "https://sovietscloset.com/video/15544",
+              "id": 15544,
+              "date": "2024-09-13 11:14",
+              "number": 14,
+              "bunnyId": "c7e41ff4-053f-45de-b2cc-0d6d363be71e",
+              "new": false
+            },
+            {
+              "title": "Prey - Second Playthrough #15",
+              "url": "https://sovietscloset.com/video/15543",
+              "id": 15543,
+              "date": "2024-09-13 20:26",
+              "number": 15,
+              "bunnyId": "9fb4e8f8-05e4-4401-b027-5cb3b5a5579e",
               "new": false
             }
           ]

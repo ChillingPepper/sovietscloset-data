@@ -1,5 +1,31 @@
 # Changelog
 
+## 2024-11-26T16:10:20Z
+
+### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15531` [Fallout Tactics #18](https://sovietscloset.com/video/15531)
+  - Is no longer marked as new.
+- Modified `v15529` [Fallout Tactics #19](https://sovietscloset.com/video/15529)
+  - Is no longer marked as new.
+
+### Modified Game [Prey](https://sovietscloset.com/Prey)
+
+#### Modified Playlist [Prey - Second Playthrough](https://sovietscloset.com/Prey/Second-Playthrough)
+
+##### Videos
+
+- Added `v15544` [Prey - Second Playthrough #14](https://sovietscloset.com/video/15544)
+- Added `v15543` [Prey - Second Playthrough #15](https://sovietscloset.com/video/15543)
+
 ## 2024-11-19T14:02:42Z
 
 ### Modified Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)
