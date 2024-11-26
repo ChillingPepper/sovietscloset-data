@@ -4276,7 +4276,7 @@
     "name": "Fallout Tactics",
     "slug": "Fallout-Tactics",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 9084,
@@ -4388,18 +4388,18 @@
           {
             "id": 15531,
             "date": "2024-11-13 11:07",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15529,
             "date": "2024-11-13 20:24",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -9047,6 +9047,18 @@
           {
             "id": 15508,
             "date": "2024-09-12 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15544,
+            "date": "2024-09-13 11:14",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15543,
+            "date": "2024-09-13 20:26",
             "new": false,
             "useBunny": true
           }
