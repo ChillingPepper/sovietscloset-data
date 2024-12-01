@@ -1,5 +1,5 @@
 {
-  "timestamp": 1732637420,
+  "timestamp": 1733052375,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -1033,6 +1033,15 @@
               "date": "2024-06-07 19:07",
               "number": 39,
               "bunnyId": "8a1dc3c9-5e66-459f-b5a7-0ca666c5e684",
+              "new": false
+            },
+            {
+              "title": "Arma 3 - Zeus Games #40",
+              "url": "https://sovietscloset.com/video/15563",
+              "id": 15563,
+              "date": "2024-09-20 19:12",
+              "number": 40,
+              "bunnyId": "201f464e-35f9-483e-954e-35ffe638c362",
               "new": false
             }
           ]
@@ -5564,6 +5573,53 @@
       ]
     },
     {
+      "title": "Endless Space",
+      "url": "https://sovietscloset.com/Endless-Space",
+      "name": "Endless Space",
+      "slug": "Endless-Space",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Endless Space - Horatio",
+          "url": "https://sovietscloset.com/Endless-Space/Horatio",
+          "name": "Horatio",
+          "slug": "Horatio",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Endless Space - Horatio #1",
+              "url": "https://sovietscloset.com/video/15557",
+              "id": 15557,
+              "date": "2024-09-18 20:32",
+              "number": 1,
+              "bunnyId": "d419701e-6fee-4b2e-8cd8-5c8f7d8d84f4",
+              "new": false
+            },
+            {
+              "title": "Endless Space - Horatio #2",
+              "url": "https://sovietscloset.com/video/15556",
+              "id": 15556,
+              "date": "2024-09-23 11:05",
+              "number": 2,
+              "bunnyId": "807274d0-a844-43ad-939e-aebf9be0a177",
+              "new": false
+            },
+            {
+              "title": "Endless Space - Horatio #3",
+              "url": "https://sovietscloset.com/video/15558",
+              "id": 15558,
+              "date": "2024-09-24 11:11",
+              "number": 3,
+              "bunnyId": "cb0770ea-1502-4549-88fa-c2a3e302ccff",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "Escape from Tarkov",
       "url": "https://sovietscloset.com/Escape-from-Tarkov",
       "name": "Escape from Tarkov",
@@ -7135,6 +7191,33 @@
               "date": "2024-08-19 19:00",
               "number": 14,
               "bunnyId": "12015259-8392-43d6-9f76-08de300cc799",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #15",
+              "url": "https://sovietscloset.com/video/15547",
+              "id": 15547,
+              "date": "2024-09-02 19:02",
+              "number": 15,
+              "bunnyId": "922d03c0-fc74-451b-a74e-56669afedeaf",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #16",
+              "url": "https://sovietscloset.com/video/15554",
+              "id": 15554,
+              "date": "2024-09-16 19:01",
+              "number": 16,
+              "bunnyId": "62edb2e1-8917-48f1-ba95-a2faf3e40e04",
+              "new": false
+            },
+            {
+              "title": "Grounded - First Game - Umlaut, Cake, Soviet and Mag #17",
+              "url": "https://sovietscloset.com/video/15562",
+              "id": 15562,
+              "date": "2024-09-19 19:07",
+              "number": 17,
+              "bunnyId": "26d26369-bd30-449b-89ba-ed8230f096b1",
               "new": false
             }
           ]
@@ -9217,6 +9300,33 @@
               "number": 186,
               "bunnyId": "e36e9ed6-af80-4c63-bf56-7aea1565a7f5",
               "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #187",
+              "url": "https://sovietscloset.com/video/15545",
+              "id": 15545,
+              "date": "2024-08-29 20:47",
+              "number": 187,
+              "bunnyId": "05c3aff4-5834-47f6-8faa-ebc9f967dd89",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #188",
+              "url": "https://sovietscloset.com/video/15548",
+              "id": 15548,
+              "date": "2024-09-05 20:45",
+              "number": 188,
+              "bunnyId": "1817a7ae-2db7-48d9-ba33-c84e34283060",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #189",
+              "url": "https://sovietscloset.com/video/15551",
+              "id": 15551,
+              "date": "2024-09-12 20:52",
+              "number": 189,
+              "bunnyId": "83dc8b2c-c9a4-49a5-b213-f7d6640b20e3",
+              "new": false
             }
           ]
         }
@@ -10678,6 +10788,51 @@
               "number": 112,
               "bunnyId": "06196388-8732-478c-9e5a-625d4fe0b735",
               "new": false
+            },
+            {
+              "title": "Kerbal Space Program #113",
+              "url": "https://sovietscloset.com/video/15564",
+              "id": 15564,
+              "date": "2024-10-15 11:05",
+              "number": 113,
+              "bunnyId": "aba8cee7-864b-4ab7-aa8c-abbf90c8fcfe",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #114",
+              "url": "https://sovietscloset.com/video/15565",
+              "id": 15565,
+              "date": "2024-10-15 20:21",
+              "number": 114,
+              "bunnyId": "2a6f5899-bcb8-4583-b839-b1a0ef666640",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #115",
+              "url": "https://sovietscloset.com/video/15566",
+              "id": 15566,
+              "date": "2024-10-16 11:03",
+              "number": 115,
+              "bunnyId": "8643fdce-fe17-425e-aa42-eba98bb6d980",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #116",
+              "url": "https://sovietscloset.com/video/15567",
+              "id": 15567,
+              "date": "2024-10-16 20:19",
+              "number": 116,
+              "bunnyId": "32511422-81c6-404b-8cb5-d14a7bd2e0fa",
+              "new": false
+            },
+            {
+              "title": "Kerbal Space Program #117",
+              "url": "https://sovietscloset.com/video/15568",
+              "id": 15568,
+              "date": "2024-10-17 11:10",
+              "number": 117,
+              "bunnyId": "da15a8fb-5ab7-4454-8092-60b309378ad7",
+              "new": false
             }
           ]
         }
@@ -10871,6 +11026,24 @@
               "date": "2024-04-14 20:25",
               "number": 9,
               "bunnyId": "05e818d9-5ab9-45bb-bea3-8437f3fa5ce7",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Coop #10",
+              "url": "https://sovietscloset.com/video/15546",
+              "id": 15546,
+              "date": "2024-08-30 19:56",
+              "number": 10,
+              "bunnyId": "05ce692d-1d46-4c2e-b865-b8dadf2c4c8d",
+              "new": false
+            },
+            {
+              "title": "Left 4 Dead 2 - Coop #11",
+              "url": "https://sovietscloset.com/video/15549",
+              "id": 15549,
+              "date": "2024-09-06 20:05",
+              "number": 11,
+              "bunnyId": "f997fa6d-8cbc-4654-b928-c82f44be8ed6",
               "new": false
             }
           ]
@@ -17979,6 +18152,15 @@
               "number": 93,
               "bunnyId": "85e88947-5ed8-4837-aca7-cecc6d5664fa",
               "new": false
+            },
+            {
+              "title": "Rising Storm 2: Vietnam #94",
+              "url": "https://sovietscloset.com/video/15550",
+              "id": 15550,
+              "date": "2024-09-11 19:57",
+              "number": 94,
+              "bunnyId": "82f3249e-44c2-4357-b945-4a0a6891b22f",
+              "new": false
             }
           ]
         }
@@ -21177,6 +21359,15 @@
               "date": "2024-08-09 20:17",
               "number": 30,
               "bunnyId": "ba6376b1-8922-4967-a949-62fcbf386fe2",
+              "new": false
+            },
+            {
+              "title": "Stormworks: Build and Rescue #31",
+              "url": "https://sovietscloset.com/video/15555",
+              "id": 15555,
+              "date": "2024-09-18 11:21",
+              "number": 31,
+              "bunnyId": "5dc3e797-7413-4ea9-b1ed-78ff252c3f2c",
               "new": false
             }
           ]
@@ -28189,6 +28380,71 @@
               "date": "2020-10-10 20:50",
               "number": 2,
               "bunnyId": "2d6699b8-44e8-466f-bf3f-de716ccd2081",
+              "new": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Warhammer 40k: Space Marine 2",
+      "url": "https://sovietscloset.com/Warhammer-40k-Space-Marine-2",
+      "name": "Warhammer 40k: Space Marine 2",
+      "slug": "Warhammer-40k-Space-Marine-2",
+      "enabled": true,
+      "recentlyUpdated": false,
+      "playlists": [
+        {
+          "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle",
+          "url": "https://sovietscloset.com/Warhammer-40k-Space-Marine-2/Soviet-Cyanide-and-Kyle",
+          "name": "Soviet, Cyanide and Kyle",
+          "slug": "Soviet-Cyanide-and-Kyle",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #1",
+              "url": "https://sovietscloset.com/video/15552",
+              "id": 15552,
+              "date": "2024-09-15 19:43",
+              "number": 1,
+              "bunnyId": "2be919b3-e7dc-4fe6-8632-c144a40943b9",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #2",
+              "url": "https://sovietscloset.com/video/15553",
+              "id": 15553,
+              "date": "2024-09-16 11:04",
+              "number": 2,
+              "bunnyId": "56819846-43fa-4d69-85d4-3499b234c7a1",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #3",
+              "url": "https://sovietscloset.com/video/15561",
+              "id": 15561,
+              "date": "2024-09-19 11:11",
+              "number": 3,
+              "bunnyId": "d7579510-928f-4edb-8e87-77649a35952d",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #4",
+              "url": "https://sovietscloset.com/video/15560",
+              "id": 15560,
+              "date": "2024-09-20 11:06",
+              "number": 4,
+              "bunnyId": "5f927720-469d-42bf-8454-dd83758ebf03",
+              "new": false
+            },
+            {
+              "title": "Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #5",
+              "url": "https://sovietscloset.com/video/15559",
+              "id": 15559,
+              "date": "2024-09-23 20:01",
+              "number": 5,
+              "bunnyId": "86ee27f7-520a-4b7d-8c7b-8e7bd1e04b28",
               "new": false
             }
           ]

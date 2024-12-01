@@ -1,5 +1,94 @@
 # Changelog
 
+## 2024-12-01T11:26:15Z
+
+### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
+
+#### Modified Playlist [Arma 3 - Zeus Games](https://sovietscloset.com/Arma-3/Zeus-Games)
+
+##### Videos
+
+- Added `v15563` [Arma 3 - Zeus Games #40](https://sovietscloset.com/video/15563)
+
+### Added Game [Endless Space](https://sovietscloset.com/Endless-Space)
+
+#### Added Playlist [Endless Space - Horatio](https://sovietscloset.com/Endless-Space/Horatio)
+
+##### Videos
+
+- Added `v15557` [Endless Space - Horatio #1](https://sovietscloset.com/video/15557)
+- Added `v15556` [Endless Space - Horatio #2](https://sovietscloset.com/video/15556)
+- Added `v15558` [Endless Space - Horatio #3](https://sovietscloset.com/video/15558)
+
+### Modified Game [Grounded](https://sovietscloset.com/Grounded)
+
+#### Modified Playlist [Grounded - First Game - Umlaut, Cake, Soviet and Mag](https://sovietscloset.com/Grounded/First-Game---Umlaut-Cake-Soviet-and-Mag)
+
+##### Videos
+
+- Added `v15547` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #15](https://sovietscloset.com/video/15547)
+- Added `v15554` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #16](https://sovietscloset.com/video/15554)
+- Added `v15562` [Grounded - First Game - Umlaut, Cake, Soviet and Mag #17](https://sovietscloset.com/video/15562)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15545` [Holdfast: Nations at War #187](https://sovietscloset.com/video/15545)
+- Added `v15548` [Holdfast: Nations at War #188](https://sovietscloset.com/video/15548)
+- Added `v15551` [Holdfast: Nations at War #189](https://sovietscloset.com/video/15551)
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v15564` [Kerbal Space Program #113](https://sovietscloset.com/video/15564)
+- Added `v15565` [Kerbal Space Program #114](https://sovietscloset.com/video/15565)
+- Added `v15566` [Kerbal Space Program #115](https://sovietscloset.com/video/15566)
+- Added `v15567` [Kerbal Space Program #116](https://sovietscloset.com/video/15567)
+- Added `v15568` [Kerbal Space Program #117](https://sovietscloset.com/video/15568)
+
+### Modified Game [Left 4 Dead 2](https://sovietscloset.com/Left-4-Dead-2)
+
+#### Modified Playlist [Left 4 Dead 2 - Coop](https://sovietscloset.com/Left-4-Dead-2/Coop)
+
+##### Videos
+
+- Added `v15546` [Left 4 Dead 2 - Coop #10](https://sovietscloset.com/video/15546)
+- Added `v15549` [Left 4 Dead 2 - Coop #11](https://sovietscloset.com/video/15549)
+
+### Modified Game [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+#### Modified Playlist [Rising Storm 2: Vietnam](https://sovietscloset.com/Rising-Storm-2-Vietnam)
+
+##### Videos
+
+- Added `v15550` [Rising Storm 2: Vietnam #94](https://sovietscloset.com/video/15550)
+
+### Modified Game [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+#### Modified Playlist [Stormworks: Build and Rescue](https://sovietscloset.com/Stormworks-Build-and-Rescue)
+
+##### Videos
+
+- Added `v15555` [Stormworks: Build and Rescue #31](https://sovietscloset.com/video/15555)
+
+### Added Game [Warhammer 40k: Space Marine 2](https://sovietscloset.com/Warhammer-40k-Space-Marine-2)
+
+#### Added Playlist [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle](https://sovietscloset.com/Warhammer-40k-Space-Marine-2/Soviet-Cyanide-and-Kyle)
+
+##### Videos
+
+- Added `v15552` [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #1](https://sovietscloset.com/video/15552)
+- Added `v15553` [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #2](https://sovietscloset.com/video/15553)
+- Added `v15561` [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #3](https://sovietscloset.com/video/15561)
+- Added `v15560` [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #4](https://sovietscloset.com/video/15560)
+- Added `v15559` [Warhammer 40k: Space Marine 2 - Soviet, Cyanide and Kyle #5](https://sovietscloset.com/video/15559)
+
 ## 2024-11-26T16:10:20Z
 
 ### Modified Game [Fallout Tactics](https://sovietscloset.com/Fallout-Tactics)
