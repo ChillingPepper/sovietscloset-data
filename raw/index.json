@@ -700,6 +700,12 @@
             "date": "2024-06-07 19:07",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15563,
+            "date": "2024-09-20 19:12",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -3822,6 +3828,42 @@
     ]
   },
   {
+    "id": 9107,
+    "name": "Endless Space",
+    "slug": "Endless-Space",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9142,
+        "name": "Horatio",
+        "slug": "Horatio",
+        "streams": [
+          {
+            "id": 15557,
+            "date": "2024-09-18 20:32",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15556,
+            "date": "2024-09-23 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15558,
+            "date": "2024-09-24 11:11",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
     "id": 9079,
     "name": "Escape from Tarkov",
     "slug": "Escape-from-Tarkov",
@@ -4934,6 +4976,24 @@
           {
             "id": 15485,
             "date": "2024-08-19 19:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15547,
+            "date": "2024-09-02 19:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15554,
+            "date": "2024-09-16 19:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15562,
+            "date": "2024-09-19 19:07",
             "new": false,
             "useBunny": true
           }
@@ -6349,6 +6409,24 @@
             "date": "2024-08-22 20:50",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15545,
+            "date": "2024-08-29 20:47",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15548,
+            "date": "2024-09-05 20:45",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15551,
+            "date": "2024-09-12 20:52",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -7351,6 +7429,36 @@
             "date": "2024-04-12 11:10",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15564,
+            "date": "2024-10-15 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15565,
+            "date": "2024-10-15 20:21",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15566,
+            "date": "2024-10-16 11:03",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15567,
+            "date": "2024-10-16 20:19",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15568,
+            "date": "2024-10-17 11:10",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -7490,6 +7598,18 @@
           {
             "id": 15357,
             "date": "2024-04-14 20:25",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15546,
+            "date": "2024-08-30 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15549,
+            "date": "2024-09-06 20:05",
             "new": false,
             "useBunny": true
           }
@@ -12349,6 +12469,12 @@
             "date": "2023-05-04 19:59",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15550,
+            "date": "2024-09-11 19:57",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -14531,6 +14657,12 @@
           {
             "id": 15487,
             "date": "2024-08-09 20:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15555,
+            "date": "2024-09-18 11:21",
             "new": false,
             "useBunny": true
           }
@@ -19376,6 +19508,54 @@
           {
             "id": 1340,
             "date": "2020-10-10 20:50",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
+      }
+    ]
+  },
+  {
+    "id": 9106,
+    "name": "Warhammer 40k: Space Marine 2",
+    "slug": "Warhammer-40k-Space-Marine-2",
+    "enabled": true,
+    "recentlyUpdated": false,
+    "subcategories": [
+      {
+        "id": 9141,
+        "name": "Soviet, Cyanide and Kyle",
+        "slug": "Soviet-Cyanide-and-Kyle",
+        "streams": [
+          {
+            "id": 15552,
+            "date": "2024-09-15 19:43",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15553,
+            "date": "2024-09-16 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15561,
+            "date": "2024-09-19 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15560,
+            "date": "2024-09-20 11:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15559,
+            "date": "2024-09-23 20:01",
             "new": false,
             "useBunny": true
           }

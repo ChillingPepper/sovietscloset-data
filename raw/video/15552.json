@@ -1,0 +1,38 @@
+{
+  "streamId": 15552,
+  "date": "2024-09-15 19:43",
+  "game": {
+    "name": "Warhammer 40k: Space Marine 2",
+    "slug": "Warhammer-40k-Space-Marine-2"
+  },
+  "subcategory": {
+    "name": "Soviet, Cyanide and Kyle",
+    "slug": "Soviet-Cyanide-and-Kyle",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15552,
+        "date": "2024-09-15 19:43"
+      },
+      {
+        "streamId": 15553,
+        "date": "2024-09-16 11:04"
+      },
+      {
+        "streamId": 15561,
+        "date": "2024-09-19 11:11"
+      },
+      {
+        "streamId": 15560,
+        "date": "2024-09-20 11:06"
+      },
+      {
+        "streamId": 15559,
+        "date": "2024-09-23 20:01"
+      }
+    ]
+  },
+  "number": 1,
+  "bunnyId": "2be919b3-e7dc-4fe6-8632-c144a40943b9",
+  "useBunny": true
+}
