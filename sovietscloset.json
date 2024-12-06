@@ -1,5 +1,5 @@
 {
-  "timestamp": 1733052375,
+  "timestamp": 1733485058,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2038,6 +2038,79 @@
               "date": "2024-04-17 19:34",
               "number": 36,
               "bunnyId": "daa30db3-7f1b-4d90-9baf-160a80a268fd",
+              "new": false
+            }
+          ]
+        },
+        {
+          "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby",
+          "url": "https://sovietscloset.com/Baldur-s-Gate-3/Second-playthrough---Soviet-Quebec-Messy-and-Digby",
+          "name": "Second playthrough - Soviet, Quebec, Messy and Digby",
+          "slug": "Second-playthrough---Soviet-Quebec-Messy-and-Digby",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #1",
+              "url": "https://sovietscloset.com/video/15569",
+              "id": 15569,
+              "date": "2024-09-24 19:57",
+              "number": 1,
+              "bunnyId": "7c047f4b-170f-4719-9f64-ca2c664ca799",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #2",
+              "url": "https://sovietscloset.com/video/15575",
+              "id": 15575,
+              "date": "2024-09-29 20:01",
+              "number": 2,
+              "bunnyId": "0f3c9c2e-9792-4ed8-a48d-03c2851d5c34",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #3",
+              "url": "https://sovietscloset.com/video/15577",
+              "id": 15577,
+              "date": "2024-09-30 19:58",
+              "number": 3,
+              "bunnyId": "58e2a53c-2f03-4097-93f4-b78f786fa5a5",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #4",
+              "url": "https://sovietscloset.com/video/15576",
+              "id": 15576,
+              "date": "2024-10-02 19:52",
+              "number": 4,
+              "bunnyId": "3a39ba62-4e0f-4185-9c04-e7446c5e877d",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #5",
+              "url": "https://sovietscloset.com/video/15578",
+              "id": 15578,
+              "date": "2024-10-04 20:00",
+              "number": 5,
+              "bunnyId": "952def5c-1618-4704-b8a4-672724aa595f",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #6",
+              "url": "https://sovietscloset.com/video/15579",
+              "id": 15579,
+              "date": "2024-10-07 19:56",
+              "number": 6,
+              "bunnyId": "112a0023-4b8c-413b-94e5-6d278c987d3f",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #7",
+              "url": "https://sovietscloset.com/video/15580",
+              "id": 15580,
+              "date": "2024-10-08 19:58",
+              "number": 7,
+              "bunnyId": "401e056a-134d-4da4-a8f4-10e1ce8cecfd",
               "new": false
             }
           ]
@@ -5613,6 +5686,33 @@
               "date": "2024-09-24 11:11",
               "number": 3,
               "bunnyId": "cb0770ea-1502-4549-88fa-c2a3e302ccff",
+              "new": false
+            },
+            {
+              "title": "Endless Space - Horatio #4",
+              "url": "https://sovietscloset.com/video/15570",
+              "id": 15570,
+              "date": "2024-09-25 11:12",
+              "number": 4,
+              "bunnyId": "8753b87b-a7b2-45b8-9e37-3ba4c243e8fe",
+              "new": false
+            },
+            {
+              "title": "Endless Space - Horatio #5",
+              "url": "https://sovietscloset.com/video/15574",
+              "id": 15574,
+              "date": "2024-09-27 11:17",
+              "number": 5,
+              "bunnyId": "cba94e82-9ccb-4600-899c-e6fa61e36046",
+              "new": false
+            },
+            {
+              "title": "Endless Space - Horatio #6",
+              "url": "https://sovietscloset.com/video/15573",
+              "id": 15573,
+              "date": "2024-09-27 20:06",
+              "number": 6,
+              "bunnyId": "8cc564e9-b206-4bdb-94ea-aa94e5ca642c",
               "new": false
             }
           ]
@@ -9326,6 +9426,24 @@
               "date": "2024-09-12 20:52",
               "number": 189,
               "bunnyId": "83dc8b2c-c9a4-49a5-b213-f7d6640b20e3",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #190",
+              "url": "https://sovietscloset.com/video/15571",
+              "id": 15571,
+              "date": "2024-09-26 20:51",
+              "number": 190,
+              "bunnyId": "f8eb1dd0-5105-4742-9cea-5ba20e466599",
+              "new": false
+            },
+            {
+              "title": "Holdfast: Nations at War #191",
+              "url": "https://sovietscloset.com/video/15572",
+              "id": 15572,
+              "date": "2024-09-26 20:58",
+              "number": 191,
+              "bunnyId": "a0fc3f3a-003a-4475-8ccb-a222e6502d2c",
               "new": false
             }
           ]

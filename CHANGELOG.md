@@ -1,5 +1,40 @@
 # Changelog
 
+## 2024-12-06T11:37:38Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Added Playlist [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby](https://sovietscloset.com/Baldur-s-Gate-3/Second-playthrough---Soviet-Quebec-Messy-and-Digby)
+
+##### Videos
+
+- Added `v15569` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #1](https://sovietscloset.com/video/15569)
+- Added `v15575` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #2](https://sovietscloset.com/video/15575)
+- Added `v15577` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #3](https://sovietscloset.com/video/15577)
+- Added `v15576` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #4](https://sovietscloset.com/video/15576)
+- Added `v15578` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #5](https://sovietscloset.com/video/15578)
+- Added `v15579` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #6](https://sovietscloset.com/video/15579)
+- Added `v15580` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #7](https://sovietscloset.com/video/15580)
+
+### Modified Game [Endless Space](https://sovietscloset.com/Endless-Space)
+
+#### Modified Playlist [Endless Space - Horatio](https://sovietscloset.com/Endless-Space/Horatio)
+
+##### Videos
+
+- Added `v15570` [Endless Space - Horatio #4](https://sovietscloset.com/video/15570)
+- Added `v15574` [Endless Space - Horatio #5](https://sovietscloset.com/video/15574)
+- Added `v15573` [Endless Space - Horatio #6](https://sovietscloset.com/video/15573)
+
+### Modified Game [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+#### Modified Playlist [Holdfast: Nations at War](https://sovietscloset.com/Holdfast-Nations-at-War)
+
+##### Videos
+
+- Added `v15571` [Holdfast: Nations at War #190](https://sovietscloset.com/video/15571)
+- Added `v15572` [Holdfast: Nations at War #191](https://sovietscloset.com/video/15572)
+
 ## 2024-12-01T11:26:15Z
 
 ### Modified Game [Arma 3](https://sovietscloset.com/Arma-3)
