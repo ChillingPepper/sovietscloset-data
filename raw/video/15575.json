@@ -1,0 +1,46 @@
+{
+  "streamId": 15575,
+  "date": "2024-09-29 20:01",
+  "game": {
+    "name": "Baldur's Gate 3",
+    "slug": "Baldur-s-Gate-3"
+  },
+  "subcategory": {
+    "name": "Second playthrough - Soviet, Quebec, Messy and Digby",
+    "slug": "Second-playthrough---Soviet-Quebec-Messy-and-Digby",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15569,
+        "date": "2024-09-24 19:57"
+      },
+      {
+        "streamId": 15575,
+        "date": "2024-09-29 20:01"
+      },
+      {
+        "streamId": 15577,
+        "date": "2024-09-30 19:58"
+      },
+      {
+        "streamId": 15576,
+        "date": "2024-10-02 19:52"
+      },
+      {
+        "streamId": 15578,
+        "date": "2024-10-04 20:00"
+      },
+      {
+        "streamId": 15579,
+        "date": "2024-10-07 19:56"
+      },
+      {
+        "streamId": 15580,
+        "date": "2024-10-08 19:58"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "0f3c9c2e-9792-4ed8-a48d-03c2851d5c34",
+  "useBunny": true
+}

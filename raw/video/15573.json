@@ -1,0 +1,42 @@
+{
+  "streamId": 15573,
+  "date": "2024-09-27 20:06",
+  "game": {
+    "name": "Endless Space",
+    "slug": "Endless-Space"
+  },
+  "subcategory": {
+    "name": "Horatio",
+    "slug": "Horatio",
+    "onlyCategory": true,
+    "playlist": [
+      {
+        "streamId": 15557,
+        "date": "2024-09-18 20:32"
+      },
+      {
+        "streamId": 15556,
+        "date": "2024-09-23 11:05"
+      },
+      {
+        "streamId": 15558,
+        "date": "2024-09-24 11:11"
+      },
+      {
+        "streamId": 15570,
+        "date": "2024-09-25 11:12"
+      },
+      {
+        "streamId": 15574,
+        "date": "2024-09-27 11:17"
+      },
+      {
+        "streamId": 15573,
+        "date": "2024-09-27 20:06"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "8cc564e9-b206-4bdb-94ea-aa94e5ca642c",
+  "useBunny": true
+}

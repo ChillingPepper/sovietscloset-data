@@ -1388,6 +1388,57 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9143,
+        "name": "Second playthrough - Soviet, Quebec, Messy and Digby",
+        "slug": "Second-playthrough---Soviet-Quebec-Messy-and-Digby",
+        "streams": [
+          {
+            "id": 15569,
+            "date": "2024-09-24 19:57",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15575,
+            "date": "2024-09-29 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15577,
+            "date": "2024-09-30 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15576,
+            "date": "2024-10-02 19:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15578,
+            "date": "2024-10-04 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15579,
+            "date": "2024-10-07 19:56",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15580,
+            "date": "2024-10-08 19:58",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -3854,6 +3905,24 @@
           {
             "id": 15558,
             "date": "2024-09-24 11:11",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15570,
+            "date": "2024-09-25 11:12",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15574,
+            "date": "2024-09-27 11:17",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15573,
+            "date": "2024-09-27 20:06",
             "new": false,
             "useBunny": true
           }
@@ -6425,6 +6494,18 @@
           {
             "id": 15551,
             "date": "2024-09-12 20:52",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15571,
+            "date": "2024-09-26 20:51",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15572,
+            "date": "2024-09-26 20:58",
             "new": false,
             "useBunny": true
           }
