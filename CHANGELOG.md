@@ -1,5 +1,46 @@
 # Changelog
 
+## 2024-12-13T11:22:53Z
+
+### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
+
+#### Modified Playlist [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby](https://sovietscloset.com/Baldur-s-Gate-3/Second-playthrough---Soviet-Quebec-Messy-and-Digby)
+
+##### Videos
+
+- Added `v15584` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #8](https://sovietscloset.com/video/15584)
+- Added `v15585` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #9](https://sovietscloset.com/video/15585)
+- Added `v15583` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #10](https://sovietscloset.com/video/15583)
+- Added `v15582` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #11](https://sovietscloset.com/video/15582)
+- Added `v15581` [Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #12](https://sovietscloset.com/video/15581)
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+- Is now marked as recently updated.
+
+#### Added Playlist [DayZ - Standalone - Namalsk](https://sovietscloset.com/DayZ/Standalone---Namalsk)
+
+##### Videos
+
+- Added `v15592` [DayZ - Standalone - Namalsk #1](https://sovietscloset.com/video/15592)
+- Added `v15594` [DayZ - Standalone - Namalsk #2](https://sovietscloset.com/video/15594)
+- Added `v15596` [DayZ - Standalone - Namalsk #3](https://sovietscloset.com/video/15596)
+- Added `v15595` [DayZ - Standalone - Namalsk #4](https://sovietscloset.com/video/15595)
+- Added `v15593` [DayZ - Standalone - Namalsk #5](https://sovietscloset.com/video/15593)
+- Added `v15591` [DayZ - Standalone - Namalsk #6](https://sovietscloset.com/video/15591)
+- Added `v15587` [DayZ - Standalone - Namalsk #7](https://sovietscloset.com/video/15587)
+- Added `v15589` [DayZ - Standalone - Namalsk #8](https://sovietscloset.com/video/15589) (new)
+- Added `v15588` [DayZ - Standalone - Namalsk #9](https://sovietscloset.com/video/15588) (new)
+- Added `v15590` [DayZ - Standalone - Namalsk #10](https://sovietscloset.com/video/15590) (new)
+
+### Modified Game [Rimworld](https://sovietscloset.com/Rimworld)
+
+#### Modified Playlist [Rimworld - The Pale Ones](https://sovietscloset.com/Rimworld/The-Pale-Ones)
+
+##### Videos
+
+- Added `v15586` [Rimworld - The Pale Ones #148](https://sovietscloset.com/video/15586)
+
 ## 2024-12-06T11:37:38Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)

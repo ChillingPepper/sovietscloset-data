@@ -1,5 +1,5 @@
 {
-  "timestamp": 1733485058,
+  "timestamp": 1734088973,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2112,6 +2112,51 @@
               "number": 7,
               "bunnyId": "401e056a-134d-4da4-a8f4-10e1ce8cecfd",
               "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #8",
+              "url": "https://sovietscloset.com/video/15584",
+              "id": 15584,
+              "date": "2024-10-10 20:01",
+              "number": 8,
+              "bunnyId": "182a2f69-fab8-4347-a0ed-31cb1317f1e2",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #9",
+              "url": "https://sovietscloset.com/video/15585",
+              "id": 15585,
+              "date": "2024-10-14 20:00",
+              "number": 9,
+              "bunnyId": "a1b86745-fad8-4b98-ac34-6af8110a4520",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #10",
+              "url": "https://sovietscloset.com/video/15583",
+              "id": 15583,
+              "date": "2024-10-18 19:58",
+              "number": 10,
+              "bunnyId": "cc84a97c-6b84-43ba-9422-b175b44ca3e5",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #11",
+              "url": "https://sovietscloset.com/video/15582",
+              "id": 15582,
+              "date": "2024-10-21 20:02",
+              "number": 11,
+              "bunnyId": "f73eba92-14b0-482d-8bc5-ae1306e94a57",
+              "new": false
+            },
+            {
+              "title": "Baldur's Gate 3 - Second playthrough - Soviet, Quebec, Messy and Digby #12",
+              "url": "https://sovietscloset.com/video/15581",
+              "id": 15581,
+              "date": "2024-10-23 20:03",
+              "number": 12,
+              "bunnyId": "23120dca-8071-46a8-a13b-41e94eadf8c2",
+              "new": false
             }
           ]
         }
@@ -3145,7 +3190,7 @@
       "name": "DayZ",
       "slug": "DayZ",
       "enabled": true,
-      "recentlyUpdated": false,
+      "recentlyUpdated": true,
       "playlists": [
         {
           "title": "DayZ - Standalone",
@@ -4091,6 +4136,106 @@
               "number": 3,
               "bunnyId": "8c15894e-609d-4d9c-9cb3-afa8ef2b78b1",
               "new": false
+            }
+          ]
+        },
+        {
+          "title": "DayZ - Standalone - Namalsk",
+          "url": "https://sovietscloset.com/DayZ/Standalone---Namalsk",
+          "name": "Standalone - Namalsk",
+          "slug": "Standalone---Namalsk",
+          "enabled": true,
+          "recentlyUpdated": true,
+          "videos": [
+            {
+              "title": "DayZ - Standalone - Namalsk #1",
+              "url": "https://sovietscloset.com/video/15592",
+              "id": 15592,
+              "date": "2024-12-02 11:33",
+              "number": 1,
+              "bunnyId": "32b6dc89-f762-4263-b1f2-387434f6f443",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #2",
+              "url": "https://sovietscloset.com/video/15594",
+              "id": 15594,
+              "date": "2024-12-02 20:15",
+              "number": 2,
+              "bunnyId": "edf47674-b442-4051-8022-0a41984fa32a",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #3",
+              "url": "https://sovietscloset.com/video/15596",
+              "id": 15596,
+              "date": "2024-12-03 11:05",
+              "number": 3,
+              "bunnyId": "51aeaa91-a915-4106-afe2-2a7f7a89ac04",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #4",
+              "url": "https://sovietscloset.com/video/15595",
+              "id": 15595,
+              "date": "2024-12-03 20:09",
+              "number": 4,
+              "bunnyId": "82d92843-187b-4831-a74c-15368006b4c8",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #5",
+              "url": "https://sovietscloset.com/video/15593",
+              "id": 15593,
+              "date": "2024-12-04 11:04",
+              "number": 5,
+              "bunnyId": "45695a0c-7c31-4617-836e-94af37452da7",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #6",
+              "url": "https://sovietscloset.com/video/15591",
+              "id": 15591,
+              "date": "2024-12-05 11:07",
+              "number": 6,
+              "bunnyId": "c1782894-e95a-428b-9236-fe33e8e742e3",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #7",
+              "url": "https://sovietscloset.com/video/15587",
+              "id": 15587,
+              "date": "2024-12-06 11:08",
+              "number": 7,
+              "bunnyId": "c19d47e8-8c2c-4853-a5a2-4af045cadc0b",
+              "new": false
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #8",
+              "url": "https://sovietscloset.com/video/15589",
+              "id": 15589,
+              "date": "2024-12-09 11:20",
+              "number": 8,
+              "bunnyId": "49c5f0a3-d921-4ed8-b9bf-b8666125eebb",
+              "new": true
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #9",
+              "url": "https://sovietscloset.com/video/15588",
+              "id": 15588,
+              "date": "2024-12-10 11:05",
+              "number": 9,
+              "bunnyId": "5be50b67-5b1e-49ee-afc4-8bf26386ed5a",
+              "new": true
+            },
+            {
+              "title": "DayZ - Standalone - Namalsk #10",
+              "url": "https://sovietscloset.com/video/15590",
+              "id": 15590,
+              "date": "2024-12-11 11:00",
+              "number": 10,
+              "bunnyId": "db1f9f20-d4ef-4f52-95e3-acba8c26d16c",
+              "new": true
             }
           ]
         }
@@ -17439,6 +17584,15 @@
               "date": "2024-07-05 20:06",
               "number": 147,
               "bunnyId": "dbaf7f1a-a799-4312-8242-57c34cdbb777",
+              "new": false
+            },
+            {
+              "title": "Rimworld - The Pale Ones #148",
+              "url": "https://sovietscloset.com/video/15586",
+              "id": 15586,
+              "date": "2024-09-30 11:10",
+              "number": 148,
+              "bunnyId": "506172b1-6066-4fe3-8096-478a93a247a9",
               "new": false
             }
           ]
