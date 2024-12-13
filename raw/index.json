@@ -1435,6 +1435,36 @@
             "date": "2024-10-08 19:58",
             "new": false,
             "useBunny": true
+          },
+          {
+            "id": 15584,
+            "date": "2024-10-10 20:01",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15585,
+            "date": "2024-10-14 20:00",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15583,
+            "date": "2024-10-18 19:58",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15582,
+            "date": "2024-10-21 20:02",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15581,
+            "date": "2024-10-23 20:03",
+            "new": false,
+            "useBunny": true
           }
         ],
         "enabled": true,
@@ -2182,7 +2212,7 @@
     "name": "DayZ",
     "slug": "DayZ",
     "enabled": true,
-    "recentlyUpdated": false,
+    "recentlyUpdated": true,
     "subcategories": [
       {
         "id": 1041,
@@ -2819,6 +2849,75 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9144,
+        "name": "Standalone - Namalsk",
+        "slug": "Standalone---Namalsk",
+        "streams": [
+          {
+            "id": 15592,
+            "date": "2024-12-02 11:33",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15594,
+            "date": "2024-12-02 20:15",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15596,
+            "date": "2024-12-03 11:05",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15595,
+            "date": "2024-12-03 20:09",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15593,
+            "date": "2024-12-04 11:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15591,
+            "date": "2024-12-05 11:07",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15587,
+            "date": "2024-12-06 11:08",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15589,
+            "date": "2024-12-09 11:20",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15588,
+            "date": "2024-12-10 11:05",
+            "new": true,
+            "useBunny": true
+          },
+          {
+            "id": 15590,
+            "date": "2024-12-11 11:00",
+            "new": true,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": true
       }
     ]
   },
@@ -11990,6 +12089,12 @@
           {
             "id": 15458,
             "date": "2024-07-05 20:06",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15586,
+            "date": "2024-09-30 11:10",
             "new": false,
             "useBunny": true
           }

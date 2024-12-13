@@ -1,0 +1,58 @@
+{
+  "streamId": 15591,
+  "date": "2024-12-05 11:07",
+  "game": {
+    "name": "DayZ",
+    "slug": "DayZ"
+  },
+  "subcategory": {
+    "name": "Standalone - Namalsk",
+    "slug": "Standalone---Namalsk",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15592,
+        "date": "2024-12-02 11:33"
+      },
+      {
+        "streamId": 15594,
+        "date": "2024-12-02 20:15"
+      },
+      {
+        "streamId": 15596,
+        "date": "2024-12-03 11:05"
+      },
+      {
+        "streamId": 15595,
+        "date": "2024-12-03 20:09"
+      },
+      {
+        "streamId": 15593,
+        "date": "2024-12-04 11:04"
+      },
+      {
+        "streamId": 15591,
+        "date": "2024-12-05 11:07"
+      },
+      {
+        "streamId": 15587,
+        "date": "2024-12-06 11:08"
+      },
+      {
+        "streamId": 15589,
+        "date": "2024-12-09 11:20"
+      },
+      {
+        "streamId": 15588,
+        "date": "2024-12-10 11:05"
+      },
+      {
+        "streamId": 15590,
+        "date": "2024-12-11 11:00"
+      }
+    ]
+  },
+  "number": 6,
+  "bunnyId": "c1782894-e95a-428b-9236-fe33e8e742e3",
+  "useBunny": true
+}
