@@ -1,5 +1,5 @@
 {
-  "timestamp": 1734088973,
+  "timestamp": 1735405766,
   "bunnyCdn": {
     "pullZone": "vz-06a92e77-510",
     "videoLibraryId": "5105"
@@ -2824,6 +2824,34 @@
               "new": false
             }
           ]
+        },
+        {
+          "title": "Cosmoteer - Multiplayer",
+          "url": "https://sovietscloset.com/Cosmoteer/Multiplayer",
+          "name": "Multiplayer",
+          "slug": "Multiplayer",
+          "enabled": true,
+          "recentlyUpdated": false,
+          "videos": [
+            {
+              "title": "Cosmoteer - Multiplayer #1",
+              "url": "https://sovietscloset.com/video/15599",
+              "id": 15599,
+              "date": "2024-10-11 20:04",
+              "number": 1,
+              "bunnyId": "f6ecf449-81df-48a3-903a-0ee1beffb01c",
+              "new": false
+            },
+            {
+              "title": "Cosmoteer - Multiplayer #2",
+              "url": "https://sovietscloset.com/video/15598",
+              "id": 15598,
+              "date": "2024-10-12 15:00",
+              "number": 2,
+              "bunnyId": "cbd00633-3ba8-4d9a-ad71-552b185d6aef",
+              "new": false
+            }
+          ]
         }
       ]
     },
@@ -3190,7 +3218,7 @@
       "name": "DayZ",
       "slug": "DayZ",
       "enabled": true,
-      "recentlyUpdated": true,
+      "recentlyUpdated": false,
       "playlists": [
         {
           "title": "DayZ - Standalone",
@@ -4145,7 +4173,7 @@
           "name": "Standalone - Namalsk",
           "slug": "Standalone---Namalsk",
           "enabled": true,
-          "recentlyUpdated": true,
+          "recentlyUpdated": false,
           "videos": [
             {
               "title": "DayZ - Standalone - Namalsk #1",
@@ -4217,7 +4245,7 @@
               "date": "2024-12-09 11:20",
               "number": 8,
               "bunnyId": "49c5f0a3-d921-4ed8-b9bf-b8666125eebb",
-              "new": true
+              "new": false
             },
             {
               "title": "DayZ - Standalone - Namalsk #9",
@@ -4226,7 +4254,7 @@
               "date": "2024-12-10 11:05",
               "number": 9,
               "bunnyId": "5be50b67-5b1e-49ee-afc4-8bf26386ed5a",
-              "new": true
+              "new": false
             },
             {
               "title": "DayZ - Standalone - Namalsk #10",
@@ -4235,7 +4263,7 @@
               "date": "2024-12-11 11:00",
               "number": 10,
               "bunnyId": "db1f9f20-d4ef-4f52-95e3-acba8c26d16c",
-              "new": true
+              "new": false
             }
           ]
         }
@@ -28458,6 +28486,15 @@
               "date": "2024-06-12 10:40",
               "number": 32,
               "bunnyId": "1fb3bf9f-7c91-45a1-87b3-7deddabb4ae5",
+              "new": false
+            },
+            {
+              "title": "VR Walkabout Mini Golf #33",
+              "url": "https://sovietscloset.com/video/15597",
+              "id": 15597,
+              "date": "2024-10-02 10:34",
+              "number": 33,
+              "bunnyId": "66b2c5e4-b320-400b-8a46-211c4f49e06c",
               "new": false
             }
           ]

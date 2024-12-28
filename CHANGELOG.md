@@ -1,5 +1,41 @@
 # Changelog
 
+## 2024-12-28T17:09:26Z
+
+### Modified Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)
+
+#### Added Playlist [Cosmoteer - Multiplayer](https://sovietscloset.com/Cosmoteer/Multiplayer)
+
+##### Videos
+
+- Added `v15599` [Cosmoteer - Multiplayer #1](https://sovietscloset.com/video/15599)
+- Added `v15598` [Cosmoteer - Multiplayer #2](https://sovietscloset.com/video/15598)
+
+### Modified Game [DayZ](https://sovietscloset.com/DayZ)
+
+- Is no longer marked as recently updated.
+
+#### Modified Playlist [DayZ - Standalone - Namalsk](https://sovietscloset.com/DayZ/Standalone---Namalsk)
+
+- Is no longer marked as recently updated.
+
+##### Videos
+
+- Modified `v15589` [DayZ - Standalone - Namalsk #8](https://sovietscloset.com/video/15589)
+  - Is no longer marked as new.
+- Modified `v15588` [DayZ - Standalone - Namalsk #9](https://sovietscloset.com/video/15588)
+  - Is no longer marked as new.
+- Modified `v15590` [DayZ - Standalone - Namalsk #10](https://sovietscloset.com/video/15590)
+  - Is no longer marked as new.
+
+### Modified Game [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+#### Modified Playlist [VR Walkabout Mini Golf](https://sovietscloset.com/VR-Walkabout-Mini-Golf)
+
+##### Videos
+
+- Added `v15597` [VR Walkabout Mini Golf #33](https://sovietscloset.com/video/15597)
+
 ## 2024-12-13T11:22:53Z
 
 ### Modified Game [Baldur's Gate 3](https://sovietscloset.com/Baldur-s-Gate-3)
