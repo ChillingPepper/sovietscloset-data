@@ -1952,6 +1952,27 @@
         ],
         "enabled": true,
         "recentlyUpdated": false
+      },
+      {
+        "id": 9145,
+        "name": "Multiplayer",
+        "slug": "Multiplayer",
+        "streams": [
+          {
+            "id": 15599,
+            "date": "2024-10-11 20:04",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15598,
+            "date": "2024-10-12 15:00",
+            "new": false,
+            "useBunny": true
+          }
+        ],
+        "enabled": true,
+        "recentlyUpdated": false
       }
     ]
   },
@@ -2212,7 +2233,7 @@
     "name": "DayZ",
     "slug": "DayZ",
     "enabled": true,
-    "recentlyUpdated": true,
+    "recentlyUpdated": false,
     "subcategories": [
       {
         "id": 1041,
@@ -2900,24 +2921,24 @@
           {
             "id": 15589,
             "date": "2024-12-09 11:20",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15588,
             "date": "2024-12-10 11:05",
-            "new": true,
+            "new": false,
             "useBunny": true
           },
           {
             "id": 15590,
             "date": "2024-12-11 11:00",
-            "new": true,
+            "new": false,
             "useBunny": true
           }
         ],
         "enabled": true,
-        "recentlyUpdated": true
+        "recentlyUpdated": false
       }
     ]
   },
@@ -19553,6 +19574,12 @@
           {
             "id": 15429,
             "date": "2024-06-12 10:40",
+            "new": false,
+            "useBunny": true
+          },
+          {
+            "id": 15597,
+            "date": "2024-10-02 10:34",
             "new": false,
             "useBunny": true
           }

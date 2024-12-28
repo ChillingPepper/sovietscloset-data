@@ -1,0 +1,26 @@
+{
+  "streamId": 15598,
+  "date": "2024-10-12 15:00",
+  "game": {
+    "name": "Cosmoteer",
+    "slug": "Cosmoteer"
+  },
+  "subcategory": {
+    "name": "Multiplayer",
+    "slug": "Multiplayer",
+    "onlyCategory": false,
+    "playlist": [
+      {
+        "streamId": 15599,
+        "date": "2024-10-11 20:04"
+      },
+      {
+        "streamId": 15598,
+        "date": "2024-10-12 15:00"
+      }
+    ]
+  },
+  "number": 2,
+  "bunnyId": "cbd00633-3ba8-4d9a-ad71-552b185d6aef",
+  "useBunny": true
+}

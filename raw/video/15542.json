@@ -8,7 +8,7 @@
   "subcategory": {
     "name": "Singleplayer",
     "slug": "Singleplayer",
-    "onlyCategory": true,
+    "onlyCategory": false,
     "playlist": [
       {
         "streamId": 15534,
