@@ -1,5 +1,21 @@
 # Changelog
 
+## 2024-12-31T18:54:05Z
+
+### Modified Game [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+#### Modified Playlist [Kerbal Space Program](https://sovietscloset.com/Kerbal-Space-Program)
+
+##### Videos
+
+- Added `v15603` [Kerbal Space Program #118](https://sovietscloset.com/video/15603)
+- Added `v15601` [Kerbal Space Program #119](https://sovietscloset.com/video/15601)
+- Added `v15600` [Kerbal Space Program #120](https://sovietscloset.com/video/15600)
+- Added `v15602` [Kerbal Space Program #121](https://sovietscloset.com/video/15602)
+- Added `v15604` [Kerbal Space Program #122](https://sovietscloset.com/video/15604)
+- Added `v15605` [Kerbal Space Program #123](https://sovietscloset.com/video/15605)
+- Added `v15606` [Kerbal Space Program #124](https://sovietscloset.com/video/15606)
+
 ## 2024-12-28T17:09:26Z
 
 ### Modified Game [Cosmoteer](https://sovietscloset.com/Cosmoteer)
